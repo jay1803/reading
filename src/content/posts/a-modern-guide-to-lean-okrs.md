@@ -19,7 +19,6 @@ source: "https://worldpositive.com/a-modern-guide-to-lean-okrs-part-i-c4a30dba5f
    2. Maximum Adaptability
    3. Continuous Improvement
 #### Step One: Define
-    #+DOWN`LOADED: file:/Users/max/Downloads/1_p1dS-QUOqNono57sSTB4fw.png @ 2021-11-02 09:53:21
     
 
 #### Step Two: Screening (Positive & Negative)

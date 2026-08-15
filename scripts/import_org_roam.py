@@ -19,7 +19,8 @@ FILETAGS_RE = re.compile(r'^#\+filetags:\s*(.+)$', re.IGNORECASE)
 ROAM_REFS_RE = re.compile(r'^:ROAM_REFS:\s*(.+)$', re.IGNORECASE)
 DRAWER_RE = re.compile(r'^[ \t]*:[A-Za-z_]+:\n(?:.*\n)*?[ \t]*:END:\n?', re.MULTILINE | re.IGNORECASE)
 ATTACHMENT_LINK_RE = re.compile(r'\[\[attachment:[^\]]*\](?:\[[^\]]*\])?\]')
-ORG_KEYWORD_LINE_RE = re.compile(r'^[ \t]*#\+[A-Za-z_]+:.*\n?', re.MULTILINE)
+ORG_KEYWORD_LINE_RE = re.compile(r'^[ \t]*#\+[A-Za-z_`]*:.*\n?', re.MULTILINE)
+LOCAL_PATH_LINE_RE = re.compile(r'^[ \t]*.*(?:/Users/[a-zA-Z0-9_.-]+|/Volumes/[A-Za-z0-9_. -]+).*\n?', re.MULTILINE)
 HEADLINE_TODO_RE = re.compile(r'^(TODO|DONE|NEXT|WAITING|CANCELLED|SOMEDAY)\s+')
 CITATION_RE = re.compile(r'\s*<citation[^>]*>[^<]*</citation>')
 COMMENT_BLOCK_RE = re.compile(r'^[ \t]*#\+begin_comment\n(?:.*\n)*?[ \t]*#\+end_comment\n?', re.MULTILINE | re.IGNORECASE)
@@ -115,6 +116,8 @@ def parse_file(path: Path):
     body = ATTACHMENT_LINK_RE.sub('', body)
     # stray org buffer keywords (#+ATTR_ORG:, #+DOWNLOADED:, ...) - not content
     body = ORG_KEYWORD_LINE_RE.sub('', body)
+    # safety net: drop any remaining line referencing a local filesystem path
+    body = LOCAL_PATH_LINE_RE.sub('', body)
     # Strip citation markers e.g. <citation>9</citation> or <citation type="image">...</citation>
     body = CITATION_RE.sub('', body)
     # org links -> markdown / plain text
