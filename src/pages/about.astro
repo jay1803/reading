@@ -2,7 +2,25 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="About">
-  <h1>About</h1>
-  <p>A minimal blog built with Astro and GitHub Pages.</p>
+<BaseLayout title="About — Reading">
+  <article class="about">
+    <h1>About</h1>
+    <div class="prose">
+      <p>This is a running log of what I've read — articles, essays, and threads from around the
+      web, summarized in full rather than bookmarked and forgotten.</p>
+      <p>Every entry links back to its source. Nothing here is original reporting; it's notes on
+      other people's work.</p>
+    </div>
+  </article>
 </BaseLayout>
+
+<style>
+  .about {
+    max-width: var(--measure);
+    padding: 1.5rem 0 4rem;
+  }
+  .about h1 {
+    font-size: 1.9rem;
+    margin: 0 0 1.5rem;
+  }
+</style>

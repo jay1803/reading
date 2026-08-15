@@ -3,9 +3,10 @@ import { base } from '../lib/base';
 
 interface Props {
   title: string;
+  description?: string;
 }
 
-const { title } = Astro.props;
+const { title, description } = Astro.props;
 ---
 
 <!doctype html>
@@ -14,65 +15,194 @@ const { title } = Astro.props;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <header>
-      <nav>
-        <a href={`${base}/`}>Home</a>
+    <header class="masthead">
+      <a class="wordmark" href={`${base}/`}>Reading</a>
+      <nav class="masthead-nav">
+        <a href={`${base}/`}>Log</a>
         <a href={`${base}/about`}>About</a>
       </nav>
     </header>
     <main>
       <slot />
     </main>
+    <footer class="colophon">
+      <p>A running log of what I've read. Every entry links back to its source.</p>
+    </footer>
   </body>
 </html>
 
 <style is:global>
+  :root {
+    --paper: #e9e4d3;
+    --paper-raised: #f2eee0;
+    --line: #cabf9d;
+    --line-soft: #dcd3b8;
+    --ink: #26241d;
+    --ink-soft: #6b6350;
+    --ink-faint: #948c74;
+    --ledger: #2f5240;
+    --ledger-strong: #234034;
+    --stamp: #9c3b2e;
+
+    --font-display: 'Newsreader', 'Songti SC', serif;
+    --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+    --font-body: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB',
+      'Noto Sans SC', 'Microsoft YaHei', 'Segoe UI', Roboto, sans-serif;
+
+    --measure: 34rem;
+    --rail: 5.5rem;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
   html {
     color-scheme: light;
   }
+
   body {
-    max-width: 640px;
-    margin: 0 auto;
-    padding: 2rem 1rem;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    line-height: 1.6;
-    background: #fff;
-    color: #222;
+    margin: 0;
+    background: var(--paper);
+    background-image: radial-gradient(circle at 1px 1px, rgba(38, 36, 29, 0.06) 1px, transparent 0);
+    background-size: 22px 22px;
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
   }
-  h1, h2, h3 {
-    color: #111;
-  }
-  header nav {
-    display: flex;
-    gap: 1rem;
-    margin-bottom: 2rem;
-    font-size: 0.9rem;
-  }
+
   a {
-    color: #0645ad;
+    color: var(--ledger-strong);
+    text-decoration-color: var(--line);
+    text-underline-offset: 3px;
   }
-  .post-list {
-    list-style: none;
+  a:hover {
+    color: var(--stamp);
+  }
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid var(--stamp);
+    outline-offset: 2px;
+  }
+
+  .masthead {
+    max-width: 52rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 1.5rem;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .wordmark {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-weight: 500;
+    font-size: 1.75rem;
+    color: var(--ink);
+    text-decoration: none;
+    letter-spacing: 0.01em;
+  }
+  .masthead-nav {
+    display: flex;
+    gap: 1.5rem;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .masthead-nav a {
+    color: var(--ink-soft);
+    text-decoration: none;
+  }
+  .masthead-nav a:hover {
+    color: var(--stamp);
+  }
+
+  main {
+    max-width: 52rem;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+
+  .prose {
+    color: var(--ink);
+  }
+  .prose p {
+    margin: 0 0 1.1em;
+  }
+  .prose h1,
+  .prose h2,
+  .prose h3 {
+    font-size: 0.78rem;
+    font-family: var(--font-mono);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ledger-strong);
+    margin: 1.6em 0 0.7em;
+  }
+  .prose ul,
+  .prose ol {
+    margin: 0 0 1.1em;
+    padding-left: 1.3em;
+  }
+  .prose li {
+    margin-bottom: 0.4em;
+  }
+  .prose blockquote {
+    margin: 1.2em 0;
+    padding: 0.2em 0 0.2em 1em;
+    border-left: 2px solid var(--stamp);
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+  .prose code {
+    font-family: var(--font-mono);
+    font-size: 0.85em;
+    background: var(--paper-raised);
+    padding: 0.1em 0.35em;
+    border-radius: 3px;
+  }
+  .prose pre {
+    background: var(--paper-raised);
+    padding: 1em;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  .prose pre code {
+    background: none;
     padding: 0;
   }
-  .post-list li {
-    margin-bottom: 1.25rem;
+  .prose strong {
+    font-weight: 700;
   }
-  .post-list time {
-    color: #666;
+  .prose a {
+    color: var(--ledger-strong);
+  }
+
+  .colophon {
+    max-width: 52rem;
+    margin: 3rem auto 0;
+    padding: 1.5rem 1.5rem 3rem;
+    border-top: 1px solid var(--line-soft);
+    color: var(--ink-faint);
     font-size: 0.85rem;
-    display: block;
   }
-  .category-tag {
-    display: inline-block;
-    font-size: 0.75rem;
-    background: #f0f0f0;
-    border-radius: 4px;
-    padding: 0.1rem 0.5rem;
-    margin-top: 0.25rem;
-    color: #444;
-    text-decoration: none;
+
+  ::selection {
+    background: var(--stamp);
+    color: var(--paper-raised);
   }
 </style>

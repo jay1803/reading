@@ -1,8 +1,7 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import PostList from '../../../components/PostList.astro';
-import Pagination from '../../../components/Pagination.astro';
+import InfiniteFeed from '../../../components/InfiniteFeed.astro';
 
 export async function getStaticPaths({ paginate }) {
   const posts = await getCollection('posts');
@@ -12,17 +11,48 @@ export async function getStaticPaths({ paginate }) {
       posts
         .filter((post) => post.data.category === category)
         .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
-      { params: { category }, pageSize: 30 }
+      { params: { category }, pageSize: 12 }
     )
   );
 }
 
 const { category } = Astro.params;
 const { page } = Astro.props;
+const entries = await Promise.all(
+  page.data.map(async (post) => ({ post, Content: (await render(post)).Content }))
+);
 ---
 
-<BaseLayout title={`Category: ${category}`}>
-  <h1>Category: {category}</h1>
-  <PostList posts={page.data} />
-  <Pagination page={page} />
+<BaseLayout title={`${category} — Reading`}>
+  {
+    page.currentPage === 1 && (
+      <div class="intro">
+        <p class="intro-count">
+          {page.total.toLocaleString()} entries in &ldquo;{category}&rdquo;
+        </p>
+      </div>
+    )
+  }
+  <InfiniteFeed entries={entries} nextUrl={page.url.next} />
 </BaseLayout>
+
+<style>
+  .intro {
+    padding: 0.5rem 0 2rem calc(var(--rail) + 1.5rem);
+    border-bottom: 1px solid var(--line-soft);
+    margin-bottom: 0.5rem;
+  }
+  .intro-count {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ledger-strong);
+    margin: 0;
+  }
+  @media (max-width: 640px) {
+    .intro {
+      padding-left: 0;
+    }
+  }
+</style>

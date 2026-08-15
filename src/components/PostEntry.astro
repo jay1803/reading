@@ -1,0 +1,167 @@
+---
+import { base } from '../lib/base';
+
+interface Props {
+  post: {
+    id: string;
+    data: { title: string; date: Date; category: string; source?: string };
+  };
+  Content: any;
+}
+const { post, Content } = Astro.props;
+const d = post.data.date;
+const month = d.toLocaleDateString('en-US', { month: 'short' }).toUpperCase();
+const day = d.toLocaleDateString('en-US', { day: '2-digit' });
+const year = d.getUTCFullYear();
+---
+
+<article class="entry" id={post.id}>
+  <div class="entry-rail">
+    <time class="rail-date" datetime={d.toISOString()}>
+      <span class="rail-month">{month}</span>
+      <span class="rail-day">{day}</span>
+      <span class="rail-year">{year}</span>
+    </time>
+  </div>
+  <div class="entry-body">
+    <header class="entry-head">
+      <h2><a href={`${base}/${post.id}/`}>{post.data.title}</a></h2>
+      <a class="stamp-tag" href={`${base}/category/${post.data.category}/`}>{post.data.category}</a>
+    </header>
+    <div class="prose">
+      <Content />
+    </div>
+    {
+      post.data.source && (
+        <footer class="entry-foot">
+          <a href={post.data.source} target="_blank" rel="noopener noreferrer">
+            Original source ↗
+          </a>
+        </footer>
+      )
+    }
+  </div>
+</article>
+
+<style>
+  .entry {
+    display: flex;
+    gap: 1.5rem;
+    padding: 2.75rem 0;
+    border-bottom: 1px solid var(--line-soft);
+  }
+  .entry:first-child {
+    padding-top: 0.5rem;
+  }
+
+  .entry-rail {
+    flex: 0 0 var(--rail);
+    position: relative;
+  }
+  .rail-date {
+    position: sticky;
+    top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    font-family: var(--font-mono);
+    line-height: 1.25;
+  }
+  .rail-month {
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+  }
+  .rail-day {
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: var(--ink);
+  }
+  .rail-year {
+    font-size: 0.75rem;
+    color: var(--ink-faint);
+  }
+
+  .entry-body {
+    flex: 1;
+    min-width: 0;
+    max-width: var(--measure);
+  }
+  .entry-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  .entry-head h2 {
+    margin: 0;
+    font-size: 1.375rem;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+  .entry-head h2 a {
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .entry-head h2 a:hover {
+    color: var(--stamp);
+  }
+
+  .stamp-tag {
+    flex: 0 0 auto;
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--stamp);
+    border: 1px solid var(--stamp);
+    border-radius: 2px;
+    padding: 0.15rem 0.45rem;
+    text-decoration: none;
+    transform: rotate(-1.5deg);
+    display: inline-block;
+    transition: transform 0.15s ease;
+  }
+  .stamp-tag:hover {
+    color: var(--stamp);
+    transform: rotate(-1.5deg) scale(1.06);
+  }
+
+  .entry-foot {
+    margin-top: 1.25rem;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+  }
+  .entry-foot a {
+    color: var(--ink-soft);
+    text-decoration-color: var(--line);
+  }
+  .entry-foot a:hover {
+    color: var(--stamp);
+  }
+
+  @media (max-width: 640px) {
+    .entry {
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+    .entry-rail {
+      flex-basis: auto;
+    }
+    .rail-date {
+      position: static;
+      flex-direction: row;
+      align-items: baseline;
+      gap: 0.4em;
+      font-size: 0.8rem;
+    }
+    .rail-day,
+    .rail-month,
+    .rail-year {
+      font-size: 0.8rem;
+    }
+    .rail-day {
+      font-weight: 600;
+    }
+  }
+</style>

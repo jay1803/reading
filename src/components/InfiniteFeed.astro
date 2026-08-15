@@ -1,0 +1,123 @@
+---
+import PostEntry from './PostEntry.astro';
+
+interface Props {
+  entries: { post: any; Content: any }[];
+  nextUrl?: string | null;
+}
+const { entries, nextUrl } = Astro.props;
+---
+
+<div class="feed" data-feed data-next-url={nextUrl ?? ''}>
+  {entries.map(({ post, Content }) => <PostEntry post={post} Content={Content} />)}
+  <div class="feed-sentinel" data-sentinel></div>
+  {
+    nextUrl && (
+      <a class="feed-more" data-more-link href={nextUrl}>
+        Older entries →
+      </a>
+    )
+  }
+</div>
+
+<style>
+  .feed {
+    position: relative;
+  }
+  .feed::before {
+    content: '';
+    position: absolute;
+    left: calc(var(--rail) / 2 - 0.5px);
+    top: 1rem;
+    bottom: 0;
+    width: 1px;
+    background: var(--line);
+  }
+  .feed-sentinel {
+    height: 1px;
+  }
+  .feed-more {
+    display: inline-block;
+    margin: 0.5rem 0 3rem calc(var(--rail) + 1.5rem);
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    text-decoration: none;
+    border-bottom: 1px solid var(--line);
+  }
+  .feed-more:hover {
+    color: var(--stamp);
+    border-color: var(--stamp);
+  }
+
+  @media (max-width: 640px) {
+    .feed::before {
+      display: none;
+    }
+    .feed-more {
+      margin-left: 0;
+    }
+  }
+</style>
+
+<script>
+  function initFeed(feed: HTMLElement) {
+    const sentinel = feed.querySelector<HTMLElement>('[data-sentinel]');
+    const moreLink = feed.querySelector<HTMLAnchorElement>('[data-more-link]');
+    if (!sentinel) return;
+
+    let nextUrl = feed.dataset.nextUrl || '';
+    let loading = false;
+
+    async function loadNext() {
+      if (loading || !nextUrl || !sentinel) return;
+      loading = true;
+      try {
+        const res = await fetch(nextUrl);
+        if (!res.ok) throw new Error(`fetch failed: ${res.status}`);
+        const html = await res.text();
+        const doc = new DOMParser().parseFromString(html, 'text/html');
+        const nextFeed = doc.querySelector<HTMLElement>('[data-feed]');
+        if (!nextFeed) throw new Error('no feed in response');
+
+        nextFeed.querySelectorAll(':scope > .entry').forEach((el) => {
+          sentinel && feed.insertBefore(el, sentinel);
+        });
+
+        nextUrl = nextFeed.dataset.nextUrl || '';
+        feed.dataset.nextUrl = nextUrl;
+
+        if (moreLink) {
+          if (nextUrl) {
+            moreLink.href = nextUrl;
+          } else {
+            moreLink.remove();
+          }
+        }
+        if (!nextUrl) {
+          observer.disconnect();
+          sentinel.remove();
+        }
+      } catch {
+        // leave the manual "Older entries" link as a fallback
+      } finally {
+        loading = false;
+      }
+    }
+
+    const observer = new IntersectionObserver(
+      (observed) => {
+        if (observed.some((e) => e.isIntersecting)) loadNext();
+      },
+      { rootMargin: '1000px 0px' }
+    );
+    observer.observe(sentinel);
+
+    moreLink?.addEventListener('click', (e) => {
+      e.preventDefault();
+      loadNext();
+    });
+  }
+
+  document.querySelectorAll<HTMLElement>('[data-feed]').forEach(initFeed);
+</script>

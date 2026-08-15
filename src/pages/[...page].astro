@@ -1,21 +1,64 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PostList from '../components/PostList.astro';
-import Pagination from '../components/Pagination.astro';
+import InfiniteFeed from '../components/InfiniteFeed.astro';
 
 export async function getStaticPaths({ paginate }) {
   const posts = (await getCollection('posts')).sort(
     (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
   );
-  return paginate(posts, { pageSize: 30 });
+  return paginate(posts, { pageSize: 12 });
 }
 
 const { page } = Astro.props;
+const entries = await Promise.all(
+  page.data.map(async (post) => ({ post, Content: (await render(post)).Content }))
+);
+
+const allPosts = await getCollection('posts');
+const total = allPosts.length;
+const earliestYear = Math.min(...allPosts.map((p) => p.data.date.getUTCFullYear()));
 ---
 
-<BaseLayout title="Reading">
-  <h1>Reading</h1>
-  <PostList posts={page.data} />
-  <Pagination page={page} />
+<BaseLayout title="Reading" description="A running log of articles read, in full.">
+  {
+    page.currentPage === 1 && (
+      <div class="intro">
+        <p class="intro-count">
+          {total.toLocaleString()} entries logged since {earliestYear}
+        </p>
+        <p class="intro-line">
+          Notes on what I've read — summarized in full, newest first. Each entry links back to
+          its source.
+        </p>
+      </div>
+    )
+  }
+  <InfiniteFeed entries={entries} nextUrl={page.url.next} />
 </BaseLayout>
+
+<style>
+  .intro {
+    padding: 0.5rem 0 2rem calc(var(--rail) + 1.5rem);
+    border-bottom: 1px solid var(--line-soft);
+    margin-bottom: 0.5rem;
+  }
+  .intro-count {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ledger-strong);
+    margin: 0 0 0.5rem;
+  }
+  .intro-line {
+    margin: 0;
+    max-width: var(--measure);
+    color: var(--ink-soft);
+  }
+  @media (max-width: 640px) {
+    .intro {
+      padding-left: 0;
+    }
+  }
+</style>
