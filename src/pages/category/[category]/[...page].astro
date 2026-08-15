@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostList from '../../../components/PostList.astro';
+import Pagination from '../../../components/Pagination.astro';
+
+export async function getStaticPaths({ paginate }) {
+  const posts = await getCollection('posts');
+  const categories = [...new Set(posts.map((post) => post.data.category))];
+  return categories.flatMap((category) =>
+    paginate(
+      posts
+        .filter((post) => post.data.category === category)
+        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+      { params: { category }, pageSize: 30 }
+    )
+  );
+}
+
+const { category } = Astro.params;
+const { page } = Astro.props;
+---
+
+<BaseLayout title={`Category: ${category}`}>
+  <h1>Category: {category}</h1>
+  <PostList posts={page.data} />
+  <Pagination page={page} />
+</BaseLayout>

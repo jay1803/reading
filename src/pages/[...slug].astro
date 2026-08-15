@@ -23,6 +23,9 @@ const { Content } = await render(post);
     <a class="category-tag" href={`${import.meta.env.BASE_URL}/category/${post.data.category}/`}>
       {post.data.category}
     </a>
+    {post.data.source && (
+      <p><a href={post.data.source} target="_blank" rel="noopener noreferrer">Original source ↗</a></p>
+    )}
     <Content />
   </article>
 </BaseLayout>
