@@ -2,7 +2,7 @@
 title: "Should We Call Them \"Hedge Funds?\""
 date: 2026-08-16T12:57:00Z
 category: reading
-description: "对冲基金行业的演化弧线：从承诺"涨得比市场多、几乎不跌"出发，经历抛弃真实对冲、LP追问归因、因子定价重建的完整循环。"
+description: "对冲基金行业的演化弧线：从承诺“涨得比市场多、几乎不跌”出发，经历抛弃真实对冲、LP追问归因、因子定价重建的完整循环。"
 source: "https://capitalgains.thediff.co/p/evolution-of-hedge-funds"
 ---
 
