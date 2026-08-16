@@ -6,4 +6,7 @@ export default defineConfig({
   markdown: {
     rehypePlugins: [rehypePangu],
   },
+  build: {
+    inlineStylesheets: 'always',
+  },
 });
