@@ -17,6 +17,7 @@ const { title, description } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{panguSpace(title)}</title>
     {description && <meta name="description" content={panguSpace(description)} />}
+    <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
     <script is:inline>
       (function () {
         try {
@@ -115,7 +116,7 @@ const { title, description } = Astro.props;
     --line-soft: #ecE7db;
     --ink: #1e1c19;
     --ink-soft: #5d574d;
-    --ink-faint: #8b857a;
+    --ink-faint: #6f695d;
     --accent: #2f5d50;
     --accent-soft: #c9d8d0;
     --selection: #d8e2dc;
@@ -136,7 +137,7 @@ const { title, description } = Astro.props;
       --line-soft: #2a2b27;
       --ink: #e8e4d9;
       --ink-soft: #a9a493;
-      --ink-faint: #7c7869;
+      --ink-faint: #948c7c;
       --accent: #6fae94;
       --accent-soft: #2c4139;
       --selection: #2c4139;
@@ -149,7 +150,7 @@ const { title, description } = Astro.props;
     --line-soft: #2a2b27;
     --ink: #e8e4d9;
     --ink-soft: #a9a493;
-    --ink-faint: #7c7869;
+    --ink-faint: #8d8676;
     --accent: #6fae94;
     --accent-soft: #2c4139;
     --selection: #2c4139;
@@ -411,7 +412,9 @@ const { title, description } = Astro.props;
   }
   .colophon a {
     color: var(--ink-soft);
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
   }
   .colophon a:hover {
     color: var(--ink);
