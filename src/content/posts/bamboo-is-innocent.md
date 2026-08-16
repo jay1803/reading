@@ -2,7 +2,7 @@
 title: "Bamboo Is Innocent"
 date: 2026-08-15T05:47:00Z
 category: reading
-description: "香港大埔火灾调查证实助燃的是塑料网和泡沫板而非竹棚，但政府仍推进竹棚淘汰计划；"竹子无罪"由此成为国安法下唯一安全的政治表达方式。"
+description: "香港大埔火灾调查证实助燃的是塑料网和泡沫板而非竹棚，但政府仍推进竹棚淘汰计划；“竹子无罪”由此成为国安法下唯一安全的政治表达方式。"
 source: "https://99percentinvisible.org/episode/678-bamboo-is-innocent/"
 ---
 

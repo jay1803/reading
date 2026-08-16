@@ -24,10 +24,16 @@ PROMPT="Read queue.md at the repo root. Take the FIRST line matching '- [ ] <url
    be the current UTC time in the same ISO 8601 format other posts use.
    category should be a single reasonable lowercase word inferred from the
    content (fall back to \"reading\" if nothing fits). source must be the
-   exact URL processed.
+   exact URL processed. IMPORTANT: every frontmatter value is a
+   double-quoted YAML string — if title or description need to quote a
+   phrase, use curly quotes (“ ”) instead of straight \" characters,
+   since a literal \" inside the value breaks YAML parsing and fails the
+   build.
 3. Remove that one line from queue.md. Leave every other line untouched.
-4. Run \`npm run build\` to confirm the site still builds. If it fails, fix
-   the problem before continuing.
+4. Run \`npm run build\` to confirm the site still builds — this is not
+   optional, it's the only check that catches broken frontmatter. If it
+   fails, find and fix the actual problem (do not skip this step or commit
+   with a failing build).
 5. git add the new post and the updated queue.md, then:
    git commit --no-gpg-sign -m \"<a short commit message describing the new post>\"
    git push origin main

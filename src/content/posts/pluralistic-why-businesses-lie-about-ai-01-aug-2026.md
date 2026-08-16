@@ -2,7 +2,7 @@
 title: "Pluralistic: Why businesses lie about AI (01 Aug 2026)"
 date: 2026-08-14T15:47:00Z
 category: reading
-description: "顾问 Nikhil Suresh 调研数百名高管后记录：企业 AI 项目成功率为 0%，但公司全在宣布"AI 改变一切"——这是囚徒困境，谁先说实话谁先出局。"
+description: "顾问 Nikhil Suresh 调研数百名高管后记录：企业 AI 项目成功率为 0%，但公司全在宣布“AI 改变一切”——这是囚徒困境，谁先说实话谁先出局。"
 source: "https://pluralistic.net/2026/08/01/dare-snot/"
 ---
 

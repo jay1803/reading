@@ -2,7 +2,7 @@
 title: "A recent media report claims that tight DRAM supply has left TSMC holding around US$1 billion worth of Apple 2nm processor work-in-process"
 date: 2026-08-15T09:47:00Z
 category: reading
-description: "郭明錤确认苹果因内存短缺削减硬件出货，但媒体推导的"台积电预建 10 亿美元在制品等待内存"与苹果-台积电实际协作模式不符，台积电库存增加有三个更合理的替代解释。"
+description: "郭明錤确认苹果因内存短缺削减硬件出货，但媒体推导的“台积电预建 10 亿美元在制品等待内存”与苹果-台积电实际协作模式不符，台积电库存增加有三个更合理的替代解释。"
 source: "https://medium.com/@mingchikuo/a-recent-media-report-claims-that-tight-dram-supply-has-left-tsmc-holding-around-us-1-billion-worth-214890fd8ef9"
 ---
 
