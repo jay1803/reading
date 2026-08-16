@@ -23,7 +23,7 @@ const allPosts = await getCollection('posts');
 const earliestYear = Math.min(...allPosts.map((p) => p.data.date.getUTCFullYear()));
 ---
 
-<BaseLayout title="Reading" description="Everything I've read, in full, in order.">
+<BaseLayout title="Max Daily Reading" description="Everything I've read, in full, in order.">
   {
     page.currentPage === 1 && (
       <div class="hero">

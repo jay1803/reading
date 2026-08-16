@@ -25,7 +25,7 @@ const domains = [...counts.entries()].sort((a, b) => b[1] - a[1]);
 const maxCount = domains.length ? domains[0][1] : 0;
 ---
 
-<BaseLayout title="Stats — Reading" description="How many entries came from which domain.">
+<BaseLayout title="Stats — Max Daily Reading" description="How many entries came from which domain.">
   <div class="hero">
     <p class="hero-eyebrow">
       {posts.length.toLocaleString()} entries &nbsp;&middot;&nbsp; {domains.length.toLocaleString()} domains

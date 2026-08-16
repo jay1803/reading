@@ -41,8 +41,7 @@ const { title, description } = Astro.props;
     <header class="masthead">
       <div class="masthead-inner">
         <div class="masthead-title-group">
-          <a class="wordmark" href={`${base}/`}>Reading</a>
-          <span class="masthead-tagline">A running log of what I've read</span>
+          <a class="wordmark" href={`${base}/`}>Max Daily Reading</a>
         </div>
         <nav class="masthead-nav">
           <a href={`${base}/`}>Archive</a>
@@ -70,7 +69,7 @@ const { title, description } = Astro.props;
     </main>
     <footer class="colophon">
       <div class="colophon-inner">
-        <span>Reading &nbsp;&middot;&nbsp; every entry links back to its source</span>
+        <span>Max Daily Reading &nbsp;&middot;&nbsp; every entry links back to its source</span>
         <span>
           Designed by Claude + <a href="https://maxoxo.me" target="_blank" rel="noopener noreferrer">Max</a>
         </span>
@@ -247,14 +246,6 @@ const { title, description } = Astro.props;
     color: var(--ink);
     text-decoration: none;
   }
-  .masthead-tagline {
-    font-family: var(--font-mono);
-    font-size: 0.68rem;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--ink-faint);
-    white-space: nowrap;
-  }
   .masthead-nav {
     display: flex;
     align-items: center;
@@ -315,9 +306,6 @@ const { title, description } = Astro.props;
   @media (max-width: 640px) {
     .masthead-inner {
       padding: 0.85rem 1.25rem;
-    }
-    .masthead-tagline {
-      display: none;
     }
   }
 
