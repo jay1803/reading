@@ -1,6 +1,6 @@
 ---
 title: "Donkey.bas is 45 Years Old – 131 line of Glory"
-date: 2026-08-16T10:59:00Z
+date: 2026-08-16T04:46:00Z
 category: reading
 description: "DONKEY.BAS 是 1981 年 Bill Gates 与 Neil Konzen 为 IBM PC 写的 131 行 GW-BASIC 演示游戏，是个人电脑工业化起点的现场证物——微软联合创始人亲自下场写游戏 demo，说明当时软件生态几乎是空白。"
 source: "https://donkeybas.com/"
