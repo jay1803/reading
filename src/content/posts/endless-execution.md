@@ -2,7 +2,7 @@
 title: "Endless execution"
 date: 2026-08-16T10:57:00Z
 category: reading
-description: "AI agent 时代的核心意义是"无限执行"——每个念头都能立刻落地，对于天然多想法的人，这是历史级的解放。"
+description: "AI agent 时代的核心意义是“无限执行”——每个念头都能立刻落地，对于天然多想法的人，这是历史级的解放。"
 source: "https://world.hey.com/dhh/endless-execution-4157e065"
 ---
 
