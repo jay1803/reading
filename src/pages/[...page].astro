@@ -12,53 +12,70 @@ export async function getStaticPaths({ paginate }) {
 
 const { page } = Astro.props;
 const entries = await Promise.all(
-  page.data.map(async (post) => ({ post, Content: (await render(post)).Content }))
+  page.data.map(async (post, i) => ({
+    post,
+    Content: (await render(post)).Content,
+    num: page.total - (page.start + i),
+  }))
 );
 
 const allPosts = await getCollection('posts');
-const total = allPosts.length;
 const earliestYear = Math.min(...allPosts.map((p) => p.data.date.getUTCFullYear()));
 ---
 
-<BaseLayout title="Reading" description="A running log of articles read, in full.">
+<BaseLayout title="Reading" description="Everything I've read, in full, in order.">
   {
     page.currentPage === 1 && (
-      <div class="intro">
-        <p class="intro-count">
-          {total.toLocaleString()} entries logged since {earliestYear}
+      <div class="hero">
+        <p class="hero-eyebrow">
+          {page.total.toLocaleString()} entries &nbsp;&middot;&nbsp; since {earliestYear}
         </p>
-        <p class="intro-line">
-          Notes on what I've read — summarized in full, newest first. Each entry links back to
-          its source.
+        <h1 class="hero-title">Everything, in full, in order.</h1>
+        <p class="hero-dek">
+          No summaries and no click-throughs. Each entry is printed here whole, newest first, and
+          the next one arrives as you reach the bottom.
         </p>
       </div>
     )
   }
-  <InfiniteFeed entries={entries} nextUrl={page.url.next} />
+  <InfiniteFeed entries={entries} nextUrl={page.url.next} total={page.total} />
 </BaseLayout>
 
 <style>
-  .intro {
-    padding: 0.5rem 0 2rem calc(var(--rail) + 1.5rem);
-    border-bottom: 1px solid var(--line-soft);
-    margin-bottom: 0.5rem;
-  }
-  .intro-count {
-    font-family: var(--font-mono);
-    font-size: 0.8rem;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    color: var(--ledger-strong);
-    margin: 0 0 0.5rem;
-  }
-  .intro-line {
-    margin: 0;
+  .hero {
     max-width: var(--measure);
+    padding: 4.5rem 0 0.5rem;
+  }
+  .hero-eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 1.5rem;
+  }
+  .hero-title {
+    font-size: clamp(2.25rem, 1.8rem + 2vw, 3.25rem);
+    line-height: 1.08;
+    font-weight: 400;
+    letter-spacing: -0.025em;
+    margin: 0 0 1.25rem;
+    text-wrap: balance;
+  }
+  .hero-dek {
+    font-size: 1.2rem;
+    line-height: 1.6;
     color: var(--ink-soft);
+    margin: 0 0 4rem;
+    max-width: 50ch;
+    text-wrap: pretty;
   }
   @media (max-width: 640px) {
-    .intro {
-      padding-left: 0;
+    .hero {
+      padding-top: 3rem;
+    }
+    .hero-dek {
+      margin-bottom: 3rem;
     }
   }
 </style>

@@ -19,40 +19,52 @@ export async function getStaticPaths({ paginate }) {
 const { category } = Astro.params;
 const { page } = Astro.props;
 const entries = await Promise.all(
-  page.data.map(async (post) => ({ post, Content: (await render(post)).Content }))
+  page.data.map(async (post, i) => ({
+    post,
+    Content: (await render(post)).Content,
+    num: page.total - (page.start + i),
+  }))
 );
 ---
 
 <BaseLayout title={`${category} — Reading`}>
   {
     page.currentPage === 1 && (
-      <div class="intro">
-        <p class="intro-count">
-          {page.total.toLocaleString()} entries in &ldquo;{category}&rdquo;
+      <div class="hero">
+        <p class="hero-eyebrow">
+          {page.total.toLocaleString()} entries tagged &ldquo;{category}&rdquo;
         </p>
+        <h1 class="hero-title">{category}</h1>
       </div>
     )
   }
-  <InfiniteFeed entries={entries} nextUrl={page.url.next} />
+  <InfiniteFeed entries={entries} nextUrl={page.url.next} total={page.total} />
 </BaseLayout>
 
 <style>
-  .intro {
-    padding: 0.5rem 0 2rem calc(var(--rail) + 1.5rem);
-    border-bottom: 1px solid var(--line-soft);
-    margin-bottom: 0.5rem;
+  .hero {
+    max-width: var(--measure);
+    padding: 4.5rem 0 3.5rem;
   }
-  .intro-count {
+  .hero-eyebrow {
     font-family: var(--font-mono);
-    font-size: 0.8rem;
-    letter-spacing: 0.05em;
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: var(--ledger-strong);
+    color: var(--ink-faint);
+    margin: 0 0 1rem;
+  }
+  .hero-title {
+    font-size: clamp(2rem, 1.6rem + 1.6vw, 2.75rem);
+    line-height: 1.1;
+    font-weight: 400;
+    letter-spacing: -0.02em;
     margin: 0;
+    text-transform: capitalize;
   }
   @media (max-width: 640px) {
-    .intro {
-      padding-left: 0;
+    .hero {
+      padding-top: 3rem;
     }
   }
 </style>

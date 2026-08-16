@@ -4,12 +4,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <BaseLayout title="About — Reading">
   <article class="about">
-    <h1>About</h1>
+    <p class="about-eyebrow">About</p>
+    <h1>Notes on what I've read</h1>
     <div class="prose">
-      <p>This is a running log of what I've read — articles, essays, and threads from around the
-      web, summarized in full rather than bookmarked and forgotten.</p>
-      <p>Every entry links back to its source. Nothing here is original reporting; it's notes on
-      other people's work.</p>
+      <p>This is a running log of articles, essays, and threads from around the web —
+      summarized in full rather than bookmarked and forgotten.</p>
+      <p>Every entry links back to its source. Nothing here is original reporting; it's notes
+      on other people's work.</p>
     </div>
   </article>
 </BaseLayout>
@@ -17,10 +18,21 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 <style>
   .about {
     max-width: var(--measure);
-    padding: 1.5rem 0 4rem;
+    padding: 4rem 0 6rem;
+  }
+  .about-eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 1rem;
   }
   .about h1 {
-    font-size: 1.9rem;
-    margin: 0 0 1.5rem;
+    font-size: clamp(2rem, 1.6rem + 1.6vw, 2.75rem);
+    line-height: 1.1;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    margin: 0 0 2rem;
   }
 </style>
