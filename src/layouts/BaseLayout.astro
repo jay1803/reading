@@ -1,5 +1,6 @@
 ---
 import { base } from '../lib/base';
+import { panguSpace } from '../lib/rehype-pangu.mjs';
 
 interface Props {
   title: string;
@@ -14,8 +15,19 @@ const { title, description } = Astro.props;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title}</title>
-    {description && <meta name="description" content={description} />}
+    <title>{panguSpace(title)}</title>
+    {description && <meta name="description" content={panguSpace(description)} />}
+    <script is:inline>
+      (function () {
+        try {
+          var saved = localStorage.getItem('theme');
+          if (saved === 'light' || saved === 'dark') {
+            document.documentElement.dataset.theme = saved;
+            document.documentElement.style.colorScheme = saved;
+          }
+        } catch (e) {}
+      })();
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -36,6 +48,20 @@ const { title, description } = Astro.props;
           <a href={`${base}/`}>Archive</a>
           <a href={`${base}/stats`}>Stats</a>
           <a href={`${base}/about`}>About</a>
+          <button
+            type="button"
+            class="theme-toggle"
+            id="theme-toggle"
+            aria-label="Switch between light and dark theme"
+          >
+            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+              <circle cx="12" cy="12" r="4.2" />
+              <path d="M12 2.5v2.6M12 18.9v2.6M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M2.5 12h2.6M18.9 12h2.6M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8" stroke-linecap="round" />
+            </svg>
+            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+              <path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a6.8 6.8 0 0 0 10.5 10.5Z" stroke-linejoin="round" />
+            </svg>
+          </button>
         </nav>
       </div>
     </header>
@@ -62,6 +88,20 @@ const { title, description } = Astro.props;
         window.addEventListener('scroll', onScroll, { passive: true });
         onScroll();
       }
+
+      const themeToggle = document.getElementById('theme-toggle');
+      themeToggle?.addEventListener('click', () => {
+        const root = document.documentElement;
+        const current =
+          root.dataset.theme ||
+          (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        const next = current === 'dark' ? 'light' : 'dark';
+        root.dataset.theme = next;
+        root.style.colorScheme = next;
+        try {
+          localStorage.setItem('theme', next);
+        } catch {}
+      });
     </script>
   </body>
 </html>
@@ -79,11 +119,38 @@ const { title, description } = Astro.props;
     --accent-soft: #c9d8d0;
     --selection: #d8e2dc;
 
-    --font-display: 'Newsreader', 'Songti SC', 'Noto Serif SC', Georgia, serif;
+    --font-display: 'Newsreader', 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', Georgia, serif;
     --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
 
     --measure: 41.25rem;
     --wide: 67.5rem;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme='light']) {
+      --paper: #17181a;
+      --paper-raised: #202124;
+      --line: #333429;
+      --line-soft: #2a2b27;
+      --ink: #e8e4d9;
+      --ink-soft: #a9a493;
+      --ink-faint: #7c7869;
+      --accent: #6fae94;
+      --accent-soft: #2c4139;
+      --selection: #2c4139;
+    }
+  }
+  :root[data-theme='dark'] {
+    --paper: #17181a;
+    --paper-raised: #202124;
+    --line: #333429;
+    --line-soft: #2a2b27;
+    --ink: #e8e4d9;
+    --ink-soft: #a9a493;
+    --ink-faint: #7c7869;
+    --accent: #6fae94;
+    --accent-soft: #2c4139;
+    --selection: #2c4139;
   }
 
   * {
@@ -91,7 +158,7 @@ const { title, description } = Astro.props;
   }
 
   html {
-    color-scheme: light;
+    color-scheme: light dark;
     -webkit-text-size-adjust: 100%;
   }
 
@@ -143,7 +210,7 @@ const { title, description } = Astro.props;
     position: sticky;
     top: 0;
     z-index: 10;
-    background: rgba(247, 244, 237, 0.92);
+    background: color-mix(in srgb, var(--paper) 92%, transparent);
     backdrop-filter: blur(8px);
     border-bottom: 1px solid var(--line);
   }
@@ -180,6 +247,7 @@ const { title, description } = Astro.props;
   }
   .masthead-nav {
     display: flex;
+    align-items: center;
     gap: 1.4rem;
     font-family: var(--font-mono);
     font-size: 0.7rem;
@@ -192,6 +260,46 @@ const { title, description } = Astro.props;
   }
   .masthead-nav a:hover {
     color: var(--ink);
+  }
+
+  .theme-toggle {
+    appearance: none;
+    border: 1px solid var(--line);
+    background: transparent;
+    color: var(--ink-soft);
+    width: 1.9rem;
+    height: 1.9rem;
+    padding: 0;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .theme-toggle:hover {
+    color: var(--ink);
+    border-color: var(--ink-faint);
+  }
+  .theme-toggle svg {
+    width: 15px;
+    height: 15px;
+  }
+  .theme-toggle .icon-moon {
+    display: none;
+  }
+  :root[data-theme='dark'] .theme-toggle .icon-sun {
+    display: none;
+  }
+  :root[data-theme='dark'] .theme-toggle .icon-moon {
+    display: block;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme='light']) .theme-toggle .icon-sun {
+      display: none;
+    }
+    :root:not([data-theme='light']) .theme-toggle .icon-moon {
+      display: block;
+    }
   }
 
   @media (max-width: 640px) {

@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
 import { getDomain } from '../lib/domain';
+import { panguSpace } from '../lib/rehype-pangu.mjs';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -29,8 +30,8 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
       <span class="dot-rule"></span>
       <span>{readingTime}</span>
     </div>
-    <h1 class="entry-title">{post.data.title}</h1>
-    {post.data.description && <p class="entry-dek">{post.data.description}</p>}
+    <h1 class="entry-title">{panguSpace(post.data.title)}</h1>
+    {post.data.description && <p class="entry-dek">{panguSpace(post.data.description)}</p>}
     <div class="prose">
       <Content />
     </div>

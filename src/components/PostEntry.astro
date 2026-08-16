@@ -2,6 +2,7 @@
 import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
 import { getDomain } from '../lib/domain';
+import { panguSpace } from '../lib/rehype-pangu.mjs';
 
 interface Props {
   post: {
@@ -26,9 +27,9 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
     <span>{readingTime}</span>
   </div>
 
-  <h2 class="entry-title"><a href={`${base}/${post.id}/`}>{post.data.title}</a></h2>
+  <h2 class="entry-title"><a href={`${base}/${post.id}/`}>{panguSpace(post.data.title)}</a></h2>
 
-  {post.data.description && <p class="entry-dek">{post.data.description}</p>}
+  {post.data.description && <p class="entry-dek">{panguSpace(post.data.description)}</p>}
 
   <div class="prose entry-content">
     <Content />
