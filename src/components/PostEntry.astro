@@ -3,6 +3,7 @@ import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
 import { getDomain } from '../lib/domain';
 import { panguSpace } from '../lib/rehype-pangu.mjs';
+import { isDekRedundant } from '../lib/dedupeDek';
 
 interface Props {
   post: {
@@ -17,6 +18,8 @@ const d = post.data.date;
 const dateLabel = d.toLocaleDateString('en-US', { day: '2-digit', month: 'short', year: 'numeric' });
 const readingTime = estimateReadingTime(post.id);
 const domain = post.data.source ? getDomain(post.data.source) : null;
+const showDek =
+  post.data.description && !isDekRedundant(post.id, post.data.description);
 ---
 
 <article class="entry">
@@ -29,7 +32,7 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
 
   <h2 class="entry-title"><a href={`${base}/${post.id}/`}>{panguSpace(post.data.title)}</a></h2>
 
-  {post.data.description && <p class="entry-dek">{panguSpace(post.data.description)}</p>}
+  {showDek && <p class="entry-dek">{panguSpace(post.data.description)}</p>}
 
   <div class="prose entry-content">
     <Content />
@@ -114,6 +117,7 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
     font-size: 1.1rem;
     line-height: 1.6;
     font-style: italic;
+    font-family: var(--font-em);
     color: var(--ink-soft);
     margin: 0 0 2.25rem;
     text-wrap: pretty;

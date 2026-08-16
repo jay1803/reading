@@ -69,11 +69,13 @@ const { title, description } = Astro.props;
       <slot />
     </main>
     <footer class="colophon">
-      <span>Reading &nbsp;&middot;&nbsp; every entry links back to its source</span>
-      <span>
-        Designed by Claude + <a href="https://maxoxo.me" target="_blank" rel="noopener noreferrer">Max</a>
-      </span>
-      <a href={`${base}/`}>Archive</a>
+      <div class="colophon-inner">
+        <span>Reading &nbsp;&middot;&nbsp; every entry links back to its source</span>
+        <span>
+          Designed by Claude + <a href="https://maxoxo.me" target="_blank" rel="noopener noreferrer">Max</a>
+        </span>
+        <a href={`${base}/`}>Archive</a>
+      </div>
     </footer>
 
     <script>
@@ -120,7 +122,8 @@ const { title, description } = Astro.props;
     --selection: #d8e2dc;
 
     --font-display: 'Newsreader', 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', Georgia, serif;
-    --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+    --font-em: 'Newsreader', 'Kaiti SC', 'STKaiti', 'KaiTi', 'Noto Serif SC', Georgia, serif;
+    --font-mono: 'TX-02', 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
 
     --measure: 41.25rem;
     --wide: 67.5rem;
@@ -170,6 +173,13 @@ const { title, description } = Astro.props;
     font-size: 17px;
     line-height: 1.7;
     -webkit-font-smoothing: antialiased;
+    /* Chinese has no true italic form — without this, browsers fake it by
+       slanting CJK glyphs, which just looks broken. Combined with --font-em
+       (Kaiti stands in for italic emphasis in CJK), this keeps Latin text
+       genuinely italic while CJK renders upright in Kaiti instead.
+       ("style none" is invalid — font-synthesis takes either the single
+       keyword none, or a list of the features still allowed to synthesize.) */
+    font-synthesis: weight small-caps;
   }
 
   ::selection {
@@ -360,7 +370,13 @@ const { title, description } = Astro.props;
     font-size: 1.4rem;
     line-height: 1.45;
     font-style: italic;
+    font-family: var(--font-em);
     letter-spacing: -0.01em;
+  }
+  .prose em,
+  .prose i {
+    font-style: italic;
+    font-family: var(--font-em);
   }
   .prose code {
     font-family: var(--font-mono);
@@ -387,11 +403,13 @@ const { title, description } = Astro.props;
   }
 
   .colophon {
+    border-top: 1px solid var(--line);
+    background: var(--paper-raised);
+  }
+  .colophon-inner {
     max-width: var(--wide);
     margin: 0 auto;
     padding: 3.5rem 2.5rem;
-    border-top: 1px solid var(--line);
-    background: var(--paper-raised);
     display: flex;
     align-items: baseline;
     justify-content: space-between;
@@ -411,7 +429,7 @@ const { title, description } = Astro.props;
     color: var(--ink);
   }
   @media (max-width: 640px) {
-    .colophon {
+    .colophon-inner {
       padding: 2.5rem 1.25rem;
     }
   }

@@ -5,6 +5,7 @@ import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
 import { getDomain } from '../lib/domain';
 import { panguSpace } from '../lib/rehype-pangu.mjs';
+import { isDekRedundant } from '../lib/dedupeDek';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -20,6 +21,8 @@ const d = post.data.date;
 const dateLabel = d.toLocaleDateString('en-US', { day: '2-digit', month: 'short', year: 'numeric' });
 const readingTime = estimateReadingTime(post.id);
 const domain = post.data.source ? getDomain(post.data.source) : null;
+const showDek =
+  post.data.description && !isDekRedundant(post.id, post.data.description);
 ---
 
 <BaseLayout title={post.data.title} description={post.data.description}>
@@ -31,7 +34,7 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
       <span>{readingTime}</span>
     </div>
     <h1 class="entry-title">{panguSpace(post.data.title)}</h1>
-    {post.data.description && <p class="entry-dek">{panguSpace(post.data.description)}</p>}
+    {showDek && <p class="entry-dek">{panguSpace(post.data.description)}</p>}
     <div class="prose">
       <Content />
     </div>
@@ -111,6 +114,7 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
     font-size: 1.2rem;
     line-height: 1.6;
     font-style: italic;
+    font-family: var(--font-em);
     color: var(--ink-soft);
     margin: 0 0 2.5rem;
     text-wrap: pretty;
