@@ -13,6 +13,7 @@
   "description": "",
   "type": "module",
   "dependencies": {
+    "@astrojs/rss": "^4.0.19",
     "astro": "^5.18.2"
   }
 }
