@@ -1,6 +1,7 @@
 ---
 import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
+import { getDomain } from '../lib/domain';
 
 interface Props {
   post: {
@@ -14,6 +15,7 @@ const { post, Content, num } = Astro.props;
 const d = post.data.date;
 const dateLabel = d.toLocaleDateString('en-US', { day: '2-digit', month: 'short', year: 'numeric' });
 const readingTime = estimateReadingTime(post.id);
+const domain = post.data.source ? getDomain(post.data.source) : null;
 ---
 
 <article class="entry">
@@ -35,6 +37,14 @@ const readingTime = estimateReadingTime(post.id);
   <footer class="entry-foot">
     <span class="entry-tags">
       <a href={`${base}/category/${post.data.category}/`}>{post.data.category}</a>
+      {
+        domain && (
+          <>
+            <span aria-hidden="true">&middot;</span>
+            <a href={`${base}/domain/${domain}/`}>{domain}</a>
+          </>
+        )
+      }
       {
         post.data.source && (
           <>

@@ -1,0 +1,141 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { base } from '../lib/base';
+import { getDomain } from '../lib/domain';
+
+const posts = await getCollection('posts');
+
+const counts = new Map<string, number>();
+let withoutSource = 0;
+for (const post of posts) {
+  if (!post.data.source) {
+    withoutSource++;
+    continue;
+  }
+  const domain = getDomain(post.data.source);
+  if (!domain) {
+    withoutSource++;
+    continue;
+  }
+  counts.set(domain, (counts.get(domain) ?? 0) + 1);
+}
+
+const domains = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+const maxCount = domains.length ? domains[0][1] : 0;
+---
+
+<BaseLayout title="Stats — Reading" description="How many entries came from which domain.">
+  <div class="hero">
+    <p class="hero-eyebrow">
+      {posts.length.toLocaleString()} entries &nbsp;&middot;&nbsp; {domains.length.toLocaleString()} domains
+    </p>
+    <h1 class="hero-title">Where it's all from</h1>
+  </div>
+
+  <table class="stats-table">
+    <tbody>
+      {
+        domains.map(([domain, count]) => (
+          <tr>
+            <td class="stats-domain">
+              <a href={`${base}/domain/${domain}/`}>{domain}</a>
+            </td>
+            <td class="stats-bar-cell">
+              <span class="stats-bar" style={`width:${(count / maxCount) * 100}%`} />
+            </td>
+            <td class="stats-count">{count.toLocaleString()}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+
+  {
+    withoutSource > 0 && (
+      <p class="stats-note">
+        {withoutSource.toLocaleString()} entries have no recorded source domain.
+      </p>
+    )
+  }
+</BaseLayout>
+
+<style>
+  .hero {
+    max-width: var(--wide);
+    padding: 4.5rem 0 3rem;
+  }
+  .hero-eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 1rem;
+  }
+  .hero-title {
+    font-size: clamp(2rem, 1.6rem + 1.6vw, 2.75rem);
+    line-height: 1.1;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    margin: 0;
+  }
+
+  .stats-table {
+    width: 100%;
+    max-width: var(--wide);
+    border-collapse: collapse;
+    margin-bottom: 3rem;
+  }
+  .stats-table tr {
+    border-bottom: 1px solid var(--line-soft);
+  }
+  .stats-table td {
+    padding: 0.55rem 0;
+    vertical-align: middle;
+  }
+  .stats-domain {
+    font-size: 0.95rem;
+    white-space: nowrap;
+    padding-right: 1.5rem;
+    width: 1%;
+  }
+  .stats-domain a {
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .stats-domain a:hover {
+    color: var(--accent);
+  }
+  .stats-bar-cell {
+    width: 100%;
+  }
+  .stats-bar {
+    display: block;
+    height: 8px;
+    background: var(--accent-soft);
+    border-radius: 1px;
+  }
+  .stats-count {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    color: var(--ink-faint);
+    text-align: right;
+    padding-left: 1.5rem;
+    width: 1%;
+    white-space: nowrap;
+  }
+
+  .stats-note {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--ink-faint);
+    padding-bottom: 4rem;
+  }
+
+  @media (max-width: 640px) {
+    .stats-domain {
+      font-size: 0.85rem;
+    }
+  }
+</style>

@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
+import { getDomain } from '../lib/domain';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -17,6 +18,7 @@ const { Content } = await render(post);
 const d = post.data.date;
 const dateLabel = d.toLocaleDateString('en-US', { day: '2-digit', month: 'short', year: 'numeric' });
 const readingTime = estimateReadingTime(post.id);
+const domain = post.data.source ? getDomain(post.data.source) : null;
 ---
 
 <BaseLayout title={post.data.title} description={post.data.description}>
@@ -35,6 +37,14 @@ const readingTime = estimateReadingTime(post.id);
     <footer class="entry-foot">
       <span class="entry-tags">
         <a href={`${base}/category/${post.data.category}/`}>{post.data.category}</a>
+        {
+          domain && (
+            <>
+              <span aria-hidden="true">&middot;</span>
+              <a href={`${base}/domain/${domain}/`}>{domain}</a>
+            </>
+          )
+        }
         {
           post.data.source && (
             <>
