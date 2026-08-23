@@ -2,6 +2,7 @@
 title: "AI's Impact on Software: Disruption or Expansion?"
 date: 2024-10-08T18:27:23Z
 category: reading
+author: "Tanay Jaipuria"
 description: "One view of the world is that as LLMs are getting better at coding and software development is getting democratized, the cost of software trends 0, and inste..."
 source: "https://www.tanayj.com/p/ais-impact-on-software-disruption"
 ---

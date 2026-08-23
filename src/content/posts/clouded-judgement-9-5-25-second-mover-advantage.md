@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.5.25 - Second Mover Advantage"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Jamin Ball"
 description: "在 AI 领域，先发优势正在反转：进入过早意味着把公司锁死在注定过时的技术栈上；第二批入场者能以已验证的路线图、更低的成本结构、以及现成的买方市场，拿到比先行者更大的机会。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-9525-second-mover"
 ---

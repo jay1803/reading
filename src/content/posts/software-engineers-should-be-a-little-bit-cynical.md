@@ -2,6 +2,7 @@
 title: "Software engineers should be a little bit cynical"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Sean Goedecke"
 description: "软件工程师圈里那套\"理想主义\"（拒绝妥协、把政治视为污染）本质上是一种更深的虚无主义——它预设体制已腐败到无法改变；反倒是被人骂\"犬儒\"的建议（配合经理、学会政治），隐含的前提是：参与能产生正面影响。"
 source: "https://www.seangoedecke.com/a-little-bit-cynical/"
 ---

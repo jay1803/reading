@@ -2,6 +2,7 @@
 title: "The Best Authors Respect the Reader’s Time"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Naval Ravikant"
 description: "这篇短文的核心观点很简单，但很有穿透力：最好的作者会尊重读者的时间。 Naval 的意思不是一味追求短，而是追求高密度——一段话里要有足够多值得咀嚼的想法、类比和原则，而不是用大量篇幅去铺垫那些其实一句就能讲清的东西。对他来说，真正有价值的作品不是信息量最大，而是“思想浓度”最高：读一小段，就能让你停下来想很久。"
 source: "https://nav.al/density"
 ---

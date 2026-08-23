@@ -2,6 +2,7 @@
 title: "Generative Engine Optimization (GEO): How to Win in AI Search"
 date: 2025-10-10T00:42:21Z
 category: reading
+author: "Brian Dean"
 description: "GEO 不是新技术——它是将 SEO 逻辑从\"Google index 排名\"扩展到\"整个互联网语义网络的存在感\"。做好传统 SEO 已完成大半，剩余差距是多平台存在感与 unlinked mention 管理。"
 source: "https://backlinko.com/generative-engine-optimization-geo?utm_source=backlinko&utm_medium=email&utm_campaign=geo"
 ---

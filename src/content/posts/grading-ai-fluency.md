@@ -2,6 +2,7 @@
 title: "Grading AI Fluency"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Adam Fishman"
 description: "大量使用 AI 工具是入门门槛，不是目标本身。作者在 Mozilla 运营产品团队，将 AI 流畅度分为四档："
 source: "https://www.fishmanafnewsletter.com/p/grading-ai-fluency-in-product-management"
 ---

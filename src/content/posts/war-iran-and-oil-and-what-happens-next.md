@@ -2,6 +2,7 @@
 title: "💥 War, Iran, and Oil (and what happens next)"
 date: 2026-03-09T22:36:51Z
 category: reading
+author: "Andrew Lokenauth"
 description: "这篇文章的总判断很简单：当前市场的一级变量不是财报，也不是美联储，而是油价；油价背后又不是抽象通胀，而是霍尔木兹海峡能否恢复通行。只要油价维持高位，通胀回升、降息落空、股市承压就是同一条链条上的连续结果。作者真正想推动的不是“逢低抄底”口号，而是把组合从押注和平、低油价、美国科技继续一枝独秀，改成能承受地缘冲击、..."
 source: "https://www.thefinancenewsletter.com/p/iran-war-stock-market-crash"
 ---

@@ -2,6 +2,7 @@
 title: "My life was changed by four sentences in four books"
 date: 2026-05-14T08:01:36Z
 category: reading
+author: "Derek Sivers"
 description: "真正改变人生的机制，是把某个高密度句子转化成不可逆行动：Derek Sivers 的四次重大人生转向，都来自一本书里一句刚好击中当时处境的话。"
 source: "https://sive.rs/4s4b"
 ---

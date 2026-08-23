@@ -2,6 +2,7 @@
 title: "OKRs Done Right"
 date: 2022-04-14T19:17:30Z
 category: reading
+author: "Itamar Gilad"
 description: "OKR break goals into two parts:"
 source: "https://itamargilad.com/ebook-okr/"
 ---

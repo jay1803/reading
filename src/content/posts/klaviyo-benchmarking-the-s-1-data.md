@@ -2,6 +2,7 @@
 title: "Klaviyo: Benchmarking the S-1 Data"
 date: 2023-10-10T18:52:00Z
 category: reading
+author: "Jamin Ball"
 description: "This enables business users of any skill level to harness their data in order to send the right message at the right time across email, SMS, and push notific..."
 source: "https://cloudedjudgement.substack.com/p/klaviyo-benchmarking-the-s-1-data"
 ---

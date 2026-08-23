@@ -2,6 +2,7 @@
 title: "Quoting Karen Kwok for Reuters Breakingviews"
 date: 2026-06-01T08:01:18Z
 category: reading
+author: "Simon Willison"
 description: "Anthropic 的 run-rate revenue 口径把最近 28 天消费型收入乘以 13，再把月度订阅收入乘以 12；这个算法会把短期用量峰值年化，天然放大增长叙事。"
 source: "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything"
 ---

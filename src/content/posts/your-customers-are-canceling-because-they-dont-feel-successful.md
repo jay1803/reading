@@ -2,6 +2,7 @@
 title: "Your customers are canceling because they don't feel successful 🙋‍♀️"
 date: 2025-11-04T10:54:15Z
 category: reading
+author: "Tom Orbach"
 description: "用户流失不是因为产品差，而是因为他们「看不见自己赢了」。SaaS 续订的决策时刻，用户脑子里浮现的是：我还记得自己用了什么吗？有没有数字可以证明？记不起来，就取消。"
 source: "https://www.marketingideas.com/p/why-grammarly-shows-your-word-count"
 ---

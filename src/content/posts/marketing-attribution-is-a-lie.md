@@ -2,6 +2,7 @@
 title: "Marketing attribution is a LIE."
 date: 2025-10-30T14:52:02Z
 category: reading
+author: "Elena Verna"
 description: "Last-click 归因不只是不准——它是结构性地帮 Google 吸走你的预算，同时悄悄饿死你自己的顶部漏斗。"
 source: "https://www.elenaverna.com/p/marketing-attribution-is-a-lie"
 ---

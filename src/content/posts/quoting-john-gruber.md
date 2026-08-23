@@ -2,6 +2,7 @@
 title: "Quoting John Gruber"
 date: 2026-08-21T15:44:00Z
 category: reading
+author: "Simon Willison"
 description: "John Gruber 以现场演奏比喻博客写作：认真对待每篇文章，但接受多数文章无需打磨成传世之作，持续产出本身才是专业的体现。"
 source: "https://simonwillison.net/2026/Aug/8/john-gruber/"
 ---

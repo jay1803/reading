@@ -2,6 +2,7 @@
 title: "5 Rules for Successful Growth Hacking"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章想把 “growth hacking” 从流行词和战术清单里拽出来，重新定义成一种更底层的增长思维。Lincoln Murphy 的核心观点是：真正有效的 growth hacking 不是某个巧妙 gimmick，也不是“白嫖流量”的小伎俩，而是一种围绕用户行为、网络结构、增长目标和组织文化来设计增长系..."
 source: "http://sixteenventures.com/growth-hacking-rules?utm_source=rss&utm_medium=rss&utm_campaign=growth-hacking-rules"
 ---

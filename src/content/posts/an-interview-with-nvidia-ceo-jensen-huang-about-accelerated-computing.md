@@ -2,6 +2,7 @@
 title: "An Interview with Nvidia CEO Jensen Huang About Accelerated Computing"
 date: 2026-03-18T08:02:09Z
 category: reading
+author: "Ben Thompson"
 description: "Jensen Huang，Nvidia 联合创始人兼 CEO，GTC 2026 主题演讲刚结束即接受采访，是 Ben Thompson（Stratechery 创始人）与他的第五次对话。"
 source: "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing/"
 ---

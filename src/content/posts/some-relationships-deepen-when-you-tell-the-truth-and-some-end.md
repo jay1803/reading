@@ -2,6 +2,7 @@
 title: "Some relationships deepen when you tell the truth and some end"
 date: 2026-03-18T08:01:19Z
 category: reading
+author: "Henrik Karlsson"
 description: "说出真相是否会毁掉关系，主要不取决于你说了什么，而取决于两件事：对象是\"一个人\"还是\"一个群体\"；以及你能否处理好自己的情绪，让对方有空间接收新信息。"
 source: "https://www.henrikkarlsson.xyz/p/going-your-own-way"
 ---

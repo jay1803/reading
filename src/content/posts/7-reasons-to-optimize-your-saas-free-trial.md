@@ -2,6 +2,7 @@
 title: "7 Reasons to Optimize your SaaS Free Trial"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "SaaS 免费试用的唯一目的是创造付费客户，而超过 75% 的试用用户最终未转化——这不是流量或产品问题，是免费试用策略本身是坏的。优化试用不是\"给用户更少\"，而是最大化他们的接触面，让他们在试用期内就把根扎深。"
 source: "http://sixteenventures.com/optimize-your-free-trial"
 ---

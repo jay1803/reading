@@ -2,6 +2,7 @@
 title: "The Synchronization Framework in Swift 6"
 date: 2025-05-12T13:47:13Z
 category: reading
+author: "Jacob Bartlett"
 description: "Mutex 的实际性能比 Actor 快 25%（在高竞争的缓存场景），比 Atomic 快约一倍——而 Mutex 底层就是 ~os_unfair_lock~，和 ~OSAllocatedUnfairLock~ 几乎一致；所谓\"新原语更快\"的直觉在 10M 操作量级下基本不成立。"
 source: "https://blog.jacobstechtavern.com/p/the-synchronisation-framework"
 ---

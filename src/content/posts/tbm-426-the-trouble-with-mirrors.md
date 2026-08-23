@@ -2,6 +2,7 @@
 title: "TBM 426: The Trouble With Mirrors"
 date: 2026-06-17T08:03:38Z
 category: reading
+author: "John Cutler"
 description: "文章的核心转变：从\"让组织看见现实\"到\"让人感到被理解\"。镜子（mirror）照出某种真相；mirroring 是让对方感到自己的视角被承认、不被拿来对付自己。人们不开那个乱糟糟的衣柜，不是因为懒，是因为没准备好面对它——这在个人和组织层面都成立。"
 source: "https://cutlefish.substack.com/p/tbm-426-the-trouble-with-mirrors"
 ---

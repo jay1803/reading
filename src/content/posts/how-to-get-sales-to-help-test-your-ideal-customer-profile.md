@@ -2,6 +2,7 @@
 title: "How To Get Sales To Help Test your Ideal Customer Profile"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "销售团队拒绝测试新 ICP 的根本原因不是抵制变革，而是激励错位——CEO 要改变的是激励结构，而不是员工本身。"
 source: "http://sixteenventures.com/sales-testing-ideal-customer"
 ---

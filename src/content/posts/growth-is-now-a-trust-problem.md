@@ -2,6 +2,7 @@
 title: "Growth Is Now a Trust Problem"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Elena Verna"
 description: "SaaS 的传统增长逻辑正在从两端同步崩塌：获客渠道（SEO、SEM、社媒）因 AI 普及而失效，留存护城河（效率、成本优势）被 $20/月的 AI 工具抹平。在能力被商品化之后，用户留在哪个产品，取决于对哪个产品有信任感——而这是唯一不能被快速复制的东西。"
 source: "https://www.elenaverna.com/p/growth-is-now-a-trust-problem"
 ---

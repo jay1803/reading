@@ -2,6 +2,7 @@
 title: "Pluralistic: No one wants a permanent gerontocracy (15 May 2026)"
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Cory Doctorow"
 description: "美国人对“老人政治”的反感，已经不是党派情绪，而是罕见的跨党派制度共识：问题不只是某些高龄政客能力衰退，而是一个由资历、庇护、连任优势和同僚互惠组成的系统，会把权力交接变成单方面解除武装，最终让所有派系都被少数老病席位绑架。"
 source: "https://pluralistic.net/2026/05/15/not-ok-boomer/"
 ---

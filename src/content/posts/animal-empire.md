@@ -2,6 +2,7 @@
 title: "Animal Empire"
 date: 2026-04-18T08:02:51Z
 category: reading
+author: "Rebecca Darley"
 description: "这篇文章最有意思的判断是：西西里 Villa Casale 的动物马赛克，炫耀的并不是“我真的征服过这些地方”，而是“我有资格替帝国给世界命名、分类、排位”。到晚期罗马，真正被展示的权力，已经从直接占有，部分转成了知识性的占有。"
 source: "https://coffeewithclio.substack.com/p/animal-empire"
 ---

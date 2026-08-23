@@ -2,6 +2,7 @@
 title: "Good Products Are Hard to Vary"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Naval Ravikant"
 description: "\"Hard to vary\" 是设计收敛到真相的检验标准，不只是描述性评价。一个产品或解释若能随意修改而不损失任何东西，说明它还没找到真正的形式。iPhone 16 代形态几乎未变，不是苹果保守，而是证明解空间已经被关闭。"
 source: "https://nav.al/good-products"
 ---

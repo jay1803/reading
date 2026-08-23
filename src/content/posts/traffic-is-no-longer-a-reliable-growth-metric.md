@@ -2,6 +2,7 @@
 title: "Traffic is no longer a reliable growth metric"
 date: 2025-11-04T11:14:00Z
 category: reading
+author: "Kate Syuma"
 description: "ChatGPT 引荐流量的转化率是 Google 的 6 倍——这意味着流量总量下降反而可能是一个健康信号：低意图流量在减少，高意图流量在增加。用总流量衡量增长，已经误导你了。"
 source: "https://www.growthunhinged.com/p/traffic-is-no-longer-reliable"
 ---

@@ -2,6 +2,7 @@
 title: "Don't reinvent the wheel: 4 best growth design patterns."
 date: 2025-05-26T17:43:20Z
 category: reading
+author: "Elena Verna"
 description: "这篇文章探讨了如何借鉴 Slack、Asana、Miro 和 Notion 等成功企业的增长设计实践，以优化自身产品。通过分析这些公司在主页设计、营销网站用户案例、用户引导流程中的信息收集以及邀请邮件方面的优秀实践，为读者提供了可参考的设计思路，从而避免不必要的重复劳动，并加速设计构思过程。"
 source: "https://www.elenaverna.com/p/dont-reinvent-the-wheel-4-best-growth"
 ---

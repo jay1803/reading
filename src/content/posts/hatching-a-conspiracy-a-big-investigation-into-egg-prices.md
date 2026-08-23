@@ -2,6 +2,7 @@
 title: "Hatching a Conspiracy: A BIG Investigation into Egg Prices"
 date: 2025-03-13T13:13:31Z
 category: reading
+author: "Matt Stoller"
 description: "本文是关于鸡蛋价格上涨的系列文章的第一部分，重点探讨了当前鸡蛋价格上涨背后的原因，并不仅仅是禽流感，还有可能是寡头垄断导致的市场失灵。"
 source: "https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation"
 ---

@@ -2,6 +2,7 @@
 title: "My favorite definitions of Growth"
 date: 2024-06-24T14:52:53Z
 category: reading
+author: "Elena Verna"
 description: "If you actually listen to an interview with him or check out his 2017 book, Hacking Growth, you’ll see that he frames Growth in all the right ways:"
 source: "https://elenaverna.substack.com/p/my-favorite-definitions-of-growth"
 ---

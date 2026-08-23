@@ -2,6 +2,7 @@
 title: "Human Routers of Machine Words"
 date: 2026-06-14T08:02:30Z
 category: reading
+author: "Fernando Borretti"
 description: "写作不是思想的下游输出，而是思想本身——把写作外包给 AI 的人不是在节省时间，是在放弃思考。"
 source: "https://borretti.me/article/human-routers-of-machine-words"
 ---

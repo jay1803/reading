@@ -2,6 +2,7 @@
 title: "The Secret to Successful Customer Onboarding"
 date: 2026-03-11T01:01:07Z
 category: reading
+author: "Lincoln Murphy"
 description: "SaaS onboarding失败的根本，是厂商把自己的成功定义强加给了客户。\"客户转付费\"是你的成功定义；客户的成功是他们用你的产品实现了他们自己想实现的目标。留存是正确onboarding的副产品，不是目标本身。"
 source: "https://sixteenventures.com/customer-onboarding?amp=1"
 ---

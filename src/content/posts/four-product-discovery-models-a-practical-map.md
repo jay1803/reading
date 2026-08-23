@@ -2,6 +2,7 @@
 title: "Four Product Discovery Models: A Practical Map"
 date: 2025-11-20T13:54:34Z
 category: reading
+author: "Itamar Gilad"
 description: "大多数公司对\"Steve Jobs 模式\"的引用都是错的——Jobs 本人是典型的 Benevolent Dictator（集中决策＋证据驱动），而非 Command & Control 或 Creative Chaos；这个误读同时在为集权直觉派和底层混乱派背书。"
 source: "https://itamargilad.com/product-discovery-models/"
 ---

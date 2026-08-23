@@ -2,6 +2,7 @@
 title: "16 charts that explain the AI boom"
 date: 2025-10-30T14:52:02Z
 category: reading
+author: "Timothy B. Lee"
 description: "16 charts that explain the AI boom"
 source: "https://www.understandingai.org/p/16-charts-that-explain-the-ai-boom"
 ---

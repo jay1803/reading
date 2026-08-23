@@ -2,6 +2,7 @@
 title: "Those aren’t Problems. Those are Customers!"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "很多公司把客户的固有特征误判成“问题”，于是试图把客户掰成适合自己流程的样子，最后把责任、体验和结果一起做坏。作者的核心判断是：如果这些特征属于你想服务的客户类型，你的任务不是抱怨，而是围绕这些特征设计合适的获取、交付与成功路径。"
 source: "http://sixteenventures.com/customers-not-problems"
 ---

@@ -2,6 +2,7 @@
 title: "Speed is Not Conducive to Wisdom"
 date: 2026-04-16T08:01:43Z
 category: reading
+author: "Jim Nielsen"
 description: "这篇文章最狠的判断是，速度常常不是效率工具，而是一种逃避机制。人只要持续高速运转，就能暂时不去面对现实已经拆穿了自己的判断、作品和短视。"
 source: "https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/"
 ---

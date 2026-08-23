@@ -2,6 +2,7 @@
 title: "Learning on the Shop floor"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Simon Willison"
 description: "公开的 AI 编程协作环境会把 coding agent 从个人效率工具升级为组织学习基础设施：真正的收益来自可旁观、可搜索、可插手的工作现场，而不只是单个任务更快完成。"
 source: "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything"
 ---

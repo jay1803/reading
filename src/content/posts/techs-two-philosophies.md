@@ -2,6 +2,7 @@
 title: "Tech's Two Philosophies"
 date: 2023-08-31T14:24:38Z
 category: reading
+author: "Ben Thompson"
 description: "Mark Zuckerberg’s keynote at the Facebook F8 conference that stuck out to me:"
 source: "https://stratechery.com/2018/techs-two-philosophies/"
 ---

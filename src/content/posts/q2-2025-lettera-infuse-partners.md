@@ -2,6 +2,7 @@
 title: "Q2 2025 Lettera - Infuse Partners"
 date: 2025-07-03T12:25:44Z
 category: reading
+author: "Ryan Reeves"
 description: "这封信是 Infuse Asset Management 的 Ryan Reeves 写给合作伙伴的 2025 年第二季度信。信中探讨了成功投资的核心在于清晰地认知现实，并通过寻找概率上有利于自己的投资机会来获得回报。作者通过详细分析 Intellego 这个投资案例，阐述了如何将理论付诸实践，即通过深入研究，找..."
 source: "https://www.investing-city.com/p/q2-2025-letter"
 ---

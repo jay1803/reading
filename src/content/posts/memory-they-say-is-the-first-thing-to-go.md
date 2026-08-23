@@ -2,6 +2,7 @@
 title: "Memory, They Say, Is the First Thing to Go"
 date: 2026-04-17T08:02:24Z
 category: reading
+author: "John Gruber"
 description: "这篇短文表面在夸 Mac OS X 10.4.8 的滚轮缩放，真正更重要的判断是，系统级便利功能如果靠吞掉不可配置的全局快捷键来实现，就是在用少数场景的方便，破坏重度用户多年形成的操作肌肉，这属于坏的系统设计，不是小毛病。"
 source: "https://daringfireball.net/2006/09/zoom_using_scroll_wheel"
 ---

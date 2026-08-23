@@ -2,6 +2,7 @@
 title: "5 of my favorite new retention techniques that you may not have tried"
 date: 2026-03-18T08:02:30Z
 category: reading
+author: "Elena Verna"
 description: "付费用户留存率的最快杠杆往往不是产品功能，而是账单摩擦点——支付失败加一条站内提醒，回收率就提升了 50%（相对值）。"
 source: "https://www.elenaverna.com/p/5-of-my-favorite-new-retention-techniques"
 ---

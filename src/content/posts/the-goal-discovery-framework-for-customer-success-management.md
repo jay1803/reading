@@ -2,6 +2,7 @@
 title: "The Goal Discovery Framework for Customer Success Management"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户成功的起点是客户要实现的业务结果；目标没有被明确捕捉，后续 onboarding、触达和续约都会围着代理指标打转。作者把“目标发现”压缩成 5W1H，用来把模糊诉求拆成可执行、可跟踪、可协同的成功定义，尤其适合异步和自助式场景，因为这些场景缺少即时追问与现场校准。"
 source: "https://sixteenventures.com/goal-discovery-framework"
 ---

@@ -2,6 +2,7 @@
 title: "Reasoning lift: What happens to AI visibility when AI thinks harder"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Kevin Indig"
 description: "高推理模式会把 ChatGPT 从“凭内部模式补全答案”推向“围绕购买旅程做小型检索调查”，所以 AI 可见度不能只按品牌或关键词统计，必须按 reasoning mode + funnel stage 拆开；同一品牌在 minimal 与 high reasoning 下面对的引用网络、竞争源类型、持续曝光机制..."
 source: "https://www.growth-memo.com/p/reasoning-lift-what-happens-to-ai"
 ---

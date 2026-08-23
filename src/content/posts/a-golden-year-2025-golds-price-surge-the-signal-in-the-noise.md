@@ -2,6 +2,7 @@
 title: "A Golden Year (2025): Gold's Price Surge - The Signal in the Noise!"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Aswath Damodaran"
 description: "2025 年 10 月 24 日，黄金价格达到 $4,118/oz，较 2015 年底的 $1,060/oz 十年涨近 4 倍。Damodaran 用三个量化维度分析了黄金价格的驱动因素，结论是：黄金按所有历史估值指标均已高估，但持续高估的背后有结构性需求转变在支撑。黄金的本质更接近一种针对恶性通胀和系统性崩溃的..."
 source: "https://aswathdamodaran.blogspot.com/2025/11/a-golden-year-2025-golds-price-surge.html"
 ---

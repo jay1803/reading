@@ -2,6 +2,7 @@
 title: "Why This Economy Feels Weird and Scary"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Matt Stoller"
 description: "主流经济指标测量的是1965年的美国，而人们感受到的是2025年的金融化社会。这个错配不是数据被操弄的结果，而是统计框架本身的结构性失效：CPI / 就业 / 消费三组数据，恰好对极端不平等和金融化这两件最重要的事最不敏感。"
 source: "https://www.thebignewsletter.com/p/why-this-economy-feels-weird-and"
 ---

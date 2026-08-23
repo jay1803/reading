@@ -2,6 +2,7 @@
 title: "A Fourth of July Question: Can America Recapture Its Populist Soul?"
 date: 2025-07-07T13:38:04Z
 category: reading
+author: "Matt Stoller"
 description: "Matt Stoller 通过第四次独立日演说的传统形式，探讨美国是否能够重新找回其民粹主义灵魂。他认为美国正面临与1850年代相似的政治危机，当时的政党联盟与民众需求严重错配。通过回顾 Frederick Douglass、Abraham Lincoln 和 Henry George 等历史人物的思想，呼吁美国..."
 source: "https://www.thebignewsletter.com/p/a-fourth-of-july-question-can-america"
 ---

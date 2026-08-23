@@ -2,6 +2,7 @@
 title: "Customer Success: Customer Engagement Across the Entire Lifecycle"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户培训后的快速沉寂，通常不是“用户不够投入”，而是公司一开始给了太多内容、太少路径。客户成功依赖贯穿整个生命周期的持续参与：先把客户带到下一步价值点，再用明确、规定性的节奏把他们沿着成功路径往前推。"
 source: "http://sixteenventures.com/customer-success-lifecycle-engagement"
 ---

@@ -2,6 +2,7 @@
 title: "Prioritization Techniques Compared"
 date: 2025-05-06T16:29:48Z
 category: reading
+author: "Itamar Gilad"
 description: "如果你认真测试每个想法，优先级排序的准确性根本不重要——这篇文章最反直觉的结论。更重要的是：CoD/WSJF、用户问题导向、ICE 这三大主流方法各有根本性缺陷，没有哪一种可以单独使用。"
 source: "https://itamargilad.com/prioritization-techniques-2/"
 ---

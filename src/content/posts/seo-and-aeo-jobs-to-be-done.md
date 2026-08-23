@@ -2,6 +2,7 @@
 title: "SEO and AEO: Jobs to Be Done"
 date: 2026-08-19T14:55:00Z
 category: reading
+author: "Eli Schwartz"
 description: "关键词从来不是用户目标，只是代理。SEO/AEO 行业执迷于优化代理指标，AI 搜索崛起正在强迫它直面本该一直问的问题：用户真正想完成什么？"
 source: "https://www.productledseo.com/p/seo-and-aeo-jobs-to-be-done"
 ---

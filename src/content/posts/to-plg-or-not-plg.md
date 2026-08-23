@@ -2,6 +2,7 @@
 title: "To PLG or not PLG?"
 date: 2025-05-26T17:59:22Z
 category: reading
+author: "Elena Verna"
 description: "B2B 公司不应纠结于是否采用产品主导增长（PLG），而应关注于何时以及如何投资。成功的 PLG 并非简单地推出免费版产品，而是需要一个战略性的、分阶段的方法，将增长重点从个人用户（Individual）逐步升级到团队（Team），最终触达整个企业（Business），从而将产品价值转化为企业级合同。"
 source: "https://www.elenaverna.com/p/to-plg-or-not-plg"
 ---

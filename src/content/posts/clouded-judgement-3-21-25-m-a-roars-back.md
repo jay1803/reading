@@ -2,6 +2,7 @@
 title: "Clouded Judgement 3.21.25 - M&A Roars Back"
 date: 2025-03-26T12:51:39Z
 category: reading
+author: "Jamin Ball"
 description: "2025 Q1 科技并购潮不是偶然——新政府换届后监管阻力骤降，被压抑数年的并购需求集中释放：$32B Wiz、$6.5B Ampere、$2.9B Moveworks 等多笔交易密集落地，且这只是开始。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-32125-m-and-a-roars"
 ---

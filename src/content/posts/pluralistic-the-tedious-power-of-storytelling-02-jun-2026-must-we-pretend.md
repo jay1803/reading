@@ -2,6 +2,7 @@
 title: "Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Cory Doctorow"
 description: "艺术的判断应落在作品是否承载意图、并让观众实际感到某种东西；AI 生成物最麻烦的地方是它能制造“似乎有意图”的表面，却把提示词里有限的人类意图稀释到海量词句或像素里，迫使观众替机器幻觉一个不存在的作者。"
 source: "https://pluralistic.net/2026/06/02/must-we-pretend/"
 ---

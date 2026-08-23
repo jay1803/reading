@@ -2,6 +2,7 @@
 title: "Fable's judgement"
 date: 2026-08-17T15:43:06Z
 category: reading
+author: "Simon Willison"
 description: "与其给 AI 规定行为规则，不如把判断权直接交给顶层模型——自主决策比逐条指令更高效，并可将实现类任务下发给低功耗子模型以节省 token。"
 source: "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything"
 ---

@@ -2,6 +2,7 @@
 title: "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)"
 date: 2026-05-10T08:01:04Z
 category: reading
+author: "Cory Doctorow"
 description: "特朗普无法真正降低生活成本，因为美国日常价格压力的关键来源正是他不能得罪的寡头体系：票务、食品、肉类、租房等领域的价格上涨，都不是抽象“通胀”，而是集中市场、数据中介与价格协同把消费者和供应商两头挤压后的结果。"
 source: "https://pluralistic.net/2026/05/09/cossie-livvie-crissie/"
 ---

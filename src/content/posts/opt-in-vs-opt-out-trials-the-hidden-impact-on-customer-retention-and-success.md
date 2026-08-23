@@ -2,6 +2,7 @@
 title: "Opt-In vs. Opt-Out Trials: The Hidden Impact on Customer Retention and Success"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "Opt-out 试用的真实成本不是差评或退款，而是让你的留存数据开始撒谎：「被动转化」用户稀释了真实的 ICP 信号，让你误以为产品的吸引力比实际更强。"
 source: "https://sixteenventures.com/opt-in-vs-opt-out-trials"
 ---

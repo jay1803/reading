@@ -2,6 +2,7 @@
 title: "Emergency Prices: How Private Equity Captured the Ambulance Market"
 date: 2026-04-12T08:02:06Z
 category: reading
+author: "Matt Stoller"
 description: "美国救护车危机，本质上是一次被私募股权工程化的供给收缩。AIP 造出 REV，另一边多轮 PE 交易造出 DBCM，两家合起来几乎吃掉北美大部分救护车制造；随后它们把低资本开支、独家经销和长期 backlog 变成高利润模式，于是地方政府面对的是 3 倍价格、2 到 3 年交付，以及几乎消失的议价权。"
 source: "https://www.thebignewsletter.com/p/code-red-why-your-city-cant-affordor"
 ---

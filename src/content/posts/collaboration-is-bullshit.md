@@ -2,6 +2,7 @@
 title: "\"Collaboration\" is bullshit."
 date: 2026-03-24T08:01:59Z
 category: reading
+author: "Joan Westenberg"
 description: "\"协作文化\"不是生产力工具——它是责任扩散的社会装置。失败挂在\"流程\"上而非任何人名下，这才是协作被广泛采纳的真正原因。"
 source: "https://www.joanwestenberg.com/collaboration-is-bullshit/"
 ---

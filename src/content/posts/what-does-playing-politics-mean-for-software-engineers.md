@@ -2,6 +2,7 @@
 title: "What does \"playing politics\" mean for software engineers?"
 date: 2026-07-15T08:01:49Z
 category: reading
+author: "Sean Goedecke"
 description: "作者用城堡守卫类比重新定位了工程师的政治位置：你不是大人物，是执行者。侍卫不需要结盟谋位，但必须识别权力格局——否则会犯致命错误，比如无意冒犯了高权重的人。核心逻辑：规避致命错误，帮助强大盟友，并让他们看见你。"
 source: "https://seangoedecke.com/playing-politics/"
 ---

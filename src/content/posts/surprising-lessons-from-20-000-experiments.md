@@ -2,6 +2,7 @@
 title: "Surprising lessons from 20,000 experiments"
 date: 2025-05-21T19:55:20Z
 category: reading
+author: "Kate Syuma"
 description: "做减法才能提升转化。社交证明、首页视频、划线价——这三类被反复测试的\"加分项\"在 2 万次实验数据里几乎都输了。"
 source: "https://www.growthunhinged.com/p/surprising-lessons-website-conversion"
 ---

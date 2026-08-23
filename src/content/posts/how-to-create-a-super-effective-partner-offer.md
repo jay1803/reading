@@ -2,6 +2,7 @@
 title: "How to Create a Super-Effective Partner Offer"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "合作伙伴列表里的50k人是\"他们的客户\"，不是\"你的潜在用户\"——任何时间点上对你感兴趣的只是一个子集。把分母从\"全部列表\"换成\"目标子集\"，原本惨淡的1%转化率可能其实是10%命中率。这个重新框架是整篇文章的核心洞察。"
 source: "http://sixteenventures.com/saas-marketing-partner-offer?utm_source=rss&utm_medium=rss&utm_campaign=saas-marketing-partner-offer"
 ---

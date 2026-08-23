@@ -2,6 +2,7 @@
 title: "A Chance to Build"
 date: 2024-11-25T18:04:43Z
 category: reading
+author: "Ben Thompson"
 description: "Six years after that Fairchild Semiconductor opened a facility in Hong Kong to assemble and test semiconductors."
 source: "https://stratechery.com/2024/a-chance-to-build/"
 ---

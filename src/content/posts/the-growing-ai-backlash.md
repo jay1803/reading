@@ -2,6 +2,7 @@
 title: "The growing AI backlash"
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "Gary Marcus"
 description: "Gary Marcus 的核心判断不是“AI 变差了”，而是公众正在把生成式 AI 视为一种被强加的社会成本：少数公司私有化收益，教育、信息环境、工作场所、能源系统和普通用户承担副作用；因此反 AI 情绪可能从技术争议升级为政治议题。"
 source: "https://garymarcus.substack.com/p/the-growing-ai-backlash"
 ---

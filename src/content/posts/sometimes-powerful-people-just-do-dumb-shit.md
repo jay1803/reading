@@ -2,6 +2,7 @@
 title: "Sometimes powerful people just do dumb shit"
 date: 2026-04-14T08:01:12Z
 category: reading
+author: "Joan Westenberg"
 description: "作者真正想打掉的，不是某个具体 CEO 或政治人物，而是大众对权力的宗教式误判：很多人宁可相信强者在下大棋，也不愿承认他们只是被 ego、回音室和失真的反馈机制推着做蠢事。4D chess 叙事的功能，不是解释现实，而是替权力卸责。"
 source: "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/"
 ---

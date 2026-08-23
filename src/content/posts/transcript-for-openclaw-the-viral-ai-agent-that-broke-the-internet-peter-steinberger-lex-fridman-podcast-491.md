@@ -2,6 +2,7 @@
 title: "Transcript for OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger | Lex Fridman Podcast #491"
 date: 2026-02-24T10:13:42Z
 category: reading
+author: "Lex Fridman"
 description: "OpenClaw 爆红的核心不是技术突破，而是 Peter 拒绝把这件事当成生意——他一边玩一边构建，顺手做出了自我修改的代理系统；\"vibe coding 是骂人的词\"，他管自己叫 agentic engineering。"
 source: "https://lexfridman.com/peter-steinberger-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger-transcript"
 ---

@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Bombshell Document Details Watergate-Style Corruption at the Antitrust Division"
 date: 2026-03-18T08:02:09Z
 category: reading
+author: "Matt Stoller"
 description: "这轮 DOJ 反垄断腐败的主动方不是特朗普政府，而是惠普（HPE）高层和顶级反垄断律师——他们花钱买通了能在 DOJ 安插人事的中间人，把拒绝配合的官员踢出局，再让自己人签署和解协议。企业端全程主导，政府端只是出口。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-bombshell-document"
 ---

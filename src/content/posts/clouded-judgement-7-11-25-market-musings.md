@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.11.25 - Market Musings"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Jamin Ball"
 description: "这篇市场周报的核心判断是：在经历年内多轮宏观与地缘冲击后，美股尤其云软件板块依然维持偏强格局，当前最大的短期风险来自通胀重新升温带动利率上行，但只要通胀不像两年前那样再次失控、财报季没有明显失速，这轮上涨仍有继续扩展的空间。作者之所以偏乐观，是因为市场已经连续消化选举、关税、中东局势、赤字、增长、就业和 AI 扩..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-71125-market-musings"
 ---

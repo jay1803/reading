@@ -2,6 +2,7 @@
 title: "The “Safest Legal Way to Use AI” Playbook"
 date: 2026-04-09T08:03:17Z
 category: reading
+author: "Nick LeRoy"
 description: "这篇文最重要的判断是，AI 的法律风险并不需要等新法成熟才会生效，法院和监管者已经在用知识产权、隐私、合同、歧视与责任规则追责。真正“安全”的用法因此不是挑一个更聪明的模型，而是把 AI 使用流程做成可解释、可分级、可留痕的运营系统。"
 source: "https://www.seoforlunch.com/p/ai-safety"
 ---

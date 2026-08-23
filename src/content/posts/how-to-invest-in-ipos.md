@@ -2,6 +2,7 @@
 title: "📈 How to Invest in IPOs"
 date: 2026-06-20T08:03:54Z
 category: reading
+author: "Kevin Palmer"
 description: "SpaceX 史上最大 IPO 溢价 50%，Anthropic/OpenAI 正在排队。诱惑越大，逻辑越危险：散户在二级市场接的不是\"IPO 价格\"，而是首日开盘后的溢价价格。那个\"起飞\"属于获得配售的机构，普通人接的是他们的出货。Rivian 首日收盘 $101，随后涨至 $172，之后跌回 $16，今天是..."
 source: "https://www.appeconomyinsights.com/p/how-to-invest-in-new-ipos"
 ---

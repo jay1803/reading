@@ -2,6 +2,7 @@
 title: "Maria Popova：二十年阅读与写作，教会我如何「看见」"
 date: 2026-06-02T08:01:20Z
 category: reading
+author: "Marvix"
 description: "Popova 把写作的根基放在「注意力的伦理」上：真正的阅读不是消费已被互联网筛过的材料，而是深入档案、一手资料、自然、诗与科学之间，把外部世界的细节转化成能改变生活的意义。"
 source: "https://www.noesisapient.com/p/maria-popova"
 ---

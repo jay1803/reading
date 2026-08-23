@@ -2,6 +2,7 @@
 title: "Amazon: Outspending Everyone"
 date: 2025-02-19T15:22:23Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章总结了亚马逊 2024 年第四季度的财报表现，并着重分析了亚马逊在 AI 领域的战略布局和投资。亚马逊虽然在 2024 年没有向股东返还现金，但公司将所有资金都投入再投资，以推动未来的增长，CEO Andy Jassy 认为 AI 是自互联网以来最大的技术转变和商业机会。"
 source: "https://www.appeconomyinsights.com/p/amazon-outspending-everyone"
 ---

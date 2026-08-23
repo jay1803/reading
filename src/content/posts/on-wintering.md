@@ -2,6 +2,7 @@
 title: "On wintering."
 date: 2026-04-30T08:02:48Z
 category: reading
+author: "Joan Westenberg"
 description: "“冬眠”真正稀缺的价值在于：一个人在失去外部可见性的几年里重建判断力、耐心和重心；当环境突然需要更深的心智时，长期退出短期反馈循环的人会显得像从树林里走出来的危险人物。"
 source: "https://www.joanwestenberg.com/on-wintering/"
 ---

@@ -2,6 +2,7 @@
 title: "★ ‘We Don’t Serve Their Kind Here’"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "John Gruber"
 description: "这篇短文真正抓住的不是《星球大战》里的“机器人歧视”设定，而是一个世界观细节如何让观众瞬间理解：技术工具一旦拟人化、规模化、进入劳动与社会关系，就会被某些人当成真实的阶层威胁来厌恶。"
 source: "https://daringfireball.net/2026/04/we_dont_serve_their_kind_here"
 ---

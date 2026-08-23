@@ -2,6 +2,7 @@
 title: "No, it doesn't cost Anthropic $5k per Claude Code user"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Martin Alderson"
 description: "Claude Code Max 用户\"消耗 $5000 算力\"说的是 Anthropic 零售 API 定价折算的价值，不是实际推理成本——真实计算成本约是这个数字的 1/10，平均用户对 Anthropic 很可能是盈利的。"
 source: "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

@@ -2,6 +2,7 @@
 title: "Re: People Are Not Friction"
 date: 2026-03-24T08:01:59Z
 category: reading
+author: "Jim Nielsen"
 description: "AI 对每个职能的暗语是同一句话：「其他人的工作都是可以绕过的，只有你的不行」——这种幻觉让各职能互相把对方当成待消除的摩擦，而不是协作的必需。"
 source: "https://blog.jim-nielsen.com/2026/re-people-arent-friction/"
 ---

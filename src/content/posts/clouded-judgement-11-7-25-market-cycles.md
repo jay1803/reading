@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.7.25 - Market Cycles"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Jamin Ball"
 description: "扩张期掩盖了所有人的能力边界——现在十家公司同时高增长，但下一轮整合期只有一两家能活下来；用扩张期表现来判断谁会胜出，是风险投资当下最核心的认知陷阱。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-11725-market-cycles"
 ---

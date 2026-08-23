@@ -2,6 +2,7 @@
 title: "Good if make prior after data instead of before"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "dynomight"
 description: "作者要解决的不是“贝叶斯能不能算”，而是“现实里的模型分箱太粗时，贝叶斯会把你带到荒谬结论”。在复杂世界里，看到数据之后再回头细化先验，往往不是作弊，而是把先前被你粗暴合并的潜在状态重新拆开；真正的问题通常不在先验数值，而在你把哪些可能性放进了同一个桶。"
 source: "https://dynomight.net/prior/"
 ---

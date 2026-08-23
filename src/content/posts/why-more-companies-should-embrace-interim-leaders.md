@@ -2,6 +2,7 @@
 title: "Why More Companies Should Embrace Interim Leaders"
 date: 2025-05-26T17:44:25Z
 category: reading
+author: "Elena Verna"
 description: "TL;DR"
 source: "https://www.elenaverna.com/p/why-more-companies-should-embrace"
 ---

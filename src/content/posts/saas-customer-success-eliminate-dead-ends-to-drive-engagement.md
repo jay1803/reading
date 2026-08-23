@@ -2,6 +2,7 @@
 title: "SaaS Customer Success: Eliminate ‘Dead Ends’ to Drive Engagement"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "每个 SaaS 产品都在制造「死路」——只告知用户发生了什么，却不告诉他们下一步做什么；这是拖低参与度、推高流失率的核心机制之一，而大多数团队对此毫无意识。"
 source: "http://sixteenventures.com/saas-customer-success-eliminate-dead-ends?utm_source=rss&utm_medium=rss&utm_campaign=saas-customer-success-eliminate-dead-ends"
 ---

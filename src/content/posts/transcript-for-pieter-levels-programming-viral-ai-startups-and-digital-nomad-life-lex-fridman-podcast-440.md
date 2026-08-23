@@ -2,6 +2,7 @@
 title: "Transcript for Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440"
 date: 2024-09-02T15:13:50Z
 category: reading
+author: "Lex Fridman"
 description: "<<<Pieter Levels>>>"
 source: "https://lexfridman.com/pieter-levels-transcript"
 ---

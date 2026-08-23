@@ -2,6 +2,7 @@
 title: "TBM 416: Investment Stewardship (As Habit)"
 date: 2026-04-16T08:01:43Z
 category: reading
+author: "John Cutler"
 description: "这篇最核心的判断是，工程投资回报从来不是事后算出来的财务题，而是一个组织是否长期像“资本管理者”那样经营工程资源的习惯。真正决定 ROI 的，不是你能不能做出一张 dashboard，而是你是否在每个季度持续逼问：这件事是不是最高杠杆、能不能用更少复杂度做成、是否真的需要加人。"
 source: "https://cutlefish.substack.com/p/tbm-416-investment-stewardship-as"
 ---

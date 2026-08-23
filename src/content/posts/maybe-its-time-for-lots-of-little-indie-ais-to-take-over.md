@@ -2,6 +2,7 @@
 title: "Maybe it's time for lots of little indie AIs to take over"
 date: 2026-06-17T08:03:38Z
 category: reading
+author: "Anil Dash"
 description: "Big AI 的垄断格局不是不可避免的结局——真正的出路不是\"ChatGPT 杀手\"式的单一竞争者，而是大量服务于特定社区、可问责的小型 AI 工具同时并存，像哺乳动物取代恐龙那样接管市场。"
 source: "https://anildash.com/2026/06/15/indie-AI-takeover/"
 ---

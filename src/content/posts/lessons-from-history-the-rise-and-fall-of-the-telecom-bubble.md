@@ -2,6 +2,7 @@
 title: "Lessons from History: The Rise and Fall of the Telecom Bubble"
 date: 2023-10-17T18:16:42Z
 category: reading
+author: "Doug O'Laughlin"
 description: "4 月 30 日，互联网的前身 NSFnet 退役。当时，人们对互联网的热情刚刚萌芽，尽管 20 世纪 90 年代末期风光无限，但随着 1995 年 8 月 9 日 Netscape 首次互联网 IPO，牛市精神依然活跃。当时，Netscape 在互联网浏览器领域拥有最大的市场份额但几乎没有收入或利润。这将是20..."
 source: "https://www.fabricatedknowledge.com/p/lessons-from-history-the-rise-and"
 ---

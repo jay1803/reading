@@ -2,6 +2,7 @@
 title: "Secret SwiftUI: A practical use for _VariadicView"
 date: 2025-05-12T13:45:37Z
 category: reading
+author: "Jacob Bartlett"
 description: "~_VariadicView~ 允许你在容器根节点和子节点之间\"插入\"逻辑——这是 SwiftUI 原生 API 无法做到的；用它封装聊天列表的上下翻转，调用方完全不需要知道翻转细节。"
 source: "https://blog.jacobstechtavern.com/p/secret-swiftui"
 ---

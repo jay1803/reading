@@ -2,6 +2,7 @@
 title: "We stopped forcing the subscription model on our users. Here is what happened."
 date: 2026-02-24T10:55:40Z
 category: reading
+author: "Elena Verna"
 description: "Lovable 的 A/B 测试证明：强制订阅制在压制付费留存的同时，也在赶走参与度最高的那批用户。引入 20% 溢价充值包后，付费留存提升 7%，而充值包购买者的消息发送量和发布量反而高于普通订阅用户——\"次等付费选项\"变成了最优质用户群的首选。"
 source: "https://www.elenaverna.com/p/we-stopped-forcing-the-subscription"
 ---

@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: How a Chinese Finger Trap Explains America's Political Dilemma"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Matt Stoller"
 description: "美国政治的真正困境：企业游说和腐败只是表层，底层约束是整个制度已经被股市“反向挟持”。家庭退休金、州财政、非营利资产、工会养老金、企业 CEO 激励、外国资本与美国进口能力都依赖资产价格；当前股市估值又越来越依赖垄断租、低工资份额、低投资、垃圾费、订阅陷阱和 AI 泡沫，所以任何认真限制垄断或剥削的改革，都会被政..."
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-stock-market"
 ---

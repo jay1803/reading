@@ -2,6 +2,7 @@
 title: "★ Om"
 date: 2026-06-28T08:02:48Z
 category: reading
+author: "John Gruber"
 description: "Om Malik 在 2026 年 6 月 26 日去世，死于心脏衰竭。他在 Stanford ICU 等待心脏移植，等了两个多月，没有等到。Gruber 六月初才从他本人口中得知，而此前数周他们还在频繁通讯。"
 source: "https://daringfireball.net/2026/06/om"
 ---

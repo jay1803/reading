@@ -2,6 +2,7 @@
 title: "The Talk Show: ‘Apple at 50’"
 date: 2026-04-11T08:02:45Z
 category: reading
+author: "John Gruber"
 description: "John Siracusa 是老牌 Mac 评论员、程序员、ATP 常驻主播，也是做过 Hyperspace 这类 Mac 工具的老派 power user。Gruber 把他当成那种“必须带着 A game 才能请来”的嘉宾，因为他会抓细节、纠错史观，也会把 Apple 的产品判断拆到像素、键盘和系统设计这一层。"
 source: "https://daringfireball.net/thetalkshow/2026/04/01/ep-445"
 ---

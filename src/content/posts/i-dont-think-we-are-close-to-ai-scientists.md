@@ -2,6 +2,7 @@
 title: "I don’t think we are close to “AI scientists”"
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Timothy B. Lee"
 description: "当前 LLM agent 的核心瓶颈不是“能不能把记忆写进文件”，而是无法把推理时经历转化为可持续累积的隐性知识；“agent is just its files”让状态可迁移、可审计、可扩展，但也意味着那些无法被写成文本、代码或规则的直觉和半成型判断会在上下文交接中消失，所以基于现有 Transformer +..."
 source: "https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists"
 ---

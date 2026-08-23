@@ -2,6 +2,7 @@
 title: "A Look Back at Q1 '23 Public Cloud Software Earnings"
 date: 2023-06-21T15:01:21Z
 category: reading
+author: "Jamin Ball"
 description: "the MEDIAN growth in new new ARR from Q1 ‘22 to Q1 ‘23 was negative 21%"
 source: "https://cloudedjudgement.substack.com/p/a-look-back-at-q1-23-public-cloud"
 ---

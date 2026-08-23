@@ -2,6 +2,7 @@
 title: "The Moral Circle"
 date: 2025-07-03T12:12:14Z
 category: reading
+author: "Jeremy Keith"
 description: "哲学家 Jeff Sebo 在其 2025 年的新书 [The Moral Circle](https://bookshop.org/p/books/the-moral-circle-who-matters-what-matters-and-why-jeff-sebo/21479367?ean=978132406..."
 source: "https://intertwingled.org/the-moral-circle/"
 ---

@@ -2,6 +2,7 @@
 title: "How To Read More"
 date: 2026-06-06T08:04:03Z
 category: reading
+author: "Fernando Borretti"
 description: "提高阅读量的关键不是找到更多“动力”，而是把读书改造成一个有外部反馈、低启动成本、可被日程承载的系统。作者从十年每年三到五本，变成 2026 年上半年读完 80 本，核心变化是让阅读从私人愿望变成公开进度、每日任务和碎片时间里的默认动作。"
 source: "https://borretti.me/article/how-to-read-more"
 ---

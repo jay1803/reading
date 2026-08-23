@@ -2,6 +2,7 @@
 title: "My Buy Nothing baby changed my relationship with consumption"
 date: 2025-03-17T19:43:17Z
 category: reading
+author: "Jean Hsu"
 description: "作者在育儿过程中，通过参与 Buy Nothing 社区，不仅免费获取了几乎所有婴儿用品，还深刻改变了她对消费、所有权和社区的看法。她逐渐认识到社区共享的价值，并创建了 Berkeley Community Lending Library，鼓励邻里间共享不常用的物品。"
 source: "https://jeanhsu.substack.com/p/my-buy-nothing-baby-changed-my-relationship"
 ---

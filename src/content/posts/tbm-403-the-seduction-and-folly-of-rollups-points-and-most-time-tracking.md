@@ -2,6 +2,7 @@
 title: "TBM 403: The Seduction (And Folly) Of Rollups, Points, and (Most) Time Tracking"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "John Cutler"
 description: "Rollup 越整洁，数据就越假。强制要求每个 story 都有 epic、每件事都能归类，结果只有两种：团队伪造汇报来喂养报表，或者扭曲工作方式让数字好看——而且这两种都很常见，不是边界案例。"
 source: "https://cutlefish.substack.com/p/tbm-403-the-seduction-and-folly-of"
 ---

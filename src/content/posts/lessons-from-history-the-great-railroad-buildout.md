@@ -2,6 +2,7 @@
 title: "Lessons from History: The Great Railroad Buildout"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Doug O'Laughlin"
 description: "铁路资本周期的真正主角从来不是铁路，而是资本——先是土地补贴，再是华尔街，最后是摩根的重组机器；每一轮繁荣都死于\"供给建在需求面前\"，而非技术失败。"
 source: "https://www.fabricatedknowledge.com/p/lessons-from-history-the-great-railroad"
 ---

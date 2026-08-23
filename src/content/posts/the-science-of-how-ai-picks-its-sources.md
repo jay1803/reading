@@ -2,6 +2,7 @@
 title: "The science of how AI picks its sources"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Kevin Indig"
 description: "ChatGPT 的引用不是质量竞赛，而是覆盖范围竞赛——67% 的被引用页面只出现在一个 prompt 中，真正决定引用份额的是\"一个页面能回答多少不同查询意图\"，而非内容质量本身。"
 source: "https://www.growth-memo.com/p/the-science-of-how-ai-picks-its-sources"
 ---

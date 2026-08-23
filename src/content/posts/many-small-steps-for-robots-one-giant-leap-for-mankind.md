@@ -2,6 +2,7 @@
 title: "Many Small Steps for Robots, One Giant Leap for Mankind"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Packy McCormick"
 description: "机器人智能的核心瓶颈不是算法，而是数据——任务专属、硬件专属、来自失败时刻的真实部署数据。这意味着\"某个能力阈值被突破后机器人就通用了\"的大飞跃不存在；机器人能力进步的形态是沿变异性梯度的持续爬坡，每步都要付出真实部署代价。"
 source: "https://www.notboring.co/p/robot-steps"
 ---

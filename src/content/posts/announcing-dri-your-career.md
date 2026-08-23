@@ -2,6 +2,7 @@
 title: "Announcing DRI Your Career"
 date: 2026-03-20T15:00:14Z
 category: reading
+author: "Jean Hsu"
 description: "职业阶梯从设计上就是为了给公司制造可持续的劳动力管道，而不是让工程师本人觉得满足——所以\"应该升 Staff / 应该转管理\"感觉像义务而不是意愿，根本原因不是个人问题，是系统的目标函数本来就不是你。"
 source: "https://jeanhsu.substack.com/p/announcing-dri-your-career"
 ---

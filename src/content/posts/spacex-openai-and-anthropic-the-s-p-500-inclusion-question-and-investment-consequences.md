@@ -2,6 +2,7 @@
 title: "SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!"
 date: 2026-06-19T08:03:06Z
 category: reading
+author: "Aswath Damodaran"
 description: "反对将 SpaceX、OpenAI、Anthropic 纳入 S&P 500 的声音主要来自三类人，Damodaran 逐一拆解其动机：主动基金经理过去 25 年中仅 3 年有超过半数跑赢指数，SPIVA 数据显示任何风格、任何地区的主动基金在十年维度上无一跑赢对应指数基金——他们反对纳入，是因为被动投资的每一次..."
 source: "https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html"
 ---

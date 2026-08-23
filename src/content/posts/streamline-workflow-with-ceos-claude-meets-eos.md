@@ -2,6 +2,7 @@
 title: "Streamline Workflow with CEOS: Claude Meets EOS"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Brad Feld"
 description: "Brad Feld 在 90 分钟内用 Claude Code 把完整的 EOS 框架打包成可 fork 的开源 skill 包（CEOS）。核心主张是：AI skills 就是 prompt engineering 文档，一套公司操作系统可以只靠 Markdown + git history 运行，不需要 Sa..."
 source: "https://feld.com/archives/2026/02/streamline-workflow-with-ceos-claude-meets-eos/"
 ---

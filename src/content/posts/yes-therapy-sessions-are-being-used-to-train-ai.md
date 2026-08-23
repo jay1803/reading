@@ -2,6 +2,7 @@
 title: "Yes, Therapy Sessions Are Being Used to Train AI"
 date: 2026-04-09T08:01:36Z
 category: reading
+author: "Matt Stoller"
 description: "这篇文章真正警惕的，不是聊天机器人是否足够像治疗师，而是保险公司、平台型中介和风投支持的 practice management companies 正借 AI 录音、自动摘要和结果量化，把原本依赖临床判断与信任关系的治疗行业改造成可监控、可计量、可压价的金融化基础设施。"
 source: "https://www.thebignewsletter.com/p/yes-therapy-sessions-are-being-used"
 ---

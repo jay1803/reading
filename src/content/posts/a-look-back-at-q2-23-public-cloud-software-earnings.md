@@ -2,6 +2,7 @@
 title: "A Look Back at Q2 '23 Public Cloud Software Earnings"
 date: 2023-10-10T17:25:48Z
 category: reading
+author: "Jamin Ball"
 description: "在大多数情况下，一个季度新增的净 ARR 中位数全年都在稳步增长，并在第四季度出现季节性飙升。这在 2020 年和 2021 年是一致的。您可以看到我们在 22 年第三季度的趋势中突破了哪里（这是宏观压力真正开始发挥作用的时候）。"
 source: "https://cloudedjudgement.substack.com/p/a-look-back-at-q2-23-public-cloud"
 ---

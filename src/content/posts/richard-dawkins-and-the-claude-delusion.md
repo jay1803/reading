@@ -2,6 +2,7 @@
 title: "Richard Dawkins and The Claude Delusion"
 date: 2026-05-03T08:01:45Z
 category: reading
+author: "Gary Marcus"
 description: "Gary Marcus 批评 Richard Dawkins 把 Claude 的拟人化自述当成意识证据：这犯了“从输出直接推断内在状态”的错误，也重复了 Blake Lemoine 当年把 LaMDA 当作有感知存在的老问题。LLM 能生成像人类报告感受的文字，但文字相似不能证明生成机制、世界经验或主观感受相似。"
 source: "https://garymarcus.substack.com/p/richard-dawkins-and-the-claude-delusion"
 ---

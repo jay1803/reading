@@ -2,6 +2,7 @@
 title: "Then and Today"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Rebecca Darley"
 description: "这篇文章真正写的不是特拉帕尼盐田，而是一个更锋利的判断：人对旧技术的怀旧，往往怀念的不是低效率本身，而是技术还嵌在地方材料、身体经验与社区知识里的时代。现代系统更强，却更像外部秩序；旧系统更苦，却仍让人感觉自己能理解、修补并与之共同生活。"
 source: "https://coffeewithclio.substack.com/p/then-and-today"
 ---

@@ -2,6 +2,7 @@
 title: "The Seven Samurai: How Big Tech Rescued the Market in 2023!"
 date: 2024-04-25T15:01:37Z
 category: reading
+author: "Aswath Damodaran"
 description: "Over the eleven-year period, the cumulative market capitalization of the seven companies has risen from $1.1 trillion in 2012 to $12 trillion in 2023, rising..."
 source: "https://aswathdamodaran.blogspot.com/2024/02/the-seven-samurai-how-big-tech-rescued.html"
 ---

@@ -2,6 +2,7 @@
 title: "ServiceTitan: Benchmarking the S1 Data"
 date: 2024-11-25T16:05:49Z
 category: reading
+author: "Jamin Ball"
 description: "From the S1 - “ServiceTitan is the operating system that powers the trades."
 source: "https://cloudedjudgement.substack.com/p/servicetitan-benchmarking-the-s1"
 ---

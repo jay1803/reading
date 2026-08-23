@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.30.26 - Software is Dead...Again!"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章的核心判断是：当下云软件公司估值跌到近十年低点，并不只是利率或短期情绪问题，而是市场对 SaaS 模式最关键的两条信念开始动摇了——第一，客户留存是否还能像过去那样稳定；第二，这些公司未来是否真的还拥有可靠的 terminal value。AI 让市场第一次更认真地相信：一些“稳定的软件现金流机器”未来可..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-13026-software"
 ---

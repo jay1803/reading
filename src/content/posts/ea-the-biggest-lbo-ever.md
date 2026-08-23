@@ -2,6 +2,7 @@
 title: "🎮 EA: The Biggest LBO Ever"
 date: 2025-10-10T00:42:08Z
 category: reading
+author: "Kevin Palmer"
 description: "EA 净预订额自 2022 年高点 75 亿美元起持续持平——Silver Lake 把这种\"无聊的可预测性\"读作 LBO 的前提条件，而不是缺陷，并凭此堆上了史上最大杠杆收购的 200 亿美元债务。"
 source: "https://www.appeconomyinsights.com/p/ea-the-biggest-lbo-ever"
 ---

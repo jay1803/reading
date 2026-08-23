@@ -2,6 +2,7 @@
 title: "Peak absurdity, Part II"
 date: 2026-04-16T08:01:43Z
 category: reading
+author: "Gary Marcus"
 description: "作者真正想说的不是 Oracle 当初那一跳有多离谱，而是 AI 泡沫已经外溢到更荒唐的阶段：连濒死公司只要改口说自己要做 AI 算力生意，也能被市场重新包装成高增长故事，这说明定价机制开始奖励叙事贴牌，而不是基本面。"
 source: "https://garymarcus.substack.com/p/peak-absurdity-part-ii"
 ---

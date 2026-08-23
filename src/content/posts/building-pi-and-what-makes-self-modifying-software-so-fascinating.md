@@ -2,6 +2,7 @@
 title: "Building Pi, and what makes self-modifying software so fascinating"
 date: 2026-04-30T08:02:48Z
 category: reading
+author: "Gergely Orosz"
 description: "Mario Zechner 是 Pi 的作者：一个极简、可自我修改的 AI coding agent，也是 OpenClaw 底层 agent core 的重要基础。Armin Ronacher 是 Flask 作者、长期开源维护者，也是 Pi 的早期重度用户和贡献者；他最近访谈了 30+ 工程团队，观察 AI..."
 source: "https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying"
 ---

@@ -2,6 +2,7 @@
 title: "What is Growth Engineering?"
 date: 2025-03-21T09:07:47Z
 category: reading
+author: "Gergely Orosz"
 description: "这篇文章深入探讨了增长工程（Growth Engineering）这一领域，解释了它是什么、增长工程师做什么、他们如何工作，以及这一领域对公司的价值。增长工程的核心在于通过编写代码来帮助公司增加收入，主要关注于优化用户旅程的关键环节，如吸引用户、转化付费和提升留存。"
 source: "https://newsletter.pragmaticengineer.com/p/what-is-growth-engineering"
 ---

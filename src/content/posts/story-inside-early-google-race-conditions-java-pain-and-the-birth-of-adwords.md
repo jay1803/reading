@@ -2,6 +2,7 @@
 title: "Story: Inside Early Google - Race Conditions, Java Pain, and the Birth of AdWords"
 date: 2026-03-27T08:01:05Z
 category: reading
+author: "Adam Gordon Bell"
 description: "Ron Garrett（笔名 Erann Gat），前 NASA/JPL Lisp 研究员，曾主导将 Lisp 用于行星探测器自主控制系统（CoRecursive 第 76 集\"Lisp in Space\"主角）。2000 年以第约 100 号员工身份加入 Google，被指派构建 AdWords，一年后离职重返..."
 source: "https://corecursive.com/inside-early-google/"
 ---

@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.22.25 - Workflows Are the New Databases"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Jamin Ball"
 description: "AI Agent 的核心瓶颈不是模型能力，而是执行持久性。Workflow engine（持久化工作流引擎）正在成为 AI 时代的新型数据库——对 AI 应用不是可选组件，而是生存性基础设施。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-82225-workflows"
 ---

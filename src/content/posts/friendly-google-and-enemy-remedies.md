@@ -2,6 +2,7 @@
 title: "Friendly Google and Enemy Remedies"
 date: 2024-09-02T16:17:30Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章探讨了美国司法部对谷歌提起的反垄断诉讼，尤其关注谷歌使用的默认搜索引擎合同如何影响其市场主导地位。文章分析了谷歌在数字市场中的行为，阐明了司法部针对谷歌的法律主张，以及该案可能带来的产业影响。"
 source: "https://stratechery.com/2024/friendly-google-and-enemy-remedies/"
 ---

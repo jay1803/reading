@@ -2,6 +2,7 @@
 title: "The world reveals itself to those who travel by foot"
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Henrik Karlsson"
 description: "世界的“可能性”更像被行动逐步打开的生成式地形：当你带着信任、游戏感和可承受的失败成本去接触陌生人、进入陌生场景、发起未成形的项目，世界会回馈更多关系、路径和可探索的空间；好朋友的关键作用，是把这种外向行动变成可以练习的技能。"
 source: "https://www.henrikkarlsson.xyz/p/travel-by-foot"
 ---

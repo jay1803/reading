@@ -2,6 +2,7 @@
 title: "Advanced Swift Concurrency: Understanding Tasks"
 date: 2025-05-12T13:48:41Z
 category: reading
+author: "Jacob Bartlett"
 description: "Task 优先级映射与直觉相反（.background 低于 .low，.userInitiated 才等于 .high），Swift 协作式取消（cooperative cancellation）不会立即停止工作，必须手动检查 Task.isCancelled——这两点是大多数并发 bug 的根源。"
 source: "https://blog.jacobstechtavern.com/p/advanced-swift-concurrency"
 ---

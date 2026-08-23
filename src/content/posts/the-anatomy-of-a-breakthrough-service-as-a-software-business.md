@@ -2,6 +2,7 @@
 title: "The anatomy of a breakthrough “Service-as-a-Software” business"
 date: 2025-01-17T18:59:03Z
 category: reading
+author: "Kate Syuma"
 description: "Many of the next generation AI apps don’t simply provide a platform to make people more productive, they own a process from beginning to end. They autonomous..."
 source: "https://www.growthunhinged.com/p/chargeflow-growth-story"
 ---

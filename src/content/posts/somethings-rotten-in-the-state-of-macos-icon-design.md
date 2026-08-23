@@ -2,6 +2,7 @@
 title: "Something’s Rotten in the State of macOS Icon Design"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Jim Nielsen"
 description: "Jim Nielsen 的核心判断是：macOS 图标设计正在从具体、可辨识、有手艺感的对象，退化成被 Apple 规则压扁的统一 squircle 模板；问题不只是某几个新图标难看，而是平台审美标准本身在收窄，并把整个生态一起带进去。"
 source: "https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/"
 ---

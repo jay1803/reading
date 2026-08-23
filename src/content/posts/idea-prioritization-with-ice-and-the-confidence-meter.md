@@ -2,6 +2,7 @@
 title: "Idea Prioritization With ICE and The Confidence Meter"
 date: 2022-04-12T14:38:37Z
 category: growth
+author: "Itamar Gilad"
 description: "Impact is an estimate of how much the idea will positively affect the key metric you’re trying to improve."
 source: "https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/"
 ---

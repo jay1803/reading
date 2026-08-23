@@ -2,6 +2,7 @@
 title: "🔐 Cybersecurity's AI Moment"
 date: 2026-06-06T08:04:42Z
 category: reading
+author: "Kevin Palmer"
 description: "AI安全论题已被市场提前定价——Palo Alto和CrowdStrike双双交出超预期季报后股价均下跌，不是因为基本面有问题，而是两只股票在财报前已分别上涨50%和60%，把AI叙事完全折现进了估值。真正值得注意的是：需求性质正在从\"被动购买安全保险\"转向\"主动扩张AI基础设施控制平面\"，而这个转变比AI本身更持久。"
 source: "https://www.appeconomyinsights.com/p/cybersecuritys-ai-moment"
 ---

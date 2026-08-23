@@ -2,6 +2,7 @@
 title: "2021 SaaS Survey Results"
 date: 2021-11-14T13:53:13Z
 category: report
+author: "David Skok"
 description: "Upsell are easier then acquisition new customers."
 source: "https://www.forentrepreneurs.com/2021-saas-survey-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=2021-saas-survey-part-2"
 ---

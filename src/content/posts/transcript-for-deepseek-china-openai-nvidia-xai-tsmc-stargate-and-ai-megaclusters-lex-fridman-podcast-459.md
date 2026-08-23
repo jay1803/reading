@@ -2,6 +2,7 @@
 title: "Transcript for DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459"
 date: 2025-02-12T17:10:54Z
 category: reading
+author: "Lex Fridman"
 description: "Here is a summary of the key topics covered in the Lex Fridman Podcast #459 with Dylan Patel and Nathan Lambert:"
 source: "https://lexfridman.com/deepseek-dylan-patel-nathan-lambert-transcript"
 ---

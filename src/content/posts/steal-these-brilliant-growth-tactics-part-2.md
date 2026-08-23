@@ -2,6 +2,7 @@
 title: "Steal these brilliant growth tactics (part 2)"
 date: 2025-04-17T14:16:46Z
 category: reading
+author: "Kate Syuma"
 description: "Steal these brilliant growth tactics"
 source: "https://www.growthunhinged.com/p/brilliant-growth-tactics-part-two"
 ---

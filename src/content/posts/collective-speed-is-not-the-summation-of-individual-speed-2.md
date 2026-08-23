@@ -2,6 +2,7 @@
 title: "Collective Speed Is Not the Summation of Individual Speed"
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Jim Nielsen"
 description: "组织速度的瓶颈通常不在个体产出，而在交接界面；AI 把编码者加速 10 倍，若需求、评审、集成、沟通这些“接棒”仍然粗糙，公司不会得到 10 倍质量或 10 倍速度。"
 source: "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
 ---

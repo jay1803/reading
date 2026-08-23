@@ -2,6 +2,7 @@
 title: "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football"
 date: 2026-08-14T17:50:00Z
 category: reading
+author: "Lex Fridman"
 description: "Khabib 明确区分两种驱动力：想赢是绝大多数人的动机，不允许自己输才是极少数人的底层逻辑，也是他训练狂热与统治力的真正来源。"
 source: "https://lexfridman.com/khabib-nurmagomedov/"
 ---

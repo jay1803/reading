@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.6.24 - King Making"
 date: 2024-09-15T14:23:08Z
 category: reading
+author: "Jamin Ball"
 description: "Just this week a couple month old company raised $1b dollars."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-9624-king-making"
 ---

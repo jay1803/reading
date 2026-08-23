@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.10.24 - Software Weakness Across the Board"
 date: 2024-05-11T10:48:14Z
 category: reading
+author: "Jamin Ball"
 description: "sum up software earnings in one quote it would be the following from Yamini Rangan, the Hubspot CEO:"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-51024-software"
 ---

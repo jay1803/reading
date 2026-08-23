@@ -2,6 +2,7 @@
 title: "The Subprime AI Crisis Is Here"
 date: 2026-04-02T08:01:08Z
 category: reading
+author: "Ed Zitron"
 description: "AI 需求本质上是补贴制造的，一旦定价接近真实成本，需求会消失——这意味着整个行业没有任何定价策略可以救市，提价或限速都必然摧毁产品价值，留给 Anthropic 和 OpenAI 的路只有\"继续亏\"或\"用户跑光\"。"
 source: "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
 ---

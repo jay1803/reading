@@ -2,6 +2,7 @@
 title: "Intel’s Death and Potential Revival"
 date: 2025-01-02T11:03:26Z
 category: reading
+author: "Ben Thompson"
 description: "The 8088 processor, meanwhile, was a low-cost variant of the 8086 processor; up to that point most new processors came with their own instruction set, but th..."
 source: "https://stratechery.com/2024/intels-death-and-potential-revival/"
 ---

@@ -2,6 +2,7 @@
 title: "Essay Writing Under Pressure – How to Finish When You Don't Feel Like It"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Ed Latimore"
 description: "意志力是对抗高压写作最低效的武器——压力下大脑认知负荷飙升，每个决策都感觉代价高昂；真正有效的不是激励自己，而是把\"开始\"这个动作本身设计得足够便宜。"
 source: "https://edlatimore.com/essay-writing-under-pressure"
 ---

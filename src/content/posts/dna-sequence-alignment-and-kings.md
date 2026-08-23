@@ -2,6 +2,7 @@
 title: "DNA Sequence Alignment and Kings"
 date: 2026-07-02T08:03:15Z
 category: reading
+author: "John D. Cook"
 description: "DNA双链比对时，每一步可以在第一条链插gap、在第二条链插gap、或两条都不插——这三种选择与国际象棋王从棋盘一角走到对角时每步可走N、E、NE完全同构。因此，m个碱基对的序列与n个碱基对的序列之间可能的比对总数，恰好等于Delannoy数D(m,n)。"
 source: "https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/"
 ---

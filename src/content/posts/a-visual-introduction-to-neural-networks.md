@@ -2,6 +2,7 @@
 title: "A Visual Introduction to Neural Networks"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "神经网络的\"学习\"归根结底是一个几何问题：通过反复调整权重，把一个超平面（或更复杂的决策边界）移动到能正确切分数据的位置；反向传播只是用微积分链式法则自动算出\"应该往哪个方向移\"。"
 source: "https://photonlines.substack.com/p/grokking-neural-networks"
 ---

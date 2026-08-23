@@ -2,6 +2,7 @@
 title: "Case Study: Growth Hacking Pre-Launch Revenue"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "Trak.io 在私测排队期把“等候成本”直接货币化：允许用户花 29 美元跳过队列，结果两周内 983 次访问带来 105 笔销售，基础转化率 11%，还顺手卖出更高价套餐。真正有价值的不是这 3340 美元收入，而是用付款把最急、最痛、最可能认真反馈的用户筛出来，同时验证他们是否真的愿意为问题付费。"
 source: "http://sixteenventures.com/pre-launch-growth-hacking?utm_source=rss&utm_medium=rss&utm_campaign=pre-launch-growth-hacking"
 ---

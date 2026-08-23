@@ -2,6 +2,7 @@
 title: "Thin Is In"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Ben Thompson"
 description: "AI 把客户端—服务器关系从“本地计算+远端数据”的厚客户端时代，重新拉回“终端只负责连接，核心能力都在数据中心”的薄客户端时代。聊天和 agent 的意义不只是交互更自然，而是把大量曾经依赖本地 UI、设备性能和用户工作流熟练度的价值，转移到云端推理、上下文记忆和共享基础设施上；这会削弱传统软件 UI 的护城河..."
 source: "https://stratechery.com/2026/thin-is-in/"
 ---

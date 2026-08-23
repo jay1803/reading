@@ -2,6 +2,7 @@
 title: "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Cory Doctorow"
 description: "加拿大的数字主权辩论聚焦在\"建设本土AI\"上，但这是个假问题。就算特朗普明天关掉所有美国聊天机器人，加拿大什么都不会变。真正的风险是：他可以通过关闭微软M365账户让联邦部委失去所有工作文件，或者用远程锁机让全省iPhone和农用拖拉机集体变砖。这不是假设——已经在发生。"
 source: "https://pluralistic.net/2026/06/25/thieve-different/"
 ---

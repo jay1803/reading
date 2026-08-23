@@ -2,6 +2,7 @@
 title: "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)"
 date: 2026-04-15T08:02:20Z
 category: reading
+author: "Cory Doctorow"
 description: "作者真正想保卫的不是“把痛苦关掉”，而是把痛苦暂时导入有目标的创造性 flow。好的 compartmentalization 会留下作品、判断和行动，坏的 compartmentalization 只会把人推入无目标、事后后悔的 zombie flow。"
 source: "https://pluralistic.net/2026/04/14/compartment/"
 ---

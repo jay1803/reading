@@ -2,6 +2,7 @@
 title: "🎧 Spotify: The Wrapped Effect"
 date: 2026-02-24T10:13:42Z
 category: reading
+author: "Kevin Palmer"
 description: "Spotify 没有独家内容、标签拿走约 70% 收入——但它的净流失率仅约 2%，护城河来自习惯、数据与分发规模；AI 内容爆炸不会削弱它，反而会放大\"过滤器\"的价值。"
 source: "https://www.appeconomyinsights.com/p/spotify-the-wrapped-effect"
 ---

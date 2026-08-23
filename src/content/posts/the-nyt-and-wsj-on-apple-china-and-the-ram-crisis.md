@@ -2,6 +2,7 @@
 title: "The NYT and WSJ on Apple, China, and the RAM Crisis"
 date: 2026-08-17T05:04:25Z
 category: reading
+author: "John Gruber"
 description: "Apple 再度尝试采购中国内存芯片，但政治阻力、地缘供应风险与 CXMT 本身产能和技术限制三重叠加，即便拿到许可也难解燃眉之急。"
 source: "https://daringfireball.net/linked/2026/08/10/the-nyt-and-wsj-on-apple-china-and-the-ram-crisis"
 ---

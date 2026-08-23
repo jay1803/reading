@@ -2,6 +2,7 @@
 title: "Pluralistic: Molly Crabapple's 'Here Where We Live Is Our Country' (01 Jun 2026)"
 date: 2026-06-02T08:01:20Z
 category: reading
+author: "Cory Doctorow"
 description: "Bund 的核心价值是证明犹太安全曾经存在另一条政治路线：把犹太人当作所在社会的平等成员来争取解放，把身份压迫纳入普遍劳动者解放的战略中，拒绝把安全寄托在民族国家、军事堡垒和对他者的排除上。"
 source: "https://pluralistic.net/2026/06/01/doikayt/"
 ---

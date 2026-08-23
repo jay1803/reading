@@ -2,6 +2,7 @@
 title: "Eric Jang – Building AlphaGo from scratch"
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Dwarkesh Patel"
 description: "模型：openai-codex/gpt-5.5"
 source: "https://www.dwarkesh.com/p/eric-jang"
 ---

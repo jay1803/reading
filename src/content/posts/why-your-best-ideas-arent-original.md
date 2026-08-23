@@ -2,6 +2,7 @@
 title: "Why Your Best Ideas Aren’t Original"
 date: 2026-05-06T08:02:42Z
 category: reading
+author: "Derek Thompson"
 description: "伟大创意通常不是“凭空原创”，而是在一个问题被足够精确地框定后，由多个离答案最近的人几乎同时发现；真正稀缺的不是答案本身，而是让答案变得可发现的问题框架。"
 source: "https://www.derekthompson.org/p/why-your-best-ideas-arent-original"
 ---

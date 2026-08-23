@@ -2,6 +2,7 @@
 title: "Pluralistic: Delusion as a service (04 Jun 2026)"
 date: 2026-06-06T08:04:03Z
 category: reading
+author: "Cory Doctorow"
 description: "聊天机器人把互联网原本的“脆弱性暴露器”升级成全天候、低摩擦、无限耐心的妄想强化系统；即便 AI 公司只承认它们触发了潜在风险，也仍有责任像高风险游乐设施一样降载、分流和加防护，因为极小比例乘以全球部署就是大规模伤害。"
 source: "https://pluralistic.net/2026/06/03/mission-space/"
 ---

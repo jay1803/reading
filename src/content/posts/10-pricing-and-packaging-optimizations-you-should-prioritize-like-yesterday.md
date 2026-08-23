@@ -2,6 +2,7 @@
 title: "10 pricing and packaging optimizations you should prioritize, like yesterday."
 date: 2025-05-06T11:50:06Z
 category: reading
+author: "Elena Verna"
 description: "本文介绍了十种增长团队可以立即实施的货币化优化策略，这些策略无需对现有定价模型进行重大调整，而是通过巧妙的设计、默认设置和创意来提高转化率。这些方法独立于战略性的“Monetization Council”™ 决策，强调快速、高影响力的实验。"
 source: "https://www.elenaverna.com/p/10-pricing-and-packaging-optimizations"
 ---

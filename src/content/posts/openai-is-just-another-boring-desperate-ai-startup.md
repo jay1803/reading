@@ -2,6 +2,7 @@
 title: "OpenAI Is Just Another Boring, Desperate AI Startup"
 date: 2025-10-09T16:18:15Z
 category: reading
+author: "Ed Zitron"
 description: "OpenAI 的\"万物公司\"叙事不是战略，是融资工具——它的真实身份是一家靠 ChatGPT 订阅勉强维生、API 营收微乎其微的软件公司，和任何其他 AI 创业公司没有本质区别。"
 source: "https://www.wheresyoured.at/sora2-openai/"
 ---

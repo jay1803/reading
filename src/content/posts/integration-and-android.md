@@ -2,6 +2,7 @@
 title: "Integration and Android"
 date: 2024-09-02T16:15:56Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章探讨了智能手机尤其是高端市场中集成的重要性，并讨论了谷歌和其他竞争者如何通过产品集成来应对市场挑战。文章中的核心问题是集成和创新对于保持市场竞争力的重要性，以及AI在这一过程中扮演的角色。"
 source: "https://stratechery.com/2024/integration-and-android/"
 ---

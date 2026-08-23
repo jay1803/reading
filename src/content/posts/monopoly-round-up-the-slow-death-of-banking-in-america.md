@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: The Slow Death of Banking in America"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Matt Stoller"
 description: "Crypto 已放弃意识形态包装，直接盯上银行的廉价存款。\"稳定币利息\"合不合法，决定地方银行是否存活——这场零和争斗中暂时刹车的，不是监管机构，而是同样腐化的银行游说团体本身。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-slow-death"
 ---

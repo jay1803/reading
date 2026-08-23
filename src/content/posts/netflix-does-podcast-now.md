@@ -2,6 +2,7 @@
 title: "🍿 Netflix Does Podcast Now?"
 date: 2025-10-22T11:09:17Z
 category: reading
+author: "Kevin Palmer"
 description: "Netflix 在 2025 财年三季度以 115 亿美元营收和 28% 的营业利润率稳住增长，同时顶住 6.19 亿美元巴西税务一次性冲击，继续押注广告、全球爆款内容与新互动格式（视频播客、电视端社交游戏），为 2026 年恢复利润率与拓宽参与度铺路。"
 source: "https://www.appeconomyinsights.com/p/netflix-does-podcast-now"
 ---

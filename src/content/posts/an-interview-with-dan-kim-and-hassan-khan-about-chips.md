@@ -2,6 +2,7 @@
 title: "An Interview with Dan Kim and Hassan Khan About CHIPS"
 date: 2025-05-06T16:11:37Z
 category: reading
+author: "Ben Thompson"
 description: "Dan Kim：前CHIPS计划首席经济学家，曾任SK Hynix首席经济学家、Qualcomm经济战略总监、美国国际贸易委员会高级国际经济学家；职业起点是剑桥大学博士/博士后，毕业后被韩国国际贸易协会主席（现任韩国代总统Han Duck-soo）招募赴华盛顿任经济学家。Hassan Khan：前CHIPS经济安..."
 source: "https://stratechery.com/2025/an-interview-with-dan-kim-and-hassan-khan-about-chips/"
 ---

@@ -2,6 +2,7 @@
 title: "The Myth of Unavoidable Churn"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "作者认为，SaaS 公司对“不可避免流失”的估计通常严重偏高。把 SMB 倒闭率、低客单价、客群流动性或某个市场的常识当成免检解释，会让团队跳过根因分析，提前放弃本可通过定位、筛选、预期管理、交付和客户成功动作压下来的流失；这直接压低 LTV。"
 source: "http://sixteenventures.com/unavoidable-churn"
 ---

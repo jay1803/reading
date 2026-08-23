@@ -2,6 +2,7 @@
 title: "Why your marketing isn't working"
 date: 2025-12-08T16:56:29Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章本质上是在用四个片段回答同一个问题：增长失效，往往不是单点战术失效，而是系统约束变了。无论是营销、产品迭代、SaaS 退出还是 OpenAI 的商业化，真正决定结果的都不是局部优化，而是分发机制、采用速度、买方结构和收入层叠方式这些底层约束。"
 source: "https://www.growthunhinged.com/p/why-your-marketing-isnt-working"
 ---

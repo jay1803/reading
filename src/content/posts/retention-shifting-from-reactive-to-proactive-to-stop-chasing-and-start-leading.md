@@ -2,6 +2,7 @@
 title: "Retention: Shifting from Reactive to Proactive to Stop Chasing and Start Leading"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "从被动到主动 retention 的真正障碍，不是执行力不足，而是没有先主动清空低价值活动——不\"腾出空间\"，任何\"更主动\"的计划只是在已满负荷的基础上再叠任务。"
 source: "https://sixteenventures.com/reactive-to-proactive-retention"
 ---

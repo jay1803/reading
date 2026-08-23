@@ -2,6 +2,7 @@
 title: "Your guide to growth amid uncertainty"
 date: 2022-06-29T13:17:31Z
 category: growth
+author: "Kyle Poyar"
 description: "保护核心业务：重点关注客户留存，制定应对客户要求折扣或减少支出的策略。"
 source: "https://kylepoyar.substack.com/p/your-guide-to-growth-amid-uncertainty"
 ---

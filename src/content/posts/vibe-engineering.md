@@ -2,6 +2,7 @@
 title: "Vibe engineering"
 date: 2025-10-09T16:09:00Z
 category: reading
+author: "Simon Willison"
 description: "AI coding agent 的实际效益与工程师现有水平成正比：测试套件越完善 agent 循环越快、规划越前置 agent 偏差越小、文档越齐全 agent 越少读代码。AI 奖励已有优秀习惯，惩罚缺失优秀习惯——门槛在原地，上限在抬高。"
 source: "https://simonwillison.net/2025/Oct/7/vibe-engineering/"
 ---

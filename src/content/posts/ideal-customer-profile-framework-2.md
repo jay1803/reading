@@ -2,6 +2,7 @@
 title: "Ideal Customer Profile Framework"
 date: 2026-03-11T01:01:07Z
 category: reading
+author: "Lincoln Murphy"
 description: "ICP 不是客户画像，而是一个限时假设：为特定目标、特定时间窗口、特定当前能力上限，定义一种可被证伪的客户类型——然后用里程碑主动检验并替换它。"
 source: "https://sixteenventures.com/ideal-customer-profile?amp=1"
 ---

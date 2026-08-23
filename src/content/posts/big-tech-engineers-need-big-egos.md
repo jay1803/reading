@@ -2,6 +2,7 @@
 title: "Big tech engineers need big egos"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Sean Goedecke"
 description: "大型科技公司的顶尖工程师并非\"低自我\"——高自我是职能运转的前提——但真正稀缺的品质是知道在哪一刻把自我收起来。"
 source: "https://seangoedecke.com/big-tech-needs-big-egos/"
 ---

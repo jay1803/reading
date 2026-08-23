@@ -2,6 +2,7 @@
 title: "Growth Intelligence Brief #15"
 date: 2026-03-18T08:01:19Z
 category: reading
+author: "Kevin Indig"
 description: "GPTBot 会在零反向链接、零权威的全新域名上线后几分钟内自动爬取，爬取密度是 Googlebot 的 470 倍——但高爬取量与能否在 ChatGPT 答案中被引用完全无关，两者走的是不同逻辑链路。"
 source: "https://www.growth-memo.com/p/growth-intelligence-brief-15"
 ---

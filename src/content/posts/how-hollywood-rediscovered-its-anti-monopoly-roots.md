@@ -2,6 +2,7 @@
 title: "How Hollywood Rediscovered Its Anti-Monopoly Roots"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Matt Stoller"
 description: "Hollywood 这次反对 Paramount-Warner 合并的核心意义，不只是“艺术家反对大公司”，而是创作者群体重新把行业衰败解释为可被政治和法律干预的垄断问题：就业减少、产量下降、发行路径收窄、利润参与消失、创作多样性下降，都被组织成了 Clayton Act 语境下可提交给法官的证据。"
 source: "https://www.thebignewsletter.com/p/how-hollywood-rediscovered-its-anti"
 ---

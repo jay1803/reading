@@ -2,6 +2,7 @@
 title: "SEO is a product, AEO is brand"
 date: 2026-05-15T08:01:24Z
 category: reading
+author: "Eli Schwartz"
 description: "AEO 不该被塞进 SEO 团队：SEO 的本质更像产品管理，负责让网站被发现、被抓取、被长期建设；AEO 的关键是品牌共识，取决于外部世界是否持续、正面、具体地谈论你。"
 source: "https://www.productledseo.com/p/seo-is-a-product-aeo-is-brand"
 ---

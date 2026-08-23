@@ -2,6 +2,7 @@
 title: "sqlite AGENTS.md"
 date: 2026-05-29T08:01:14Z
 category: reading
+author: "Simon Willison"
 description: "SQLite 的 AGENTS.md 不是在邀请 AI 直接改 SQLite，而是在把边界写给外部 coding agents：可接受的是带可复现测试用例的 agentic bug report，不接受 agentic code；PR 最多作为 proof-of-concept 供人类维护者参考，并且还要满足 S..."
 source: "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything"
 ---

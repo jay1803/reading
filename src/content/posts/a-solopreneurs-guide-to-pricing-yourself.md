@@ -2,6 +2,7 @@
 title: "A solopreneur’s guide to pricing yourself"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Elena Verna"
 description: "定价自己的核心错误不是数字选错，而是用错了定价逻辑——你卖的是知识杠杆，不是劳动时间，两者的定价机制根本不同。"
 source: "https://www.elenaverna.com/p/a-solopreneurs-guide-to-pricing-yourself"
 ---

@@ -2,6 +2,7 @@
 title: "🤖 NVIDIA: Bubble Talk Meets Reality"
 date: 2025-11-30T20:19:43Z
 category: reading
+author: "Kevin Palmer"
 description: "NVIDIA 正用 610 亿美元现金反向入股自己最大的客户（OpenAI、Anthropic），这不是财务多元化，而是用资本锁定多年算力采购义务——供应商变成了生态共同体，需求可见度由此从市场机制变成了合同结构。"
 source: "https://www.appeconomyinsights.com/p/nvidia-bubble-talk-meets-reality"
 ---

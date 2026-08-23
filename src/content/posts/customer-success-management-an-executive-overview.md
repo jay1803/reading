@@ -2,6 +2,7 @@
 title: "Customer Success Management: An Executive Overview"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "Customer Success 是一种经营哲学：让客户通过与公司的互动持续实现其 Desired Outcome；Customer Success Management 则是把这件事变成可执行、可扩张、可干预的运营模型。它的核心不是“关系维护”，而是持续判断客户当前所处位置、下一座 Success Milest..."
 source: "http://sixteenventures.com/customer-success-management"
 ---

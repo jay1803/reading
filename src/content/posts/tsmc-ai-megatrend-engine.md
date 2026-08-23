@@ -2,6 +2,7 @@
 title: "⚡️ TSMC: AI Megatrend Engine"
 date: 2025-10-21T13:23:04Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章的核心判断很直接：如果 AI 是一场持续多年的全球算力军备竞赛，TSMC 就是那个几乎所有参赛者都必须经过的军火厂。 作者的 thesis 不只是“TSMC 受益于 AI”，而是更强地认为：随着 AI accelerator、先进节点和先进封装需求一起爆炸，TSMC 已经从单纯的 foundry 龙头，变..."
 source: "https://www.appeconomyinsights.com/p/tsmc-ai-megatrend-engine"
 ---

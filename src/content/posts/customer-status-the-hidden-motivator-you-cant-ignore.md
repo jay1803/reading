@@ -2,6 +2,7 @@
 title: "Customer Status: The Hidden Motivator You Can’t Ignore"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "真正驱动客户内部利益相关方决策的不是产品指标，而是\"地位\"（status）——一种演化层面的母动机，其他动机（目标达成、任务完成、工具采纳）都是它的下游产物。CS 团队忽视这一层，就永远只在表面做工作。"
 source: "https://sixteenventures.com/customer-status-the-hidden-motivator-you-cant-ignore"
 ---

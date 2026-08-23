@@ -2,6 +2,7 @@
 title: "The AI Industry Is Lying To You"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Ed Zitron"
 description: "美国公布 241GW 数据中心规划，但全球实际在建的算力仅 5GW，2025 年真正上线运营的约 3GW IT load——约等于英伟达一个季度的出货量装完需要六个月。整个 AI 基础设施叙事是系统性谎言：大量宣布的项目从未动工，已动工的严重滞后，而 GPU 仍在加速出货给根本还不存在的数据中心。"
 source: "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
 ---

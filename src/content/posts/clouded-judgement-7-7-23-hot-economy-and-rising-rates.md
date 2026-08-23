@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.7.23 - Hot Economy and Rising Rates"
 date: 2023-07-11T17:06:24Z
 category: reading
+author: "Jamin Ball"
 description: "本文探讨了美国经济的强劲表现、利率上升对市场的影响，以及软件公司在当前环境下的估值变化。美联储的会议纪要显示官员们预计2023年仍有加息空间，而强劲的就业数据进一步支持了这一观点。由于经济增长稳健，市场正在权衡软着陆的可能性与持续加息带来的负面影响，软件公司的估值可能因此面临短期压力。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-7723-hot-economy"
 ---

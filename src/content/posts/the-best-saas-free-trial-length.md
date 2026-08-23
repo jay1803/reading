@@ -2,6 +2,7 @@
 title: "The Best SaaS Free Trial Length"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "免费试用期长度是一个「对外的营销幌子」——它与你内部的销售转化时间毫无关系。正确姿势是：对外提供足够长的时间让潜在客户愿意注册，对内从第一天起就全力推动转化。"
 source: "http://sixteenventures.com/saas-free-trial-length"
 ---

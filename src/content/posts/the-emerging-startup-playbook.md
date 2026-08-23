@@ -2,6 +2,7 @@
 title: "The emerging startup playbook"
 date: 2025-05-21T19:37:35Z
 category: reading
+author: "Kate Syuma"
 description: "在 post-ZIRP、AI 普及的环境下，软件已经容易构建但极难分发；这一前提逆转了过去十年的创业手册——不再是\"越快越好地 MVP、靠大规模融资买增长\"，而是质量优先、受众自建、留存验证 PMF、精简团队靠自动化，把融资从必选项变成可选项。"
 source: "https://www.growthunhinged.com/p/the-emerging-startup-playbook"
 ---

@@ -2,6 +2,7 @@
 title: "The Product-Market Fit Treadmill: Why every AI company is sprinting just to stay in place"
 date: 2025-11-19T08:43:10Z
 category: reading
+author: "Elena Verna"
 description: "AI 公司的 PMF 不再是“找到一次然后放大”，而是要持续续费的临时状态，因为底层模型能力和用户预期都在高频改写。结果是企业无法顺着“能力→价值→规模”自然推进，而是被迫反复重做产品定义、用户定义和增长叙事；大多数团队看似在增长，实际只是在重新夺回昨天的位置。"
 source: "https://www.elenaverna.com/p/the-product-market-fit-treadmill"
 ---

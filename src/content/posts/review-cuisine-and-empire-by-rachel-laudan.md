@@ -2,6 +2,7 @@
 title: "REVIEW: Cuisine and Empire, by Rachel Laudan"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "John Psmith"
 description: "菜肴史不是食材史，而是哲学史：人们对\"什么是食物、烹饪意味着什么\"的信念决定了他们怎么做饭，而这套信念的更迭——不是新食材的到来——才是饮食变革的真正驱动力。"
 source: "https://www.thepsmiths.com/p/review-cuisine-and-empire-by-rachel"
 ---

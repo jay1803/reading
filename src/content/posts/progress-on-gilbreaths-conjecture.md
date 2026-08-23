@@ -2,6 +2,7 @@
 title: "Progress on Gilbreath’s conjecture"
 date: 2026-07-12T08:02:55Z
 category: reading
+author: "John D. Cook"
 description: "Gilbreath 猜想：从素数出发，对连续项反复取差的绝对值，每行首项始终是 1。命题简单到可以对任何知道素数的人解释，但几十年来无人能证明。Erdős 预测证明它需要两百年——Cook 认为这个关于猜想的元猜想比猜想本身更有意思。"
 source: "https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/"
 ---

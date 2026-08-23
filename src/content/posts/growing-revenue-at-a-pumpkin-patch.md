@@ -2,6 +2,7 @@
 title: "Growing Revenue at a Pumpkin Patch"
 date: 2025-11-04T11:15:38Z
 category: reading
+author: "Adam Fishman"
 description: "一个学校家长义卖南瓜摊，用 per-varietal COGS 建模、Google Maps 本地 SEO、学区内儿童涂色单，把卡了 13 年的 $31.5k 天花板在两年内打到 $42.6k——门店流量增长 36%，但 AOV 下降 18%（谷歌带来的是新客，不是大单客）。"
 source: "https://www.fishmanafnewsletter.com/p/growing-revenue-at-a-pumpkin-patch"
 ---

@@ -2,6 +2,7 @@
 title: "Google, Nvidia, and OpenAI"
 date: 2025-12-08T16:51:23Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章的判断是：Google 的全面反扑同时威胁到了 Nvidia 和 OpenAI，但从长期护城河看，OpenAI 反而比 Nvidia 更有机会扛住，前提是它愿意把 ChatGPT 真正做成一个广告驱动的消费者聚合器。Nvidia 面对的是 TPU 作为可替代算力开始侵蚀高毛利的风险；OpenAI 虽然当下..."
 source: "https://stratechery.com/2025/google-nvidia-and-openai/"
 ---

@@ -2,6 +2,7 @@
 title: "Why read novels?"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "dynomight"
 description: "小说的价值是比较论证出来的。在作者看来，真正伟大的对话优于任何小说——但那种对话稀缺，难以随意创造；而刷手机短视频是目前史上最广泛的成瘾形式（瘾民数量仅次于咖啡因和尼古丁），它训练大脑去扣随机奖励的杠杆。小说在精力耗尽、无法做更难更好事情的时刻，是可选项里损耗灵魂最少的一个。"
 source: "https://dynomight.net/novels/"
 ---

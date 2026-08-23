@@ -2,6 +2,7 @@
 title: "Predictions for Customer Success in 2014"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "2014 年客户成功会从 SaaS 圈内的“新职能”升级为 B2B 公司的基础设施：CEO 会把它当作现有客户收入的 owner，董事会会把它纳入正式治理，跨部门资源会开始围绕留存和扩张配置。文章最重要的判断是，客户成功的目标将从“救火式降 churn”升级为“系统性放大客户成果”，因为真正决定长期增长和估值的，..."
 source: "http://sixteenventures.com/customer-success-2014?utm_source=rss&utm_medium=rss&utm_campaign=customer-success-2014"
 ---

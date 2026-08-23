@@ -2,6 +2,7 @@
 title: "TBM 409: Minimally Viable Consistency (Part 2)"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "John Cutler"
 description: "这篇文章讨论的是一个非常组织设计味、但其实极常见的问题：公司到底该统一到什么程度，才既不失控、也不把活人逼疯？ 作者把这个问题叫做 “minimally viable consistency”——在组织 operating system 里，尽量只保留那些“少到刚刚够用”的一致概念、术语、格式、节奏和接口。核心观..."
 source: "https://cutlefish.substack.com/p/tbm-409-minimally-viable-consistency"
 ---

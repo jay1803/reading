@@ -2,6 +2,7 @@
 title: "3 mistakes when setting up B2B referrals—and how to avoid them."
 date: 2025-05-26T17:41:43Z
 category: reading
+author: "Elena Verna"
 description: "B2B公司在实施财务激励推荐计划时常遭遇失败，主要因为错误的定价预期、缺乏有机的口碑基础以及对用户采取交易式而非情感连接的方法；成功关键在于提供有意义的激励、先建立口碑再推广、并与用户建立真诚联系。"
 source: "https://www.elenaverna.com/p/3-mistakes-when-setting-up-b2b-referralsand"
 ---

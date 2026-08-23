@@ -2,6 +2,7 @@
 title: "🌀 Oracle's NVIDIA Moment"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Kevin Palmer"
 description: "Oracle 这次被市场重估，不是因为传统软件业务改善，而是因为 OCI 突然具备了类似 NVIDIA 的基础设施杠杆：少数超大 AI 合同把未来数年的收入曲线一次性抬高。真正决定这轮叙事能否成立的，不是 4550 亿美元 RPO 本身，而是 Oracle 能否把电力、机房、GPU 和多云交付能力及时落成，把 b..."
 source: "https://www.appeconomyinsights.com/p/oracles-nvidia-moment"
 ---

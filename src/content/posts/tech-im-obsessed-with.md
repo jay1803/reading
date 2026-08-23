@@ -2,6 +2,7 @@
 title: "Tech I'm Obsessed With"
 date: 2026-03-07T17:40:36Z
 category: reading
+author: "Brad Feld"
 description: "作者把 AI coding 当成一次新的技术范式转移来亲手压测，目标是穿过营销噪音，分清真正的能力跃迁与短期包装。为此他选择最极端的实验环境：一个几乎零员工、由 Claude Code 驱动业务运营的公司，因为只有去掉遗留系统和组织摩擦，工具边界与真实生产力才会暴露出来。"
 source: "https://feld.com/archives/2026/02/tech-im-obsessed-with/"
 ---

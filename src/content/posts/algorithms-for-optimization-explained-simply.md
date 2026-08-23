@@ -2,6 +2,7 @@
 title: "Algorithms for Optimization (Explained Simply)"
 date: 2024-11-25T15:49:57Z
 category: reading
+author: "Nick M"
 description: "这篇文章主要讲的是优化算法，作者介绍了优化问题的基本概念，包括找到设计点以最小化或最大化目标函数，并讨论了约束的作用。作者还介绍了优化算法中的一些基本概念，如导数、梯度和海森矩阵。作者的观点是，优化算法是通过使用这些数学工具来找到问题的最佳解。"
 source: "https://photonlines.substack.com/p/algorithms-for-optimization-explained-f26"
 ---

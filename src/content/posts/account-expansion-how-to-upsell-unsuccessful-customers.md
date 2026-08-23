@@ -2,6 +2,7 @@
 title: "Account Expansion: How to Upsell Unsuccessful Customers"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "向未成功的客户做追加销售，不只是徒劳——它会主动破坏关系、加速流失；而真正的扩展收入是客户成功之后自然发生的副产品，不是推销出来的。"
 source: "https://sixteenventures.com/expansion-unsuccessful"
 ---

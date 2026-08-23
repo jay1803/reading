@@ -2,6 +2,7 @@
 title: "The Contracting Circle"
 date: 2026-08-16T08:57:00Z
 category: reading
+author: "Fernando Borretti"
 description: "我们曾预设的意识门槛大模型全部达到了，但几乎没人因此认为它们有道德地位——否认 AI 意识是社会公理，不是哲学结论。"
 source: "https://borretti.me/article/the-contracting-circle"
 ---

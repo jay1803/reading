@@ -2,6 +2,7 @@
 title: "Create Growth Turbo Boosts: User Conferences"
 date: 2025-05-26T17:47:41Z
 category: reading
+author: "Elena Verna"
 description: "本文将用户大会 (User Conference) 定义为一种增长的“涡轮增压 (Turbo Boosts)”，能够为公司带来短期的快速增长。文章借由特邀作者 Maya Spivak 的经验，系统性地提出了公司在决定举办用户大会之前，必须首先回答的四个关键问题，并通过 Stripe 和 HashiConf 等知名..."
 source: "https://www.elenaverna.com/p/create-growth-turbo-boosts-user-conferences"
 ---

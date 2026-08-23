@@ -2,6 +2,7 @@
 title: "Achieve Exponential Growth by Focusing on CAC Efficiency"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心判断是：决定增长差距的是 CAC 回收效率。把获客预算压到最低，并不会自动带来更强增长；更关键的是把同样的投入更快、更稳定地变成收入，再把回收出来的现金继续投回获客。这样你不只会长得更快，还更可能同时抬高公司的估值。"
 source: "https://sixteenventures.com/cac-efficiency"
 ---

@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.12.25 - Strong Q2 Earnings"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章的主结论很直接：Q2 2025 很可能是过去三年里云软件板块最好的一季。 作者看到的不只是零星公司 beat 了预期，而是一种更广泛的 sector-level 改善：aggregate net new ARR 增速创下近五年高点，Q3 forward guide 的 median raise 达到 20..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-91225"
 ---

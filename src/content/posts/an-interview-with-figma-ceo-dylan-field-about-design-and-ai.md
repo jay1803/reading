@@ -2,6 +2,7 @@
 title: "An Interview with Figma CEO Dylan Field About Design and AI"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Ben Thompson"
 description: "市场把 Figma 定性为 AI 输家，Field 的反驳很直接：AI 从分布中间采样，而真正有竞争力的作品必须出现在分布之外。这个逻辑把 AI 能力上升直接转化为设计价值上升的依据。财务证据：最近一个季度是 Figma 史上最大的超预期，而股价仍被\"AI 输家\"叙事拖着。"
 source: "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/"
 ---

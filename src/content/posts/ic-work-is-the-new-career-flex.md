@@ -2,6 +2,7 @@
 title: "IC work is the new career flex"
 date: 2026-05-15T08:01:24Z
 category: reading
+author: "Elena Verna"
 description: "AI 让一种新职位重新成立：少数拥有领导级上下文、跨职能判断和动手能力的人，可以不带团队却完成过去需要 PM、设计、工程、增长共同推进的端到端商业项目；真正的变化不只是 IC 变强，而是管理层“协调成本过滤器”的部分价值被自动化和更快试错压缩了。"
 source: "https://www.elenaverna.com/p/ic-work-is-the-new-career-flex"
 ---

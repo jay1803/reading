@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.12.24 - March CPI Update"
 date: 2024-04-15T11:31:38Z
 category: reading
+author: "Jamin Ball"
 description: "March CPI YoY was +3.5% vs expectations of +3.4% (and +3.2% in February)"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-41224-march-cpi"
 ---

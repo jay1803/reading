@@ -2,6 +2,7 @@
 title: "The Fracking of Information"
 date: 2023-07-28T14:35:10Z
 category: reading
+author: "Tomasz Tunguz"
 description: "When faced with a search box, a user might ask quantitative questions. For example, how many people from Google have a met in the last month?"
 source: "https://tomtunguz.com/km-with-llm/"
 ---

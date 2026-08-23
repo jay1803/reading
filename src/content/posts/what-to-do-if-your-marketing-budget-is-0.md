@@ -2,6 +2,7 @@
 title: "What to do if your marketing budget is $0 🪫"
 date: 2026-05-29T08:01:14Z
 category: reading
+author: "Tom Orbach"
 description: "$0 预算营销的核心资源通常已经在公司内部：产品能力、客户结果、专有数据、用户身份、员工网络、产品可见表面，以及品牌给别人“抬咖”的能力。真正的动作不是寻找免费渠道，而是把这些内部资产改造成外部愿意传播的实用工具、状态符号、公开成果或被认可的理由。"
 source: "https://www.marketingideas.com/p/what-to-do-if-your-marketing-budget"
 ---

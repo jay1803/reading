@@ -2,6 +2,7 @@
 title: "5 Steps To Choose Your Customer Acquisition Channel"
 date: 2022-07-31T01:15:28Z
 category: reading
+author: "Brian Balfour"
 description: "here are the most common possibilities you might be choosing between:"
 source: "https://brianbalfour.com/essays/5-steps-to-choose-your-customer-acquisition-channel"
 ---

@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.19.26 - Workflows are King"
 date: 2026-06-20T08:03:54Z
 category: reading
+author: "Jamin Ball"
 description: "SaaS 时代的真实护城河从来不是数据本身，而是围绕系统记录（System of Record）生长出来的数百个工作流。替换 SaaS 系统的实际成本不是迁移数据，而是重建所有工作流——这才是粘性的真正来源。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-61926-workflows"
 ---

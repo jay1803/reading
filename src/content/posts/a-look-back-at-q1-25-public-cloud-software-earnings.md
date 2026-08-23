@@ -2,6 +2,7 @@
 title: "A Look Back at Q1 '25 Public Cloud Software Earnings"
 date: 2025-06-18T21:46:49Z
 category: reading
+author: "Jamin Ball"
 description: "Q1’25 公有云与 SaaS 企业整体新增 ARR 同比下滑明显（约 -28%），但 Q1 业绩“超预期率”仍高（约 92%，中位数超额约 2.2%）；对 Q2 的展望较 Q4 回暖（约 67% 公司指引高于一致预期，中位数约 +0.3%）。Hyperscalers 新增放缓但相对更稳。"
 source: "https://cloudedjudgement.substack.com/p/a-look-back-at-q1-25-public-cloud"
 ---

@@ -2,6 +2,7 @@
 title: "JOINT REVIEW: Class, by Paul Fussell"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "John Psmith"
 description: "任何声称能让你\"升级\"的消费品都在撒谎——它只是把你锚定在当前阶层；真正的出口 Category X（主动打破阶层脚本）只对早已熟知规则的人奏效，结构上排斥了多数真正想逃离的人。"
 source: "https://www.thepsmiths.com/p/joint-review-class-by-paul-fussell"
 ---

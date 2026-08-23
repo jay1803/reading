@@ -2,6 +2,7 @@
 title: "The 5 Secrets of World-class Customer Success Managers"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章想回答的不是“优秀 CSM 看起来什么样”，而是“那些在并不完美的组织环境里依然能持续打出结果的 CSM，到底依靠什么行为模式”。Lincoln Murphy 给出的答案是五个关键词：confident、assertive、growth-oriented、efficient、consistent。这些不是..."
 source: "https://sixteenventures.com/world-class-csm"
 ---

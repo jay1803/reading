@@ -2,6 +2,7 @@
 title: "🤖 OpenAI Picks a Lane"
 date: 2026-03-29T17:23:59Z
 category: reading
+author: "Kevin Palmer"
 description: "OpenAI 正在主动缩减版图——关掉 Sora、砍掉 Disney 合作、将 Atlas 浏览器和 Codex 合并进桌面超级应用——不是因为失败，而是因为离 IPO 越近，\"酷\"越不值钱，\"利润率高且可规模化\"才值钱。终点是抢占企业和开发者桌面，而 Anthropic 已经在这条路上跑了很远。"
 source: "https://www.appeconomyinsights.com/p/openai-picks-a-lane"
 ---

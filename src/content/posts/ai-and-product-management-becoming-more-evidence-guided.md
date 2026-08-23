@@ -2,6 +2,7 @@
 title: "AI and Product Management: Becoming More Evidence-Guided"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Itamar Gilad"
 description: "多数公司正在用 AI 加速\"文档生产\"（更快写 PRD、路线图、用户故事），但这条路只会强化已有的\"功能工厂\"模式；AI 真正的杠杆点在于帮助 PM 完成他们长期缺失的 Type-2 深度分析——切换到以证据为导向的产品发现工作。"
 source: "https://itamargilad.com/ai-pm/"
 ---

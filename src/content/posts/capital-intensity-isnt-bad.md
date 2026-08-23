@@ -2,6 +2,7 @@
 title: "Capital Intensity Isn't Bad"
 date: 2025-07-03T12:28:30Z
 category: reading
+author: "Packy McCormick"
 description: "资本密集型并不天然低效；当硬科技用对资本结构（尤其是以现金流为基础的结构化融资，如 Asset-Backed Securitization, ABS），单位资本产出更高、摊薄更小，且形成更深护城河；与其用股权烧 CAC，不如把资本投入到可复用、可抵押、能产生可预测现金流的资产与系统。"
 source: "https://www.notboring.co/p/capital-intensity-isnt-bad"
 ---

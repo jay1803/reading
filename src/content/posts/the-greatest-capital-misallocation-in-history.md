@@ -2,6 +2,7 @@
 title: "The greatest capital misallocation in history?"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "Gary Marcus"
 description: "这篇短文的核心信号不是 Gary Marcus 又一次批评 AI 泡沫，而是他的技术/经济怀疑论开始进入主流市场叙事：MarketWatch 开始引用“史上最大资本错配”的判断，说明市场关注点正在从“AI 会不会有用”转向“当前基建投入能不能产生足够回报”。"
 source: "https://garymarcus.substack.com/p/the-greatest-capital-misallocation"
 ---

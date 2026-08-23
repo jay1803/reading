@@ -2,6 +2,7 @@
 title: "13 Product-building Lessons from Palantir"
 date: 2025-11-04T10:50:02Z
 category: reading
+author: "Adam Fishman"
 description: "真正限制产品速度的是信任密度，不是人力或流程密度——三段伙伴关系都印证同一件事：信任的建立路径和崩溃点，比任何协作框架更值得研究。"
 source: "https://www.fishmanafnewsletter.com/p/product-lessons-from-palantir-marina-miller"
 ---

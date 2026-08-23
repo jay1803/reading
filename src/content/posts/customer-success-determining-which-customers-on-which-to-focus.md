@@ -2,6 +2,7 @@
 title: "Customer Success: Determining Which Customers on which to Focus"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "把客户成功里的“该优先盯超级用户还是零使用用户”当成二选一，本身就是问错问题。真正该做的是让所有客户都得到与其场景匹配的 onboarding，并用分层与角色差异解释使用差异；使用两极分化只是诊断信号，不是资源分配原则。"
 source: "http://sixteenventures.com/customer-success-focus"
 ---

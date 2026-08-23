@@ -2,6 +2,7 @@
 title: "Pluralistic: Austerity creates fascism (13 Apr 2026)"
 date: 2026-04-14T08:01:12Z
 category: reading
+author: "Cory Doctorow"
 description: "作者把真正的危险放在危机后的政策反应上：AI 泡沫如果崩掉，最坏的后果不是账面财富蒸发，而是政府再次用紧缩处理崩盘，随后让公共服务塌陷、社会契约断裂、法西斯叙事接手愤怒人群。"
 source: "https://pluralistic.net/2026/04/12/always-great/"
 ---

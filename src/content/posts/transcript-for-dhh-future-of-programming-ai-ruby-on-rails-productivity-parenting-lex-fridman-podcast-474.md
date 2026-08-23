@@ -2,6 +2,7 @@
 title: "Transcript for DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Lex Fridman"
 description: "DHH（David Heinemeier Hansson），Ruby on Rails 框架创作者，37signals（Basecamp、HEY）联合创始人兼 CTO，《Rework》《Remote》等四本 NYT 畅销书合著者，同时是 Le Mans 24 小时赛同级别冠军车手。Lex Fridman 主持，以..."
 source: "https://lexfridman.com/dhh-david-heinemeier-hansson-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-david-heinemeier-hansson-transcript"
 ---

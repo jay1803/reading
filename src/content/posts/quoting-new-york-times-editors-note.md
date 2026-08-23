@@ -2,6 +2,7 @@
 title: "Quoting New York Times Editors’ Note"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Simon Willison"
 description: "这条编辑说明的真正要点不是泛泛的“AI 会写错”，而是新闻机构已经把 AI 生成的“观点摘要”误当成可直接署名的原话；一旦摘要被排版成引号，错误就从事实压缩升级为伪造引用。"
 source: "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything"
 ---

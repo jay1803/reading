@@ -2,6 +2,7 @@
 title: "The mistake of conflating intelligence and power"
 date: 2026-05-17T08:01:23Z
 category: reading
+author: "Dwarkesh Patel"
 description: "把“智能”定义成“跨领域达成目标的能力”会把智能偷换成权力；AI 风险里真正该分开的，是科学/工程式超智能、政治/组织式权力获取，以及由许多高能力 AI 放大现有人类组织后的集体竞争优势。"
 source: "https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence"
 ---

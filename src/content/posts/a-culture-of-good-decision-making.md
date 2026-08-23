@@ -2,6 +2,7 @@
 title: "A Culture of Good Decision-Making"
 date: 2024-10-22T15:39:00Z
 category: reading
+author: "Itamar Gilad"
 description: "许多组织都在决策方面遇到困难：速度和质量都远远低于他们需要的水平。主要影响因素包括："
 source: "https://itamargilad.com/decisions-part-2/"
 ---

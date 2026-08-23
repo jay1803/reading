@@ -2,6 +2,7 @@
 title: "Founder Mode by Paul Graham"
 date: 2024-09-02T16:33:36Z
 category: reading
+author: "Paul Graham"
 description: "At a YC event last week Brian Chesky gave a talk that everyone who was there will remember."
 source: "https://paulgraham.com/foundermode.html"
 ---

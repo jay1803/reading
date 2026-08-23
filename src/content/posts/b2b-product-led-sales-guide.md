@@ -2,6 +2,7 @@
 title: "B2B Product-Led Sales Guide"
 date: 2025-05-26T17:47:19Z
 category: reading
+author: "Elena Verna"
 description: "由于获客渠道饱和、成本上升以及买家决策模式的改变，传统的自上而下的 B2B 销售模式正逐渐失效。产品主导型销售 (Product-Led Sales, PLS) 成为一种新兴的市场进入策略。该策略的核心是让终端用户通过自助服务体验产品价值，并将这种用户使用行为作为建立企业级销售渠道的基础，从而根本上改变了销售流程..."
 source: "https://www.elenaverna.com/p/b2b-product-led-sales-guide"
 ---

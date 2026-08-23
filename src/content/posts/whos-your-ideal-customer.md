@@ -2,6 +2,7 @@
 title: "Who's your ideal customer?"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "90% 的 SaaS 用户流失和增长停滞，根源不是产品，而是从来没有认真回答过\"我们的理想客户是谁\"这个问题——然后用这个答案来驱动一切。"
 source: "http://sixteenventures.com/ideal-customer?utm_source=rss&utm_medium=rss&utm_campaign=ideal-customer"
 ---

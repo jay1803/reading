@@ -2,6 +2,7 @@
 title: "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Cory Doctorow"
 description: "企业废话的感受力与判断力呈负相关——被废话迷惑的员工，分析能力差、决策差、过度自信；识破废话的员工，才是组织里真正会干活的人。废话的繁殖因此有了系统性解释：不是人不聪明，是组织机制在反向筛选。"
 source: "https://pluralistic.net/2026/03/19/jargon-watch/"
 ---

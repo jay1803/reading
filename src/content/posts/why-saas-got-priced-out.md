@@ -2,6 +2,7 @@
 title: "Why SaaS got priced out"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Leah Tharin"
 description: "传统 SaaS 的问题不在业务还能不能增长，而在市场已经开始给“手工录入结构化字段”的软件范式打折。AI 一旦把输入界面改成语音、上下文和工作流兼容性，估值压缩反映的就是范式失效。"
 source: "https://www.leahtharin.com/p/why-saas-got-priced-out"
 ---

@@ -2,6 +2,7 @@
 title: "How to think like a strategic genius (5d thinking)"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Dan Koe"
 description: "高智商者更容易\"聪明地停止思考\"——在自己擅长的领域越来越精，视角却越来越窄，最终被自己的知识边界困住。突破点不是学更多，而是让思维框架本身升维：知识是水平扩张，认知是垂直生长，两者不等价。"
 source: "https://letters.thedankoe.com/p/how-to-think-like-a-strategic-genius"
 ---

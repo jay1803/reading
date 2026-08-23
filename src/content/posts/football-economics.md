@@ -2,6 +2,7 @@
 title: "Football Economics"
 date: 2025-06-23T10:27:54Z
 category: reading
+author: "Kevin Palmer"
 description: "足球是全球收视率最高的运动，真实马德里已是首家年营收超10亿美元的俱乐部——但在欧洲顶级上市球队里，2024财年唯一盈利的是多特蒙德，且盈利的全部来源是一笔转会费：卖掉贝林厄姆。"
 source: "https://www.appeconomyinsights.com/p/football-economics"
 ---

@@ -2,6 +2,7 @@
 title: "The \"Passive Income\" trap ate a generation of entrepreneurs"
 date: 2026-04-09T08:01:35Z
 category: reading
+author: "Joan Westenberg"
 description: "作者批评的焦点落在一件更深的事：很多人把“尽量不再投入”误设成创业目标。目标一旦从服务用户改成逃离投入，商业活动就会迅速退化成套利模板、垃圾内容和对野心的系统性浪费。"
 source: "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/"
 ---

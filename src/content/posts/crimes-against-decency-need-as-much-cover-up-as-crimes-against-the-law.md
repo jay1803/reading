@@ -2,6 +2,7 @@
 title: "★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law"
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "John Gruber"
 description: "合法性不是 Meta AI 眼镜最脆弱的地方；真正的产品风险来自“用户以为只是在和机器交互，实际却可能被远方外包人员观看”的社会可见性。一旦这件事被充分看见，AI 眼镜的购买意愿、佩戴者的社会观感、以及“AI 自动化”的叙事都会同时受损。"
 source: "https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law"
 ---

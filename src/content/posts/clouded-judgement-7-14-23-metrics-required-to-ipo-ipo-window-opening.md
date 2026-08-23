@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.14.23 - Metrics Required to IPO (IPO Window Opening?)"
 date: 2023-07-28T14:43:28Z
 category: reading
+author: "Jamin Ball"
 description: "本文分析了当前软件公司 IPO（首次公开募股）市场的状况，指出自 2021 年底以来，市场已长达 18 个月未见新的软件公司上市，这是近几年最长的一次 IPO 冷却期。文章回顾了过去几次 IPO 市场低迷的原因，并提供了软件公司上市的关键财务指标，探讨何时可能重新打开 IPO 窗口。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-71423-metrics-required"
 ---

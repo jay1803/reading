@@ -2,6 +2,7 @@
 title: "Pluralistic: The enshittification multiverse (27 Apr 2026)"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Cory Doctorow"
 description: "“Enshittification”最有用的定义不止是“东西变差了”：它描述的是有人先系统性减少你的选择、提高你的退出成本，再利用这种锁定把成本、风险和劣化体验转嫁给你，同时把剩余价值转移给自己。"
 source: "https://pluralistic.net/2026/04/27/analogs-and-analogies/"
 ---

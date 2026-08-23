@@ -2,6 +2,7 @@
 title: "AI inference is obviously profitable"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Sean Goedecke"
 description: "\"AI 推理不赚钱、靠烧投资人的钱撑着\"是错的。推理层面的毛利率是 70-80%，问题在于 OpenAI、Anthropic 把推理利润拿去补贴天价训练成本和人才竞争——亏的是公司，不是推理本身。"
 source: "https://seangoedecke.com/ai-inference-is-obviously-profitable/"
 ---

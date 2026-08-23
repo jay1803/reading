@@ -2,6 +2,7 @@
 title: "The Three Tariff Problem"
 date: 2025-05-06T16:00:15Z
 category: reading
+author: "Doug O'Laughlin"
 description: "文章类比“啤酒游戏 (Beer Game)”来说明当前的关税政策如何像一个“三关税问题 (Three Tariff Problem)”，在半导体等行业的供应链中引发类似“牛鞭效应 (bullwhip effect)”的混乱。关税作为一种外部冲击，即使需求本身变化不大，也会通过供应链（工厂、渠道库存、零售商）的相互..."
 source: "https://www.fabricatedknowledge.com/p/the-three-tariff-problem"
 ---

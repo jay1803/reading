@@ -2,6 +2,7 @@
 title: "SaaS Marketing: 21 Growth Hacks to Test Today"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心主张是：SaaS 增长机会大量藏在现成的产品触点、分发路径和用户行为数据里，很多公司把它们浪费在默认流程、空白页面和无效跳转上。作者列出 21 个 tactic，但真正的方法论是把营销、产品、客服、分发和留存看成同一套增长系统：每个接触点都应承接明确意图，推动下一步动作，并尽量扩大使用深度与生命周期..."
 source: "http://sixteenventures.com/saas-marketing-growth-hacks?utm_source=rss&utm_medium=rss&utm_campaign=saas-marketing-growth-hacks"
 ---

@@ -2,6 +2,7 @@
 title: "Data Update 5 for 2024: Profitability - The End Game for Business?"
 date: 2024-04-25T15:00:57Z
 category: reading
+author: "Aswath Damodaran"
 description: "If you start a business, what is your end game? Your answer to that question will determine not just how you approach running the business, but also the deta..."
 source: "https://aswathdamodaran.blogspot.com/2024/01/data-update-5-for-2024-profitability.html"
 ---

@@ -2,6 +2,7 @@
 title: "Bug management that works"
 date: 2024-10-08T13:48:16Z
 category: reading
+author: "Gergely Orosz"
 description: "Dogfood products. The term “dogfooding” is the name of the common practice of devs and employees using a product while they are building it, pre-release."
 source: "https://newsletter.pragmaticengineer.com/p/bug-management-that-works-part-1"
 ---

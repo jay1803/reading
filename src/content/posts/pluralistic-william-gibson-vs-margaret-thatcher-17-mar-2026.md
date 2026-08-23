@@ -2,6 +2,7 @@
 title: "Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Cory Doctorow"
 description: "吉布森的\"街道会找到自己对事物的用途\"与撒切尔的\"别无选择\"是同一净化逻辑的镜像。Doctorow 的核心论点：技术的政治由\"它在做什么\"决定，而非由\"它从哪里来\"决定——这个区别决定了你是拒绝工具还是夺取工具。"
 source: "https://pluralistic.net/2026/03/17/technopolitics/"
 ---

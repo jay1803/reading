@@ -2,6 +2,7 @@
 title: "NPLG 7.6.23: Frank Slootman's Advice"
 date: 2023-07-28T14:20:35Z
 category: reading
+author: "Zachary DeWitt"
 description: "In a recent [podcast](https://www.youtube.com/watch?v=VPY5fVdbPQY), Frank opines on a problem he frequently sees with young startup CEOs:"
 source: "https://notoriousplg.substack.com/p/nplg-7623-frank-slootmans-advice"
 ---

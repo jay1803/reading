@@ -2,6 +2,7 @@
 title: "From 0 to 10 million users in four years"
 date: 2024-03-18T16:12:56Z
 category: reading
+author: "Kate Syuma"
 description: "本文是关于 Copy.ai 从 0 到 1000 万用户的增长历程的访谈记录。Copy.ai 创始人兼 CEO Paul Yacoubian 分享了公司如何利用 AI 和有效的市场策略实现快速增长的经验和见解。Copy.ai 是一个 AI 平台，主要面向市场团队。"
 source: "https://www.growthunhinged.com/p/from-0-to-10-million-copy-ai"
 ---

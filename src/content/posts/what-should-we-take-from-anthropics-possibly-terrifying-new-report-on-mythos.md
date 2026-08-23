@@ -2,6 +2,7 @@
 title: "What should we take from Anthropic’s (possibly) terrifying new report on Mythos?"
 date: 2026-04-09T08:03:18Z
 category: reading
+author: "Gary Marcus"
 description: "Marcus 真正想推动的焦点，是把 Mythos 的讨论从“它到底有多像 AGI”拉回到“谁有权决定危险模型能否发布”。就算 Mythos 最终被证明被夸大，只要发布边界仍由少数公司自行划定，风险结构已经成立。"
 source: "https://garymarcus.substack.com/p/what-should-we-take-from-anthropics"
 ---

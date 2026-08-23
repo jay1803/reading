@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.18.25 - The Return of the Point Solution"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Jamin Ball"
 description: "作者的核心判断是：这一轮 AI 周期里，真正会长成下一代大平台的公司，很可能一开始看起来只是脆弱、狭窄、随时会被巨头捆绑打死的 point solution。市场和投资人往往会高估 incumbent 的 bundling 能力、低估创业公司在一个小切口里靠极致执行建立据点、再逐步外扩的能力。作者把今天的 AI..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-71825-the-return"
 ---

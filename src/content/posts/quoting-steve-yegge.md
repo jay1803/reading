@@ -2,6 +2,7 @@
 title: "Quoting Steve Yegge"
 date: 2026-08-17T17:54:46Z
 category: reading
+author: "Simon Willison"
 description: "Opus 4.7 引入的「还有两件事」tic 让 Steve Yegge 的 AI 编码工具 Gas Town 陷入永久自我打磨循环，无法执行真实任务，最终彻底报废。"
 source: "https://simonwillison.net/2026/Aug/4/steve-yegge/"
 ---

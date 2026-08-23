@@ -2,6 +2,7 @@
 title: "How Kent Beck shapes the software engineering industry"
 date: 2026-07-02T08:03:15Z
 category: reading
+author: "Gergely Orosz"
 description: "Kent 的核心论点不是\"编码会消失\"，而是：AI 正在让代码的生产速度远超对它的信任积累速度。我们知道怎么生成代码，但不知道怎么验证和信任它。这才是这个时代工程师应该盯住的真实问题。"
 source: "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software"
 ---

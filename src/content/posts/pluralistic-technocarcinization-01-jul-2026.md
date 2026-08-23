@@ -2,6 +2,7 @@
 title: "Pluralistic: Technocarcinization (01 Jul 2026)"
 date: 2026-07-02T08:03:15Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 的核心论点：Apple 和 Google 之所以都滑向 Facebook 象限，不是因为坏人当家，而是因为政策环境让最大监控 + 最大控制成为最优生存策略。他称这种趋势为\"technocarcinization\"——类比生物学中多个不相关物种独立演化出螃蟹体型的现象（carcinization）。"
 source: "https://pluralistic.net/2026/07/01/ontogeny/"
 ---

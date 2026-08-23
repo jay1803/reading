@@ -2,6 +2,7 @@
 title: "🏴‍☠️ Can Ubisoft Turn it Around?"
 date: 2026-07-11T08:05:07Z
 category: reading
+author: "Kevin Palmer"
 description: "市场给育碧的定价是 0.6x EV/平均净预订量（约 10 亿欧企业价值，vs. 近年平均约 20 亿欧净预订量）。这比挣扎中的 Square Enix（2.0x）还低三倍，已进入\"市场预期破产\"的区间。但 2025 年 11 月 Tencent 出手：以 38 亿欧前期估值向 Vantage Studios（持..."
 source: "https://www.appeconomyinsights.com/p/can-ubisoft-turn-it-around"
 ---

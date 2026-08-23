@@ -2,6 +2,7 @@
 title: "NetNewsWire Status"
 date: 2026-06-18T08:02:39Z
 category: reading
+author: "Simon Willison"
 description: "退休后的 Brent Simmons 把 NetNewsWire 当作手艺项目打磨，脱离商业压力反而让软件真正变好了。"
 source: "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything"
 ---

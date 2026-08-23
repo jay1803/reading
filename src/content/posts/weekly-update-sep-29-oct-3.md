@@ -2,6 +2,7 @@
 title: "Weekly Update Sep 29-Oct 3"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Ryan Reeves"
 description: "这是一家以数字化为核心、通过庞大线下兑付网络建立差异化的跨境汇款平台（Remitly Global）。当前以约2%的费率连接470,000个现金兑付点、覆盖5,200条“corridor”，用户数8.5M同比增20%，单客交易量在B2B推动下环比增14%，GAAP利润刚越过盈亏平衡而调整后EBITDA较强。机会在..."
 source: "https://www.investing-city.com/p/weekly-update-sep-29-oct-3"
 ---

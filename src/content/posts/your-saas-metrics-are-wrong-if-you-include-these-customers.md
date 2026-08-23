@@ -2,6 +2,7 @@
 title: "Your SaaS Metrics Are Wrong if You Include These Customers"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "把\"无法流失\"和\"太早成为客户\"两个群体都留在分母里，会让流失率比真实水平低将近 50%——不是误差，是系统性幻觉。"
 source: "http://sixteenventures.com/saas-metrics-customer-definition"
 ---

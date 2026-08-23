@@ -2,6 +2,7 @@
 title: "Trillion Dollar Market Caps: Fairy Tale Pricing or Business Marvels?"
 date: 2025-12-08T16:53:57Z
 category: reading
+author: "Aswath Damodaran"
 description: "市场对超万亿美元公司的争论从未停止，但\"贵 ≠ 贵得离谱\"——Damodaran 给出反向工程工具：从当前市值倒推\"需要多少营收才能让投资者打平\"。Nvidia 以 5 万亿美元定价，维持 53% 净利润率、等待 5 年到稳态，需要约 6780 亿营收（当前约 1000 亿）；Tesla 以 5.31% 净利润率..."
 source: "https://aswathdamodaran.blogspot.com/2025/12/trillion-dollar-market-caps-fairy-tale.html"
 ---

@@ -2,6 +2,7 @@
 title: "BOOM: Ticketmaster GUILTY of Monopolization"
 date: 2026-04-16T08:01:43Z
 category: reading
+author: "Matt Stoller"
 description: "这次关键的变化不是 Ticketmaster 又挨了一轮舆论骂，而是纽约陪审团已经在联邦和州层面把 Live Nation/Ticketmaster 判成非法垄断者。案件从“监管指控”进入“结构性处置”阶段，接下来讨论的核心不再是它有没有问题，而是法院会拆到什么程度，以及这会放大多少后续追责。"
 source: "https://www.thebignewsletter.com/p/boom-ticketmaster-guilty-of-monopolization"
 ---

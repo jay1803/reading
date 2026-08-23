@@ -2,6 +2,7 @@
 title: "Intuitive Guide to Quick Sort"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "Quick Sort 在实践中跑赢 Merge Sort，核心原因是 cache-locality：L1 缓存比 RAM 快 100 倍，Quick Sort 顺序访问内存的特性让数据长期驻留缓存——尽管它的比较次数比 Merge Sort 多约 25%。"
 source: "https://photonlines.substack.com/p/intuitive-and-visual-guide-to-quick"
 ---

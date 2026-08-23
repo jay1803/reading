@@ -2,6 +2,7 @@
 title: "The Evolution of SaaS Pricing in the AI Era"
 date: 2024-10-14T16:20:43Z
 category: reading
+author: "Tanay Jaipuria"
 description: "the seat-based pricing model has been the go-to standard in the SaaS industry."
 source: "https://www.tanayj.com/p/the-evolution-of-saas-pricing-in"
 ---

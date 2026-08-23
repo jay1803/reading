@@ -2,6 +2,7 @@
 title: "Breaking up Big Tech: Cui Bono?"
 date: 2024-10-22T15:21:14Z
 category: reading
+author: "Aswath Damodaran"
 description: "这篇文章探讨了美国大科技公司在反垄断法中的地位，以及政府是否应该使用这些法律来限制它们的权力。文章的核心问题是：应该如何处理大科技公司积累的巨大市场力量。作者认为，尽管大科技公司确实具备相当大的市场影响力，强力反垄断措施可能适得其反。"
 source: "https://aswathdamodaran.blogspot.com/2024/10/breaking-up-big-tech-cui-bono.html"
 ---

@@ -2,6 +2,7 @@
 title: "A Script for Mark Zuckerberg"
 date: 2026-07-08T08:04:03Z
 category: reading
+author: "Ben Thompson"
 description: "Ben Thompson 借 Zuckerberg 之口说的核心不是\"AI 值不值\"，而是：Meta 的 AI 豪赌是否有逻辑，完全取决于 Zuckerberg 能否接受 Meta 的真实身份——一家靠广告赚钱的娱乐和连接公司，而非平台公司。过去二十年的三次重大失误，全部源于这个身份错位。"
 source: "https://stratechery.com/2026/a-script-for-mark-zuckerberg/"
 ---

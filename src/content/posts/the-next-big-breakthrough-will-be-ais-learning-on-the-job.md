@@ -2,6 +2,7 @@
 title: "The next big breakthrough will be AIs learning on the job"
 date: 2026-06-27T08:05:09Z
 category: reading
+author: "Dwarkesh Patel"
 description: "当前各实验室的押注是：只要在足够多的可验证环境中进行 RLVR 训练，就能产生可应对任意任务的通用智能。作者认为这个假设有一个被低估的裂缝：能从 RL 中受益的领域，不只需要可验证，更需要\"可磨练\"（grindable）——即可并行、可重放、可大规模滚动的仿真环境。电脑操作进展缓慢，不是因为它不可验证，而是因为你..."
 source: "https://www.dwarkesh.com/p/the-next-paradigm"
 ---

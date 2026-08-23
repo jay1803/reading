@@ -2,6 +2,7 @@
 title: "It's time to start your content creator era"
 date: 2026-02-24T10:55:40Z
 category: reading
+author: "Elena Verna"
 description: "个人受众正在从\"个人品牌加分项\"变成招聘筛选条件和公司分发渠道——Elena 所在的 Lovable 已把员工社交账号的传播力写进岗位职责，而她在前公司时这被法务视为负债。"
 source: "https://www.elenaverna.com/p/its-time-to-start-your-content-creator"
 ---

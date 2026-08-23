@@ -2,6 +2,7 @@
 title: "Transcript for Janna Levin: Black Holes, Wormholes, Aliens, Paradoxes & Extra Dimensions | Lex Fridman Podcast #468"
 date: 2025-05-06T13:39:46Z
 category: reading
+author: "Lex Fridman"
 description: "Janna Levin，理论物理学家与宇宙学家，哥伦比亚大学巴纳德学院教授，专攻黑洞、引力波、宇宙拓扑与额外维度。著有《How the Universe Got Its Spots》《A Madman Dreams of Turing Machines》《Black Hole Blues》《Black Hole..."
 source: "https://lexfridman.com/janna-levin-transcript/"
 ---

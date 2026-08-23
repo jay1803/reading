@@ -2,6 +2,7 @@
 title: "When Sh!t Hits the Fan – Founders in a Crisis"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Steve Blank"
 description: "危机领导力的核心能力，是尽早承认“这件事会把公司估值、战略位置甚至生存空间改写一个数量级”，然后把公司从日常运营模式切到战时模式。作者看到一家共享电单车公司刚错失一个关键城市、又在争另一个决定性城市，但创始人仍把它当普通业务推进；在这种局面里，迟钝比失误更致命，因为时间窗口会先于资金窗口关闭。"
 source: "https://steveblank.com/2025/09/17/when-sht-hits-the-fan-founders-in-a-crisis/"
 ---

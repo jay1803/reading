@@ -2,6 +2,7 @@
 title: "What top 1% marketers do differently 🧠"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Tom Orbach"
 description: "顶级营销人看到失败案例时问的不是\"怎么避免\"，而是\"怎么把这个失败变成武器\"。Polymarket 发现地铁广告被涂鸦会引发传播后，主动设计了一套邀请涂鸦的广告——破坏行为本身就是这场 campaign。"
 source: "https://www.marketingideas.com/p/how-the-top-1-of-marketers-think"
 ---

@@ -2,6 +2,7 @@
 title: "Fed up with Fed Talk? Fact-checking Central Banking Fairy Tales!"
 date: 2024-10-08T18:33:36Z
 category: reading
+author: "Aswath Damodaran"
 description: "长期以来，我一直对美联储（或任何央行）改变市场或经济的能力持怀疑态度，我决定现在是面对一些关于央行权力的广泛持有的看法，并用数据来反驳它们的好时机。"
 source: "https://aswathdamodaran.blogspot.com/2024/09/fed-up-with-fed-talk-central-banks.html"
 ---

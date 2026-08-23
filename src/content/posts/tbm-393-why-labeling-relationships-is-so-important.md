@@ -2,6 +2,7 @@
 title: "TBM 393: Why Labeling Relationships Is So Important"
 date: 2025-12-08T16:56:29Z
 category: reading
+author: "John Cutler"
 description: "这篇文章的核心观点其实很简单，但非常有穿透力：组织设计里，真正重要的不只是有哪些对象（goals、initiatives、teams、projects、rituals、artifacts），而是这些对象之间到底是什么关系。 一旦你把“关系”明确标出来，很多原本含混不清、靠默认理解维持的 operating sys..."
 source: "https://cutlefish.substack.com/p/tbm-393-why-labeling-relationships"
 ---

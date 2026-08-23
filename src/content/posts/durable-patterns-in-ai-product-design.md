@@ -2,6 +2,7 @@
 title: "Durable Patterns in AI Product Design"
 date: 2026-03-16T01:01:01Z
 category: reading
+author: "Luke Wroblewski"
 description: "AI 产品设计中最耐久的问题不是技术难题，而是三个界面困境：用户不知道系统能做什么（capability awareness）、系统不清楚该看哪里（context awareness）、输出文本太多无法消化（walls of text）——这三个困境从最简单的聊天阶段就存在，进入 agentic 阶段后不会消失，..."
 source: "https://www.lukew.com/ff/entry.asp?2145"
 ---

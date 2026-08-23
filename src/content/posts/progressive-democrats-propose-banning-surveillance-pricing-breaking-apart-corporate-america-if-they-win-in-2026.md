@@ -2,6 +2,7 @@
 title: "Progressive Democrats Propose Banning Surveillance Pricing, Breaking Apart Corporate America If They Win in 2026"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "Matt Stoller"
 description: "民主党进步派正在把“affordability”重写成一套反垄断/反金融化议程：降低价格不靠补贴或道德劝说，而靠直接限制集中资本的定价权、并在必要时用国会立法拆公司。真正的变量不是这些法案短期能否通过，而是民主党内部是否会把“普通人生活成本失控”归因于垄断资本，而不是继续服务股市、AI 与大型企业利益。"
 source: "https://www.thebignewsletter.com/p/progressive-democrats-pledge-a-reordering"
 ---

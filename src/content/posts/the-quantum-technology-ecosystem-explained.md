@@ -2,6 +2,7 @@
 title: "The Quantum Technology Ecosystem – Explained"
 date: 2024-11-25T15:45:08Z
 category: reading
+author: "Steve Blank"
 description: "该页面讨论了量子技术的生态系统，包括量子计算、量子通信和量子感知等领域。作者提出了当前量子技术的发展现状、潜在应用以及面临的挑战。作者认为量子技术具有颠覆性潜力，可能会改变现有的商业模式和军事战略。"
 source: "https://steveblank.com/2022/03/22/the-quantum-technology-ecosystem-explained/"
 ---

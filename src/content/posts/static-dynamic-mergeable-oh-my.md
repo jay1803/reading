@@ -2,6 +2,7 @@
 title: "Static, Dynamic, Mergeable, oh, my!"
 date: 2026-03-15T08:15:10Z
 category: reading
+author: "Jacob Bartlett"
 description: "iOS 工程师大多知道\"用 static 还是 dynamic\"这个问题，但几乎没人能说清背后的机制。这篇文章的真正主张是：静态链接在编译期把所有目标文件物理拷贝进主 binary，动态链接只记一个路径，等启动时 dyld 才映射进来——这个\"拷贝 vs. 引用\"的区别，是所有 build time、launch..."
 source: "https://blog.jacobstechtavern.com/p/static-dynamic-mergeable-oh-my"
 ---

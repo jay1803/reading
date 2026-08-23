@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.10.25 - Rising Rates"
 date: 2025-01-17T18:54:29Z
 category: reading
+author: "Jamin Ball"
 description: "10 年期国债正在上涨！乍一看这似乎很奇怪，但发生这种情况的原因非常明确。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-11025-rising-rates"
 ---

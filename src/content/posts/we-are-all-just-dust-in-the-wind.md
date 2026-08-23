@@ -2,6 +2,7 @@
 title: "We Are All Just Dust In the Wind"
 date: 2025-06-19T15:38:00Z
 category: reading
+author: "Brad Feld"
 description: "处理负面反馈的正确尺度，不是理性上\"接受批评\"，而是把自己缩放到自然时间里——飞弹划过中东天际，屋后的岩石在他出生前已存在，批评和赞美都变成了背景噪音。"
 source: "https://feld.com/archives/2025/06/we-are-all-just-dust-in-the-wind/"
 ---

@@ -2,6 +2,7 @@
 title: "Success Potential: Real Customer Success Starts Here"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "Customer Success 的根本问题不在执行层，而在入口——明知是 bad-fit 客户却仍让其被签约时，任何后续的 CS 投入都是在下游解决上游问题，无法改变结局。"
 source: "https://sixteenventures.com/success-potential-start"
 ---

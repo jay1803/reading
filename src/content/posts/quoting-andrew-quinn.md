@@ -2,6 +2,7 @@
 title: "Quoting Andrew Quinn"
 date: 2026-05-11T08:01:08Z
 category: reading
+author: "Simon Willison"
 description: "“先找最优现成工具再动手”会让学习卡在旁观者位置；真正到达知识前沿，通常要亲手重造少数几个关键轮子。重点不是重复造一千个轮子，而是通过四五次有方向的重造，把抽象知识压进手感、问题意识和判断力里。"
 source: "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything"
 ---

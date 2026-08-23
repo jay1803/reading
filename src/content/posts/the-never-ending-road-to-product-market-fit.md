@@ -2,6 +2,7 @@
 title: "The Never Ending Road To Product Market Fit"
 date: 2022-07-31T01:15:59Z
 category: reading
+author: "Brian Balfour"
 description: "Author: Brian Balfour"
 source: "https://brianbalfour.com/essays/product-market-fit"
 ---

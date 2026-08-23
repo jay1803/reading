@@ -2,6 +2,7 @@
 title: "The Basics of Customer Onboarding"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "「已完成 Onboarding」不是客户装完了功能或看完了教程——而是客户在销售话术之外真实感受到（或清楚看见）了价值。这条线由你来划，划错了，整个流程就错了。"
 source: "https://sixteenventures.com/customer-onboarding-basics"
 ---

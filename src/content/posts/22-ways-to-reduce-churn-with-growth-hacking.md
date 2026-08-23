@@ -2,6 +2,7 @@
 title: "22 Ways to Reduce Churn with Growth Hacking"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "留住客户的前提是产品有效，但真正决定流失率的是\"销售期种下的期望\"——大多数初始90天流失，根源是销售承诺无法兑现，而不是产品本身变差了。"
 source: "http://sixteenventures.com/growth-hacking-retention?utm_source=rss&utm_medium=rss&utm_campaign=growth-hacking-retention"
 ---

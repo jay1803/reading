@@ -2,6 +2,7 @@
 title: "Why are the Artemis II photos on Flickr?"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "Anil Dash"
 description: "NASA 把 Artemis II 原始照片放在 Flickr，核心原因很现实：Flickr 仍是少数同时支持原始分辨率、相机元数据、明确许可、公共领域归档与长期保存承诺的互联网基础设施。商业社交平台擅长传播，政府官网承担权威发布；但真正要把历史影像留给未来几十年，Flickr 这种旧互联网价值观留下的公共档案反..."
 source: "https://anildash.com/2026/04/30/artemis-photos-flickr/"
 ---

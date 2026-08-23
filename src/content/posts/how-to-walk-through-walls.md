@@ -2,6 +2,7 @@
 title: "How to walk through walls"
 date: 2026-04-15T08:02:20Z
 category: reading
+author: "Henrik Karlsson"
 description: "模型: openai-codex/gpt-5.4"
 source: "https://www.henrikkarlsson.xyz/p/hacker-mindset"
 ---

@@ -2,6 +2,7 @@
 title: "An entire industry is being propped up by math that is insane."
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Gary Marcus"
 description: "Jensen Huang 把 SpaceX/OpenAI/Anthropic 的 IPO 比作早年投资 Amazon 和 Google，但若 SpaceX 复现 Amazon 的 2,538 倍回报，其市值将达 $4,442 万亿——是当前全球 GDP 的 36 倍。这在数学上根本不可能发生。"
 source: "https://garymarcus.substack.com/p/an-entire-industry-is-being-propped"
 ---

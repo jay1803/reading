@@ -2,6 +2,7 @@
 title: "The Corporate Life Cycle: Managing, Valuation and Investing Implications!"
 date: 2024-09-02T15:52:04Z
 category: reading
+author: "Aswath Damodaran"
 description: "企业生命周期模型揭示了公司从初创到衰退的发展阶段，每个阶段对公司管理、估值和投资策略产生不同影响。随着公司老化，其重点从增长转向防御，最后到下降，而对应的管理技能、估值方法和投资策略也需要相应调整。"
 source: "https://aswathdamodaran.blogspot.com/2024/08/the-corporate-life-cycle-corporate.html"
 ---

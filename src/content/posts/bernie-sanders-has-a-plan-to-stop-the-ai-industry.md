@@ -2,6 +2,7 @@
 title: "Bernie Sanders has a plan to stop the AI industry"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Timothy B. Lee"
 description: "反AI联盟在美国已经存在——劳工、AI安全、NIMBY、儿童保护各有诉求——但四方之间的分歧足以让这个联盟在政治上始终松散，Sanders的数据中心暂停法案与其说是可通过的立法，不如说是一根整合旗帜。"
 source: "https://www.understandingai.org/p/bernie-sanders-has-a-plan-to-stop"
 ---

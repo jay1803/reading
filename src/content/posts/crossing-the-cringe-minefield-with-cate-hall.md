@@ -2,6 +2,7 @@
 title: "Crossing the Cringe Minefield with Cate Hall"
 date: 2025-06-18T22:12:36Z
 category: reading
+author: "Packy McCormick"
 description: "让你提前退缩的\"预期性尴尬感\"（anticipatory cringe）是成长密度最高的坐标点：你最怕被看到的那部分自己，正是最欠开发、最能快速突破的地方。克服 cringe 的人不到 1%——这不是心理学趣事，而是一个结构性优势的入口。"
 source: "https://www.notboring.co/p/crossing-the-cringe-minefield-with"
 ---

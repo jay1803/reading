@@ -2,6 +2,7 @@
 title: "Vaulting to success"
 date: 2025-06-23T10:34:41Z
 category: reading
+author: "muji"
 description: "围绕 Identity Security 的平台化与订阅化转型已让 CyberArk 恢复高速增长并靠近 GAAP 盈亏平衡；收购 Venafi 将机器身份（Non‑Human Identities, NHI）能力翻倍，并在 Agentic AI 兴起下放大需求与交叉销售空间，季节性仍在但被 SaaS 稀释，后续..."
 source: "https://hhhypergrowth.com/vaulting-to-success/"
 ---

@@ -2,6 +2,7 @@
 title: "Customer Success is a Simple Concept (Don’t Overthink It)"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "Customer Success 最大的威胁不是概念本身的复杂，而是行业习惯给它贴 SaaS 专属标签——这让一个本可普适的理念被锁在一个角落。"
 source: "https://sixteenventures.com/customer-success-simple"
 ---

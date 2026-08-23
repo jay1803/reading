@@ -2,6 +2,7 @@
 title: "The Pragmatic Engineer AMA"
 date: 2026-07-09T08:01:56Z
 category: reading
+author: "Gergely Orosz"
 description: "Pragmatic Engineer 的存在本身是偶然：没有 COVID，没有 Uber 裁员，Gergely 大概仍是工程经理，创业想法也一直没来。计划外的停顿才让他发现自己真正喜欢写作。MCP 成为行业标准同样有偶然成分——时机对，Anthropic 当时还不够\"威胁\"。标准的诞生无法完全预测和控制。"
 source: "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama"
 ---

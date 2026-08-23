@@ -2,6 +2,7 @@
 title: "Thoughts about making a career as a writer"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Henrik Karlsson"
 description: "无法生成摘要：这篇 Substack 文章是 paid-subscriber 内容，当前可用材料只有 paywall 前的 preview，不能代表全文。"
 source: "https://www.henrikkarlsson.xyz/p/hacker-writing"
 ---

@@ -2,6 +2,7 @@
 title: "The Success Gap: A HUGE Opportunity You Haven't Considered"
 date: 2026-03-11T01:01:07Z
 category: reading
+author: "Lincoln Murphy"
 description: "顾客功能上\"用了\"产品但没达成预期目标时，他们会把失败归咎于你——而非自己。SaaS 留存的核心战场不在产品功能内，在功能边界之外。"
 source: "https://sixteenventures.com/success-gap?amp=1"
 ---

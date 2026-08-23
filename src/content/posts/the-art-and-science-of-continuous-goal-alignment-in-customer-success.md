@@ -2,6 +2,7 @@
 title: "The Art and Science of Continuous Goal Alignment in Customer Success"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户成功经理最常犯的错误：把 Goal Discovery 当成一次性仪式，却忽略目标本身会漂移。持续目标对齐的关键不在于 CSM 单方面追踪，而是把\"主动更新目标\"作为客户合同义务的一部分写进关系框架。"
 source: "https://sixteenventures.com/goal-alignment"
 ---

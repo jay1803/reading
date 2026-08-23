@@ -2,6 +2,7 @@
 title: "TBM 420: The AI Playbook Puzzle"
 date: 2026-05-01T08:02:15Z
 category: reading
+author: "John Cutler"
 description: "AI 转型最危险的地方不是不会用工具，而是把旧的坏工作模型用 AI 加速、抛光、制度化；真正稀缺的能力是读懂情境、识别哪些实践只是旧约束下的权宜之计，并允许自己的专业身份随新约束重构。"
 source: "https://cutlefish.substack.com/p/tbm-420-the-ai-playbook-puzzle"
 ---

@@ -2,6 +2,7 @@
 title: "The brand tax: How Google profits from demand you already own"
 date: 2026-03-18T08:02:09Z
 category: reading
+author: "Kevin Indig"
 description: "你的付费搜索 ROAS 大概率是虚的——品牌词广告高回报（1299% vs 非品牌词 68%），本质是在替社交、口碑、播客等其他渠道已创造的需求收割买单；Google 只是在收路费，而你在替它记功。"
 source: "https://www.growth-memo.com/p/the-brand-tax-how-google-profits"
 ---

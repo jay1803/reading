@@ -2,6 +2,7 @@
 title: "People are too big to fit inside our heads"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Henrik Karlsson"
 description: "Bakhtin 给 Henrik 的核心是一个激进的人际认识论：人永远大于你对他的模型。真正的关系必须让对方有机会反驳、展开、改变你；如果只在脑中解释对方，你接触到的只是一个被你压缩过的对象。"
 source: "https://www.henrikkarlsson.xyz/p/bakhtin"
 ---

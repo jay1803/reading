@@ -2,6 +2,7 @@
 title: "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Dwarkesh Patel"
 description: "陶哲轩（Terence Tao），菲尔兹奖得主（2006 年），加州大学洛杉矶分校（UCLA）数学教授，长期横跨调和分析、数论、组合数学等多个领域。[补充：他是有史以来最年轻的菲尔兹奖得主之一，也被广泛认为是当今在世最杰出的数学家之一。] 采访者为 Dwarkesh Patel（Dwarkesh Podcast）。"
 source: "https://www.dwarkesh.com/p/terence-tao"
 ---

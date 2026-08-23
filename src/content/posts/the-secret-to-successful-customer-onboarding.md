@@ -2,6 +2,7 @@
 title: "The Secret to Successful Customer Onboarding"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "Onboarding 失败 100% 可以追溯到同一个根因：卖家要么不知道客户的 Desired Outcome 是什么，要么忘了把解决这个 Outcome 当成首要目标。\"已 onboarded\"不等于\"完成了配置\"，而是客户首次实现了价值（First Value Delivered），或首次在销售漏斗之外真正..."
 source: "http://sixteenventures.com/customer-onboarding"
 ---

@@ -2,6 +2,7 @@
 title: "How not to forget what matters"
 date: 2026-06-23T08:02:03Z
 category: reading
+author: "Henrik Karlsson"
 description: "Karlsson 的核心问题：我们读到某个真理，被它照亮几天，然后又回到原来的自己。这不是意志力问题，是结构问题——改变需要通过\"持续注意和练习\"重新布线神经系统，而不是靠顿悟。"
 source: "https://www.henrikkarlsson.xyz/p/hypomnemata"
 ---

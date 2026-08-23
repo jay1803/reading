@@ -2,6 +2,7 @@
 title: "After 50 million miles, Waymos crash a lot less than human drivers"
 date: 2025-03-27T10:11:37Z
 category: reading
+author: "Timothy B. Lee"
 description: "这篇文章的核心判断很明确：Waymo 当然还会出事故，而且随着车队扩张，事故总数还会继续上升；但如果按里程比较，它已经明显比人类司机更安全。更关键的是，Waymo 目前大量严重事故的典型形态，并不是系统失控撞人，而是一辆规规矩矩行驶、甚至停着不动的车，被超速、闯灯、越线、追尾的人类司机撞上——这直接改变了我们该如..."
 source: "https://www.understandingai.org/p/human-drivers-keep-crashing-into"
 ---

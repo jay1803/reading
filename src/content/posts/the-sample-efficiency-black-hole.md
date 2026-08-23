@@ -2,6 +2,7 @@
 title: "The sample efficiency black hole"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Dwarkesh Patel"
 description: "当前 AI 的进步主要来自数据，而非算法。过去几年模型能力提升，驱动力是更多、更好、更广的训练数据，sample efficiency 本身并未实质改善。"
 source: "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole"
 ---

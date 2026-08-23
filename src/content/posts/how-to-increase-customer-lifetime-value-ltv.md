@@ -2,6 +2,7 @@
 title: "How to Increase Customer Lifetime Value (LTV)"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "提升 LTV 的关键不是把续约率再抬高一点，而是围绕“客户持续取得进展”设计一整条增长路径：从一开始卖给对的人，到让客户尽快获得首个价值，再用进展节点推动自然扩张。留存、采用、扩张如果被拆成各自为政的职能，只会让公司盯着结果补救；真正该被设计和衡量的，是客户价值实现的速度，以及这种进展如何转成更深的商业关系。"
 source: "https://sixteenventures.com/how-to-increase-customer-lifetime-value"
 ---

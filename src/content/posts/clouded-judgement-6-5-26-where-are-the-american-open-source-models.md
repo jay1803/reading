@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.5.26 - Where Are the American Open Source Models?"
 date: 2026-06-06T08:04:42Z
 category: reading
+author: "Jamin Ball"
 description: "美国没有主流开源 AI 模型的根本原因是激励问题，不是技术问题。中国 DeepSeek、Qwen、Kimi 能做，说明技术门槛可逾越；但美国 VC 体系找不到为开源模型融资的逻辑。开源软件的变现路径（托管服务、企业功能、专有引擎）在模型层几乎失效——任何人都可以拿起权重起一个推理 API 端点直接竞争，而竞争者里..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-6526-where-are"
 ---

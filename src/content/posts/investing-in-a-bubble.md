@@ -2,6 +2,7 @@
 title: "🫧 Investing in a Bubble"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Kevin Palmer"
 description: "\"AI 会改变世界\"和\"AI 投资有回报\"是两个独立命题。Marks 的核心观点：技术进步不默认分配给早期股东；历史上每一次真实技术拐点都产生了泡沫，AI 如果是例外才是奇怪的。"
 source: "https://www.appeconomyinsights.com/p/investing-in-a-bubble"
 ---

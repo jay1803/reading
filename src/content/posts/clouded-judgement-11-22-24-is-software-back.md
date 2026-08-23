@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.22.24 - Is Software Back?"
 date: 2024-11-25T16:05:13Z
 category: reading
+author: "Jamin Ball"
 description: "Mag 7 表现不佳而软件表现出色。这可能是转向软件和增长（即风险更高的资产）的开始吗？ Meta 上周下跌 3%。亚马逊下跌 7%。微软下跌3%。谷歌下跌 6%。英伟达持平。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-112224-is-software"
 ---

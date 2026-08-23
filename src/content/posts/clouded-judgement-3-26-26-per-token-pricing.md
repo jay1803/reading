@@ -2,6 +2,7 @@
 title: "Clouded Judgement 3.26.26 - Per Token Pricing"
 date: 2026-03-28T08:01:59Z
 category: reading
+author: "Jamin Ball"
 description: "同样一块 GPU、同样一小时，按 token 出售比按小时出租营收可高出 2-4 倍——定价单位从\"硅的成本\"变成\"输出的价值\"，这不是涨价，是对整个 GPU 经济学的重构。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-32626-per-token"
 ---

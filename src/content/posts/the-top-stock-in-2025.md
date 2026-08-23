@@ -2,6 +2,7 @@
 title: "📈 The Top Stock in 2025"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章是一个年初盘点，串了四个 AI / 科技市场判断：Sandisk 为什么成了 2025 年 S&P 500 表现最强的股票；Meta 为什么花 20 亿美元买下 Manus；NVIDIA 为什么用 200 亿美元拿下 Groq 的技术和团队；以及 Gemini 为什么在 2025 年明显缩小了和 Chat..."
 source: "https://www.appeconomyinsights.com/p/the-top-stock-in-2025"
 ---

@@ -2,6 +2,7 @@
 title: "Ep. 120 - Ralph Molina: High Conviction Investing"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Ryan Reeves"
 description: "Ralph Molina 是高集中度微盘投资者，曾在 Focus Compounding 做兼职分析师，也在 Edison International、Cheesecake Factory 做过投资者关系；后来参与 Focus Compounding 对 Parks America 的 activist camp..."
 source: "https://www.investing-city.com/p/ep-120-ralph-molina-high-conviction-af6"
 ---

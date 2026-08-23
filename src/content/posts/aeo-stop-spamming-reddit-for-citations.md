@@ -2,6 +2,7 @@
 title: "AEO: Stop spamming Reddit for citations"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Eli Schwartz"
 description: "Reddit 对 LLM 的训练价值来自几十年真实人类情绪化对话的积累；刷假评论复制不了这个信号，反而会在 Reddit 和 LLM 两端同时被记录为负权重信号。"
 source: "https://www.productledseo.com/p/aeo-stop-spamming-reddit-for-citations"
 ---

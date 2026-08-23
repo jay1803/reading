@@ -2,6 +2,7 @@
 title: "Transcript for Keyu Jin: China’s Economy, Tariffs, Trade, Trump, Communism & Capitalism | Lex Fridman Podcast #477"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Lex Fridman"
 description: "金刻羽以“去神话化”的视角解析当下中国：政治高度集中不等于经济集中，市长经济与地方竞争支撑了技术与产业转型；经济面高度资本主义、社会面具鲜明社会主义特征；创新模式强调“先创新、后规范”的容错与速度，但法治与破产、知识产权与公平竞争仍是短板。对外经贸与关税之争，应在去风险与安全考量下避免极化误判；地产与地方财政调整..."
 source: "https://lexfridman.com/keyu-jin-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=keyu-jin-transcript"
 ---

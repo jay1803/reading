@@ -2,6 +2,7 @@
 title: "What's working in GTM right now"
 date: 2025-10-30T14:52:28Z
 category: reading
+author: "Kate Syuma"
 description: "AI 工具在 GTM 中的实际冲击被严重高估：53% 的受访 GTM 负责人称没有影响或影响有限，AI SDR 几乎无人能成功用它创造商机；真正被低估的高效渠道，是亲密小型活动（intimate events）。"
 source: "https://www.growthunhinged.com/p/2025-state-of-b2b-gtm-report"
 ---

@@ -2,6 +2,7 @@
 title: "Boxed In"
 date: 2026-07-10T08:03:18Z
 category: reading
+author: "Ernie Smith"
 description: "ALF 的创作者 Paul Fusco 拒绝被看见是一个牵线木偶师。为此，他要求所有拍摄场景都设置地板暗门，甚至当 SNL 邀请 ALF 客串时，坚持要在 SNL 舞台下方挖出整条壕沟。结果是：ALF 只能永远困在同一个房子里，无法出现在其他场景；制作周期远长于普通情景喜剧；第四季收视暴跌后被突然取消——结局停在..."
 source: "https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints"
 ---

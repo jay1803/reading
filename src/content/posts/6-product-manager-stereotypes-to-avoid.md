@@ -2,6 +2,7 @@
 title: "6 Product Manager Stereotypes To Avoid"
 date: 2024-03-18T16:18:31Z
 category: reading
+author: "Itamar Gilad"
 description: "本文讨论了产品经理（PM）工作中常见的六种错误认知，这些刻板印象限制了产品经理的潜力发挥。文章旨在揭示这些误区，并为产品经理提供更全面的发展建议，帮助他们成为全栈型产品经理。"
 source: "https://itamargilad.com/pm-stereotypes/"
 ---

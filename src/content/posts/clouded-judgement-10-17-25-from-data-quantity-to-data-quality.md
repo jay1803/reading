@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.17.25 - From Data Quantity to Data Quality"
 date: 2025-10-21T13:23:04Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章的核心观点是：AI 的 scaling law 并没有消失，而是在换轨。过去大家争论的是“互联网数据快用完了、预训练算力是不是见顶了”，作者的判断则是：真正发生的不是 scaling law 失效，而是从“更多通用数据 + 更多预训练算力”转向“更高质量、领域更深的专家数据 + 新型算力使用方式（尤其 i..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-101725-from-data"
 ---

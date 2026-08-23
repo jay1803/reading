@@ -2,6 +2,7 @@
 title: "The Seven Deadly Sins of MQL Stuffing."
 date: 2025-05-26T17:48:54Z
 category: reading
+author: "Elena Verna"
 description: "这篇文章探讨了“MQL 填充 (MQL Stuffing)”这一有害的营销行为。该行为指营销团队基于用户低意向度的行为（如下载内容、订阅博客等）过早地将其标记为营销合格线索 (Marketing Qualified Lead, MQL) 并移交给销售团队。这种做法会向销售团队输送大量低质量线索，破坏营销与销售部门..."
 source: "https://www.elenaverna.com/p/the-seven-deadly-sins-of-mql-stuffing"
 ---

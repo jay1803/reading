@@ -2,6 +2,7 @@
 title: "The Consensus Gap"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Kevin Indig"
 description: "AI 搜索可见度的关键误区不是“谁排名更高”，而是把 ChatGPT、Perplexity、Google AI Overviews 当成同一套分发系统。Omnia 对 3.7M 次 URL citation 的数据表明，只有约 2.37% 的 cited URL 会在三个引擎里同时出现，约 91.07% 只出现在..."
 source: "https://www.growth-memo.com/p/the-consensus-gap"
 ---

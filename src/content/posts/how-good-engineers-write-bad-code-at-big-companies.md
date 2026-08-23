@@ -2,6 +2,7 @@
 title: "How good engineers write bad code at big companies"
 date: 2025-11-30T20:20:35Z
 category: reading
+author: "Sean Goedecke"
 description: "这篇文章想解释一个很多外部人会困惑的问题：为什么大公司明明招了很多优秀工程师，却还是会产出看起来相当粗糙、别扭甚至明显 hacky 的代码？作者的答案不是“这些工程师不行”，而是大公司的组织方式本身就在系统性制造这种结果——大量代码修改都来自对当前代码库、语言或业务并不熟的人，而那些真正熟悉系统的“老手”又长期过..."
 source: "https://www.seangoedecke.com/bad-code-at-big-companies/"
 ---

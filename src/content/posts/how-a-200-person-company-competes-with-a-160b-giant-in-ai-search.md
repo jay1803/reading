@@ -2,6 +2,7 @@
 title: "How a 200-Person Company Competes with a $160B Giant in AI Search"
 date: 2026-03-12T08:14:36Z
 category: reading
+author: "Brian Dean"
 description: "Descript 能在 AI 搜索里和 Adobe 这类巨头同台竞争，核心不是传统 SEO 更强，而是它把自己做成了模型最容易理解、最容易引用、也最容易被外部世界重复确认的答案：定位极窄，内容极实用，产品可视化充分，中下游比较/教程齐全，站外共识充足。AI 搜索奖励的是“语义贴合度 + 可引用证据 + 跨站共识”..."
 source: "https://backlinko.com/saas-llm-visibility-case-study?utm_source=backlinko&utm_medium=email&utm_campaign=descript"
 ---

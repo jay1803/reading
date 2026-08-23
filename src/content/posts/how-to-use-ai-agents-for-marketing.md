@@ -2,6 +2,7 @@
 title: "How to use AI agents for marketing"
 date: 2025-11-19T08:34:44Z
 category: reading
+author: "Kate Syuma"
 description: "SafetyCulture 最大的 AI 成果来自数据聚合，而非 AI 自动化本身：把五个第三方 enrichment 平台并行调用、AI 事实核查后，覆盖率接近 100%——这个底座没打好，所有下游个性化都是对错误数据的精准操作。"
 source: "https://www.growthunhinged.com/p/how-to-use-ai-agents-for-marketing"
 ---

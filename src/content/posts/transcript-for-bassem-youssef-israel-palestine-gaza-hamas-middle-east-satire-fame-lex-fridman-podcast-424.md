@@ -2,6 +2,7 @@
 title: "Transcript for Bassem Youssef: Israel-Palestine, Gaza, Hamas, Middle East, Satire & Fame | Lex Fridman Podcast #424"
 date: 2024-04-08T13:49:11Z
 category: reading
+author: "Lex Fridman"
 description: "这个页面是 Lex Fridman 对 Bassem Youssef 的播客访谈的文字稿，讨论了以色列-巴勒斯坦冲突、加沙、哈马斯、中东、讽刺和名声等话题。Bassem Youssef 分享了他作为一名埃及裔美国喜剧演员的个人经历，他对以色列-巴勒斯坦冲突的看法，他对权力、宗教和媒体的批判，以及他对人类未来的担忧..."
 source: "https://lexfridman.com/bassem-youssef-transcript/"
 ---

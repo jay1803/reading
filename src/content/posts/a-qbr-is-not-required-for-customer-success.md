@@ -2,6 +2,7 @@
 title: "A QBR is NOT Required for Customer Success"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章想纠正一个 Customer Success 圈子里很常见、但作者认为被神化了的观点：QBR（Quarterly Business Review）并不是 Customer Success 的必需动作。真正该问的，不是“我们是不是也该做 QBR”，而是“QBR 是否属于客户达成 Desired Outcom..."
 source: "http://sixteenventures.com/customer-success-qbr"
 ---

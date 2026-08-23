@@ -2,6 +2,7 @@
 title: "The State of AI Gross Margins in 2025"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Tanay Jaipuria"
 description: "AI 应用层的毛利率已经出现负值——这在 SaaS 历史上几乎从未发生——但这是主动选择，不是行业缺陷：用薄毛利换增长飞轮，目标是最终的净利润率，不是当期毛利率。"
 source: "https://www.tanayj.com/p/the-gross-margin-debate-in-ai"
 ---

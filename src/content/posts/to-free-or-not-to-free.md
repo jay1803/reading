@@ -2,6 +2,7 @@
 title: "To Free or Not To Free 💀"
 date: 2025-11-04T11:14:22Z
 category: reading
+author: "Gaurav Vohra"
 description: "Freemium 是一个结构性决策（影响整个公司运营），free trial 只是漏斗优化——两件事性质不同，却被大多数创业公司混为一谈。决策框架：先决定要不要有永久免费层（freemium），再决定要不要有限时试用（free trial）；每一步都应对照具体假设，而不是泛泛列利弊。"
 source: "https://substack.gauravvohra.com/p/to-free-or-not-to-free"
 ---

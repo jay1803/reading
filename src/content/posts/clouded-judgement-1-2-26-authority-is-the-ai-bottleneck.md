@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.2.26 - Authority Is the AI Bottleneck"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Jamin Ball"
 description: "真正卡住 AI 价值的不是模型能力，而是组织不愿意让 AI 拥有决策权。辅助式 AI 只能改善边际效率；只有授权式 AI 才能重写工作流、压缩成本、改变结果量级。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-1226-authority"
 ---

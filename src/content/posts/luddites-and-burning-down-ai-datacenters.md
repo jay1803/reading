@@ -2,6 +2,7 @@
 title: "Luddites and burning down AI datacenters"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Sean Goedecke"
 description: "现代反 AI 暴力如果把卢德运动当模板，误读了它真正有效的结构：卢德派不是抽象反技术组织，而是高度本地化、同质化、互信的熟练工匠共同体，用有限诉求和小组暴力争取短期谈判空间；AI 数据中心冲突缺少这种本地收益闭环，所以更可能诱发镇压，而不是改变技术扩散。"
 source: "https://seangoedecke.com/luddites-and-ai-datacenters/notes/"
 ---

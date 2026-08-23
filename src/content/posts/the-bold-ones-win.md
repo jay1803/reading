@@ -2,6 +2,7 @@
 title: "The Bold Ones Win"
 date: 2026-05-09T08:02:37Z
 category: reading
+author: "Ernie Smith"
 description: "真正值得比较的不是 Ryan Cohen 和 Ted Turner 谁更大胆，而是大胆背后的目标函数：Turner 的高风险下注通常服务于构建新媒介、新城市身份和长期资产；Cohen 的 eBay 设想更像资本市场驱动的资产优化。大胆本身不构成战略，只有当它连接到真实建设逻辑时才可能变成企业家精神。"
 source: "https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets"
 ---

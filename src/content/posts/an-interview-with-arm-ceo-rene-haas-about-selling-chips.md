@@ -2,6 +2,7 @@
 title: "An Interview with Arm CEO Rene Haas About Selling Chips"
 date: 2026-03-27T08:02:35Z
 category: reading
+author: "Ben Thompson"
 description: "Rene Haas，Arm CEO，任职约四年半，此前履历覆盖 NEC 半导体、德州仪器、Nvidia，是半导体行业老将。本次受访主题是 Arm 首次独立举办品牌发布会（Arm Everywhere），宣布从纯 IP 授权公司转型为同时出售自研芯片的公司——Arm AGI CPU，首个客户为 Meta。采访者 B..."
 source: "https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/"
 ---

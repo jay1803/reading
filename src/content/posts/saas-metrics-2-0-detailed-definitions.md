@@ -2,6 +2,7 @@
 title: "SaaS Metrics 2.0 – Detailed Definitions"
 date: 2021-08-04T23:54:32Z
 category: reading
+author: "David Skok"
 description: "\\begin{equation}"
 source: "https://www.forentrepreneurs.com/saas-metrics-2-definitions-2/"
 ---

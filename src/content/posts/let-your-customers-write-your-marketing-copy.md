@@ -2,6 +2,7 @@
 title: "Let Your Customers Write Your Marketing Copy"
 date: 2026-03-12T01:00:53Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心结论是：增长团队最有价值的文案素材，不在会议室里，而在客户描述痛点、迁移阻力和购买理由的原话里。作者通过两周亲自做客服发现，转化提升往往来自把这些原话写进广告、首页、导入支持、教育邮件和产品内触发消息，让营销、实施和成功团队围绕同一组真实摩擦协同。"
 source: "http://sixteenventures.com/customers-write-your-marketing-copy"
 ---

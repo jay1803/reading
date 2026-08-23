@@ -2,6 +2,7 @@
 title: "The gap between Eastern and Western Easter"
 date: 2026-04-13T08:01:09Z
 category: reading
+author: "John D. Cook"
 description: "这篇文章真正说明白的，不是“东西方复活节为什么偶尔不同”，而是两边其实共享同一套规则框架，却把“春分”和“满月”交给了不同历法与旧式天文近似来定义，所以差异主要是制度化计算误差，不是神学分歧。"
 source: "https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/"
 ---

@@ -2,6 +2,7 @@
 title: "Stick Point: When Your SaaS Customer is Truly a Customer"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "SaaS 注册转化不等于「获得了客户」——只有用户越过 Stick Point（一个早期生命周期节点，此后流失概率骤降），才算真正的客户。大多数团队把 ARR 算多了，因为他们把还没过这个节点的用户全计入了。"
 source: "http://sixteenventures.com/stick-point"
 ---

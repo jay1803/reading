@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.9.24 - Zombies"
 date: 2024-09-02T15:53:35Z
 category: reading
+author: "Jamin Ball"
 description: "软件公司面临生存困境，形成大量\"僵尸企业\"——增长缓慢(<20%)且盈利能力弱的公司，这些公司既不具备上市吸引力，也难以引起收购方兴趣。文章探讨了这些公司的出路选择：继续挣扎、谋求并购或寻找新增长点。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-8924-zombies"
 ---

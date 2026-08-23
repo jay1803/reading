@@ -2,6 +2,7 @@
 title: "The Cognitive Sport of Building Startups"
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Brad Feld"
 description: "创始人健康管理真正缺的不是更多建议，而是一套像管理关键业务系统那样运行的整合式临床团队：同一计划、同一数据层、连续 6–12 个月干预，把心理、睡眠、营养、运动、社交和物质使用放进同一个决策系统。"
 source: "https://feld.com/archives/2026/05/the-cognitive-sport-of-building-startups/"
 ---

@@ -2,6 +2,7 @@
 title: "The guide to owning your category 🥇"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Tom Orbach"
 description: "首页 hero 里的单个词做 90% 的定位工作——「all」「everything」这类全品类词是向务实买家（pragmatist）发送「完整解决方案」信号的最便宜手段，比品牌故事和功能列表的转化效率高得多。"
 source: "https://www.marketingideas.com/p/how-to-become-the-no-brainer-choice"
 ---

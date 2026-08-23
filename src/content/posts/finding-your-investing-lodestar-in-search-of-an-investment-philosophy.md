@@ -2,6 +2,7 @@
 title: "Finding your investing lodestar: In Search of an Investment Philosophy"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Aswath Damodaran"
 description: "没有最优投资哲学，但每个投资者都必须有一套属于自己的——没有哲学比持有错误哲学更危险，因为它会让你永远追逐上一个赛季的赢家，或成为各种投资骗局的目标。"
 source: "https://aswathdamodaran.blogspot.com/2026/03/finding-your-investing-lodestar-in.html"
 ---

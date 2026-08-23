@@ -2,6 +2,7 @@
 title: "Redefining Email Engagement: New Metrics for a New Era (2023)"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "Open Rate 和 Click-through Rate 本质上是营销群发时代的遗留物，在 CSM / SDR 场景里它们衡量不到任何有意义的东西——真正重要的只有\"期望动作完成率\"（Engagement Rate = 完成期望动作人数 / 发出该 CTA 的邮件数）。"
 source: "https://sixteenventures.com/engagement-rate"
 ---

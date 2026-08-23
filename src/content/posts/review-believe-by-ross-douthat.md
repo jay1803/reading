@@ -2,6 +2,7 @@
 title: "REVIEW: Believe, by Ross Douthat"
 date: 2025-05-06T16:44:01Z
 category: reading
+author: "John Psmith"
 description: "这篇书评最核心的观点是：现代世俗人往往把“默认不信”当成一种已经被历史和科学证明过的立场，但这种自信并没有想象中那么扎实。 作者并不是简单地说“基督教一定为真”，而是在帮 Ross Douthat 做一个更具体的辩护：如果你认真回看近代以来关于宗教、科学、奇迹和历史批判的很多主流叙事，会发现不少“理所当然”的世俗..."
 source: "https://www.thepsmiths.com/p/review-believe-by-ross-douthat"
 ---

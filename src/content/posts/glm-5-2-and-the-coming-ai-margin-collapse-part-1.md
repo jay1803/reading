@@ -2,6 +2,7 @@
 title: "GLM 5.2 and the coming AI margin collapse (part 1)"
 date: 2026-07-07T08:02:31Z
 category: reading
+author: "Martin Alderson"
 description: "市场对 DeepSeek R1 的解读是错误的：训练是一次性固定支出，推理才是随需求线性扩展的边际成本。Anthropic/OpenAI 以 $25/MTok 销售推理，作者估算 GPU rack rate 对应毛利率约 90%；OpenAI 泄露财报显示整体收入毛利约 60%（含支持、支付等非推理成本）。前沿实..."
 source: "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

@@ -2,6 +2,7 @@
 title: "The Only Thing That Matters"
 date: 2025-11-04T11:14:22Z
 category: reading
+author: "Cedric Chin"
 description: "有效商业决策者的标志不是「抓重点」，而是把每个待决策的问题都压缩成单一关键指标，用这一个指标直接判断——其余分析都是事后执行阶段的事，不是决策阶段的事。"
 source: "https://commoncog.com/only-thing-that-matters/"
 ---

@@ -2,6 +2,7 @@
 title: "Answer Engine Optimization (AEO): How to Win in AI Search"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Brian Dean"
 description: "AEO 的实质是把\"排名第一\"重新定义为\"被 AI 引用为答案\"——但这不需要推倒重来：原有 SEO 投入的大部分直接迁移，需要额外添加的只有品牌提及密度、多平台覆盖、以及内容的\"机器可引用性\"。"
 source: "https://backlinko.com/answer-engine-optimization-aeo"
 ---

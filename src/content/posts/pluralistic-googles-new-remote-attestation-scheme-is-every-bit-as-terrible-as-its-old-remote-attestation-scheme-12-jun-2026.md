@@ -2,6 +2,7 @@
 title: "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)"
 date: 2026-06-13T08:01:52Z
 category: reading
+author: "Cory Doctorow"
 description: "Google 的「reCAPTCHA 手机验证」是被公众舆论扼杀的 WEI（Web 环境完整性）的化身复活——本质是把远程认证（remote attestation）从浏览器层下移到 Android 系统级 TPM，用户无法拒绝或篡改，凡是运行 de-Googled Android 的设备都将被主流应用与网站直接..."
 source: "https://pluralistic.net/2026/06/12/compelled-speech/"
 ---

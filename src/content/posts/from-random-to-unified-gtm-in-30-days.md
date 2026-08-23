@@ -2,6 +2,7 @@
 title: "From random to unified GTM in 30 days"
 date: 2024-09-15T14:32:18Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章介绍了 Parabola 公司如何在 30 天内从零开始构建并自动化了一个基于账户的 GTM（Account-Based Go-To-Market, ABX）体系。文章详细描述了 Parabola 团队如何统一营销和销售流程，明确目标客户，以及利用自动化工具优化客户关系管理。"
 source: "https://www.growthunhinged.com/p/from-random-to-unified-gtm"
 ---

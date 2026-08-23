@@ -2,6 +2,7 @@
 title: "SaaS Marketing: Ideal Email Follow-up Sequence"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "\"最理想的邮件跟进序列\"这个问题本身就是错的——正确答案不是找到一套固定节奏，而是根本不用时间触发，改用用户的实际行为触发。"
 source: "http://sixteenventures.com/email-follow-up-sequence?utm_source=rss&utm_medium=rss&utm_campaign=email-follow-up-sequence"
 ---

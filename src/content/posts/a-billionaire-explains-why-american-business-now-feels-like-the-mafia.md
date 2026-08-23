@@ -2,6 +2,7 @@
 title: "A Billionaire Explains Why American Business Now Feels like the Mafia"
 date: 2026-06-06T08:04:42Z
 category: reading
+author: "Matt Stoller"
 description: "马龙（John Malone）的自传无意间揭示了美国商业如何从新政监管框架转变为黑手党式运营哲学——这不是自由市场的意外结果，而是由他这批人主动构建的制度选择。桑德斯说的\"每个亿万富翁都是政策失败\"远远低估了问题：马龙代表的不是贪婪，而是以资本回报为道德准则的宗教信仰。"
 source: "https://www.thebignewsletter.com/p/a-billionaire-explains-why-american"
 ---

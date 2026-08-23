@@ -2,6 +2,7 @@
 title: "Customer Growth: Why Lack Of Expansion Is A Really Bad Sign"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户不扩张，不是\"还没到时机\"的销售问题——它是客户根本没有真正成功的信号。"
 source: "https://sixteenventures.com/no-expansion-bad-sign"
 ---

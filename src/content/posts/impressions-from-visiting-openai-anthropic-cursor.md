@@ -2,6 +2,7 @@
 title: "Impressions from visiting OpenAI, Anthropic, & Cursor"
 date: 2026-07-01T08:03:04Z
 category: reading
+author: "Gergely Orosz"
 description: "三家公司——OpenAI、Anthropic、Cursor——各自从不同的痛点出发，独立得出同一结论：本地机器是运行 AI Agent 的错误基础设施。这是文章最核心的观察，而非关于 Slack 集成的技术细节。"
 source: "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai"
 ---

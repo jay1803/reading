@@ -2,6 +2,7 @@
 title: "Your pricing is (probably) broken"
 date: 2025-10-23T09:17:36Z
 category: reading
+author: "Kate Syuma"
 description: "面对 SaaS 与 AI 创业者常见的定价焦虑，文章系统拆解平价订阅、Good-Better-Best 套餐、席位、usage-based、混合与 outcome-based 等模型的失衡点，并给出优先修补现有架构的可执行改进。"
 source: "https://www.growthunhinged.com/p/your-pricing-is-broken"
 ---

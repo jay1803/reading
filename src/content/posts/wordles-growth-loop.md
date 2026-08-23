@@ -2,6 +2,7 @@
 title: "Wordle’s growth loop"
 date: 2025-03-17T19:48:19Z
 category: reading
+author: "Kevin Indig"
 description: "Wordle 这款游戏在短时间内获得了巨大的成功，并被纽约时报以七位数的价格收购。其成功并非偶然，而是精心设计的用户体验和病毒式传播机制的结果。"
 source: "https://www.growth-memo.com/p/wordles-growth-loop-899"
 ---

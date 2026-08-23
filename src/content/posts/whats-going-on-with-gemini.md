@@ -2,6 +2,7 @@
 title: "What's going on with Gemini?"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Martin Alderson"
 description: "Gemini 的问题不是 Google 没有研究、算力或钱，而是它可能根本没在和 OpenAI/Anthropic 争同一条外部 API 赛道：Gemini 3.5 Flash 对外看像一个价格尴尬、编码能力中游的模型，对内却像为 Google 自己的大规模产品 token 消耗和 TPU 推理效率定制的基础设施..."
 source: "https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

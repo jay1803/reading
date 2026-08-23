@@ -2,6 +2,7 @@
 title: "Meta: The LLM you need to focus on today"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Eli Schwartz"
 description: "Meta 是搜索大战的真正黑马——不是因为它的 LLM 更优秀，而是因为它不需要改变任何人的行为，就能让 35 亿日活用户开始用它搜索。"
 source: "https://www.productledseo.com/p/googles-real-threat-isnt-chatgpt"
 ---

@@ -2,6 +2,7 @@
 title: "Building Software Requires Digestion"
 date: 2026-05-13T08:01:53Z
 category: reading
+author: "Jim Nielsen"
 description: "构建软件需要“消化时间”：真正推动问题解决的，经常不是连续提示、快速阅读和马上追问，而是离开界面后的暂停、呼吸、潜意识重组和角度切换。"
 source: "https://blog.jim-nielsen.com/2026/software-requires-digestion/"
 ---

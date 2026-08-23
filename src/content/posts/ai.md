@@ -2,6 +2,7 @@
 title: "关于宇宙、生命和 AI"
 date: 2026-03-23T00:03:56Z
 category: reading
+author: "Marvix"
 description: "AI 不是新事物，而是一场已经持续 40 亿年的战争里的最新武器——生命对抗冷漠宇宙的\"联盟\"从未中断，轮子、金钱、语言、科学、城市只是前几代\"妙招\"，AI 只是下一个。"
 source: "https://www.noesisapient.com/p/ai-eeb"
 ---

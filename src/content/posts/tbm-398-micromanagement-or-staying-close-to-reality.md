@@ -2,6 +2,7 @@
 title: "TBM 398: Micromanagement? Or Staying Close to Reality?"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "John Cutler"
 description: "对\"微管理\"的抵制，表面是文化失调，根本是理性防御——在没有共同信条、没有安全升级机制的组织里，领导者直接接触一线现实，本质上就是一种威胁；团队的警惕不是错的，即使提出要求的 CPO 意图完全正当。"
 source: "https://cutlefish.substack.com/p/tbm-398-micromanagement-or-staying"
 ---

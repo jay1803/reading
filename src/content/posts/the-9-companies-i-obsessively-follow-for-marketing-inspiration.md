@@ -2,6 +2,7 @@
 title: "The 9 companies I obsessively follow for marketing inspiration 📡"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Tom Orbach"
 description: "这份名单的真正价值不在名单本身，而在它们共同指向的一个结论：最能传播的营销，都是让用户直接感受到产品效果，而不是感受到产品存在。"
 source: "https://www.marketingideas.com/p/the-9-companies-i-obsessively-follow"
 ---

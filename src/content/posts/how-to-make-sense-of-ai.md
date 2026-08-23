@@ -2,6 +2,7 @@
 title: "How to Make Sense of AI"
 date: 2026-03-21T08:01:46Z
 category: reading
+author: "Cedric Chin"
 description: "在 AI 时代有效 sensemaking 的关键动作是：完全停止消费分析、预测和观点，只消费\"带足够细节的实际使用报告\"，并对每条报告问四个具体问题——注意力极度收窄，反而能更快、更不焦虑地适应变化。"
 source: "https://commoncog.com/how-to-make-sense-of-ai/"
 ---

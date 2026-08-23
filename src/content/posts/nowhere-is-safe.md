@@ -2,6 +2,7 @@
 title: "Nowhere Is Safe"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Steve Blank"
 description: "廉价无人机把“地表”本身变成持续暴露的杀伤空间，防守方的经济学因此被改写。只要高价值资产还停在可观测、可定位、可持续攻击的表面，单纯追加拦截系统就会越来越亏，“生存性建设”必须升格为与武器采购同级的国家级项目。"
 source: "https://steveblank.com/2026/04/09/nowhere-is-safe/"
 ---

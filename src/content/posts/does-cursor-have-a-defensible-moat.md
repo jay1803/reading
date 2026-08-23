@@ -2,6 +2,7 @@
 title: "Does Cursor Have a Defensible Moat?"
 date: 2025-05-06T16:39:16Z
 category: reading
+author: "Zachary DeWitt"
 description: "Cursor 拥有真实但脆弱的先发优势：$300M+ ARR、收购 Supermaven 的 Babble 模型、36 万真实开发者的使用数据飞轮——但核心技术护城河（LLM 写代码）正在商品化，若 OpenAI 完成对 Windsurf 的 $3B 收购，可通过 VS Code 更新一夜触达数倍于 Cursor..."
 source: "https://www.notoriousplg.ai/p/does-cursor-have-a-defensible-moat"
 ---

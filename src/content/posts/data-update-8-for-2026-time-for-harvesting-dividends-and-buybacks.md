@@ -2,6 +2,7 @@
 title: "Data Update 8 for 2026: Time for Harvesting - Dividends and Buybacks"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Aswath Damodaran"
 description: "作者的核心判断很直接：企业返现本该是投资和融资决策之后的“剩余现金分配”，现实里却常被股息惯性和同行模仿绑架，因此真正长期失灵的不是回购，而是传统分红制度。2025年全球数据说明，分红越来越像少数成熟行业的制度性习惯，而回购之所以崛起，主要因为它更符合企业现金流、生命周期和不确定性的现实。把股票当“带票息的债券”..."
 source: "https://aswathdamodaran.blogspot.com/2026/02/data-update-8-for-2026-time-for.html"
 ---

@@ -2,6 +2,7 @@
 title: "How consumers navigate high-stakes purchases in AI Mode"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Kevin Indig"
 description: "AI Mode 把高风险购买里的“比较”环节直接折叠成“接受 shortlist”的环节。用户不是被困住才偷懒，而是把 AI 的筛选本身当成了已完成的尽调，所以品牌能否进榜、排第几、被怎么描述，开始直接决定是否被买。"
 source: "https://www.growth-memo.com/p/how-consumers-navigate-high-stakes"
 ---

@@ -2,6 +2,7 @@
 title: "Subagents"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Simon Willison"
 description: "过去两年 LLM 能力大幅提升，但上下文窗口几乎原地踏步（上限约 100 万 token，实测最佳质量通常在 20 万以内）。Subagent 的本质是用\"新鲜上下文\"来保护主 agent 的 token 余量——它是 token 预算管理策略，而非单纯的并行加速手段。"
 source: "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything"
 ---

@@ -2,6 +2,7 @@
 title: "Trade, Tariffs, and Tech"
 date: 2025-05-06T16:12:52Z
 category: reading
+author: "Ben Thompson"
 description: "Trump 关税的理论依据比外界评价的更有根基——美国制造业空洞化、中国制造生态主导、台湾战争风险，确实构成需要结构性应对的系统性问题——但执行时机和路径几乎注定失败，因为真正重构全球贸易秩序所需的政治意志，美国目前根本不具备。"
 source: "https://stratechery.com/2025/trade-tariffs-and-tech/"
 ---

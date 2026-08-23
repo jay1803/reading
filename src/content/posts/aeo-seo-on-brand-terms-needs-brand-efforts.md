@@ -2,6 +2,7 @@
 title: "AEO & SEO on brand terms needs brand efforts"
 date: 2026-06-12T08:01:58Z
 category: reading
+author: "Eli Schwartz"
 description: "\"best CMS\"、\"monday.com vs Asana\" 这类词排在前面的页面，不是因为 URL 结构或 schema 优化到位——是因为这些产品的事实已被广泛引用、独立验证。技术 SEO 对此没有任何杠杆。建议用页面速度来修复这类问题，作者称为\"更离谱的建议\"。"
 source: "https://www.productledseo.com/p/visibility-on-brand-terms-needs-brand"
 ---

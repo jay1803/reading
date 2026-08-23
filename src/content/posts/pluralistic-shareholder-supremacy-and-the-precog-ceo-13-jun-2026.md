@@ -2,6 +2,7 @@
 title: "Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)"
 date: 2026-06-14T08:02:30Z
 category: reading
+author: "Cory Doctorow"
 description: "股东至上主义的衡量标准天生不可证伪——\"尽可能多赚钱\"在任何竞争市场中都无法客观评估；其真正功能不是约束管理者，而是为任何残酷决定提供万能免责借口。"
 source: "https://pluralistic.net/2026/06/13/minority-shareholder-report/"
 ---

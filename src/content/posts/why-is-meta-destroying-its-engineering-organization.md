@@ -2,6 +2,7 @@
 title: "Why is Meta destroying its engineering organization?"
 date: 2026-06-17T08:03:38Z
 category: reading
+author: "Gergely Orosz"
 description: "Meta 本拥有 Big Tech 中最扁平、最自治的工程文化。2026 年 6 月，这套文化在数周内被系统性摧毁。直接推手是两人：Zuckerberg 授权，Alexandr Wang（148 亿美元收购 Scale AI 后空降主导 AI 战略）执行。"
 source: "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"
 ---

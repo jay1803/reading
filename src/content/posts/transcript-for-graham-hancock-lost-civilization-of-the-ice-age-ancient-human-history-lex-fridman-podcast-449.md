@@ -2,6 +2,7 @@
 title: "Transcript for Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History | Lex Fridman Podcast #449"
 date: 2024-10-22T15:16:50Z
 category: reading
+author: "Lex Fridman"
 description: "以下是文件摘要："
 source: "https://lexfridman.com/graham-hancock-transcript/"
 ---

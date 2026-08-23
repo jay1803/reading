@@ -2,6 +2,7 @@
 title: "The Loop: everything has happened before, and everything will happen again"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Joan Westenberg"
 description: "人类历史反复踩进同一种坑，并不主要因为“知识不够”，而是因为底层认知系统没有升级：贪婪、恐惧、从众、替罪羊冲动、意义饥渴、时间折现和权力结构，会在不同技术与制度外壳下重复运行。能做的不是终结循环，而是在自己最想相信“这次不同”的方向上减速。"
 source: "https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/"
 ---

@@ -2,6 +2,7 @@
 title: "The Great Apple Paradox"
 date: 2025-06-18T21:47:26Z
 category: reading
+author: "Kevin Palmer"
 description: "苹果在通用 AI 能力与助手产品节奏上明显落后，但凭借“设备入口 + 服务分成”的商业位置，可以继续从搜索与生成式 AI 的下游流量中抽取可观收益；真正的风险在于监管对抽成与默认搜索分成（TAC）的限制，而非是否自研最强模型。"
 source: "https://www.appeconomyinsights.com/p/the-great-apple-paradox"
 ---

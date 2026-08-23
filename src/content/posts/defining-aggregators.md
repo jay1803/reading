@@ -2,6 +2,7 @@
 title: "Defining Aggregators"
 date: 2023-12-19T22:42:39Z
 category: reading
+author: "Ben Thompson"
 description: "Aggregation Theory describes how platforms (i.e. aggregators) come to dominate the industries in which they compete in a systematic and predictable way. Aggr..."
 source: "https://stratechery.com/2017/defining-aggregators/"
 ---

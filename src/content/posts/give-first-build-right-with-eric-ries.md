@@ -2,6 +2,7 @@
 title: "Give First, Build Right with Eric Ries"
 date: 2026-04-22T08:01:29Z
 category: reading
+author: "Brad Feld"
 description: "这篇短文真正想推的不是一场活动，而是一个判断：创业系统最容易败坏的，不是效率不足，而是成功后组织和社区一起滑向 extraction。Eric Ries 的《Incorruptible》关注公司如何在长期里不腐化，Brad Feld 的《Give First》关注社区如何不把关系变成算计，两本书指向同一条“防腐”逻辑。"
 source: "https://feld.com/archives/2026/04/give-first-build-right-with-eric-ries/"
 ---

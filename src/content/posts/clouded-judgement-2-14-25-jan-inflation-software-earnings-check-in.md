@@ -2,6 +2,7 @@
 title: "Clouded Judgement 2.14.25 - Jan Inflation + Software Earnings Check In"
 date: 2025-02-19T14:35:00Z
 category: reading
+author: "Jamin Ball"
 description: "这个页面是 Clouded Judgement 的一篇周报，主要讨论了云软件公司的最新趋势，包括软件收益季的初步结果和一月份的通货膨胀数据。作者的核心问题是分析当前软件行业的收益情况是否符合预期，以及通货膨胀对市场的影响。作者的观点是，到目前为止，软件收益季的结果并不令人鼓舞，许多公司的全年业绩指引与市场共识基本..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-21425-jan-inflation"
 ---

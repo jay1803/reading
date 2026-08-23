@@ -2,6 +2,7 @@
 title: "Time to First Value (TTFV) is a Customer Onboarding Goal"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "大多数公司把 TTFV 当倒计时用——30 天到就标记\"Onboard\"。正确做法：TTFV 是目标线，客户状态变更的触发条件是价值实现，而不是日历。"
 source: "https://sixteenventures.com/customer-onboarding-ttfv"
 ---

@@ -2,6 +2,7 @@
 title: "Towards Continual Learning"
 date: 2026-06-06T08:04:42Z
 category: reading
+author: "Tanay Jaipuria"
 description: "让 AI 系统真正\"在职学习\"有两条路：改权重 vs 改 Token 空间。当下最可行的是 Token 空间——用记忆、Skill 文件和 Meta-Harness 让冻结权重的模型从外部持续变聪明，直到从外部感知不到它没有真正改过权重。"
 source: "https://www.tanayj.com/p/towards-continual-learning"
 ---

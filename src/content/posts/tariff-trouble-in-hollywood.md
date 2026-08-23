@@ -2,6 +2,7 @@
 title: "Tariff Trouble in Hollywood"
 date: 2025-05-19T17:36:28Z
 category: reading
+author: "Kevin Palmer"
 description: "关税如果落地，真正受伤的是制片产业链——而那条链条早已被税收套利蛀空了 40%；流媒体各家此刻反而正在集体穿越盈利拐点，关税靶向的\"境外院线制作\"恰好是行业自身已在主动抛弃的部分。"
 source: "https://www.appeconomyinsights.com/p/tariff-trouble-in-hollywood"
 ---

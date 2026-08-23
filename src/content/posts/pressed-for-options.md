@@ -2,6 +2,7 @@
 title: "Pressed For Options"
 date: 2026-04-16T08:01:43Z
 category: reading
+author: "Ernie Smith"
 description: "Linux 外置指纹识别器的问题集中在透明度。当前真正可用的路径，几乎都收缩到一颗被社区打通的芯片 CS9711 和一个民间 libfprint fork 上，用户购买的本质上是一段兼容链条，离正式支持的成熟产品还很远。"
 source: "https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges"
 ---

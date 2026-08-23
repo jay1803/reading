@@ -2,6 +2,7 @@
 title: "The last six months in LLMs in five minutes"
 date: 2026-05-21T05:49:55Z
 category: reading
+author: "Simon Willison"
 description: "过去六个月 LLM 的真正拐点不是“最强模型”频繁换榜，而是 coding agents 跨过了可日用的质量门槛；同时，开权重和本地可用模型的上限被重新估计，个人 AI 助手开始从玩具原型变成一种新计算形态。"
 source: "https://simonwillison.net/2026/May/19/5-minute-llms/"
 ---

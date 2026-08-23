@@ -2,6 +2,7 @@
 title: "How to do Annual Planning for SEO"
 date: 2025-12-08T16:53:57Z
 category: reading
+author: "Eli Schwartz"
 description: "年度 SEO 计划的最大价值不是方向正确，而是锁住资源窗口：产品、工程、设计团队的排期一旦定下，你若不在里面就出局一年——剩下只能靠别人施舍空闲时间。"
 source: "https://www.productledseo.com/p/how-to-do-annual-planning-for-seo"
 ---

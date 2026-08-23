@@ -2,6 +2,7 @@
 title: "The data black hole at the center of AI"
 date: 2026-06-20T08:03:54Z
 category: reading
+author: "Dwarkesh Patel"
 description: "AI 最近几年的进步几乎完全来自更大、更好的数据集，而非架构创新或训练技巧。RL 本质上是合成数据生成机制——用大量算力对抗 verifier 挑出\"好\"数据，训练模型预测这些正确 rollout，与预测互联网文本 next token 是同一逻辑。"
 source: "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2"
 ---

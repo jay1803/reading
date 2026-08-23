@@ -2,6 +2,7 @@
 title: "Your guide to PLG pricing 201"
 date: 2023-04-18T15:23:05Z
 category: reading
+author: "Kyle Poyar"
 description: "这篇文章主要讨论了产品先导增长 (PLG) 定价的 201 级别策略，即如何围绕 PLG 产品构建一个强大的盈利引擎。文章批判了 প্রচলিত的 PLG 定价建议仅停留在表面，并深入探讨了常见的 PLG 定价错误以及如何避免这些错误。文章的核心观点是，PLG 公司应该关注团队而非个人用户，重视管理员体验，并通过..."
 source: "https://kylepoyar.substack.com/p/your-guide-to-plg-pricing-201"
 ---

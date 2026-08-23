@@ -2,6 +2,7 @@
 title: "Growth Intelligence Brief #18"
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Kevin Indig"
 description: "AI 搜索正在把索引从“排序网页的目录”改造成“可被模型调用的事实仓库”：SEO 的核心胜利不再是链接排名，而是关键事实能被抓取、解析、检索、正确归因，并进入 AI 答案的 grounding layer。"
 source: "https://www.growth-memo.com/p/growth-intelligence-brief-18"
 ---

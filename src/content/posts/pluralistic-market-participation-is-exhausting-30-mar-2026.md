@@ -2,6 +2,7 @@
 title: "Pluralistic: Market participation is exhausting (30 Mar 2026)"
 date: 2026-03-31T08:00:31Z
 category: reading
+author: "Cory Doctorow"
 description: "以市场为中心的社会不只是财富再分配，它把\"热爱讨价还价\"这一种认知特质变成了决定人生命运的唯一标准——用善于谈判者的精力榨干不善于谈判者的意志。"
 source: "https://pluralistic.net/2026/03/30/players-of-games/"
 ---

@@ -2,6 +2,7 @@
 title: "TBM 422: Exception, Presence, Delegation"
 date: 2026-05-17T08:01:23Z
 category: reading
+author: "John Cutler"
 description: "组织现在的重感，不是因为管理原则失效，而是因为三种基本动作被拆散了：异常系统只制造可见性，现场感只变成高层介入，授权只剩口号。真正健康的组织循环是：异常信号告诉人该去哪看，现场感建立判断与信任，授权让一线把局部知识反哺进系统；AI 放大了信号与摘要，却没有自动补上共同理解、判断校准和权威下放，所以很多公司反而更累..."
 source: "https://cutlefish.substack.com/p/tbm-422-exception-presence-delegation"
 ---

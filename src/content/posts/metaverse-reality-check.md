@@ -2,6 +2,7 @@
 title: "🥽 Metaverse Reality Check"
 date: 2025-12-08T16:53:57Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章串起 Meta、Marvell、Salesforce 三个案例，核心判断是：资本市场开始只为已被需求验证的 AI 能力买单，空转的愿景、过早的重投入和孤立的实验都会被压缩。Meta 收缩元宇宙软件投入并把重心移向智能眼镜与生成式 AI，Marvell 押注光互连填平超大 GPU 集群的带宽瓶颈，Sales..."
 source: "https://www.appeconomyinsights.com/p/metaverse-reality-check"
 ---

@@ -2,6 +2,7 @@
 title: "What happens next, after the decline of tokenmaxxing?"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Gary Marcus"
 description: "Gary Marcus 把“tokenmaxxing 退潮”视为 AI 投资叙事的转折点：如果企业不再把 token 使用量当成成功指标，而 GPU 租赁价格和 hyperscaler ROI 测算也开始松动，LLM 可能从稀缺平台能力滑向低毛利商品。真正的分歧不是 AI 会不会继续进步，而是最高端智能会被快速商..."
 source: "https://garymarcus.substack.com/p/what-happens-next-after-the-decline"
 ---

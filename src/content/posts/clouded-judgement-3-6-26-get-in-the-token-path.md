@@ -2,6 +2,7 @@
 title: "Clouded Judgement 3.6.26 - Get in the Token Path"
 date: 2026-03-07T17:40:36Z
 category: reading
+author: "Jamin Ball"
 description: "云时代最大的基础设施赢家，核心不是“按量付费”这四个字，而是把收入绑定到平台最核心的消耗单位；当年这个单位是 compute，作者判断 AI 时代越来越像 token。谁站在 token 的生成、处理与消耗路径上，谁就更可能像 AWS、Snowflake、Datadog 那样，随着平台使用量扩张而自动长大。真正的..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-3626-get-in-the"
 ---

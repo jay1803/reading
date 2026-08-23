@@ -2,6 +2,7 @@
 title: "Our evaluation of OpenAI's GPT-5.5 cyber capabilities"
 date: 2026-05-02T08:02:51Z
 category: reading
+author: "Simon Willison"
 description: "来源：https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities"
 source: "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything"
 ---

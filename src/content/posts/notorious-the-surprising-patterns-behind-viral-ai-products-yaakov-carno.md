@@ -2,6 +2,7 @@
 title: "Notorious: The Surprising Patterns Behind Viral AI Products (Yaakov Carno)"
 date: 2025-03-14T19:27:38Z
 category: reading
+author: "Zachary DeWitt"
 description: "这篇文章介绍了一些 AI 产品如何通过优化用户体验（UX）实现爆发式增长。文章的核心观点是，优秀的 UX 设计是 AI 产品成功的关键，其重要性甚至超过了 AI 技术本身。文章列举了多个成功案例，并总结出五个关键的 UX 挑战以及相应的解决策略。"
 source: "https://www.notoriousplg.ai/p/notorious-the-surprising-patterns"
 ---

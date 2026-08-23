@@ -2,6 +2,7 @@
 title: "An Intuitive Guide to Black Holes"
 date: 2025-07-07T12:00:36Z
 category: reading
+author: "Nick M"
 description: "用“逃逸速度超过光速”的直观定义，从抛球、万有引力与反平方定律、引力势能与能量守恒出发，推导并建立对黑洞的几何与物理直觉；通过“把地球压缩到弹珠大小”的思想实验说明：半径越小，表面重力与逃逸速度越大，最终任何分子/原子键合都无法支撑，达到阈值便形成黑洞。"
 source: "https://photonlines.substack.com/p/an-intuitive-guide-to-black-holes"
 ---

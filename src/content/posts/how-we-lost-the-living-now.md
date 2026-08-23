@@ -2,6 +2,7 @@
 title: "How we lost the living Now"
 date: 2026-04-22T08:01:29Z
 category: reading
+author: "Joan Westenberg"
 description: "这篇文章真正的论点不是“手机让人分心”，而是现代社会先把时间标准化，再把时间商品化，最后把注意力实时化；当下之所以消失，不是因为我们更忙，而是因为每一分钟都被系统预先索取成可协调、可计量、可响应的资源。"
 source: "https://www.joanwestenberg.com/how-we-lost-the-living-now/"
 ---

@@ -2,6 +2,7 @@
 title: "(One) Good AI Is Here"
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Anil Dash"
 description: "Anil Dash 认为，CorridorKey 给出了一个“好 AI”的可验证样本：数据经同意、代码与权重开放、训练数据可复现、能在普通电脑上运行、目标足够窄、控制权在创作者手里。它的重要性不在于绿幕抠像本身，而在于它直接拆穿了 Big AI 的核心借口：掠夺式数据、黑箱模型、云端锁定、过度营销、环境成本与用户..."
 source: "https://anildash.com/2026/04/28/one-good-ai-is-here/"
 ---

@@ -2,6 +2,7 @@
 title: "Do the simplest thing that could possibly work"
 date: 2025-10-09T23:33:38Z
 category: reading
+author: "Sean Goedecke"
 description: "Sean Goedecke 的核心主张：在软件设计的每个层面——修 bug、维护系统、设计新架构——都应该先实现能工作的最简方案，而非追求\"理想的\"高度模块化、无限可扩展、优雅分布式的系统。他认为后者是软件设计中\"完全错误的出发点\"。简洁往往看起来令人失望，但真正的设计功力在于知道何时少做，而不是多做。"
 source: "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"
 ---

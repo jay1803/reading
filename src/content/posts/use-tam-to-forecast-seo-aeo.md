@@ -2,6 +2,7 @@
 title: "Use TAM to forecast SEO/AEO"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "Eli Schwartz"
 description: "关键词量预测在 AEO 时代失去可信度，因为它把“搜索发生”直接等同于“点击发生”；更稳的 SEO/AEO 预测应从 TAM 出发，先定义真实可触达买家，再逐层扣除搜索使用率、点击潜力、市场渗透率、转化率与 AOV。这个模型不保证更准，但能让错误落在 CFO/CEO 能讨论、能修正的业务假设上。"
 source: "https://www.productledseo.com/p/how-to-forecast-seoaeo-growth-with"
 ---

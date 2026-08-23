@@ -2,6 +2,7 @@
 title: "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Derek Thompson"
 description: "Derek Thompson 挖出了一份几乎被遗忘的1500页报告《近期社会趋势》（1933年出版，记录1920年代中期美国状况），在美国建国250周年之际做了一次对照。最不舒服的发现不是两个时代的相似之处，而是：这些焦虑从没真正被解决，它们只是换了载体循环出现。"
 source: "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive"
 ---

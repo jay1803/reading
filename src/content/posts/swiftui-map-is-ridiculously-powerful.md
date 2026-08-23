@@ -2,6 +2,7 @@
 title: "SwiftUI Map is RIDICULOUSLY Powerful"
 date: 2025-05-12T13:43:37Z
 category: reading
+author: "Jacob Bartlett"
 description: "SwiftUI Map 已经不是 UIKit MKMapView 的残影——Annotation 能放任意 SwiftUI 视图（含动画与手势），mapCameraKeyframeAnimator 可做精确的电影级摄像机叙事动画，LookAroundPreview 两步嵌入街景，MapKit 的实际能力边界远超大..."
 source: "https://blog.jacobstechtavern.com/p/swiftui-map-is-really-good-now"
 ---

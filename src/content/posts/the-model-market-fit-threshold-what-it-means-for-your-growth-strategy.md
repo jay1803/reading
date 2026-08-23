@@ -2,6 +2,7 @@
 title: "The Model Market Fit Threshold & What it Means for Your Growth Strategy"
 date: 2022-12-03T09:39:22Z
 category: reading
+author: "Brian Balfour"
 description: "Model Market Fit is the concept that your market (and # of customers within your market) influence your model."
 source: "https://brianbalfour.com/essays/model-market-fit-threshold-for-growth"
 ---

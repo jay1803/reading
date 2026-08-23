@@ -2,6 +2,7 @@
 title: "Customer Success: How to Quantify the Impact of Bad-fit Customers"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "Bad-fit 客户的问题不只是服务起来很累，而是会系统性吞噬利润：它们往往拉长销售周期、抬高 CAC、缩短留存、压低扩张、制造负面口碑，还占走本该投向好客户的成功资源。文章的核心是把这种直觉翻成管理层听得懂的财务语言：先用 Success Potential 给客户贴 fit 标签，再把 churn、contr..."
 source: "https://sixteenventures.com/quantify-bad-fit-customers"
 ---

@@ -2,6 +2,7 @@
 title: "SwiftUI Scroll Performance: The 120FPS Challenge"
 date: 2025-05-12T13:38:46Z
 category: reading
+author: "Jacob Bartlett"
 description: "SwiftUI 在处理无限滚动列表时可能遇到性能瓶颈。文章通过对比 VStack、LazyVStack 和 List 在 iOS 18 上的表现，发现 List（基于 UICollectionView）在处理包含动态尺寸内容的无限滚动列表时，性能和稳定性均优于 LazyVStack。此外，文章还探讨了多种进一步优..."
 source: "https://blog.jacobstechtavern.com/p/swiftui-scroll-performance-the-120fps"
 ---

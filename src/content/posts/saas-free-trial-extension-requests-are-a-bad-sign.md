@@ -2,6 +2,7 @@
 title: "SaaS Free Trial Extension Requests are a Bad Sign"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "试用延期请求值得批准，但它本身是坏信号：说明试用设计没有把用户快速推到“成功已发生、付费成为最自然下一步”的状态。多给 7 天通常解决不了根因；真正要修的是试用设计、角色协调、获客质量和试用时长这些系统性问题。"
 source: "http://sixteenventures.com/saas-free-trial-extensions"
 ---

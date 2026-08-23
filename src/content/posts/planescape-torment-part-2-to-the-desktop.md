@@ -2,6 +2,7 @@
 title: "Planescape: Torment, Part 2: …to the Desktop"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Jimmy Maher"
 description: "《异域镇魂曲》是一个勇敢却执行失败的艺术实验——它触碰了游戏史上罕见的悲剧主题，但过度堆砌文字、战斗系统乏善可陈、女性角色停留在男性幻想层面。\"神作\"的光环遮蔽了这些本可修正的缺陷，批评它并不等于否定它的价值。"
 source: "https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/"
 ---

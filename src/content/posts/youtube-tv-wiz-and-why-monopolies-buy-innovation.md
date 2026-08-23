@@ -2,6 +2,7 @@
 title: "YouTube TV, Wiz, and Why Monopolies Buy Innovation"
 date: 2025-03-26T12:54:50Z
 category: reading
+author: "Ben Thompson"
 description: "Google 的产品能力已经萎缩到宁可花 320 亿美元买 Wiz 也比自己做更靠谱——而 YouTube TV 在流媒体市场拥有结构上无法被复制的 Aggregator 地位，却被埋在一个没人知道存在的 Primetime Channels 里浪费掉了。"
 source: "https://stratechery.com/2025/youtube-tv-wiz-and-why-monopolies-buy-innovation/"
 ---

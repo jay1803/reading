@@ -2,6 +2,7 @@
 title: "The odds of making it"
 date: 2025-10-21T13:21:02Z
 category: reading
+author: "Kate Syuma"
 description: "进哈佛比做到 $25M ARR 更容易——6,525 家 SaaS 公司十年追踪数据显示，仅 2% 的软件创业公司能跨越 $25M ARR；同期哈佛录取率是 3.6%。AI-native 公司是唯一的结构性例外：达到 $10M ARR 的速度是所有其他品类的 8 倍。"
 source: "https://www.growthunhinged.com/p/the-odds-of-making-it"
 ---

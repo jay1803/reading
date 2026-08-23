@@ -2,6 +2,7 @@
 title: "5 Growth Hacks to Supercharge your Invite or Referral System"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "邀请系统失效，通常不是激励不够，而是你在用户尚未建立信任、尚未验证价值时，就要求他拿自己的职业信誉替你背书。有效做法是把邀请设计成一连串随信任和成果递增的小请求：在成功里程碑后触发、明确该邀请谁、缩小邀请范围、把邀请包装成“帮我测试”，再推动邀请后的跟进。尤其在 B2B 场景，邀请机制的本质是管理 social..."
 source: "http://sixteenventures.com/invite-hacks"
 ---

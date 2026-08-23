@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.13.24 - 2024 Estimates"
 date: 2024-09-15T14:23:56Z
 category: reading
+author: "Jamin Ball"
 description: "metric I like to examine is how much companies adjust their full-year guidance. Generally, software companies follow a beat-and-raise model in their forecasts."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-91324-2024-estimates"
 ---

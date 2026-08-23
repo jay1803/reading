@@ -2,6 +2,7 @@
 title: "A beaver, a gull and a rat went into a bank..."
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Rebecca Darley"
 description: "英国纸币换图的政治争吵，遮住了更无聊的真相：设计变更的主要目的是打击伪造，而反复喊\"抹去历史\"的人，往往连钱上印的是谁都认不出来。"
 source: "https://coffeewithclio.substack.com/p/a-beaver-a-gull-and-a-rat-went-into"
 ---

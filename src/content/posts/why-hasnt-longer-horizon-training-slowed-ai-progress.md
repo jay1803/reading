@@ -2,6 +2,7 @@
 title: "Why hasn't longer-horizon training slowed AI progress?"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Sean Goedecke"
 description: "AI 进展没有明显被“长任务 RL 更贵”拖慢，核心原因可能不是单一 scaling law 失效，而是三个变量同时遮蔽了真实速度：训练 FLOP 的有效利用率仍在快速上升，人类对接近或超过自身水平的智能增长很难校准，模型能力又常由记忆、工具熟练度、坚持性、人格倾向等非纯智力因素放大。"
 source: "https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/"
 ---

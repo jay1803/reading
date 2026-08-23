@@ -2,6 +2,7 @@
 title: "Writing a Novel with Phin Argofy"
 date: 2026-06-15T08:02:50Z
 category: reading
+author: "Brad Feld"
 description: "Feld 的实际判断：他不是在\"尝试用 AI 写作\"，而是发现小说的信息结构和软件项目完全同构——bible/ 目录存世界设定与人物规则，outline/ 存故事节拍，chapters/ 等待填入，每次修改都是 commit。他已经每天在 Claude Code 里和 Phin 协作写代码，切换到写小说不需要换工..."
 source: "https://feld.com/archives/2026/06/writing-a-novel-with-phin-argofy/"
 ---

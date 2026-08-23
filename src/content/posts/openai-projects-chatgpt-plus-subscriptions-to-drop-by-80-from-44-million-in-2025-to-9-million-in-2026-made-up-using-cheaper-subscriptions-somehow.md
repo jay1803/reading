@@ -2,6 +2,7 @@
 title: "OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)"
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Ed Zitron"
 description: "OpenAI 泄露出的消费订阅预测真正危险的地方，不是 ChatGPT Plus 会下滑，而是它把一个已验证的 $20/月主力产品，替换成一个尚未验证、价格更低、还要靠广告补差的增长神话：Plus 用户从 4400 万跌到 900 万，Go 用户却要从 300 万暴增到 1.12 亿。"
 source: "https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/"
 ---

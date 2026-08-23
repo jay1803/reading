@@ -2,6 +2,7 @@
 title: "What Would It Look Like If the AI Bubble Popped?"
 date: 2026-06-12T08:01:58Z
 category: reading
+author: "Matt Stoller"
 description: "AI泡沫破裂不会重演2008金融危机（杠杆不足），但因美国消费对股市的依赖已达历史顶点，加上私募股权规模是2000年的20倍，其传导破坏力可能超过互联网泡沫。最终受损最深的将是依赖股市\"财富幻觉\"消费的普通家庭与退休者。"
 source: "https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai"
 ---

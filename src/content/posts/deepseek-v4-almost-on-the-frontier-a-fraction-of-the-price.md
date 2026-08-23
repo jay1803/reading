@@ -2,6 +2,7 @@
 title: "DeepSeek V4–almost on the frontier, a fraction of the price"
 date: 2026-05-03T08:01:45Z
 category: reading
+author: "Simon Willison"
 description: "DeepSeek V4 的真正冲击不是“最大开源模型”本身，而是把接近前沿的 1M 上下文 MoE 能力压到极低价格：Flash 进入小模型最低价带，Pro 在大模型/前沿候选里也显著便宜，竞争重心正在从参数规模转向长上下文效率与单位推理成本。"
 source: "https://simonwillison.net/2026/Apr/24/deepseek-v4/"
 ---

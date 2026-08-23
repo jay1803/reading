@@ -2,6 +2,7 @@
 title: "★ A Tale of Two Modems"
 date: 2026-07-03T08:02:22Z
 category: reading
+author: "John Gruber"
 description: "泰坦电子（Tata Electronics）数据泄露的物料清单显示：美国版 iPhone 18 Pro 将搭载高通 SDX80M 等多款芯片，主因是兼容 5G mmWave；其他地区版本则改用苹果自研 C2 调制解调器。"
 source: "https://daringfireball.net/2026/07/a_tale_of_two_modems"
 ---

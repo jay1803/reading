@@ -2,6 +2,7 @@
 title: "Transcript for Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln | Lex Fridman Podcast #497"
 date: 2026-06-04T08:02:07Z
 category: reading
+author: "Lex Fridman"
 description: "Don Lincoln，费米实验室（Fermilab）粒子物理学家，在高能物理前沿工作数十年，参与过顶夸克发现（1995）与希格斯玻色子发现（2012），目前为 CMS 合作组成员并深度参与费米实验室 DUNE 中微子振荡实验。出身贫寒，父母均未上过大学，副修哲学与宗教，著有多本物理科普书籍。Lex 将其与费曼相..."
 source: "https://lexfridman.com/don-lincoln-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln-transcript"
 ---

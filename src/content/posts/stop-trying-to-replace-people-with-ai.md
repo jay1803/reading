@@ -2,6 +2,7 @@
 title: "Stop trying to replace people with AI"
 date: 2026-06-23T08:02:03Z
 category: reading
+author: "Kevin Indig"
 description: "AI 公司把\"会取代你的工作\"作为营销武器，短期抓眼球，长期破坏品牌信任。更深的问题：这个叙事与所有主要数据相悖。"
 source: "https://www.growth-memo.com/p/stop-trying-to-replace-people-with"
 ---

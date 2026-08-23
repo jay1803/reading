@@ -2,6 +2,7 @@
 title: "From Hacker News to TikTok - How Algorithms Learned to Hook Us"
 date: 2026-03-27T08:01:05Z
 category: reading
+author: "Adam Gordon Bell"
 description: "Adam Gordon Bell，CoRecursive 播客主理人，软件开发者背景。对话嘉宾 Liam，同为开发者背景。本期以好友 Corey 的困惑为引——为什么他停不下来刷 Instagram 上的 AI 猫视频——展开对推荐算法演化史的深挖。"
 source: "http://corecursive.com/from-hacker-news-to-tiktok/"
 ---

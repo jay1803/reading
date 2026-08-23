@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.16.25 - Net New ARR Trends"
 date: 2025-05-19T17:33:54Z
 category: reading
+author: "Jamin Ball"
 description: "云软件 2025 Q1 净新增 ARR 同比大幅下滑——\"微笑曲线\"复苏在 2024 Q1 见顶后开始反转，且 30 家公司里有 5 家出现 ARR 绝对值下降（Q4→Q1 缩水）。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-51625-net-new-arr"
 ---

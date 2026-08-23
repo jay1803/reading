@@ -2,6 +2,7 @@
 title: "The YouTube Tip of the Google Spear"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章的核心观点是：如果说 Google 在 AI 时代有一个最容易被低估、但可能最先把技术优势真正转成巨大商业结果的资产，那不是 Search，而是 YouTube。Ben Thompson 的判断是，外界太容易把 Google 的 AI 机会只理解为“它能不能守住文本搜索”，但真正更大的长期机会可能在视频：..."
 source: "https://stratechery.com/2025/the-youtube-tip-of-the-google-spear/"
 ---

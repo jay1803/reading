@@ -2,6 +2,7 @@
 title: "Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)"
 date: 2026-05-17T08:01:23Z
 category: reading
+author: "Cory Doctorow"
 description: "美国科技霸权不是靠产品被全世界喜爱，而是靠美国帝国权力把本国平台嵌入贸易、金融和监管秩序；当特朗普主动拆掉美元、盟友、援助和贸易信誉时，美国科技公司的全球特权也会一起失去支撑。"
 source: "https://pluralistic.net/2026/05/16/technopoly/"
 ---

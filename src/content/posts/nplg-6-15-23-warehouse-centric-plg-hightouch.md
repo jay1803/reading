@@ -2,6 +2,7 @@
 title: "NPLG: 6.15.23: Warehouse-Centric PLG (Hightouch)"
 date: 2023-06-16T13:28:20Z
 category: reading
+author: "Zachary DeWitt"
 description: "本文是 Notorious PLG 关于 Hightouch 公司如何利用以仓库为中心的策略来实施产品驱动增长 (PLG) 的文章。Hightouch 的联合创始人兼联合 CEO Kashish Gupta 分享了他们的 PLG 策略，解释了他们如何使用数据仓库和自家产品来将用户注册转化为收入。"
 source: "https://notoriousplg.substack.com/p/nplg-61523-warehouse-centric-plg"
 ---

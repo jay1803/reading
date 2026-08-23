@@ -2,6 +2,7 @@
 title: "What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Dwarkesh 这组开放问题的共同底层聚焦三类更难被工程化的制度瓶颈：稀缺算力会被谁分配、权力是否会随智能自然转移、科学突破能否被短反馈 RL 可靠验证。"
 source: "https://www.dwarkesh.com/p/what-ive-been-thinking-april-27"
 ---

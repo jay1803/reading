@@ -2,6 +2,7 @@
 title: "AI makes weak engineers less harmful"
 date: 2026-05-09T08:02:38Z
 category: reading
+author: "Sean Goedecke"
 description: "AI 编程代理短期内最确定的影响，不是把弱工程师变强，而是把他们的破坏力变得更有限、更可审查：弱工程师 + Claude Code 会变成一个延迟更高、上下文更差的“Slack 版 Codex”，烦人但通常比未经辅助的坏判断更安全。"
 source: "https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/"
 ---

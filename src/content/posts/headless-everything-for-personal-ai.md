@@ -2,6 +2,7 @@
 title: "Headless everything for personal AI"
 date: 2026-04-20T08:01:01Z
 category: reading
+author: "Simon Willison"
 description: "这篇短文真正的判断是，个人 AI 会把“软件界面”从网页前端挪到 API 层，谁不能无头化，谁就会在代理时代变成摩擦源，而 SaaS 按人头收费会先被冲击。"
 source: "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything"
 ---

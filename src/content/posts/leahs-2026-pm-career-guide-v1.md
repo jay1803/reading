@@ -2,6 +2,7 @@
 title: "Leah's 2026 PM Career Guide - V1"
 date: 2026-05-03T08:01:45Z
 category: reading
+author: "Leah Tharin"
 description: "PM 的可替代性不在于“不会交付”，而在于只会优化别人定义的指标；2026 年更稀缺的是双重能力：先把数字做上去，再判断这个数字、AHA moment 和用户旅程是否已经失效。"
 source: "https://www.leahtharin.com/p/leahs-2026-pm-career-guide-v1"
 ---

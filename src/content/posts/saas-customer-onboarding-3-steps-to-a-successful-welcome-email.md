@@ -2,6 +2,7 @@
 title: "SaaS Customer Onboarding: 3 Steps to a Successful Welcome Email"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "欢迎邮件只有一个任务：让用户完成 onboarding 序列的第一个动作（CCA），仅此一个。多 CTA 看似丰富，实为认知税——困惑的用户不会买，他们会跳出。"
 source: "http://sixteenventures.com/saas-customer-onboarding-email?utm_source=rss&utm_medium=rss&utm_campaign=saas-customer-onboarding-email"
 ---

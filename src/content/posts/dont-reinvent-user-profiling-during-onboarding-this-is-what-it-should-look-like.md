@@ -2,6 +2,7 @@
 title: "Don’t reinvent user profiling during onboarding. This is what it should look like."
 date: 2024-12-25T19:30:21Z
 category: reading
+author: "Elena Verna"
 description: "为了有效地进行用户画像分析并支持产品和 GTM 策略，应在用户引导（onboarding）流程中直接向用户收集第一方数据。相比错误率高达 50-60% 的第三方数据，第一方数据（即使有约 15% 的不准确性）更为可靠。推荐采用一个标准化的三步结构来收集信息（关于用户自己、关于公司、关于使用场景），这有助于减少用户..."
 source: "https://www.elenaverna.com/p/dont-reinvent-user-profiling-during"
 ---

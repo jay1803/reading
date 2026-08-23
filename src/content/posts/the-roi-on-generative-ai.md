@@ -2,6 +2,7 @@
 title: "The ROI on Generative AI"
 date: 2024-09-15T14:36:26Z
 category: reading
+author: "Tanay Jaipuria"
 description: "本文讨论了生成式 AI 在企业中的实际应用和投资回报率 (ROI)。文章驳斥了对 AI 影响的怀疑，列举了多个企业利用 AI 提高生产力、改善客户体验和优化运营的案例。文章的核心观点是生成式 AI 已经开始在企业中产生 tangible 的价值。"
 source: "https://www.tanayj.com/p/the-roi-on-generative-ai"
 ---

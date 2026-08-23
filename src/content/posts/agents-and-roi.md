@@ -2,6 +2,7 @@
 title: "Agents and ROI"
 date: 2026-05-09T08:02:38Z
 category: reading
+author: "Gary Marcus"
 description: "AI agent 的 ROI 问题目前更像生成式 AI 企业落地的延续：市场叙事已经提前定价“智能体会自动创造生产率”，但实际可验证的规模化回报仍集中在少数场景，尤其是 coding 和客服；一旦问题被具体化为“有没有已经部署到规模、并真实拉动 P&L 的案例”，答案就变得很难给出。"
 source: "https://garymarcus.substack.com/p/agents-and-roi"
 ---

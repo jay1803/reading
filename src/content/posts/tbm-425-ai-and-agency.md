@@ -2,6 +2,7 @@
 title: "TBM 425: AI and Agency"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "John Cutler"
 description: "企业强制推行 AI 采用的方式，系统性地摧毁了使真正采用成为可能的三个前提——自主性、胜任感、归属感——然后把可预期的抵抗归结为\"心态问题\"。根源在环境设计失败，而管理层的诊断层级整体打错了。"
 source: "https://cutlefish.substack.com/p/tbm-425-ai-and-agency"
 ---

@@ -2,6 +2,7 @@
 title: "Winners and losers in the coming AI margin collapse (part 2)"
 date: 2026-07-14T08:02:35Z
 category: reading
+author: "Martin Alderson"
 description: "好够用的廉价模型（GLM5.2、Grok 4.5 以 $6/MTok 输出定价）正在压垮纯推理毛利。Bezos 那句\"你的利润是我的机会\"在此精准成立——但吃掉这段利润的，不是同层竞争者，而是硬件层与用户层。"
 source: "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-2-winners-and-losers/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

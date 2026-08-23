@@ -2,6 +2,7 @@
 title: "How to Overturn an Oligarchy"
 date: 2025-10-10T00:42:08Z
 category: reading
+author: "Matt Stoller"
 description: "作者的核心判断是：推翻寡头统治首先不是组织一次戏剧性的决战，而是让公众重新学会识别“集中权力如何以市场、效率、技术中立之名实施任意胁迫”。反垄断政治的真正进展，不只在于赢下一两个案子，而在于越来越多原本把压迫当成自然秩序的人，开始用 monopoly、private equity、coercion 这些词描述自己..."
 source: "https://www.thebignewsletter.com/p/how-to-overturn-an-oligarchy"
 ---

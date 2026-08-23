@@ -2,6 +2,7 @@
 title: "Your guide to self-serve onboarding"
 date: 2025-05-28T11:12:48Z
 category: reading
+author: "Kate Syuma"
 description: "用户首日体验对SaaS产品至关重要，糟糕的引导会导致用户流失。本文分析了7个常见的自助式SaaS产品用户引导错误，并提供了改进建议和成功案例，强调了优化首日体验对提升各项关键业务指标的重要性。"
 source: "https://www.growthunhinged.com/p/your-guide-to-self-serve-onboarding"
 ---

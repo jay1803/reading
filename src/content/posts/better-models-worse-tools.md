@@ -2,6 +2,7 @@
 title: "Better Models: Worse Tools"
 date: 2026-07-06T08:01:44Z
 category: reading
+author: "Simon Willison"
 description: "新版 Claude（Opus 4.8、Sonnet 5）在使用 Armin 的 Pi 编程助手时，会在 ~edit~ 工具的 ~edits[]~ 数组里加入自创字段，导致 Pi 因 schema 不匹配拒绝调用并触发重试。旧版模型没有这个问题。编辑内容本身通常正确，问题仅出在幻构的多余 key 上。"
 source: "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything"
 ---

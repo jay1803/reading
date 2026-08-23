@@ -2,6 +2,7 @@
 title: "Do Things that Don't Scale"
 date: 2023-07-28T13:55:38Z
 category: reading
+author: "Paul Graham"
 description: "A lot of would-be founders believe that startups either take off or don't."
 source: "http://www.paulgraham.com/ds.html"
 ---

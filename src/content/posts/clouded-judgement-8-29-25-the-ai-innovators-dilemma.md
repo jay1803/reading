@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.29.25 - The AI Innovators Dilemma"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Jamin Ball"
 description: "算力稀缺把创新者困境搬进了 AI 时代——大公司不是因为傲慢或战略失误错过下一波，而是因为保护已有爆款产品的可靠性本身就要耗尽算力，下注新赛道所需的空间在物理层面就不存在。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-82925-the-ai-innovators"
 ---

@@ -2,6 +2,7 @@
 title: "Skateboards, Cars, and the Return of Code-First Discovery"
 date: 2026-06-04T08:02:07Z
 category: reading
+author: "Itamar Gilad"
 description: "AI 编程真正带来的风险不是“代码写得太快”，而是把产品发现重新拉回 2001 年 Agile 的代码优先路径：团队因为一天就能做出漂亮原型，反而更容易跳过低成本验证、问题澄清和证据积累，最终用更快的速度制造更昂贵的认知偏差。"
 source: "https://itamargilad.com/code-first-discovery/"
 ---

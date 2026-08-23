@@ -2,6 +2,7 @@
 title: "Inside Hotjar’s bootstrapped PLG strategy"
 date: 2022-11-11T15:19:40Z
 category: reading
+author: "Kyle Poyar"
 description: "Hotjar 通过产品主导增长 (PLG) 策略，在未大量融资的情况下实现了超过 5000 万美元的年经常性收入 (ARR)。本文是 [Kyle Poyar](https://www.linkedin.com/in/kyle-poyar/) 对 Hotjar CEO [Mohannad Ali](https://..."
 source: "https://kylepoyar.substack.com/p/inside-hotjars-bootstrapped-plg-strategy"
 ---

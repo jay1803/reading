@@ -2,6 +2,7 @@
 title: "Clouded Judgement 3.24.23"
 date: 2023-03-25T22:57:00Z
 category: reading
+author: "Jamin Ball"
 description: "SaaS businesses are generally valued on a multiple of their revenue - in most cases the projected revenue for the next 12 months."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-32423"
 ---

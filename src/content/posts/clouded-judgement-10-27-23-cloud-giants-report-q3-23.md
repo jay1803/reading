@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.27.23 - Cloud Giants Report Q3 '23"
 date: 2023-10-28T21:29:50Z
 category: reading
+author: "Jamin Ball"
 description: "云巨头（AWS、Azure 和 Google Cloud）对于软件来说并不是一个很好的信号……第二季度（3 个月前）之后，云巨头围绕优化的基调主要是：优化已经开始放松，并净增新的工作负载已拾取。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-102723-cloud-giants"
 ---

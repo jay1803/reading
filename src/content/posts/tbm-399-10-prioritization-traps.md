@@ -2,6 +2,7 @@
 title: "TBM 399: 10 Prioritization Traps"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "John Cutler"
 description: "优先级失效的根本原因不是\"做错了选择\"，而是组织结构性地阻止了正确选择被真正执行——宣称的优先级和实际分配的注意力、时间、授权之间存在系统性缺口。"
 source: "https://cutlefish.substack.com/p/tbm-399-10-prioritization-traps"
 ---

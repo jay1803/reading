@@ -2,6 +2,7 @@
 title: "e approximation"
 date: 2026-07-07T08:02:31Z
 category: reading
+author: "John D. Cook"
 description: "2721/1001 ≈ e，精度达七位有效数字，接近八位。对比之下，简单截断小数展开得到的 2718/1000 只有四位有效数字，两者分母数量级相近，但精度差距悬殊。"
 source: "https://www.johndcook.com/blog/2026/07/06/e-approximation/"
 ---

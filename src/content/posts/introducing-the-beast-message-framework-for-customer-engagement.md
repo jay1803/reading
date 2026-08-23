@@ -2,6 +2,7 @@
 title: "Introducing the BEAST Message Framework for Customer Engagement"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "大多数客户沟通失败的根因是发送者在开口前就没想清楚\"我要对方做什么\"。BEAST 框架把这个问题变成了一道前置门：没有明确 CTA，这条消息就不该发出去。"
 source: "https://sixteenventures.com/beast-message-framework"
 ---

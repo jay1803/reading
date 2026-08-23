@@ -2,6 +2,7 @@
 title: "GUEST REVIEW: The Triumph of the Moon, by Ronald Hutton"
 date: 2025-12-08T16:51:23Z
 category: reading
+author: "John Psmith"
 description: "Wicca 不是古代异教的幸存与复兴，而是通过\"表演性\"（performativity）机制被错误的学术理论主动创造出来的宗教：Frazer 和 Murray 捏造的异教幸存论，被 Gardner 当作真实历史依据，反而生成了它所声称的那个传统。"
 source: "https://www.thepsmiths.com/p/guest-review-the-triumph-of-the-moon"
 ---

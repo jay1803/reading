@@ -2,6 +2,7 @@
 title: "Customer Success can’t fit into Existing Frameworks"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "Customer Success 在作者这里指客户通过与公司互动实现 Desired Outcome，因此它首先是公司级运营哲学，其次才会落到管理模型与增长引擎。很多团队之所以觉得它“没用”，往往是因为他们总想把它压进销售、客服、账户管理或某套既有框架里，结果把一个跨部门、改变经营方式的概念降格成局部流程。"
 source: "https://sixteenventures.com/customer-success-frameworks"
 ---

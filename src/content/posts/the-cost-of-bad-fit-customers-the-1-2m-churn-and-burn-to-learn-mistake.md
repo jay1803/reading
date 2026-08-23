@@ -2,6 +2,7 @@
 title: "The Cost of Bad Fit Customers: The $1.2M Churn and Burn to Learn Mistake"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心观点非常狠，也非常值得创业公司反复记住：你不需要靠“先签下来、再 churn 掉”去学习哪些客户不适合你。 Lincoln Murphy 想驳斥的是一种在 startup 里很常见的借口——“我们现在还在找 PMF，先多签点客户、哪怕 fit 不好也能学到东西”。他的论点是：很多 bad-fit c..."
 source: "http://sixteenventures.com/churn-bad-fit-customer"
 ---

@@ -2,6 +2,7 @@
 title: "NPLG 7.13.23: How OpenAI Onboards 1B+ Users"
 date: 2023-07-28T14:41:05Z
 category: reading
+author: "Zachary DeWitt"
 description: "本文分析了 OpenAI 如何成功吸引超过 10 亿用户，重点介绍其产品（ChatGPT、DALL-E 和 OpenAI API 平台）的用户引导（onboarding）策略。作者总结了 OpenAI 的关键增长策略，即通过简化用户体验、提供示例、设定期望和逐步引导用户进入付费模式，实现快速增长和变现。"
 source: "https://notoriousplg.substack.com/p/nplg-71323-how-openai-onboards-1b"
 ---

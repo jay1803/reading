@@ -2,6 +2,7 @@
 title: "Tech Meets Sports & Entertainment: San Jose Sharks Growth Story"
 date: 2024-06-15T18:41:36Z
 category: reading
+author: "Sean Ellis"
 description: "The document is a transcript of the \"Breakout Growth\" podcast featuring Jonathan Becher, President of Shark Sports and Entertainment. The discussion focuses..."
 source: "https://seanellis.substack.com/p/tech-meets-sports-and-entertainment-318"
 ---

@@ -2,6 +2,7 @@
 title: "Pluralistic: Tiktok's enshittification (21 Jan 2023)"
 date: 2025-01-21T09:28:27Z
 category: reading
+author: "Cory Doctorow"
 description: "Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they..."
 source: "https://pluralistic.net/2023/01/21/potemkin-ai/"
 ---

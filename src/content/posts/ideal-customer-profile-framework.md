@@ -2,6 +2,7 @@
 title: "Ideal Customer Profile Framework"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "ICP 不是\"我们服务谁\"的笼统声明，而是\"特定时间窗口内、为特定目标、集中销售与营销资源攻取哪类客户\"的可测试假设——没有情境定义，ICP 就没有意义。"
 source: "http://sixteenventures.com/ideal-customer-profile"
 ---

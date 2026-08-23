@@ -2,6 +2,7 @@
 title: "What I learned this week - Pretraining parallelisms, Can distillation be stopped, Mythos and the cybersecurity equilibrium, Pipeline RL, On why pretraining runs fails"
 date: 2026-04-17T08:02:24Z
 category: reading
+author: "Dwarkesh Patel"
 description: "模型: openai-codex/gpt-5.4"
 source: "https://www.dwarkesh.com/p/what-i-learned-april-15"
 ---

@@ -2,6 +2,7 @@
 title: "Google I/O 2026: What you need to know for SEO /AEO"
 date: 2026-05-21T05:50:12Z
 category: reading
+author: "Eli Schwartz"
 description: "Google I/O 2026 的真正信号是：搜索流量下滑已经从“AI Overview 抢点击”升级为“Google 在搜索里直接完成发现、判断、预订、规划和学习”。AI Mode 还没有变成默认入口，但它已有 10 亿月活，查询量每季度翻倍；只要广告变现风险可控，Google 随时可以把更多用户推向这个体验。"
 source: "https://www.productledseo.com/p/google-io-2026-what-you-need-to-know"
 ---

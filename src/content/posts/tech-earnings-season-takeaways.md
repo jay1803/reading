@@ -2,6 +2,7 @@
 title: "Tech Earnings Season Takeaways"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Tanay Jaipuria"
 description: "这轮 tech earnings 最不显然的信号是：AI 已经从“产品叙事”进入“资本开支、组件供给、CPU/内存结构、广告变现、工程组织、SaaS 定价与商业分发”的全栈重定价阶段。短期赢家不是单点模型应用，而是能同时拿到算力、内存、用户上下文、分发入口和业务闭环的平台。"
 source: "https://www.tanayj.com/p/tech-earnings-season-takeaways"
 ---

@@ -2,6 +2,7 @@
 title: "CrowdStrike: Outage Rebound"
 date: 2025-03-13T13:22:44Z
 category: reading
+author: "Kevin Palmer"
 description: "CrowdStrike 是一家 AI 原生的网络安全领导者，提供名为 Falcon 的云原生安全平台，保护端点、云工作负载、身份和数据。尽管在 2024 年 7 月遭遇大规模 IT 中断，但公司近期股价创下历史新高。2025 财年第四季度收入增长 25%，但由于与中断相关的成本，下一季度的盈利预测远低于预期，导致..."
 source: "https://www.appeconomyinsights.com/p/crowdstrike-outage-rebound"
 ---

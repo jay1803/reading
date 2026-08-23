@@ -2,6 +2,7 @@
 title: "Mockups Were Never the Hard Part"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Luke Wroblewski"
 description: "AI 把 mockup 生成成本打到接近零，真正暴露的是设计工作的重心：设计师的护城河不在“谁画出一个界面”，而在让多人快速生成的局部方案进入同一个产品系统、数据模型和用户心智模型里。mockup 从交付物降级为讨论材料，设计判断反而更重要。"
 source: "https://www.lukew.com/ff/entry.asp?2152"
 ---

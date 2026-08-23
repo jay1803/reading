@@ -2,6 +2,7 @@
 title: "Quoting Josh W. Comeau"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Simon Willison"
 description: "Josh W. Comeau 新课《Whimsical Animations》销量约为往期课程的三分之一，旧课销量同样大幅下滑。他将原因归结为 AI 的双重打击：开发者因对职业前景不确定而不愿投钱学习新技能；同时 LLM 提供个性化辅导，消除了付费课程的核心差异化价值。"
 source: "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything"
 ---

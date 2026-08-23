@@ -2,6 +2,7 @@
 title: "Deep SEO"
 date: 2025-03-17T19:46:23Z
 category: reading
+author: "Kevin Indig"
 description: "Google 推出了 AI Mode 的 Beta 版本，这是一种加强版的 AI Overview。AI Mode 的出现是对 Deep Search 的自然反应，也预示了 AI 搜索的未来。Deep Search 是一种 AI Agent，可以创建关于特定主题的详细报告，对 Google 构成了威胁，因为它可以..."
 source: "https://www.growth-memo.com/p/deep-seo"
 ---

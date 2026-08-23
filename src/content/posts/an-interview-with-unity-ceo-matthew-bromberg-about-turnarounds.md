@@ -2,6 +2,7 @@
 title: "An Interview with Unity CEO Matthew Bromberg About Turnarounds"
 date: 2025-11-19T08:34:44Z
 category: reading
+author: "Ben Thompson"
 description: "Matthew Bromberg，Unity 现任 CEO（2024 年接替 John Riccitiello）。职业路径：哈佛法学院 → AOL 消费品部门 → 联合创立 Major League Gaming（2000 年，北美第一个职业电竞联盟）→ EA（扭转 Star Wars: The Old Repu..."
 source: "https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/"
 ---

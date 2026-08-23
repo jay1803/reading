@@ -2,6 +2,7 @@
 title: "🤖 NVIDIA: Great Wall of Worry"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Kevin Palmer"
 description: "中国 H20 收入单季归零（Q1 40亿 → Q2 0），Q3 指引仍环比跳涨 16% 至 540 亿美元——全球 AI 基建需求大到足以直接消化缺口，中国已是噪音，不是变量。"
 source: "https://www.appeconomyinsights.com/p/nvidia-great-wall-of-worry"
 ---

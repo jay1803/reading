@@ -2,6 +2,7 @@
 title: "City of Known Unknowns"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Rebecca Darley"
 description: "Istanbul 对历史学家的训练，是让人持续面对“可探索、可学习、但永远无法完全确认”的城市层积。文章用两个小型遗迹说明：越是历史密度极高的地方，越会暴露知识的边界；真正有价值的认识，是知道多了一点已知，也更清楚未知还剩下多少。"
 source: "https://coffeewithclio.substack.com/p/city-of-known-unknowns"
 ---

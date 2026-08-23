@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.9.26 - The Education Advantage in AI"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Jamin Ball"
 description: "AI 市场竞争的核心是认知标准的制定权——谁先让市场接受\"应该这样构建\"的思维模型，谁就能在认知锁定后收获超常规的增长曲线。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-1926-the-education"
 ---

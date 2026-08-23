@@ -2,6 +2,7 @@
 title: "Customer Success: Defined (Winter 2023 Update)"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章把 Customer Success 从模糊岗位名拆成一套可操作的定义系统：Customer Success 本身是一个经营哲学，核心是让客户通过与公司的关系达成自己不断演化的 Desired Outcome，并最终带来续约、扩张和推荐。真正决定客户是否“成功”的，不是产品内任务是否完成，而是目标、条件、..."
 source: "https://sixteenventures.com/customer-success-definition"
 ---

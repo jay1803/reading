@@ -2,6 +2,7 @@
 title: "Decentralization - Not Boring by Packy McCormick"
 date: 2022-11-23T11:05:31Z
 category: reading
+author: "Packy McCormick"
 description: "本文作者 Packy 认为，世界正在经历一个从中心化到去中心化的大趋势，这一趋势由包括互联网在内的多种技术驱动。这种去中心化将影响地缘政治、金融、教育、新闻和能源等多个领域，并需要新的基础设施和组织原则来适应去中心化系统固有的混乱和复杂性。尽管加密货币和 web3 在这个过程中可能发挥作用，但它们只是更大趋势中的..."
 source: "https://www.notboring.co/p/decentralization"
 ---

@@ -2,6 +2,7 @@
 title: "TBM 414: Legibility and Legitimacy"
 date: 2026-04-09T08:01:36Z
 category: reading
+author: "John Cutler"
 description: "这篇文章真正要打掉的，是科技圈把“看得更清楚”偷换成“统治得更正当”的话术。AI 也许能让组织更可读、信息流更顺，但这只会增强控制能力，不会自动回答谁有权控制、控制为了什么、被控制的人为什么应该接受。"
 source: "https://cutlefish.substack.com/p/tbm-414-legibility-and-legitimacy"
 ---

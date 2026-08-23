@@ -2,6 +2,7 @@
 title: "Collection: In the Arena"
 date: 2025-10-15T16:21:13Z
 category: reading
+author: "Naval Ravikant"
 description: "这篇《In the Arena》表面上是在聊 Elon、创业、哲学、产品设计、David Deutsch、Schopenhauer，甚至还聊到 Raptor engine 和 iPhone，但它真正想讲的，其实只有一条主线："
 source: "https://nav.al/in-the-arena"
 ---

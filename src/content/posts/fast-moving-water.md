@@ -2,6 +2,7 @@
 title: "Fast Moving Water"
 date: 2026-06-12T08:01:58Z
 category: reading
+author: "Gaurav Vohra"
 description: "创始人把大量精力放在执行上，但决定增长的上游是市场本身的速度。作者将\"赛道\"类比为基因/环境：大约 60% 的增长来自所在的市场空间，其余 40% 才是执行层面的全部。GPTZero（AI 检测）、Wispr Flow（语音输入）的增长靠的不是执行多出色，而是 AI 浪潮的持续推力；Replit 死磨九年，202..."
 source: "https://substack.gauravvohra.com/p/fast-moving-water"
 ---

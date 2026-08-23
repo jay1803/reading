@@ -2,6 +2,7 @@
 title: "★ AI Is Technology, Not a Product"
 date: 2026-05-17T08:01:23Z
 category: reading
+author: "John Gruber"
 description: "AI 更接近无线网络这类基础技术：它会渗透所有设备和体验，但不会天然生成一个“杀手级 AI 产品”。Apple 的真正任务是把 AI 变成可靠、隐私可信、跨设备可用的系统能力，而非为了市场叙事硬造一个新硬件范式。"
 source: "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
 ---

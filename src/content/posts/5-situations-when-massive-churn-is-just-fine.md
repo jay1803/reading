@@ -2,6 +2,7 @@
 title: "5 Situations When Massive Churn is Just Fine"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章表面在列举“高 churn 也没关系”的五种情形，实质是在反向论证：除非你处在极少数拥有超大且高度流动市场、已经控制竞争对手，或资本强到能把副作用买平的局面，高 churn 都是坏事。更危险的是把 churn 当成行业宿命；一旦停止追问根因，公司会同时失去留存改进、估值支撑和口碑防线。"
 source: "http://sixteenventures.com/churn-is-fine"
 ---

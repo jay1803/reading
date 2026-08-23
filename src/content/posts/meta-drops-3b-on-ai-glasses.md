@@ -2,6 +2,7 @@
 title: "👓 Meta Drops €3B on AI Glasses"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇快报里真正值得关注的，不是 Meta 又投了一笔大钱，而是它在用 €3B 入股 EssilorLuxottica 明确下注一个判断：AI 的下一个主战场，不只是模型和数据中心，而是带有分发渠道与消费场景的硬件入口。从这个角度看，Meta 买的不是眼镜股权本身，而是未来 AI wearable 的零售通路、品牌..."
 source: "https://www.appeconomyinsights.com/p/meta-drops-3b-on-ai-glasses"
 ---

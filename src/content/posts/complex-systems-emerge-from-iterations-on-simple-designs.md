@@ -2,6 +2,7 @@
 title: "Complex Systems Emerge From Iterations On Simple Designs"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Naval Ravikant"
 description: "Naval Ravikant，AngelList 联合创始人、天使投资人，以\"财富与幸福\"系列推文著称。[补充：他是多家科技公司早期投资人（Twitter、Uber、Notion 等），近年来持续研究物理、复杂系统与 AI 的交叉议题。] Nivi（Babak Nivi）是 AngelList 联合创始人，担任对..."
 source: "https://nav.al/iterate"
 ---

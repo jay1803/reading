@@ -2,6 +2,7 @@
 title: "Punch the monkey and a $0 marketing masterclass 🧸"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Tom Orbach"
 description: "病毒营销失败的原因通常不是创意不够，而是顺序错了。IKEA 在 Punch 事件里拿到零预算品牌爆发，靠的是三个逆直觉的操作顺序。"
 source: "https://www.marketingideas.com/p/the-whole-internet-cried-over-a-baby"
 ---

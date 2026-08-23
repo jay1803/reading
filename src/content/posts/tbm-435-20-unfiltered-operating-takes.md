@@ -2,6 +2,7 @@
 title: "TBM 435: 20 Unfiltered Operating Takes"
 date: 2026-08-21T09:24:07Z
 category: reading
+author: "John Cutler"
 description: "Cutler 的核心论点：大多数你以为在帮你工作的框架（North Star、金字塔、稳定团队）实际上正在妨碍你工作；真正有效的是 Lane、惯例与快速发货。"
 source: "https://cutlefish.substack.com/p/tbm-435-20-unfiltered-operating-takes"
 ---

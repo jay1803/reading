@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: The Rage of the Billionaires Is Coming"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Matt Stoller"
 description: "Stoller 的核心判断是：美国富豪阶层的问题不只是掌握财富和制度资源，而是仍要求公众把他们视为“成功”和“进步”的道德化身；当 AI、数据中心、战争、房产税、反垄断和政治腐败把这种道德合法性打穿后，他们会用更激烈的威胁、污名化和媒体战反击，但这种反击会越来越像虚弱的自我暴露。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-rage-of-the"
 ---

@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.12.25 - Long Live Systems of Record"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Jamin Ball"
 description: "作者反对“agent 会取代 system of record”这类说法，核心理由不是旧式 SaaS 前端还会长期强势，而是企业自动化越深，就越需要明确、稳定、可追责的 canonical truth。agent 真正放大的不是模型能力，而是底层数据定义、所有权、冲突解决和写入边界是否足够清晰；没有这一层，自动化..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-121225-long-live"
 ---

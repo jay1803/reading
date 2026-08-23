@@ -2,6 +2,7 @@
 title: "You are too aggressive. You should smile more."
 date: 2025-05-26T17:40:04Z
 category: reading
+author: "Elena Verna"
 description: "女性在职场中常因果敢被误解为攻击性，这种偏见要求她们在保持雄心与符合传统女性期望之间艰难平衡。文章探讨了这种双重标准，并指出一旦女性突破特定职业瓶颈（如副总裁级别），这种所谓的“攻击性”反而会被视为果敢的领导力，同时，“弱势语言”也可作为一种有效策略来应对偏见。"
 source: "https://www.elenaverna.com/p/you-are-too-aggressive-you-should"
 ---

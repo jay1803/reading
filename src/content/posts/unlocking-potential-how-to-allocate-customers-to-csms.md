@@ -2,6 +2,7 @@
 title: "Unlocking Potential: How to Allocate Customers to CSMs"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户分配的核心变量不是账户数量，而是每位客户所需的\"合适体验\"（Appropriate Experience, AX）——用 AX 分层驱动分配，比按头数平均摊派更能防止服务错配和 CSM 倦怠。"
 source: "https://sixteenventures.com/csm-customer-allocation"
 ---

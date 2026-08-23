@@ -2,6 +2,7 @@
 title: "Is America Losing the Ability to Grow Its Own Food?"
 date: 2025-03-14T19:20:23Z
 category: reading
+author: "Matt Stoller"
 description: "文章指出，由于美国经济中的激励机制错位，导致企业和个人倾向于做对自身有利但对整个经济和国家不利的事情，最终可能损害美国的食品生产能力和经济繁荣。作者以食品行业为例，特别是牛肉和鸡蛋行业，指出中间商的垄断力量如何导致生产者无法获得合理利润，从而破坏了美国的食品自给自足能力。文章呼吁重新调整金融与生产之间的关系，重建..."
 source: "https://www.thebignewsletter.com/p/is-america-losing-the-ability-to"
 ---

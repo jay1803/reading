@@ -2,6 +2,7 @@
 title: "Roman moon, Greek moon"
 date: 2026-04-11T08:02:46Z
 category: reading
+author: "John D. Cook"
 description: "这篇短文真正有意思的点不在天文学，而在命名学：轨道术语看起来像一套严密系统，实际却是希腊语前缀、罗马神名和历史惯用法拼接出来的混合体。按词源洁癖，月球最近点更该叫 periselene，因为 peri- 是希腊语；但现实里 perilune 更顺口，因为人们对 Luna 系词远比对 Selene 熟。"
 source: "https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/"
 ---

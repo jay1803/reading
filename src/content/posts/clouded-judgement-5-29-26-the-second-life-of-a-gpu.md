@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.29.26 - The Second Life of a GPU"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Jamin Ball"
 description: "Neocloud 的关键上行不只来自首轮 4-5 年训练合同，而来自 GPU 在债务摊销完之后还能被二次出租给推理需求；如果旧卡仍有足够经济价值，项目层面的利润率会在再签约阶段显著抬升。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-52926-the-second"
 ---

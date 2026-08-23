@@ -2,6 +2,7 @@
 title: "🧠 Anthropic Leapfrogs OpenAI"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇最有价值的判断，不是“Anthropic 反超 OpenAI”，而是 AI 商业格局开始分叉成三种不同胜利路径：Anthropic 用高价企业安全与超大算力绑定抢利润池，Meta 用 35 亿用户入口抢分发，OpenAI 则卡在资本开支、治理争议与叙事防守之间，最危险的不是技术落后，而是商业位置变成“两头受压”。"
 source: "https://www.appeconomyinsights.com/p/anthropics-wild-growth"
 ---

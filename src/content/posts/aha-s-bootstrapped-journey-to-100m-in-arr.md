@@ -2,6 +2,7 @@
 title: "Aha!’s bootstrapped journey to $100M+ in ARR"
 date: 2025-05-21T19:39:19Z
 category: reading
+author: "Kate Syuma"
 description: "本文采访了 GTM (Go-To-Market) 领导者 Danny Archer，他分享了在 Aha! 公司从早期员工成长到公司年经常性收入 (ARR) 超过1亿美元的经历。Aha! 是一家完全远程、自筹资金并实现盈利的产品开发软件公司，拥有超过70万用户和三款核心产品。文章重点介绍了 Aha! 如何通过构建高..."
 source: "https://www.growthunhinged.com/p/ahas-bootstrapped-journey-to-100m"
 ---

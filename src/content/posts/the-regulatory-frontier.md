@@ -2,6 +2,7 @@
 title: "The Regulatory Frontier"
 date: 2026-05-31T08:00:59Z
 category: reading
+author: "Naval Ravikant"
 description: "Naval 主持一场关于监管、AI 与实体创新的讨论；三位主要嘉宾是 Vercel 创始人 Guillermo Rauch、Boom Supersonic 创始人 Blake Scholl、Science Corp 创始人 Max Hodak。对话聚焦一个具体问题：AI 降低合规文书成本后，监管状态会变成创新加速..."
 source: "https://nav.al/regulatory"
 ---

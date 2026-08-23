@@ -2,6 +2,7 @@
 title: "Legal Consequences of Using AI (PT1)"
 date: 2026-04-02T08:01:08Z
 category: reading
+author: "Nick LeRoy"
 description: "这篇文章真正要说的不是“AI 法律很多很复杂”，而是：AI 并没有发明一套全新的法律问题，它只是把知识产权、隐私、歧视、合同、供应商管理和治理这些旧责任压缩成了更快爆雷、更难甩锅的经营问题。公司若还把 AI 当成“先上线再说”的效率工具，最后撞上的通常不是技术边界，而是早就存在的法律边界。"
 source: "https://www.seoforlunch.com/p/ai-jail"
 ---

@@ -2,6 +2,7 @@
 title: "Checking In on AI and the Big Five"
 date: 2025-06-24T10:43:49Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章回顾了 2023 年对 AI 与科技巨头（Big Five）的预测，并基于 2025 年 6 月的现状进行了重新评估。文章指出，AI 已成为新的技术纪元，但各家公司的处境迥异：Meta 因 Llama 4 的表现不佳陷入人才争夺的恐慌；Apple 在自研模型上受挫，转而依赖与 OpenAI 的合作并深耕硬..."
 source: "https://stratechery.com/2025/checking-in-on-ai-and-the-big-five/"
 ---

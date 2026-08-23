@@ -2,6 +2,7 @@
 title: "The AI writing witchhunt is pointless."
 date: 2026-04-09T08:01:36Z
 category: reading
+author: "Joan Westenberg"
 description: "作者把焦点放在一个更危险的变化上：出版圈对“AI 写作”的审判，已经脱离证据自行运转。只要检测工具和读者直觉都不可靠，最先被牺牲的就会是名气最小、最难自证的作者。"
 source: "https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/"
 ---

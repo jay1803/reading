@@ -2,6 +2,7 @@
 title: "How to Analyze an Income Statement"
 date: 2023-06-01T13:53:31Z
 category: reading
+author: "Kevin Palmer"
 description: "这是一篇教你如何分析损益表（Income Statement）的入门指南。损益表，也称为 P&L 表，展示了公司在特定时期内的财务表现，包括收入、支出和净利润。文章详细解释了损益表中的关键组成部分、重要比率（如各种利润率和 EPS），以及分析方法（如行业对标、时间序列分析和 Non-GAAP 指标）。"
 source: "https://www.appeconomyinsights.com/p/how-to-analyze-an-income-statement"
 ---

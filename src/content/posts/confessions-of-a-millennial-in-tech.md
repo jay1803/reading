@@ -2,6 +2,7 @@
 title: "Confessions of a Millennial in Tech"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Elena Verna"
 description: "这篇文章真正的冲击点，是 AI 在同时压缩三样东西：职业身份、资历信号和知识工作的稀缺性。对把职业生涯建在软件、增长、产品这些“可积累技艺”上的一代人来说，问题不只是效率更高，而是过去十年积累的杠杆正在突然贬值。"
 source: "https://www.elenaverna.com/p/confessions-of-a-millennial-in-tech"
 ---

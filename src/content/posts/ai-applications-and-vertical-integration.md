@@ -2,6 +2,7 @@
 title: "AI Applications and Vertical Integration"
 date: 2026-03-31T08:00:31Z
 category: reading
+author: "Tanay Jaipuria"
 description: "AI 应用公司注定不会停留在\"应用层\"——它们要么向下整合到模型层，要么向上整合到服务/结果层，两条路都走向全栈。"
 source: "https://www.tanayj.com/p/ai-applications-and-vertical-integration"
 ---

@@ -2,6 +2,7 @@
 title: "An Interview with YouTube CEO Neal Mohan About Building a Stage for Creators"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Ben Thompson"
 description: "Neal Mohan，YouTube CEO，2023 年接任 Susan Wojcicki。印第安纳出生，密歇根长大，高中随家人回印度，后返美入斯坦福读电气工程，1990s 中期毕业。从 NetGravity（早期互联网广告技术公司）入行，NetGravity 与 DoubleClick 合并后主导产品；200..."
 source: "https://stratechery.com/2025/an-interview-with-youtube-ceo-neal-mohan-about-building-a-stage-for-creators/"
 ---

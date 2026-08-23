@@ -2,6 +2,7 @@
 title: "Facebook is Dead; Long Live Meta"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Ben Thompson"
 description: "Meta 这一轮亮眼财报，真正的驱动力是算法推更多短视频和加大广告密度（即\"转旋钮\"），而不是市场普遍在鼓吹的 LLM / 超级智能投资——两者是完全独立的。"
 source: "https://stratechery.com/2025/meta-earnings-meta-turns-the-dial-social-network-r-i-p/"
 ---

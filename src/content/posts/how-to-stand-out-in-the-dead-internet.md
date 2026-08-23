@@ -2,6 +2,7 @@
 title: "How to stand out in the dead internet"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Dan Koe"
 description: "\"价值型内容已死\"是误诊：死去的是无需品味的通用教程，AI 加速了这个清算。真正具有价值的内容从未依赖信息本身，而是依赖个人视角、品味和使命感——而这三者无法被提示词生成。"
 source: "https://letters.thedankoe.com/p/the-death-of-value-based-content"
 ---

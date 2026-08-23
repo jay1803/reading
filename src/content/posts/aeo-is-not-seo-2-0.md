@@ -2,6 +2,7 @@
 title: "AEO is not SEO 2.0"
 date: 2026-04-10T08:01:33Z
 category: reading
+author: "Eli Schwartz"
 description: "这篇文章最重要的判断是，AEO 的竞争单位已经从“抢一个结果页位置”变成“进入模型对行业的默认认知”。一旦用户在对话里直接拿到答案，排名、点击、流量漏斗这套 SEO 核心度量就开始失真，真正重要的是你的品牌和观点有没有被模型当成可信素材反复吸收。"
 source: "https://www.productledseo.com/p/aeo-is-not-seo-20"
 ---

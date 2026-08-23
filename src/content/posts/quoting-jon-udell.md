@@ -2,6 +2,7 @@
 title: "Quoting Jon Udell"
 date: 2026-06-29T08:03:20Z
 category: reading
+author: "Simon Willison"
 description: "\"Human in the loop\" 暗示 loop 是机器的，人类只是被插入其中的一个检查点。Jon Udell 的修正：loop 一直是我们的，agent 是被我们招募进来的协作者，不是反过来。"
 source: "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything"
 ---

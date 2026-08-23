@@ -2,6 +2,7 @@
 title: "🦚 Comcast: The Great Unbundling"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Kevin Palmer"
 description: "Comcast 拆分的真实逻辑不是\"两块业务终于不兼容了\"——它们从来就是不同物种。关键在于：两家独立公司各自拥有股权货币和独立董事会，那些在集团内部无法完成的交易就变得可行。Roberts 家族仍通过双重股权结构控制双方，Roberts 本人继续\"深度参与\"两家公司。Cavanagh 那句\"我们只是改变了主意\"..."
 source: "https://www.appeconomyinsights.com/p/comcast-the-great-unbundling"
 ---

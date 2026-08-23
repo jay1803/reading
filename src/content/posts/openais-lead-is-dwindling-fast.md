@@ -2,6 +2,7 @@
 title: "OpenAI’s lead is dwindling fast"
 date: 2026-06-17T08:03:59Z
 category: reading
+author: "Gary Marcus"
 description: "OpenAI 本周遭受三项同步冲击，叠加意义超过任何单项：①市场份额首次跌破 50%，Google 持续蚕食；②最大金主微软正公开评估用 DeepSeek 替代 OpenAI/Anthropic 作 Copilot 后端，转向按使用量计费；③Ed Zitron 披露 2025 年审计财务：营收 $130.7 亿，..."
 source: "https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast"
 ---

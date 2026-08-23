@@ -2,6 +2,7 @@
 title: "How to fix your entire life in 1 day"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Dan Koe"
 description: "\"坚持不住\"根本不是意志力问题——你在以最高效率追求一个没有意识到的隐性目标：避免完成后被人评判。改变不需要更强的自律，需要替换这个隐藏目标。"
 source: "https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1"
 ---

@@ -2,6 +2,7 @@
 title: "OpenAI Is A Bad Business"
 date: 2024-10-08T17:31:58Z
 category: reading
+author: "Ed Zitron"
 description: "it's fair to assume that Apple (AAPL), on signing a non-disclosure agreement, was able to see exactly what OpenAI had (or had not) got behind the curtain, as..."
 source: "https://www.wheresyoured.at/oai-business/"
 ---

@@ -2,6 +2,7 @@
 title: "Oracle and Animal Spirits"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Doug O'Laughlin"
 description: "Oracle 单季 RPO 达 $4550 亿（相当于丹麦 GDP），同比涨 359%；管理层披露未来四年 OCI 收入将从今年 $180 亿增至 $1440 亿——一家 18 个月前还不在\"顶级选项\"名单上的公司，突然处于重写云基础设施格局的位置。"
 source: "https://www.fabricatedknowledge.com/p/oracle-and-animal-spirits"
 ---

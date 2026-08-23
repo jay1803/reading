@@ -2,6 +2,7 @@
 title: "An Interview with F1 Driver and Venture Capitalist Nico Rosberg About the Drive to Win"
 date: 2026-04-17T08:02:24Z
 category: reading
+author: "Ben Thompson"
 description: "Nico Rosberg 是 2016 年 F1 世界冠军，退役后创立 Rosberg Ventures，主打把德国资本与企业资源接到美国顶级 VC 和创业公司上。他的独特位置不只是“前车手”，而是同时懂高压竞技、全球品牌、赞助生态、德国产业网络和硅谷关系经营的人。"
 source: "https://stratechery.com/2026/an-interview-with-f1-driver-and-venture-capitalist-nico-rosberg-about-the-drive-to-win/"
 ---

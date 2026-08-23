@@ -2,6 +2,7 @@
 title: "The most important question nobody's asking about AI"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Dwarkesh Patel"
 description: "\"对齐\"这个词通常被问成\"如何让 AI 行为可预期\"，但最重要的那一层被跳过了：AI 应该被对齐给谁？这个问题决定未来文明的权力结构——而我们几乎没有在讨论它。"
 source: "https://www.dwarkesh.com/p/dow-anthropic"
 ---

@@ -2,6 +2,7 @@
 title: "You'll Own Nothing and Be Happy: Why It's So Hard to Break John Deere's Control Over Farming"
 date: 2026-07-11T08:05:07Z
 category: reading
+author: "Matt Stoller"
 description: "7 月 9 日，FTC 与约翰迪尔就\"修复权\"诉讼达成和解，主要倡导者和媒体普遍叫好。Matt Stoller 认为这场和解本质上是安慰剂：Deere 的垄断逻辑一条都没被斩断。"
 source: "https://www.thebignewsletter.com/p/youll-own-nothing-and-be-happy-why"
 ---

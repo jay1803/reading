@@ -2,6 +2,7 @@
 title: "Retention: The situationship of SaaS"
 date: 2025-06-24T10:27:31Z
 category: reading
+author: "Elena Verna"
 description: "在当前这个由 AI 驱动、产品与市场契合度 (product-market fit) 随时可能瓦解的时代，用户留存变得至关重要。客户流失 (Churn) 并非疾病本身，而是更深层次问题的症状。要有效应对流失，公司应建立一个包含四个关键杠杆的系统：优化用户激活、提升核心功能采用率、主动预防用户流失，以及策略性地唤醒..."
 source: "https://www.elenaverna.com/p/retention-the-situationship-of-saas"
 ---

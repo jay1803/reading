@@ -2,6 +2,7 @@
 title: "Customer Retention: Proactive, Reactive, and At-Risk Analysis"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "被动留存是系统设计失败的症状，而非 CSM 工作的常态负担——客户快要离开才介入，意味着从未建立起对其目标的持续确认机制。"
 source: "https://sixteenventures.com/customer-retention-analysis"
 ---

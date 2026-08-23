@@ -2,6 +2,7 @@
 title: "Figma's woes compound with Claude Design"
 date: 2026-04-20T08:01:01Z
 category: reading
+author: "Martin Alderson"
 description: "Figma 真正的危险，不是单点 AI 功能落后，而是它过去最成功的增长逻辑, 让非设计人员也大量进入 Figma, 正好会被 AI 反过来瓦解。现在这些 PM、开发、运营、管理者，越来越可以直接让模型生成原型、演示和报告，不再需要通过 Figma 这个中间层完成大量“够用就行”的设计工作。更糟的是，来抢这块增量..."
 source: "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

@@ -2,6 +2,7 @@
 title: "The 8 Elements of Customer Success Management"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "按 ARR/付费金额分群做客户成功是行业通病，正确的分群基础是\"Appropriate Experience\"（AX）——每个客户群需要什么类型的覆盖和体验，而不是他们付了多少钱。分错了起点，后面八个环节全部失准。"
 source: "http://sixteenventures.com/elements-customer-success-management"
 ---

@@ -2,6 +2,7 @@
 title: "Why I don't like the \"staff engineer archetypes\""
 date: 2026-05-04T08:02:01Z
 category: reading
+author: "Sean Goedecke"
 description: "Staff engineer archetypes 更像事后观察到的组织生态位，不适合作为晋升目标；真正的 staff 能力不是“选择成为 team lead / architect / solver / right hand”，而是持续交付公司真正需要的价值，积累足够信任后，被组织自然推入当下最稀缺的位置。"
 source: "https://seangoedecke.com/staff-engineer-archetypes/"
 ---

@@ -2,6 +2,7 @@
 title: "In Most Difficult Things in Life, The Solution is Indirect"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Naval Ravikant"
 description: "这篇短文在说一个很简单、但很常被忘掉的判断：生活里很多真正困难、稀缺、带竞争性的东西，往往不能硬冲着目标本身去追，而要通过别的动作间接得到。 Naval 用财富、幸福、吸引力、地位这些例子来说明：钱、快乐、status 这类东西，通常更像副产物。你去做有价值的事、进入 flow、减少自我执念、长期积累能力和作品，..."
 source: "https://nav.al/indirect"
 ---

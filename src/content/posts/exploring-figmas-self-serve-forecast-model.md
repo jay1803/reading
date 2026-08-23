@@ -2,6 +2,7 @@
 title: "Exploring Figma's Self Serve Forecast Model"
 date: 2025-01-10T14:39:29Z
 category: reading
+author: "Ben McRedmond"
 description: "我们最近与 Figma 的第 40 名员工和第二位战略财务员工 Craft Ventures 的 Sean Whitney 坐下来，了解 Figma 如何构建一个自助服务预测模型，该模型始终预测年度经常性收入 （ARR） 增长率在 5% 以内。"
 source: "https://wrap-text.equals.com/p/exploring-figmas-self-serve-forecast-model"
 ---

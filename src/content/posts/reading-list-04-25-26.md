@@ -2,6 +2,7 @@
 title: "Reading List 04/25/26"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Brian Potter"
 description: "公开部分的核心信号是：建筑、基础设施与工业技术的瓶颈正在从“有没有需求”转向“材料、设备、能源、许可和地缘链条能不能跟上”。霍尔木兹、变压器钢、加州住房、美国制造业数据分歧、High NA EUV 成本，本质上都指向同一个慢变量：真实产能扩张越来越受制于硬约束。"
 source: "https://www.construction-physics.com/p/reading-list-042526"
 ---

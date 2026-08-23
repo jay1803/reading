@@ -2,6 +2,7 @@
 title: "The Age of the Amplifier"
 date: 2026-03-29T17:23:59Z
 category: reading
+author: "Brian Potter"
 description: "Bell Labs 四次试图造出更好的电话放大器，结果阴差阳错发明了 20 世纪最重要的四项技术：真空管、负反馈放大器、晶体管、激光——每一项的价值都远远超出电话系统本身。"
 source: "https://www.construction-physics.com/p/the-age-of-the-amplifier"
 ---

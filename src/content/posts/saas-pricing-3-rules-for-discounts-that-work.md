@@ -2,6 +2,7 @@
 title: "SaaS Pricing: 3 Rules for Discounts that Work"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "折扣的问题从来不是“能不能便宜卖”，而是你是在用降价掩盖价值叙事失败，还是用设计良好的报价把客户引向更高终身价值。真正有效的折扣不该减少收入，而该把原本会买低配的人推向更高档、更高承诺、更高 LTV 的选择。要做到这一点，折扣必须建立在真实使用信号之上，并带有明确稀缺性，否则它只会训练市场怀疑你的定价。"
 source: "http://sixteenventures.com/saas-pricing-discounts?utm_source=rss&utm_medium=rss&utm_campaign=saas-pricing-discounts"
 ---

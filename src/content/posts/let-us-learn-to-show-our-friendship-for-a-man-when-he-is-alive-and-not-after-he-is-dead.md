@@ -2,6 +2,7 @@
 title: "★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "John Gruber"
 description: "这篇短文把 Sam Altman 的“可信度问题”从印象判断推到了治理判断。Aaron Swartz、YC、微软三条彼此独立的线索同时指向同一风险时，前沿 AI 公司能否承受这种领导结构，已经成了比人物争议更大的问题。"
 source: "https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead"
 ---

@@ -2,6 +2,7 @@
 title: "What's Driving Growth at Fastest Growing B2B Companies? Learnings from Last 6 Interviews"
 date: 2024-06-16T15:39:12Z
 category: podcast
+author: "Sean Ellis"
 description: "Background and Context: The podcast \"Breakout Growth,\" hosted by Sean Ellis, discusses insights gleaned from interviews with growth leaders at rapidly expand..."
 source: "https://seanellis.substack.com/p/whats-driving-growth-at-fastest-growing-5b9"
 ---

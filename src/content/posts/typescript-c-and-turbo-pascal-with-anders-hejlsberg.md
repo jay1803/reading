@@ -2,6 +2,7 @@
 title: "TypeScript, C# and Turbo Pascal with Anders Hejlsberg"
 date: 2026-05-14T08:01:36Z
 category: reading
+author: "Gergely Orosz"
 description: "Anders Hejlsberg 是 Turbo Pascal、Delphi、C#、TypeScript 的核心设计者；早年在 Borland 做开发工具，1996 年加入 Microsoft，当前是 Microsoft Technical Fellow。Gergely Orosz 访谈的主线，是让 Anders..."
 source: "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with"
 ---

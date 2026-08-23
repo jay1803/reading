@@ -2,6 +2,7 @@
 title: "How to build an AI SEO strategy that outlasts tactics"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Kevin Indig"
 description: "AI SEO 不是“战术清单”，而是一个可被管理层审查、可随平台变化迭代的业务决策系统：先定义与收入/份额相关的核心业务挑战，再基于品牌独特优势设计方法，最后才落到执行动作；用情景规划替代流量预测，用季度复盘保证策略可逆、可调。"
 source: "https://www.growth-memo.com/p/how-to-build-an-ai-seo-strategy-that"
 ---

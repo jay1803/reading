@@ -2,6 +2,7 @@
 title: "Who Owns Pricing?"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Gaurav Vohra"
 description: "这篇文章的核心判断是：真正决定一家 SaaS 或 AI 公司能不能持续优化定价的，往往不是定价团队的想法够不够好，而是底层商业与产品架构有没有把“定价”做成一个可配置、可继承、可实验的系统。很多公司表面上有人负责 pricing，实际上价格、套餐、权限、计量、订单、账单分别散落在不同系统里，结果是谁都改不动，任何..."
 source: "https://substack.gauravvohra.com/p/who-owns-pricing"
 ---

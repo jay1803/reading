@@ -2,6 +2,7 @@
 title: "⛷️ Ski Resorts Economics"
 date: 2024-10-08T18:32:54Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章深入探讨了滑雪度假村的经济学，特别是威尔度假村的商业运作。作者分析了滑雪度假村不仅仅在于滑雪本身，还涉及更加广泛的商业模式和投资机会。"
 source: "https://www.appeconomyinsights.com/p/ski-resorts-economics"
 ---

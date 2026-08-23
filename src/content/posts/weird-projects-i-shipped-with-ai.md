@@ -2,6 +2,7 @@
 title: "Weird projects I shipped with AI"
 date: 2026-06-02T08:01:20Z
 category: reading
+author: "Sean Goedecke"
 description: "AI 编程的早期产物不一定表现为“创业公司海啸”，更可能先表现为一批以前不值得投入完整工程成本的小项目：游戏、学习工具、无限 wiki、离线植物数据库、CLI 扩展。这些项目的共同点不是宏大，而是 LLM 把“想法到上线”的摩擦降到足够低，让原本会停在 GitHub 半成品阶段的东西真的被交付出来。"
 source: "https://seangoedecke.com/weird-projects-i-shipped-with-ai/"
 ---

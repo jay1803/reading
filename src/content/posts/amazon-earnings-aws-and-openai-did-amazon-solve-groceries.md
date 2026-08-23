@@ -2,6 +2,7 @@
 title: "Amazon Earnings, AWS and OpenAI, Did Amazon Solve Groceries?"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Ben Thompson"
 description: "物流网络快到一定程度，生鲜配送就不再是特殊问题——Amazon 证明了这一点，而不是靠模块化 Whole Foods 供应链。"
 source: "https://stratechery.com/2025/amazon-earnings-aws-and-openai-did-amazon-solve-groceries/"
 ---

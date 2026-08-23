@@ -2,6 +2,7 @@
 title: "Blogging Can Just Be Stating The Obvious"
 date: 2026-06-25T08:02:23Z
 category: reading
+author: "Jim Nielsen"
 description: "Gruber 写道\"网页应该直接展示内容，我不应该需要解释这个\"——这句话毫无新意，却因为现实中无处不在的违反而变得有价值。Nielsen 受此启发，提出博客的关键成分不是原创洞见，而是愿意把\"人人能看见但没人开口\"的话说出来。"
 source: "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
 ---

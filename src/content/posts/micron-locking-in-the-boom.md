@@ -2,6 +2,7 @@
 title: "🔒 Micron: Locking In the Boom"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Kevin Palmer"
 description: "Micron 历史最强季报的核心不是季报本身，是 SCA（战略客户协议）。这是一种五年期 take-or-pay 合同，对价格设定上限与下限；即便以底价结算，Micron 的毛利率仍将高于其历史周期高峰（约 60%）。换言之，以前的行业\"顶\"已经变成新的\"底\"。这是 Micron 首次尝试把记忆芯片从周期性商品转..."
 source: "https://www.appeconomyinsights.com/p/micron-locking-in-the-boom"
 ---

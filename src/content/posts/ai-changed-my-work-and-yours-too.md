@@ -2,6 +2,7 @@
 title: "AI changed my work. And yours, too."
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "Kevin Indig"
 description: "AI 把“执行”压缩成廉价资源后，真正稀缺的不是会不会写代码，而是判断力、验证能力、分发效率与责任承接；软件公司不会因为代码生成而整体失去价值，但低端自助软件、纯 UI 型数据产品、低信任营销会被快速挤压。"
 source: "https://www.growth-memo.com/p/ai-changed-my-work-and-yours-too"
 ---

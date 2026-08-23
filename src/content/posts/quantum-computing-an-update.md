@@ -2,6 +2,7 @@
 title: "Quantum Computing – An Update"
 date: 2024-11-25T15:32:08Z
 category: reading
+author: "Steve Blank"
 description: "Summary:"
 source: "https://steveblank.com/2024/10/22/quantum-computing-an-update/"
 ---

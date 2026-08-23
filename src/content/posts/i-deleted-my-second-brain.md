@@ -2,6 +2,7 @@
 title: "I Deleted My Second Brain"
 date: 2025-06-30T12:02:28Z
 category: reading
+author: "Joan Westenberg"
 description: "在使用了数年笔记软件（如 Obsidian）来构建所谓的“第二大脑”后，作者选择删除了所有笔记。这一举动带来了巨大的解脱感。文章的核心观点是，这种试图捕获一切的个人知识管理（PKM）系统，虽然承诺带来清晰和控制，但实际上却变成了一个存放过时想法的“陵墓”，它用信息的存储代替了真正的思考，用工具的复杂性制造了智力推..."
 source: "https://www.joanwestenberg.com/p/i-deleted-my-second-brain"
 ---

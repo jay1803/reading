@@ -2,6 +2,7 @@
 title: "Profiling Hacker News users based on their comments"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Simon Willison"
 description: "把用户最近 1000 条 HN 评论喂给 LLM，让它「分析此人」，得到的画像精准到连本人都认可——用的不过是完全公开的 API 和一句 prompt。"
 source: "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything"
 ---

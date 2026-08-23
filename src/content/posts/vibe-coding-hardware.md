@@ -2,6 +2,7 @@
 title: "Vibe Coding Hardware"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Naval Ravikant"
 description: "Blake Scholl 在 Boom Supersonic 讨论 AI 如何改造硬件工程流程；Guillermo Rauch 从软件基础设施和 AI Gateway 使用数据角度补充企业软件变化；Max Hodak 从高度垂直整合的硬件/医疗公司经验出发，谈 MEMS foundry、监管文档、材料科学和蛋白工..."
 source: "https://nav.al/hardware"
 ---

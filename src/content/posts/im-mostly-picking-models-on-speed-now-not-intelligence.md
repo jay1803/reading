@@ -2,6 +2,7 @@
 title: "I'm (mostly) picking models on speed now, not intelligence"
 date: 2026-08-03T08:04:54Z
 category: reading
+author: "Martin Alderson"
 description: "Opus 4.6 级别的模型对作者日常任务（写代码、研究整合、数据分析）已经足够。Fable 发布后作者很快切回 Opus，不是因为 Fable 不聪明，而是因为太慢。当足够多的模型都跨过智能门槛，速度就成了差异化的主轴。"
 source: "https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

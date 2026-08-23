@@ -2,6 +2,7 @@
 title: "How Slack's Finance & BizOps Team Earned Their \"Seat at the Table\""
 date: 2025-01-10T14:43:26Z
 category: reading
+author: "Ben McRedmond"
 description: "我们很高兴能继续我们的 Operator's Dilemma 系列，我们将深入幕后，分享技术领域最优秀的构建者和运营商的见解。"
 source: "https://wrap-text.equals.com/p/how-slacks-finance-and-bizops-team"
 ---

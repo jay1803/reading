@@ -2,6 +2,7 @@
 title: "REVIEW: Storia do Mogor, by Niccolao Manucci"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "John Psmith"
 description: "一个威尼斯冒险家用六十年秘密情报工作渗透莫卧儿帝国，写下了一部伪装成回忆录的史书——他真正想讲的主角，或许是他见过的唯一一个比自己更厉害的\"玩家\"：奥朗则布。"
 source: "https://www.thepsmiths.com/p/review-storia-do-mogor-by-niccolao"
 ---

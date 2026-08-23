@@ -2,6 +2,7 @@
 title: "Five PLG tactics every sales-led company should do"
 date: 2025-03-18T11:54:32Z
 category: reading
+author: "Elena Verna"
 description: "这篇文章主要讨论了那些以销售为主导的公司如何借鉴产品驱动增长（PLG）的策略，来提高销售效率、转化率和客户留存率。即使产品需要高接触销售、复杂的上手流程或企业级买入才能完成交易，也可以通过 PLG 策略来优化销售流程。"
 source: "https://www.elenaverna.com/p/five-plg-tactics-every-sales-led"
 ---

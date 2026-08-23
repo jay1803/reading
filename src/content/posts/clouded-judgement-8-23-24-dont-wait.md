@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.23.24 - Don't Wait"
 date: 2024-09-02T15:51:35Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章探讨了SaaS企业在当前市场环境中应采取的战略，特别是在面临增长受限时如何保持灵活性和准备好未来的发展，强调了不等待的策略。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-82324-dont-wait"
 ---

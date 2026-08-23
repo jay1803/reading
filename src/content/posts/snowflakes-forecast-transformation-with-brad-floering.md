@@ -2,6 +2,7 @@
 title: "Snowflake’s Forecast Transformation with Brad Floering"
 date: 2024-12-04T11:13:24Z
 category: reading
+author: "Ben McRedmond"
 description: "Snowflake 是有史以来增长最快的软件企业之一。自 2012 年 7 月成立以来，截至 2023 年 1 月 31 日，该公司已在 7,800 名客户中增长到超过 $2B 的收入"
 source: "https://wrap-text.equals.com/p/snowflakes-forecast-transformation"
 ---

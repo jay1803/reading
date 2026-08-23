@@ -2,6 +2,7 @@
 title: "In-House vs Agency vs Consultant in the AI Era"
 date: 2026-05-13T08:01:53Z
 category: reading
+author: "Nick LeRoy"
 description: "AI 时代选择内部团队、代理商或独立顾问，真正变量是组织瓶颈：搜索入口碎片化、LLM 可见性、品牌信任和跨平台内容质量让 SEO 从“专业职能”变成跨部门执行系统；谁能把策略、优先级、执行和问责闭环跑起来，谁就更适合当前阶段。"
 source: "https://www.seoforlunch.com/p/in-house-vs-agency-vs-consultant"
 ---

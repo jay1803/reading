@@ -2,6 +2,7 @@
 title: "SaaS Customer Success: Best Practices for Unplanned Outages"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "故障期间用户愤怒的真正来源不是宕机本身，而是在客户面前出丑、为选型背书后被打脸、害怕数据永久丢失——这些都是社会性和心理性创伤，和你的技术实现毫无关系。"
 source: "http://sixteenventures.com/saas-customer-success-unplanned-outages?utm_source=rss&utm_medium=rss&utm_campaign=saas-customer-success-unplanned-outages"
 ---

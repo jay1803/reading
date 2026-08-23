@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.10.23 - OpenAI Updates + Datadog Gives the All-Clear?"
 date: 2023-12-10T13:45:17Z
 category: reading
+author: "Jamin Ball"
 description: "When I think about the monetization of AI (and which “layers” monetize first) I’ve always thought it would follow the below order, with each layer lagging th..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-111023"
 ---

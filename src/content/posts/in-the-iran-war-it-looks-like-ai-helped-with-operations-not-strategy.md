@@ -2,6 +2,7 @@
 title: "In the Iran war, it looks like AI helped with operations, not strategy"
 date: 2026-04-02T08:01:38Z
 category: reading
+author: "Gary Marcus"
 description: "作者的核心判断很窄也很尖：就算 AI 真的参与了这场伊朗战争，它更可能提升执行层效率，碰到战略判断时反而会把误判放大。战争里最贵的失误，恰好出现在生成式 AI 最不可靠的那一层。"
 source: "https://garymarcus.substack.com/p/in-the-iran-war-it-looks-like-ai"
 ---

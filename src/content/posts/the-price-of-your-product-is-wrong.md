@@ -2,6 +2,7 @@
 title: "The price of your product is wrong."
 date: 2025-01-17T18:48:05Z
 category: reading
+author: "Elena Verna"
 description: "Case in point: Sam Altman recently posted about their $200/month ChatGPT Pro plan being priced incorrectly (it’s not profitable), commenting: “[But] I person..."
 source: "https://www.elenaverna.com/p/the-price-of-your-product-is-wrong"
 ---

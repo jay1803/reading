@@ -2,6 +2,7 @@
 title: "Weekly Dose of Optimism #185"
 date: 2026-03-21T08:01:46Z
 category: reading
+author: "Packy McCormick"
 description: "本期五条线索指向同一个逻辑：把人类操作员替换成软件+传感器的物理自动化正在同步入侵此前认为\"太脏、太复杂、太个体\"的领域——从食品、矿山到人体内部的 T 细胞和大脑网络。"
 source: "https://www.notboring.co/p/weekly-dose-of-optimism-185"
 ---

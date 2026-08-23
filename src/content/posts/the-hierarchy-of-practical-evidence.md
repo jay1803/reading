@@ -2,6 +2,7 @@
 title: "The Hierarchy of Practical Evidence"
 date: 2025-11-04T10:54:15Z
 category: reading
+author: "Cedric Chin"
 description: "作者提出一套评估“实践性建议”可信度的层级：当你面对的是现实行动选择而非实验室问题时，关键不在建议听起来多聪明，而在它离现实检验有多近。最强证据永远是你亲自试过且对你有效；越往下，越依赖建议者是否真的做过、是否在该领域反复做成、以及是否为错误判断承担代价。"
 source: "https://commoncog.com/the-hierarchy-of-practical-evidence/"
 ---

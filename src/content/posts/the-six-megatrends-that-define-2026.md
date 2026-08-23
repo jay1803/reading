@@ -2,6 +2,7 @@
 title: "The Six Megatrends That Define 2026"
 date: 2026-05-15T08:01:24Z
 category: reading
+author: "Derek Thompson"
 description: "这篇文章真正有价值的部分不是“六大趋势”这个标题，而是把 2026 的两个底层方向放在一起看：社会层面，人正在被家庭结构、远程工作、手机和过度保护式养育推向更多独处；生物医学层面，GLP-1 正从减肥药变成多靶点代谢平台。前者要求更有意识地选择技术，后者会继续扩展药物对慢病、炎症和代谢系统的干预边界。"
 source: "https://www.derekthompson.org/p/the-6-megatrends-of-2026"
 ---

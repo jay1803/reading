@@ -2,6 +2,7 @@
 title: "Private Equity, UnitedHealth Take a Huge Loss as Oregon Bans Corporate Control of Doctors"
 date: 2025-06-18T21:49:33Z
 category: reading
+author: "Matt Stoller"
 description: "俄勒冈州通过全美最严格的“禁止企业控制医生执业”的法规，被视为对私募股权与大型保险商（UnitedHealth/Optum）的一次重大挫败；导火索是 Change Healthcare 支付网络遭黑客攻击引发的现金流危机与并购求援，引爆了对“企业化医疗”激励错位、提价与质量下滑的系统性反思。"
 source: "https://www.thebignewsletter.com/p/private-equity-unitedhealth-take"
 ---

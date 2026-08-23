@@ -2,6 +2,7 @@
 title: "🚖 Tesla: $25 Billion AI Pivot"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章的核心不是“Tesla 单季恢复”，而是 Musk 系公司正在把汽车、芯片、制造、算力和开发者工具打包成一个更重资产的 AI 基础设施叙事；Tesla 的 250 亿美元 CapEx 是这个叙事的入场券，但也会把 2026 年剩余时间的自由现金流重新压到负值区间。"
 source: "https://www.appeconomyinsights.com/p/tesla-25-billion-ai-pivot"
 ---

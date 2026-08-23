@@ -2,6 +2,7 @@
 title: "Transcript for Oliver Anthony: Country Music, Blue-Collar America, Fame, Money, and Pain | Lex Fridman Podcast #469"
 date: 2025-05-20T10:07:00Z
 category: reading
+author: "Lex Fridman"
 description: "本次访谈的嘉宾是 Oliver Anthony (原名 Christopher Lunsford)，一位来自弗吉尼亚州的唱作人。他因歌曲《Rich Men North of Richmond》迅速走红，其作品深刻反映了现代美国工薪阶层的挣扎与困境，为许多沉默者发声。访谈围绕他的音乐创作历程、对现代社会及企业文化的..."
 source: "https://lexfridman.com/oliver-anthony-transcript/"
 ---

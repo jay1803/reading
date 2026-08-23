@@ -2,6 +2,7 @@
 title: "Product Channel Fit Will Make or Break Your Growth Strategy"
 date: 2021-08-30T09:03:58Z
 category: reading
+author: "Brian Balfour"
 description: "In the introduction I explained there are [two types of companies](https://www.brianbalfour.com/essays/product-market-fit-isnt-enough):"
 source: "https://brianbalfour.com/essays/product-channel-fit-for-growth"
 ---

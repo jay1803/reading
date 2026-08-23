@@ -2,6 +2,7 @@
 title: "It’s Time to Play Moneyball: The Investment Readiness Level"
 date: 2024-10-16T10:30:44Z
 category: reading
+author: "Steve Blank"
 description: "这篇文章介绍了投资准备度（Investment Readiness Level，IRL）的概念，这是一个用于评估初创企业准备情况的指标。作者认为，传统的评估方式（如产品演示、PPT 和团队）过于主观，缺乏数据支持，因此提出了一种基于数据和证据的评估方法，以帮助投资者做出更明智的投资决策。"
 source: "https://steveblank.com/2013/11/25/its-time-to-play-moneyball-the-investment-readiness-level/"
 ---

@@ -2,6 +2,7 @@
 title: "Life is Lived in The Arena"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Naval Ravikant"
 description: "Naval Ravikant，连续创业者，AngelList 联合创始人，知名天使投资人。[补充：其推文与播客片段被汇编为《The Almanack of Naval Ravikant》，以精炼的财富与幸福观点广泛传播。]"
 source: "https://nav.al/arena"
 ---

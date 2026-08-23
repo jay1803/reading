@@ -2,6 +2,7 @@
 title: "Why You Can’t Offset Churn with Upsells"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "文章驳斥了一个常见误解：只要从留存客户身上做更多 upsell，就能把 churn 抵消掉。问题在于，流失和扩张依赖的是同一组前提——客户持续走在实现 Desired Outcome 的路径上；一旦这个前提被破坏，客户既更容易流失，也几乎不可能产生健康、可复制的扩张收入。把 NRR 当成“流失可容忍”的证明，只会..."
 source: "http://sixteenventures.com/offset-churn-upsells"
 ---

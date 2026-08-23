@@ -2,6 +2,7 @@
 title: "Good Fit vs. Bad Fit vs. Ideal Customers: The Key to Unlocking Sustainable Growth"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "\"好客户\"和\"理想客户\"之间有一道被大多数人忽略的隔断：能用你产品成功的客户（Good Fit）不值得主动追——只有在此基础上还具备最高生命周期价值的客户（ICP）才值得投入获客资源。"
 source: "https://sixteenventures.com/bad-fit-vs-good-fit-customers"
 ---

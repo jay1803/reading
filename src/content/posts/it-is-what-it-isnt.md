@@ -2,6 +2,7 @@
 title: "It is what it isn't"
 date: 2026-04-11T08:02:45Z
 category: reading
+author: "Rebecca Darley"
 description: "这篇文章真正想说的不是“历史由胜者书写”，而是历史里的很多核心标签本身就由胜负关系制造出来。正统之所以是正统，是因为异端被压下去；叛乱之所以叫叛乱，是因为它最后没活成国家。我们以为自己在描述过去，其实常常是在把结局反投回过程。"
 source: "https://coffeewithclio.substack.com/p/it-is-what-it-isnt"
 ---

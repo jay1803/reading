@@ -2,6 +2,7 @@
 title: "The DNA of a Great Pricing Page"
 date: 2025-05-06T18:20:18Z
 category: reading
+author: "Elena Verna"
 description: "定价页是网站里最少被 A/B 测试但对收入影响最大的单一页面——不测试本身就是测试，只是在 100% 用户身上跑，却拿不到任何可量化结果。"
 source: "https://www.elenaverna.com/p/the-dna-of-a-great-pricing-page"
 ---

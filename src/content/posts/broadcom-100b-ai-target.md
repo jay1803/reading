@@ -2,6 +2,7 @@
 title: "📈 Broadcom: $100B AI Target"
 date: 2026-03-07T17:40:36Z
 category: reading
+author: "Kevin Palmer"
 description: "Broadcom 的 $100B AI 目标不是愿景管理，是已有支撑的锁定需求：6 家超大规模客户（含 OpenAI）合计约 10 吉瓦算力需求已确认至 2027 年，CEO Hock Tan 称供应链已到位。更关键的结构信号：AI 需求驱动力已从训练转向推理部署，定制 XPU + 高带宽网络芯片成为超大规模客户..."
 source: "https://www.appeconomyinsights.com/p/broadcom-100b-ai-target"
 ---

@@ -2,6 +2,7 @@
 title: "Vikings on my way to India"
 date: 2026-06-20T08:03:54Z
 category: reading
+author: "Rebecca Darley"
 description: "8-10世纪所谓的\"维京人\"，最反直觉的地方在于：这个身份与你从哪里来无关，只与你做了什么有关。一个生在瑞典乌普萨拉、从未出海的斯堪的纳维亚农民未必算维京人；而一个生在英国林肯、祖父辈是维京定居者、自己也从未离开过家乡的人，却可能被所有人——包括他自己——认同为维京人。这一悖论使维京研究成为历史学中讨论身份归属方..."
 source: "https://coffeewithclio.substack.com/p/vikings-on-my-way-to-india"
 ---

@@ -2,6 +2,7 @@
 title: "Blind to Disruption – The CEOs Who Missed the Future"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Steve Blank"
 description: "这篇文章用美国马车产业被汽车颠覆的故事，来给今天的 AI 时代做一个很直接的类比：真正杀死 incumbents 的，往往不是他们看不见新技术，而是他们即使看见了，也没有组织结构、资本结构、身份认同和激励机制去认真转身。 Steve Blank 最核心的判断是，马车制造商之所以几乎全灭，不只是因为汽车更先进，而是..."
 source: "https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/"
 ---

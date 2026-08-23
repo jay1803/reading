@@ -2,6 +2,7 @@
 title: "GLM 5.2 and the coming AI margin collapse"
 date: 2026-07-08T08:04:03Z
 category: reading
+author: "Martin Alderson"
 description: "前沿 AI 实验室的商业模式是\"大额训练开销 + 超高推理毛利\"：作者估算 Anthropic/OpenAI 按 $25/MTok 收费时，纯算力成本上的毛利率约为 90%。DeepSeek 事件让市场误认为威胁在训练端（固定成本），真正的压力来自推理端（规模可变的边际成本）。"
 source: "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
 ---

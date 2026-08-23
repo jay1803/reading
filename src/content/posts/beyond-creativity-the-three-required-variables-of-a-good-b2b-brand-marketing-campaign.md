@@ -2,6 +2,7 @@
 title: "Beyond creativity, the three required variables of a good B2B brand marketing campaign."
 date: 2026-03-16T02:32:52Z
 category: reading
+author: "Elena Verna"
 description: "B2B品牌活动失败的主要原因不是创意不够好，而是内部人先厌倦了——在市场受众形成记忆之前就撤掉 slogan；真正杀死品牌召回率的是过早中止，不是低质量内容。"
 source: "https://www.elenaverna.com/p/beyond-creativity-the-three-required"
 ---

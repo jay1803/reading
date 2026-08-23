@@ -2,6 +2,7 @@
 title: "My beef with AI credit pricing"
 date: 2025-11-19T08:34:44Z
 category: reading
+author: "Elena Verna"
 description: "Credits 定价不是因为公司贪婪，而是 LLM 边际成本真实存在——但这个模型本质上是一个可被滥用的不透明税，让用户永远处于事后才知道被收了多少钱的位置。"
 source: "https://www.elenaverna.com/p/i-hate-ai-credits-pricing"
 ---

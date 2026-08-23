@@ -2,6 +2,7 @@
 title: "Transcript for Ed Barnhart: Maya, Aztec, Inca, and Lost Civilizations of South America | Lex Fridman Podcast #446"
 date: 2024-10-08T17:54:20Z
 category: reading
+author: "Lex Fridman"
 description: "这是一篇关于Ed Barnhart的访谈记录，访谈主题是南美洲的玛雅、阿兹特克、印加和失落的文明。Ed Barnhart是一位考古学家，他专门研究古代文明，他在访谈中讨论了许多关于这些文明的问题，包括它们的起源、文化、宗教、社会结构、技术成就、以及它们如何消失或演变，同时也对一些未解之谜和有争议的理论发表了看法。"
 source: "https://lexfridman.com/ed-barnhart-transcript/"
 ---

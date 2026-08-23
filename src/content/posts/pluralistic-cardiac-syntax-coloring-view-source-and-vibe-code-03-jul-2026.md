@@ -2,6 +2,7 @@
 title: "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 认为，每一代计算抽象（晶体管、高级语言、View Source、LLM）都在重复同一个恐慌——\"下一代程序员会因为抽象太高而失去对底层的感知\"。1968 年贝尔实验室的 CARDiac 纸板电脑（CARDboard Illustrative Aid to Computation）就是为了对抗晶体..."
 source: "https://pluralistic.net/2026/07/03/rod-logic/"
 ---

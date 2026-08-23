@@ -2,6 +2,7 @@
 title: "The Efficiency Moat: Why China Is Beating the U.S. on AI… And Everything Else"
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Matt Stoller"
 description: "中国 AI 的威胁不在于“算力追上美国”，而在于它把约束转化成效率制度：芯片受限、企业高度竞争、模型开放扩散、产业政策支持中小高科技公司，使中国用少得多的算力逼近美国闭源巨头；美国则把 AI 组织成金融化寡头，算力越多、token 越贵、市场估值越高，技术效率反而不是核心激励。"
 source: "https://www.thebignewsletter.com/p/the-efficiency-moat-why-china-is"
 ---

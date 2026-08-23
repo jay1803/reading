@@ -2,6 +2,7 @@
 title: "Being “Good” at Things"
 date: 2026-06-12T08:01:14Z
 category: reading
+author: "Jim Nielsen"
 description: "数字分数是可操纵的代理指标，\"擅长\"某件事的真正标志是：在没有快捷方式的情况下，仍然能够完成每一个困难的收尾动作。"
 source: "https://blog.jim-nielsen.com/2026/good-at-things/"
 ---

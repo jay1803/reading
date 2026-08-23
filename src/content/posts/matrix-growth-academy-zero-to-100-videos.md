@@ -2,6 +2,7 @@
 title: "Matrix Growth Academy – Zero to 100 Videos"
 date: 2021-08-12T09:42:07Z
 category: reading
+author: "David Skok"
 description: "B2B founders must then find a way to build repeatable, scalable and profitable"
 source: "https://www.forentrepreneurs.com/matrix-growth-academy-zero-to-100-videos/"
 ---

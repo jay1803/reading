@@ -2,6 +2,7 @@
 title: "☁️ SaaSpocalypse Now"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Kevin Palmer"
 description: "SaaS 的失速早于 AI agent——2021 至 2024 年，公共软件公司销售营销支出持续增加，新增收入却持续减少。AI 没有制造这场危机，它只是给一个本已走到 S 曲线中点的商业模式补上了最后一刀。"
 source: "https://www.appeconomyinsights.com/p/saaspocalypse-now"
 ---

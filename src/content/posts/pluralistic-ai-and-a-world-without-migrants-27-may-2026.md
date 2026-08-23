@@ -2,6 +2,7 @@
 title: "Pluralistic: AI and a world without migrants (27 May 2026)"
 date: 2026-05-28T08:01:27Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 把当前 AI 狂热解释为一种“去人化的自动化幻想”：普通用户想要没有摩擦的恋人和音乐，资本家想要没有员工、没有朋友、没有谈判对象的企业，政客想要没有移民和公务员的国家。AI 的经济承诺因此不只是提高生产率，而是给掌权者一个想象：社会可以继续运转，但真实的人不再拥有议价权、道德地位和不可替代性。"
 source: "https://pluralistic.net/2026/05/27/unnecessariat/"
 ---

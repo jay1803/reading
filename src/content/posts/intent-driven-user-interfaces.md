@@ -2,6 +2,7 @@
 title: "Intent-driven User Interfaces"
 date: 2024-09-02T13:46:11Z
 category: reading
+author: "Luke Wroblewski"
 description: "这篇文章讨论了软件界面设计中过度依赖 UI 控件和形式元素的问题，并提倡采用意图驱动的用户界面。作者认为，过多的 UI 元素导致用户难以找到和使用软件功能，而意图驱动的界面可以通过自然语言指令更有效地控制软件。"
 source: "https://www.lukew.com/ff/entry.asp?2073"
 ---

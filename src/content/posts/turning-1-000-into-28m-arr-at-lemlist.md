@@ -2,6 +2,7 @@
 title: "Turning $1,000 into $28M ARR at lemlist"
 date: 2024-10-08T18:24:04Z
 category: reading
+author: "Kate Syuma"
 description: "In 2018, Guillaume Moubeche, frustrated with existing prospecting tools, decided to create a better solution. he invested his last $1,000 to start lemlist de..."
 source: "https://www.growthunhinged.com/p/lessons-from-bootstrapping-lemlist"
 ---

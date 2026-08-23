@@ -2,6 +2,7 @@
 title: "Am I Meant To Be Impressed?"
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Ed Zitron"
 description: "Big Tech 的 AI 收入叙事最危险处不是 ROI 差，而是需求被高度集中在 OpenAI / Anthropic 两个持续烧钱主体上；云厂商和 VC 给它们融资，它们再把钱付回云厂商，形成看似增长、实则高度循环的资本化采购链。"
 source: "https://www.wheresyoured.at/am-i-meant-to-be-impressed/"
 ---

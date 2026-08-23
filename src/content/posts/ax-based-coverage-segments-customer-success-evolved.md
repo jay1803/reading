@@ -2,6 +2,7 @@
 title: "AX-Based Coverage Segments: Customer Success Evolved"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "按合同金额决定客户成功服务强度，会同时制造错配、低效和团队透支，因为客户真正需要的不是与付费额匹配的关注，而是与其实现目标所需的“适配体验”（AX）匹配的支持方式。作者主张按 AX 建 Coverage Segment，把客户分到 Inbound、Async、Sync、Task Force 等不同服务模型里，再据..."
 source: "https://sixteenventures.com/coverage-segments"
 ---

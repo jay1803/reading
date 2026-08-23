@@ -2,6 +2,7 @@
 title: "Your AI strategy has a trust problem, not a tooling problem"
 date: 2026-06-06T08:04:42Z
 category: reading
+author: "Elena Verna"
 description: "当前组织架构从设计上就以\"防止未经授权的行动\"为目标——信息封锁在经理层级、决策向上汇报、审批链耗尽执行速度。把 AI 工具推进这样的组织，等于给一辆刹车被锁死的车装了更大的引擎。"
 source: "https://www.elenaverna.com/p/your-ai-strategy-has-a-trust-problem"
 ---

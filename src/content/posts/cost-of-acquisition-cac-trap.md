@@ -2,6 +2,7 @@
 title: "Cost of Acquisition (CAC) trap."
 date: 2025-05-26T17:58:31Z
 category: reading
+author: "Elena Verna"
 description: "在当前经济环境下，单纯追求降低客户获取成本 (CAC) 或优化 CAC 与客户终身价值 (LTV) 的比例是具有误导性的。文章认为，投资回报的速度，即“投资回收期” (Payback Period)，是一个更优越的衡量指标。它关注收回获客成本的速度，从而能够将利润快速地再投资于获客循环中，实现可持续的增长。"
 source: "https://www.elenaverna.com/p/cost-of-acquisition-cac-trap"
 ---

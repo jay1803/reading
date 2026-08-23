@@ -2,6 +2,7 @@
 title: "TBM 401: Solving Problems the Hard Way"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "John Cutler"
 description: "所有\"对齐框架\"失败的核心原因，是把最难的事（拆对 lanes、保持节奏、持续校准漂移）替换成了最容易展示的事（票据系统、命名角色、可预测性 dashboard）。Cutler 的论点：框架本身不重要，重要的是你每周到底做了什么、改了什么、学到了什么。"
 source: "https://cutlefish.substack.com/p/tbm-401-solving-problems-the-hard"
 ---

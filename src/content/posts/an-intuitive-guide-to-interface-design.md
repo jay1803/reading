@@ -2,6 +2,7 @@
 title: "An Intuitive Guide to Interface Design"
 date: 2025-11-04T10:50:02Z
 category: reading
+author: "Nick M"
 description: "这篇文章本质上是在讲一件事：好界面不是“看起来高级”，而是“尽量不让用户思考”。它把大量设计原则收束到一个核心目标——降低认知负担，让用户更快、更稳地完成任务。"
 source: "https://photonlines.substack.com/p/an-intuitive-guide-to-interface-design"
 ---

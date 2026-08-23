@@ -2,6 +2,7 @@
 title: "A Walk-Through of String Search Algorithms"
 date: 2025-11-04T10:50:02Z
 category: reading
+author: "Nick M"
 description: "Boyer-Moore 之所以快到 grep 每字节只用 3 条 x86 指令，是因为它从末尾往前匹配，失配时直接跳过大段文本——处理的字节越少，比处理得越快更值钱。"
 source: "https://photonlines.substack.com/p/a-walk-through-of-string-search-algorithms"
 ---

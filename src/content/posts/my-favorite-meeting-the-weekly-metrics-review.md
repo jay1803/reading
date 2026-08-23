@@ -2,6 +2,7 @@
 title: "My Favorite Meeting: The Weekly Metrics Review"
 date: 2024-06-17T12:06:51Z
 category: reading
+author: "Elena Verna"
 description: "追踪收入的公司，大多在追踪错误的东西。收入是输出，\"数据驱动\"要求你在收入变化前通过驱动指标（input metrics）预见它——这意味着每周会议的问题不是\"本周收入多少\"，而是\"哪个驱动指标出现异动\"。"
 source: "https://elenaverna.substack.com/p/my-favorite-meeting-the-weekly-metrics"
 ---

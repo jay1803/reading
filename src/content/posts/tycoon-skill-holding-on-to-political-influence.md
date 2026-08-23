@@ -2,6 +2,7 @@
 title: "Tycoon Skill: Holding on to Political Influence"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Cedric Chin"
 description: "民主制度下的政治寻租比威权体制难得多——但这反而是衡量\"大亨技能\"最严苛的基准：Dhirubhai Ambani 能在腐败层层叠叠、随时有人出戏的印度持续胜出，才是这个系列的终极证明。"
 source: "https://commoncog.com/tycoon-skill-holding-on-to-political-influence/"
 ---

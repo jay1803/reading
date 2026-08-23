@@ -2,6 +2,7 @@
 title: "Good Enough Is Dead"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Nick LeRoy"
 description: "AI 把\"够好\"变成了入场券，而多数人还在庆祝拿到入场券这件事。质量已经是基线，差异化才是现在真正的竞争终点——但大多数人仍在优化那条已经被人人共享的基线。"
 source: "https://www.seoforlunch.com/p/good-enough"
 ---

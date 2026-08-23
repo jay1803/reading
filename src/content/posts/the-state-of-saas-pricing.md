@@ -2,6 +2,7 @@
 title: "The state of SaaS pricing"
 date: 2024-10-16T16:56:16Z
 category: reading
+author: "Kate Syuma"
 description: "我注意到越来越多的 SaaS 企业开始转向 Usage-Based Pricing Model"
 source: "https://www.growthunhinged.com/p/the-state-of-usage-based-pricing"
 ---

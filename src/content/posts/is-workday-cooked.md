@@ -2,6 +2,7 @@
 title: "👔 Is Workday Cooked?"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Kevin Palmer"
 description: "Workday 的 AI 商业化已在当季实现 $400M ARR、单季新 ACV 过亿（同比增长逾 100%），但市场完全无视当下数字，只交易\"AI 替代\"叙事——股价较峰值跌 60%，EBITDA 估值不足 10 倍。"
 source: "https://www.appeconomyinsights.com/p/is-workday-cooked"
 ---

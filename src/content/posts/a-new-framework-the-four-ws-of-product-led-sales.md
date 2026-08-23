@@ -2,6 +2,7 @@
 title: "A New Framework: The Four W's of Product-Led Sales"
 date: 2025-05-07T10:23:58Z
 category: reading
+author: "Elena Verna"
 description: "PLS 最常见的两处失败：①把用户注册当接触信号（太早）；②把终端用户线索直接扔给销售——销售只认 economic buyer，会把产品线索判定为\"垃圾\"，直接让 PLS 死在水里。四个 W 框架本质上是对这两个错误的系统性修复。"
 source: "https://www.elenaverna.com/p/a-new-framework-the-four-ws-of-product"
 ---

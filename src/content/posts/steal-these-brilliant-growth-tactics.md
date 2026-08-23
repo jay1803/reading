@@ -2,6 +2,7 @@
 title: "Steal these brilliant growth tactics"
 date: 2024-06-19T19:15:31Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章分享了作者观察到的来自 Miro, ChatGPT, Canva, Figma, Otter.ai 等公司的优秀增长策略，涵盖了用户引导 (onboarding)、免登录访问、取消订阅流程、定价模式和涨价沟通等方面，旨在为读者提供增长实验的灵感。"
 source: "https://www.growthunhinged.com/p/steal-these-brilliant-growth-tactics"
 ---

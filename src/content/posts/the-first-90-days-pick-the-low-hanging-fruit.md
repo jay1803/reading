@@ -2,6 +2,7 @@
 title: "The first 90 days: Pick the low hanging fruit"
 date: 2025-11-19T08:34:44Z
 category: reading
+author: "Eli Schwartz"
 description: "入职新 SEO 岗位头 90 天，绝大多数人栽在追求\"大项目\"上——而真正的护城河是先摘低挂果：Google Search Console 第 2 页排名的页面优化、残破的 title tag、内链机会、图片压缩。这些改动在 30-60 天内可见结果，背后逻辑是政治资本积累，而不是 SEO 本身。"
 source: "https://www.productledseo.com/p/the-first-90-days-pick-the-low-hanging"
 ---

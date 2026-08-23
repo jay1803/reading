@@ -2,6 +2,7 @@
 title: "A Taxing Discussion"
 date: 2026-04-19T08:00:44Z
 category: reading
+author: "Ernie Smith"
 description: "这篇文章真正想讲的不是“美国税表很烦”，而是美国所得税从 1913 年的富人税，变成 1940 年代的全民工资代扣制度后，才第一次被包装成一种可持续的大众操作系统。此后报纸问答、纸本报税指南、TurboTax，甚至今天 Direct File 之争，本质上都在争夺一件事：到底由政府、市场，还是纳税人自己承担复杂度。"
 source: "https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs"
 ---

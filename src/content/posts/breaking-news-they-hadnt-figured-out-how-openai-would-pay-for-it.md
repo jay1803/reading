@@ -2,6 +2,7 @@
 title: "Breaking news: “they hadn’t figured out how OpenAI would pay for it”"
 date: 2026-05-08T08:01:56Z
 category: reading
+author: "Gary Marcus"
 description: "OpenAI–Broadcom 的 10GW 自研 AI 芯片合作，真正危险点不是“项目很贵”，而是它被包装成既成事实时，付款与融资结构还没落定；这暴露了 AI 基础设施狂潮里一个更脆弱的前提：很多“产能承诺”可能先于真实资金闭环出现。"
 source: "https://garymarcus.substack.com/p/breaking-news-they-hadnt-figured"
 ---

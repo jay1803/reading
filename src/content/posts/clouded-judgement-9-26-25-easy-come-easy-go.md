@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.26.25 - Easy Come, Easy Go?"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Jamin Ball"
 description: "AI 公司 12 个月内冲到 $100M ARR 的核心机制 — 极短的实施和销售周期 — 同时也是这些收入最脆弱的原因：快速获取的收入与快速流失的收入之间没有天然屏障。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-92625-easy-come"
 ---

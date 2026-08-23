@@ -2,6 +2,7 @@
 title: "David Reich – Why the Bronze Age was an inflection point in human evolution"
 date: 2026-05-09T08:02:38Z
 category: reading
+author: "Dwarkesh Patel"
 description: "David Reich 是哈佛医学院古 DNA 研究者，长期用古人类 DNA 重建人类迁徙、混合与自然选择历史。这期是他与 Dwarkesh Patel 的第二次长谈，核心材料来自 Reich 团队和 Ali Akbari 的新研究：用大规模古 DNA 重新估计过去 18,000 年欧洲与中东人群中的自然选择。"
 source: "https://www.dwarkesh.com/p/david-reich-2"
 ---

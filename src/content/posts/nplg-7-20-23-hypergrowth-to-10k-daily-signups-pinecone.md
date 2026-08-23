@@ -2,6 +2,7 @@
 title: "NPLG 7.20.23: Hypergrowth to 10K+ Daily Signups (Pinecone)"
 date: 2023-07-28T14:52:52Z
 category: reading
+author: "Zachary DeWitt"
 description: "本文探讨了生成式 AI 的快速发展及其对 PLG（产品驱动增长）公司的影响，并以 Pinecone 为案例，分析了其如何利用免费计划推动增长，从零发展到每天 10,000+ 名用户注册。文章详细介绍了 Pinecone 在增长过程中如何权衡免费计划的范围，以平衡用户获取与业务盈利能力。"
 source: "https://notoriousplg.substack.com/p/nplg-72023-hypergrowth-to-10k-daily"
 ---

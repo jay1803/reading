@@ -2,6 +2,7 @@
 title: "PLG and sales in 2023"
 date: 2023-06-15T11:03:49Z
 category: reading
+author: "Kyle Poyar"
 description: "PLG and sales from some of the top SaaS startups including Figma, ClickUp, Webflow, Zapier, Supermetrics, and Hotjar."
 source: "https://kylepoyar.substack.com/p/plg-and-sales-in-2023"
 ---

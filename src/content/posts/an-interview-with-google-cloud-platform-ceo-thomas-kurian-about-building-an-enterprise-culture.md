@@ -2,6 +2,7 @@
 title: "An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture"
 date: 2025-05-06T16:12:01Z
 category: reading
+author: "Ben Thompson"
 description: "Thomas Kurian，Google Cloud CEO，2018 年加入 Google 领导云业务；此前在 Oracle 工作 22 年，担任产品开发总裁。采访者 Ben Thompson 是 Stratechery 主理人，本次是两人第三次对话，背景是 Google Cloud Next 2025 大会前夕。"
 source: "https://stratechery.com/2025/an-interview-with-google-cloud-platform-ceo-thomas-kurian-about-building-an-enterprise-culture/"
 ---

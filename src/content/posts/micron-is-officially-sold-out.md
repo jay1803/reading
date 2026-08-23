@@ -2,6 +2,7 @@
 title: "☁️ Micron is Officially Sold Out"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章表面上在讲 Micron 的爆炸式业绩和“HBM 全部卖光”，但真正有意思的是它把眼下 AI 基础设施周期里的几个层次连在了一起：一边是软件公司进入“show me” 阶段，市场不再为模糊的 AI 故事买单；另一边是真正处在供给瓶颈里的底层硬件玩家——尤其是 Micron——开始显现出接近 NVIDIA..."
 source: "https://www.appeconomyinsights.com/p/micron-is-officially-sold-out"
 ---

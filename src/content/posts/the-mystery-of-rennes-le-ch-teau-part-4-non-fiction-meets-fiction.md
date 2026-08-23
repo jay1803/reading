@@ -2,6 +2,7 @@
 title: "The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction"
 date: 2026-04-18T08:02:51Z
 category: reading
+author: "Jimmy Maher"
 description: "这篇文章最核心的判断是，Rennes-le-Château 真正留下来的“遗产”不是某个秘密本身，而是一台能把伪史、商业激励与大众娱乐不断互相增殖的叙事机器。从《Holy Blood, Holy Grail》到《达芬奇密码》，作者展示的不是一个谜团如何被解开，而是一个几乎没有新证据支撑的故事，如何靠不断重组旧材料..."
 source: "https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/"
 ---

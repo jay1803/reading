@@ -2,6 +2,7 @@
 title: "The surprising patterns behind viral AI products"
 date: 2025-05-21T19:52:37Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章的核心判断是：AI 产品的爆发式增长，决定因素越来越不是模型能力本身，而是能否把不确定、难以信任、难以操作的 AI 包装成清晰、可控、低摩擦的用户体验。Bolt、Cursor、Replit、PhotoRoom、Granola 这类产品之所以能迅速穿透大众市场，是因为它们把“用户要先学会怎么配合 AI”改写..."
 source: "https://www.growthunhinged.com/p/ai-ux-patterns"
 ---

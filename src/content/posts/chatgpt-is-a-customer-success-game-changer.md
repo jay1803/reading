@@ -2,6 +2,7 @@
 title: "ChatGPT is a Customer Success Game-Changer"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "ChatGPT 对 CS 团队最实质的价值不是\"智能助手\"，而是彻底消除空白屏幕综合症（blank-screen syndrome）——Prompt engineering 决定输出质量，Murphy 认为这是 CS 从业者必须掌握的生存技能，否则会被掌握它的人取代。"
 source: "https://sixteenventures.com/chatgpt-is-a-customer-success-game-changer"
 ---

@@ -2,6 +2,7 @@
 title: "An Interview with Nvidia CEO Jensen Huang About Chip Controls, AI Factories, and Enterprise Pragmatism – Stratechery by Ben Thompson"
 date: 2025-05-20T10:27:27Z
 category: reading
+author: "Ben Thompson"
 description: "Jensen Huang，Nvidia 联合创始人兼 CEO，主导了 Nvidia 从游戏 GPU 公司转型为全球最重要的 AI 算力基础设施公司。[补充：Huang 在 1993 年联合创立 Nvidia，在 AI 热潮爆发前数年已开始布局 GPU 用于通用计算，其对赌式押注最终奠定了 Nvidia 在 AI..."
 source: "https://stratechery.com/2025/an-interview-with-nvidia-ceo-jensen-huang-about-chip-controls-ai-factories-and-enterprise-pragmatism/"
 ---

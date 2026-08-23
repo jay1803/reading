@@ -2,6 +2,7 @@
 title: "“How to be a 10x engineer” – interview with a standout dev"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Gergely Orosz"
 description: "Sam（化名），前 Uber 高级工程师，曾被评为公司前 3% 最佳工程师之一；之后在另一家大厂工作，采访时刚加入一家初创公司。无公开 GitHub 活动、无社交媒体，却在不投递任何简历的情况下收到前同事的多个主动邀约。采访者为 The Pragmatic Engineer 作者 Gergely Orosz，曾与..."
 source: "https://newsletter.pragmaticengineer.com/p/how-to-be-a-10x-engineer-interview"
 ---

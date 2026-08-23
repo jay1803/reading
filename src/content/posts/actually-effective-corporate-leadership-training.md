@@ -2,6 +2,7 @@
 title: "Actually Effective Corporate Leadership Training"
 date: 2026-03-26T08:01:39Z
 category: reading
+author: "Cedric Chin"
 description: "有效的企业领导力培养不靠课堂——Kraft 在 1980 年代把培训嵌入日常运营，批量产出顶尖 FMCG 高管；这套系统后来被 Kilts 移植到 Gillette 同样奏效，是罕见的\"跨公司可验证\"的领导力体系案例。"
 source: "https://commoncog.com/actually-effective-corporate-leadership-training/"
 ---

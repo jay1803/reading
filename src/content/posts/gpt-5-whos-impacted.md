@@ -2,6 +2,7 @@
 title: "🧠 GPT-5: Who's Impacted?"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Kevin Palmer"
 description: "GPT-5 没有像 GPT-4 那样碾压基准测试——这不是失望，是信号：模型正在商品化，AI 竞争的焦点已从\"谁的模型最强\"转向\"谁掌握分发、谁能最快压低单任务成本\"。"
 source: "https://www.appeconomyinsights.com/p/gpt-5-whos-impacted"
 ---

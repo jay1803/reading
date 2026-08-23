@@ -2,6 +2,7 @@
 title: "Apple and the Ghosts of Companies Past"
 date: 2025-05-06T16:11:12Z
 category: reading
+author: "Ben Thompson"
 description: "Apple 现在的 AI 失败不是真正的威胁——真正的风险是，等到 AI 明显影响 iPhone 销量时，错过\"下一范式桥梁\"的代价早已无法挽回。英特尔股票在 2020 年创历史新高，而其衰落在那时已经板上钉钉。"
 source: "https://stratechery.com/2025/apple-and-the-ghosts-of-companies-past/"
 ---

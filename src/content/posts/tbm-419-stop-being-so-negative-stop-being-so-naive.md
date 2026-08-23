@@ -2,6 +2,7 @@
 title: "TBM 419: Stop Being So Negative! Stop Being So Naive!"
 date: 2026-04-27T08:01:39Z
 category: reading
+author: "John Cutler"
 description: "“负面”和“天真”的冲突，本质上是两种乐观在抢同一个会议时段：结果乐观保护士气、速度和集体承诺；能力乐观通过暴露风险、追问假设、承受不舒服来保护计划质量。好团队不消灭这种张力，而是把“质疑”和“执行”分时段管理：先在 base camp 里把路线打穿，再在 climb 时停止拆台、共同前进。"
 source: "https://cutlefish.substack.com/p/tbm-419-stop-being-so-negative-stop"
 ---

@@ -2,6 +2,7 @@
 title: "SaaS Churn Rate: What's Acceptable?"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "SaaS领域最危险的数字谬误：5%的月流失率实际等于46%的年流失率，而行业\"可接受\"基准是年5-7%（月0.42-0.58%）——两者相差10倍。CEO们用持续的新客增长把这个坑掩盖住了，于是以为自己在增长，实则在跑步机上奔跑。"
 source: "http://sixteenventures.com/saas-churn-rate?utm_source=rss&utm_medium=rss&utm_campaign=saas-churn-rate"
 ---

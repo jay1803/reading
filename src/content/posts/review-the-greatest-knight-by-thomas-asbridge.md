@@ -2,6 +2,7 @@
 title: "REVIEW: The Greatest Knight, by Thomas Asbridge"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "John Psmith"
 description: "威廉·马歇尔的重要性在于：他的一生把 12 世纪骑士制度的经济、政治、竞技和文学四条线压缩成一个可复制的文化原型；“最伟大的骑士”既是历史人物，也是后来骑士想象的样板。"
 source: "https://www.thepsmiths.com/p/review-the-greatest-knight-by-thomas"
 ---

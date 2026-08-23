@@ -2,6 +2,7 @@
 title: "Eliminate Churn Forever in 5 Simple Steps"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章在说：churn 不是一个需要被“黑客式优化”的指标问题，而是客户没有成功的结果。 作者把话说得很重，意思也很直接——如果客户持续流失，通常不是因为你缺一个 retention tactic，而是因为你的业务本身有问题。文章把问题压缩成五类：客户本来就不匹配、产品有缺口、体验不合适、公司根本不知道客户成功..."
 source: "https://sixteenventures.com/eliminate-churn"
 ---

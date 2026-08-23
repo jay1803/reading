@@ -2,6 +2,7 @@
 title: "Making the Wrong Things Go Faster at The Department of War"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Steve Blank"
 description: "DoW 引入私募股权式的 Portfolio Acquisition Executives 是合理改革，但加速交付的逻辑前提没变：仍从自上而下的功能需求清单（或\"我需要无人机\"式直觉）出发——这会让以前的坏主意跑得更快，而不是把正确的东西更快交到战场。"
 source: "https://steveblank.com/2026/02/03/making-the-wrong-things-go-faster-at-the-department-of-war/"
 ---

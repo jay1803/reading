@@ -2,6 +2,7 @@
 title: "Scale Your Superpowers, Not Your Job Titles"
 date: 2026-06-19T08:02:21Z
 category: reading
+author: "Luke Wroblewski"
 description: "用 AI 模仿别人的工作，结果是在多个复杂领域都做到「将将够用」。设计师能生成代码，但缺乏真正积累的模式识别；开发者能生成布局，但没有设计师对「什么重要、什么扔掉」的判断力。全揽不是超能力——那是 Mediocre Man 的剧本。"
 source: "https://www.lukew.com/ff/entry.asp?2154"
 ---

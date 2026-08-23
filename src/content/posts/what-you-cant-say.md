@@ -2,6 +2,7 @@
 title: "What You Can't Say"
 date: 2023-07-28T13:53:36Z
 category: reading
+author: "Paul Graham"
 description: "本文讨论了每个时代都存在的“不能说的事情”，即那些因为社会道德规范或权力斗争而被压制、禁止讨论的观点或事实。作者提出了一系列方法来识别这些“不能说的事情”，并鼓励读者保持独立思考，质疑主流观念，从而发现被忽视的真相和创新机会。"
 source: "http://www.paulgraham.com/say.html"
 ---

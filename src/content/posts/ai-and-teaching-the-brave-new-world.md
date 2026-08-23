@@ -2,6 +2,7 @@
 title: "AI and Teaching – The Brave New World"
 date: 2026-04-23T08:02:20Z
 category: reading
+author: "Steve Blank"
 description: "这篇文章最重要的判断不是“AI 让做产品更快”，而是“AI 先摧毁了 MVP 作为学习载体的意义”。在 Stanford Lean LaunchPad 里，学生现在能在开课第一天就带着接近成品的东西出现，但这没有同步提升 customer validation，反而让团队更容易把“能快速做出东西”误认成“已经更接..."
 source: "https://steveblank.com/2026/04/22/ai-and-teaching-the-brave-new-world/"
 ---

@@ -2,6 +2,7 @@
 title: "Blame Yourself for Everything, and Preserve Your Agency"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Naval Ravikant"
 description: "这篇文章在讲 Naval 那句 “Blame yourself for everything and preserve your agency” 到底是什么意思。核心意思是：把责任尽量往自己这边拿，不是为了自责，而是为了保留解决问题的主动性。 如果你把问题全都归因给外部结构、运气或他人，你就很容易同时把行动空间也..."
 source: "https://nav.al/agency"
 ---

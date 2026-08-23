@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.16.24 - The Great Services-To-Software Rotation"
 date: 2024-09-02T15:52:32Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章探讨了生成式人工智能（GenAI）对IT和软件市场的经济影响。通过分析IT预算分配的变化，文章认为GenAI将推动服务支出向软件支出的重大转变，从而显著扩大软件市场的规模和价值。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-81624-genai-growing"
 ---

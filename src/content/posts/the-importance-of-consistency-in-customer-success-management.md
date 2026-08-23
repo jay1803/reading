@@ -2,6 +2,7 @@
 title: "The Importance of Consistency in Customer Success Management"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "季末冲刺（hustle & scramble）是整个季度没有一致性执行的症状，不是拼搏精神——顶级 CS 领导者不仅不奖励这种行为，还把它视为管理失败。"
 source: "https://sixteenventures.com/customer-success-consistency-2"
 ---

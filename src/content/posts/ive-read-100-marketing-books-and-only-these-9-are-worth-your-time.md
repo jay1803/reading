@@ -2,6 +2,7 @@
 title: "I've read 100+ marketing books and only these 9 are worth your time 📖"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Tom Orbach"
 description: "\"最小可行受众\"比更大受众更有效——而所谓\"病毒式传播\"几乎从不存在：内容不会像病毒一样层层扩散，只是被一个大号转发了一次而已。"
 source: "https://www.marketingideas.com/p/books"
 ---

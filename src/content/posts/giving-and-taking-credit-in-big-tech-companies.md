@@ -2,6 +2,7 @@
 title: "Giving and taking credit in big tech companies"
 date: 2026-08-17T02:05:10Z
 category: reading
+author: "Sean Goedecke"
 description: "在大型科技公司，技术绩效经由管理链条中的可信工程师网络传递；可见性、共享功劳与归责风险彼此相连。"
 source: "https://seangoedecke.com/giving-and-taking-credit/"
 ---

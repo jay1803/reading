@@ -2,6 +2,7 @@
 title: "US Subways Build Too Many Cross Passages"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Brian Potter"
 description: "NFPA 130 要求美国地铁隧道每隔800英尺（244米）建一条横通道（连接双管隧道的逃生侧洞）。该间距并非来自安全研究，而是1970年亚特兰大MARTA地铁设计中的一个估算值——乘客在闪燃发生前最远可步行距离。NFPA自己在报告中承认这一要求缺乏\"技术实质依据\"。"
 source: "https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages"
 ---

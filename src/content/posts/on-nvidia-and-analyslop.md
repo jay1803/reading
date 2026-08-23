@@ -2,6 +2,7 @@
 title: "On NVIDIA and Analyslop"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Ed Zitron"
 description: "这篇文章其实分成两层在骂。第一层是 NVIDIA：作者认为它的财报表面依旧强得惊人，但底层越来越暴露出一种危险的依赖结构——收入高度集中在少数 hyperscaler / ODM 客户、库存和应收账款继续膨胀、还在通过投资、租回 GPU、供应承诺等方式反向“喂养”整个 AI 生态。第二层是更大的媒体与市场问题：作..."
 source: "https://www.wheresyoured.at/on-nvidia-and-analyslop/"
 ---

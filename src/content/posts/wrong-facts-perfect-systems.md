@@ -2,6 +2,7 @@
 title: "Wrong Facts, perfect Systems"
 date: 2026-03-20T08:00:45Z
 category: reading
+author: "Leah Tharin"
 description: "检索精度再高也救不了被污染的事实——问题不在 AI 的能力，在于输入层的事实本身就是错的；唯一的修复是领导层把自己的领域知识\"提交\"成可被机器读取的文本。"
 source: "https://www.leahtharin.com/p/wrong-facts-perfect-systems"
 ---

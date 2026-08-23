@@ -2,6 +2,7 @@
 title: "You Might Debate It — If You Could See It"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Jim Nielsen"
 description: "你正在\"辩论\"LLM 工具内置的设计规范——只是你不知道，而且你已经输了。"
 source: "https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/"
 ---

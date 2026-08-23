@@ -2,6 +2,7 @@
 title: "SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters"
 date: 2021-08-04T23:55:19Z
 category: reading
+author: "David Skok"
 description: "“If you cannot measure it, you cannot improve it” – Lord Kelvin actually it's Peter Drucker"
 source: "https://www.forentrepreneurs.com/saas-metrics-2/"
 ---

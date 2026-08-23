@@ -2,6 +2,7 @@
 title: "Visual-Focused Algorithms Cheat Sheet"
 date: 2025-11-04T10:50:02Z
 category: reading
+author: "Nick M"
 description: "从排序到神经网络、从压缩到密码学，40+ 个算法背后只有三种底层逻辑反复出现：分治（快排、FFT、视频压缩）、贪心局部最优（Prim's、Kruskal's、Huffman）、迭代松弛（Dijkstra's、Bellman-Ford、梯度下降）。理解这三种骨架，等于同时理解了大半个算法世界。"
 source: "https://photonlines.substack.com/p/visual-focused-algorithms-cheat-sheet"
 ---

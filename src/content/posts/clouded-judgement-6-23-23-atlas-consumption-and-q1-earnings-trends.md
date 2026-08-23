@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.23.23 - Atlas Consumption and Q1 Earnings Trends"
 date: 2023-06-26T15:39:35Z
 category: reading
+author: "Jamin Ball"
 description: "EV/Revenue"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-62323-atlas-consumption"
 ---

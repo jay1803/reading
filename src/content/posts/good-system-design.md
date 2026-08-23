@@ -2,6 +2,7 @@
 title: "Good system design"
 date: 2025-10-09T23:33:38Z
 category: reading
+author: "Sean Goedecke"
 description: "好的系统设计看起来\"毫无亮点\"——没出什么事、比预期容易，这才是成功。复杂系统往往是糟糕决策的补偿产物，而非能力的体现。"
 source: "https://www.seangoedecke.com/good-system-design/"
 ---

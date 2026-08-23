@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: The Epstein Class Launches a War"
 date: 2026-03-25T05:45:12Z
 category: reading
+author: "Matt Stoller"
 description: "美以打击伊朗不是文明冲突，也不是特朗普一意孤行——它是一场跨国精英阶层的内部派系战争：西方、海湾阿拉伯、以色列三方精英早已通过石油美元、私募股权、AI 投资合并为同一张网络；伊朗之所以是目标，唯一原因是伊朗精英从未加入这张网络。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-epstein-class"
 ---

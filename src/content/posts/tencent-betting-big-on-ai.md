@@ -2,6 +2,7 @@
 title: "Tencent: Betting Big on AI"
 date: 2025-03-31T17:55:05Z
 category: reading
+author: "Kevin Palmer"
 description: "腾讯的 AI 下注不是做一个独立大模型故事，而是把模型、算力和分发入口绑成一体：自研混元 T1，兼容 DeepSeek 之类外部模型，再借微信、广告、游戏、云把能力塞进现成现金流机器里。关键不在于模型参数是否领先，而在于它拥有 14 亿级微信入口、支付和内容分发场景，以及足以把 AI 成本转成广告效率、游戏寿命、..."
 source: "https://www.appeconomyinsights.com/p/tencent-betting-big-on-ai"
 ---

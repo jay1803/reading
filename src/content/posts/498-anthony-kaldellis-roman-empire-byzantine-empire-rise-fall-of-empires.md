@@ -2,6 +2,7 @@
 title: "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires"
 date: 2026-07-01T08:03:04Z
 category: reading
+author: "Lex Fridman"
 description: "Kaldellis 的根本立场：所谓\"拜占庭帝国\"是后世西方历史学家的发明，目的是把东罗马排除在自己的文化谱系之外。该国的居民始终自称罗马人，法律上是罗马公民，国家叫做\"罗马尼亚\"（Romania），从没有人经历过他们认为是\"断裂\"的瞬间。把它改名为\"拜占庭\"，是一种认知失调——我们知道它还在，却假装它变成了别的东西。"
 source: "https://lexfridman.com/anthony-kaldellis/?utm_source=rss&utm_medium=rss&utm_campaign=anthony-kaldellis"
 ---

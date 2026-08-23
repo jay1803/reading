@@ -2,6 +2,7 @@
 title: "Entity SEO: How to Build Digital Brand Visibility in AI Search"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Brian Dean"
 description: "传统 SEO 优化的是页面，Entity SEO 优化的是 AI 对你品牌的\"结构化理解\"——Reddit 里一条真实的用户比较评论，比堆满关键词的页面对 AI 检索更有价值；而且没有超链接的品牌提及，照样算数。"
 source: "https://backlinko.com/entity-seo"
 ---

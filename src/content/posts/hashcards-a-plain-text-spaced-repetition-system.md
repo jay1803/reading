@@ -2,6 +2,7 @@
 title: "Hashcards: A plain-text spaced repetition system"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Fernando Borretti"
 description: "间隔重复系统最大的瓶颈不是复习纪律，而是录入摩擦——每一张因嫌麻烦没写的卡片，都是永久丢失的一块知识。"
 source: "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
 ---

@@ -2,6 +2,7 @@
 title: "Revenue addiction kills companies."
 date: 2026-03-07T17:40:36Z
 category: reading
+author: "Elena Verna"
 description: "把收入当北极星不只是战略失误——它是一种自我强化的成瘾回路：每次短视收割都压缩了下一次可用的资源，直到创新容错、文化和客户信任同步瓦解；AI 冲击把这条慢性死亡曲线压缩成急症。"
 source: "https://www.elenaverna.com/p/revenue-addiction-kills-companies"
 ---

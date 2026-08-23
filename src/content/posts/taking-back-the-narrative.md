@@ -2,6 +2,7 @@
 title: "Taking back the narrative"
 date: 2026-07-11T08:05:07Z
 category: reading
+author: "Rebecca Darley"
 description: "即便是最\"内在\"的自我描述——\"我是历史学家\"\"我是跑步者\"——只在有大量人共享这些分类时才成立。否则就像说\"我是从右向左叠浴巾的人\"，既真实，却不构成有效答案。这推翻了历史学家Colin Morris在1970年代提出的那个进化叙事：中世纪人用关系型身份表达自我，现代人才用内在属性。作者认为底层结构从未变过——..."
 source: "https://coffeewithclio.substack.com/p/taking-back-the-narrative"
 ---

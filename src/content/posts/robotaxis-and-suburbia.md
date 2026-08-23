@@ -2,6 +2,7 @@
 title: "Robotaxis and Suburbia"
 date: 2025-11-19T08:43:10Z
 category: reading
+author: "Ben Thompson"
 description: "Uber 被 Uber-ed 的风险不在于 Robotaxi 逐渐取代其司机，而在于新市场（儿童出行、近乎零边际成本的配送）从质上与 Uber 现有市场正交；混合策略（人类司机 + 自动驾驶同网）可能是负债而非资产。"
 source: "https://stratechery.com/2025/robotaxis-and-suburbia/"
 ---

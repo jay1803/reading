@@ -2,6 +2,7 @@
 title: "High Performance Swift Apps"
 date: 2025-05-12T13:49:41Z
 category: reading
+author: "Jacob Bartlett"
 description: "在这个 2FA app 的性能调优中，比密码学 TOTP 计算更慢的是一个检测重复数字的 regex，替换成 Set 查找后提速 30x——瓶颈在哪里，优化的价值就在哪里，其余所有改动都是幻觉。"
 source: "https://blog.jacobstechtavern.com/p/high-performance-swift-apps"
 ---

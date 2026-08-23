@@ -2,6 +2,7 @@
 title: "Who Killed Spirit Airlines?"
 date: 2026-05-03T08:01:45Z
 category: reading
+author: "Matt Stoller"
 description: "Stoller 的核心判断是：Spirit 破产清算不能归咎于 Biden 反垄断部门阻止 JetBlue 收购；更完整的因果链是燃油冲击触发了一个早已被寡头、金融债权人、非法式竞争和去监管制度削弱的低价航空模型。"
 source: "https://www.thebignewsletter.com/p/who-killed-spirit-airlines"
 ---

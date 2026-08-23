@@ -2,6 +2,7 @@
 title: "Testing Product Ideas"
 date: 2022-04-14T19:17:57Z
 category: reading
+author: "Itamar Gilad"
 description: "AFTER:"
 source: "https://itamargilad.com/resources/idea-testing-ebook/"
 ---

@@ -2,6 +2,7 @@
 title: "REVIEW: How to Solve It, by George Pólya"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "John Psmith"
 description: "解题能力的上限不是\"天火\"式的先天智力，而是工具箱里启发式\"动作\"（moves）的数量——这些动作可以通过系统学习、有意积累来扩充。这个框架同时解释了两件事：古代天才为何没有更快推进科学，以及 LLM 为何随训练规模变聪明。"
 source: "https://www.thepsmiths.com/p/review-how-to-solve-it-by-george"
 ---

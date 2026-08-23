@@ -2,6 +2,7 @@
 title: "We Haven’t Seen the Worst of What Gambling and Prediction Markets Will Do to America"
 date: 2026-03-27T08:02:35Z
 category: reading
+author: "Derek Thompson"
 description: "赌博的真正威胁不是个人破产，而是：一旦所有事件都有价格，手握内部信息的人——运动员、政府官员、记者——就能把这些信息变成金融武器，系统性腐蚀每一个制度基础。"
 source: "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what"
 ---

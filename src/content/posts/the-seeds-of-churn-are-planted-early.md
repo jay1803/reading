@@ -2,6 +2,7 @@
 title: "The Seeds of Churn are Planted Early"
 date: 2026-03-11T01:01:07Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心判断是：流失往往在销售和早期启用阶段就被埋下，到了客户离开时才显形。真正决定留存的是客户是否以被承诺的方式接近了自己想买到的结果；如果销售先把结果卖错，后面的 onboarding 再完整，也只是维持一个注定失望的活跃用户。"
 source: "https://sixteenventures.com/seeds-of-churn?amp=1"
 ---

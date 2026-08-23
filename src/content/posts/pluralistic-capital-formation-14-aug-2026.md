@@ -2,6 +2,7 @@
 title: "Pluralistic: Capital formation (14 Aug 2026)"
 date: 2026-08-21T15:41:00Z
 category: reading
+author: "Cory Doctorow"
 description: "遏制 Big Tech 持续劣化产品并滥用垄断权力的关键，是让对抗性互操作（adversarial interoperability）合法化，使挑战者能够融资、组织产业并把零散破解扩展为大众化竞争。"
 source: "https://pluralistic.net/2026/08/14/one-chokable-throat/"
 ---

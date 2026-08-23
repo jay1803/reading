@@ -2,6 +2,7 @@
 title: "TransferWise VP Growth, Nilan Peiris, shares how they've used customer advocacy to grow from 40 to over 1700 employees."
 date: 2024-06-16T14:22:34Z
 category: podcast
+author: "Sean Ellis"
 description: "The transcript is from the \"Breakout Growth\" podcast, hosted by Sean Ellis, featuring Nilan Peiris, VP of Growth at TransferWise (now known as Wise). They di..."
 source: "https://seanellis.substack.com/p/transferwise-vp-growth-nilan-peiris-9af"
 ---

@@ -2,6 +2,7 @@
 title: "Growth Matrix - by Elena Verna - Elena's Growth Scoop"
 date: 2025-05-26T18:00:32Z
 category: reading
+author: "Elena Verna"
 description: "问题从来不是\"要不要做 PLG / MLG / SLG\"，而是\"什么时候序列化引入它们\"——放弃任何一个象限，就是主动为竞争者留下进入窗口。"
 source: "https://www.elenaverna.com/p/growth-matrix"
 ---

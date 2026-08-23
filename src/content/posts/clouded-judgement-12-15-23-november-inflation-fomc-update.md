@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.15.23 - November Inflation + FOMC Update"
 date: 2023-12-19T11:54:39Z
 category: reading
+author: "Jamin Ball"
 description: "本周 10 年期利率跌至 3.9%。这是自夏季以来的最低水平，比两个月前下降了近 25%。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-121523-november"
 ---

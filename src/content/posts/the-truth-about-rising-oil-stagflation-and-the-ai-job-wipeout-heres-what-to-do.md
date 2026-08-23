@@ -2,6 +2,7 @@
 title: "💥 The Truth About Rising Oil, Stagflation, and the AI Job Wipeout. Here's what to do."
 date: 2026-03-12T08:14:12Z
 category: reading
+author: "Andrew Lokenauth"
 description: "文中将本周市场异动串成一条因果链：伊朗战争导致霍尔木兹海峡受阻，油价暴涨重燃通胀；与此同时，就业转弱、工资仍涨，把美国重新推向“增长放缓但价格上行”的滞胀区间。更深层的变化是，AI 与机器人把劳动力冲击从周期性下行推进为结构性重组，高薪白领、入门知识工作者和未来更多实体岗位都会被重新定价。"
 source: "https://www.thefinancenewsletter.com/p/what-higher-oil-prices-mean"
 ---

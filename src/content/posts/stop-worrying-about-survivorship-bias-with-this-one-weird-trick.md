@@ -2,6 +2,7 @@
 title: "Stop Worrying About Survivorship Bias With This One Weird Trick"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Cedric Chin"
 description: "这篇文章的核心观点很反直觉：如果你是把商业历史当作“概念在现实中的各种具体实例”来读，而不是当成“从成功故事里提炼万用教训”的素材来读，那 survivorship bias 就没那么值得焦虑。 作者借 Cognitive Flexibility Theory（认知灵活性理论）来解释为什么 Buffett、Mun..."
 source: "https://commoncog.com/stop-worrying-about-survivorship-bias/"
 ---

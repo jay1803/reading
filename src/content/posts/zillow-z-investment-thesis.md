@@ -2,6 +2,7 @@
 title: "zillow $z investment thesis"
 date: 2023-10-16T14:25:11Z
 category: reading
+author: "Eric Flaningam"
 description: "Zillow 是领先的一流参与者，将在在线房地产领域积累大部分价值"
 source: "https://blog.publiccomps.com/zillow-z-investment-thesis/"
 ---

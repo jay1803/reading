@@ -2,6 +2,7 @@
 title: "Meta is back in the LLM game after a year-long break"
 date: 2026-04-22T08:01:29Z
 category: reading
+author: "Timothy B. Lee"
 description: "作者真正的判断不是“Meta 回来了”，而是：Meta 靠砸钱、挖人、堆算力，已经重新拿到前排入场券，但离真正的一线仍差在最难量化的后训练能力；这恰好是 Meta 那种指标驱动文化最不擅长的部分。"
 source: "https://www.understandingai.org/p/meta-is-back-in-the-llm-game-after"
 ---

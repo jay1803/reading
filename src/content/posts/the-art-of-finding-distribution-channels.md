@@ -2,6 +2,7 @@
 title: "The Art of Finding Distribution Channels"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "发行渠道不是被\"选出来\"的，是被\"找出来\"的——从客户嘴里问出来，不是从竞品分析表格里推出来。"
 source: "http://sixteenventures.com/distribution-channels?utm_source=rss&utm_medium=rss&utm_campaign=distribution-channels"
 ---

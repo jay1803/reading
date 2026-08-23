@@ -2,6 +2,7 @@
 title: "TBM 404: Should Teams Use the Same Tracker?"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "John Cutler"
 description: "强制全公司用同一个 tracker，是信任危机的副产品——当你真正需要的是目标对齐与透明的优先级，而不是把所有 epic 塞进同一个 Jira。"
 source: "https://cutlefish.substack.com/p/tbm-404-should-teams-use-the-same"
 ---

@@ -2,6 +2,7 @@
 title: "Figma - Benchmarking the S1 Data"
 date: 2025-07-03T12:17:27Z
 category: reading
+author: "Jamin Ball"
 description: "基于 Figma 于 2025-07-02 提交的 S-1 披露，文章以标准云软件基准框架对核心经营指标进行横向对比，并结合“从构想到交付”的产品工作流（Ideate→Visualize→Build→Ship）和协作扩展（13M MAU，非设计角色占比约三分之二，2025-03 季度）展示业务全貌；按常见上市流程..."
 source: "https://cloudedjudgement.substack.com/p/figma-benchmarking-the-s1-data"
 ---

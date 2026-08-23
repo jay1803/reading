@@ -2,6 +2,7 @@
 title: "Pluralistic: The world has moved on (11 Jun 2026)"
 date: 2026-06-12T08:01:58Z
 category: reading
+author: "Cory Doctorow"
 description: "消费者愤怒不是怀旧。2025年\"国家消费者愤怒调查\"（自1976年追踪至今）显示，美国消费者遭遇的产品和服务问题比以往更多、更严重、更难解决，越来越多的人在寻求报复。Doctorow借用斯蒂芬·金《黑暗塔》系列的隐喻：那个世界的衰败之所以不可逆，是因为某种神秘力量让\"修复\"本身成为不可能——不是机器太复杂，而是支..."
 source: "https://pluralistic.net/2026/06/11/lapsarianism/"
 ---

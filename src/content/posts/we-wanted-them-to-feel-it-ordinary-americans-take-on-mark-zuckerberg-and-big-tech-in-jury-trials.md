@@ -2,6 +2,7 @@
 title: "\"We Wanted Them to Feel It\": Ordinary Americans Take on Mark Zuckerberg and Big Tech in Jury Trials"
 date: 2026-03-27T08:02:35Z
 category: reading
+author: "Matt Stoller"
 description: "陪审团裁决不是偶发的情绪胜利，而是一套历经十年的法律范式切换才得以实现的结构性突破：用产品责任法（product liability）绕开 Section 230 的言论豁免盾牌。"
 source: "https://www.thebignewsletter.com/p/normal-americans-say-enough-to-big"
 ---

@@ -2,6 +2,7 @@
 title: "Dear Spammers, Google's Laughing At You Using Its Web Indexing (Job) API. Here's Why."
 date: 2026-07-08T08:04:03Z
 category: reading
+author: "Nick LeRoy"
 description: "Google 的 Job Indexing API 在发送 URL_UPDATED/URL_DELETED 请求并收到 HTTP 200 时，只意味着一件事：Google 收到了通知。文档里的关键词是\"may recrawl\"，not will，not did。把成功响应等同于索引确认，是这个 API 最常见、最..."
 source: "https://www.seoforlunch.com/p/google-job-indexing-api"
 ---

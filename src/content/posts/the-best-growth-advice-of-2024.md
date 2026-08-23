@@ -2,6 +2,7 @@
 title: "The best growth advice of 2024"
 date: 2025-01-02T11:03:11Z
 category: reading
+author: "Kate Syuma"
 description: "1. Measure weekly retention sprints to make sure your product is truly useful."
 source: "https://www.growthunhinged.com/p/the-best-growth-advice-of-2024"
 ---

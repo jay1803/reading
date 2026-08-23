@@ -2,6 +2,7 @@
 title: "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Ben Thompson"
 description: "Meredith Kopit Levien，纽约时报公司 CEO，2020 年起掌舵，此前做过 COO、CRO 和广告负责人；这次对话围绕她如何把一家新闻机构运营成同时拥有订阅、广告、游戏、体育和社区潜力的平台。"
 source: "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/"
 ---

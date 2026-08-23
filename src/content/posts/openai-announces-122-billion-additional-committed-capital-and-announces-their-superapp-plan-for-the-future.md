@@ -2,6 +2,7 @@
 title: "★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future"
 date: 2026-04-09T08:03:18Z
 category: reading
+author: "John Gruber"
 description: "OpenAI 这轮 1220 亿美元 committed capital 和 8520 亿美元估值，在作者眼里更像是资本市场继续为一个尚未证明盈利模型的公司续命，而不是护城河已经成立的证据。更糟的是，公司在商业逻辑没站稳时又把方向押向“superapp”，主动把产品复杂度再抬高一层。"
 source: "https://daringfireball.net/2026/04/openai_future"
 ---

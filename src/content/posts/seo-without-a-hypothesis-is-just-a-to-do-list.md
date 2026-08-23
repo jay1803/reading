@@ -2,6 +2,7 @@
 title: "SEO without a hypothesis is just a to-do list"
 date: 2026-04-24T08:01:56Z
 category: reading
+author: "Eli Schwartz"
 description: "SEO/AEO 的核心工作不该是执行“最佳实践”清单，而该是先写出可证伪的假设：如果做 X，预计 Y 会在特定范围与时间内发生。这个动作的价值不在统计完美，而在把团队从任务驱动拉回价值驱动；写不出假设，本身就是最强的停止信号。"
 source: "https://www.productledseo.com/p/seo-without-a-hypothesis-is-just"
 ---

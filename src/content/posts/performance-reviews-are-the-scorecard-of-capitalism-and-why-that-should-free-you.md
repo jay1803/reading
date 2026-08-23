@@ -2,6 +2,7 @@
 title: "Performance Reviews Are the Scorecard of Capitalism (And Why That Should Free You)"
 date: 2026-04-13T08:01:09Z
 category: reading
+author: "Jean Hsu"
 description: "把绩效评审看成“资本主义在当前时点给你开的组织内报价单”，文章的解压作用才会出现：它测的是你此刻对这家公司值多少钱，不是你的能力上限，更不是你作为人的价值。真正该投入精力的不是和评级、自尊绑定，而是持续积累可迁移能力，并用外部市场给自己校准价格。"
 source: "https://jeanhsu.substack.com/p/performance-reviews-are-the-scorecard"
 ---

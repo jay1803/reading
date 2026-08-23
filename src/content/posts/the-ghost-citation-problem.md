@@ -2,6 +2,7 @@
 title: "The ghost citation problem"
 date: 2026-04-22T08:01:29Z
 category: reading
+author: "Kevin Indig"
 description: "AI 搜索里真正稀缺的不是“被引用”，而是“被点名”。内容站点经常只拿到 source link，却拿不到品牌露出；而且这个结果不是统一的，而是由模型风格、提示词形态、内容类型共同决定，所以“AI visibility”作为单一指标基本是错的。"
 source: "https://www.growth-memo.com/p/the-ghost-citation-problem"
 ---

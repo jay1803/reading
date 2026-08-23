@@ -2,6 +2,7 @@
 title: "The Rule of 40 Explained"
 date: 2025-04-17T14:38:57Z
 category: reading
+author: "Kevin Palmer"
 description: "Rule of 40（收入增长率 % + 利润率 % ≥ 40）的核心价值不在于\"通过门槛\"，而在于用同一把尺子追踪不同阶段公司的效率权衡——分数本身意义有限，分数随时间的走势才是真正的信号。"
 source: "https://www.appeconomyinsights.com/p/the-rule-of-40-explained"
 ---

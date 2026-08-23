@@ -2,6 +2,7 @@
 title: "It’s all about trials"
 date: 2025-05-26T17:08:33Z
 category: reading
+author: "Elena Verna"
 description: "本文探讨了产品试用 (Trial) 的不同配置选项，旨在帮助企业设计出既能有效展示产品价值、提升产品定价能力，又适合客户和业务需求的最佳试用体验。文章首先区分了试用与免费增值 (Freemium) 模式，并强调试用是付费转化的优化工具。随后，详细介绍了在设计试用体验时应考虑的四个关键配置维度：试用开始时机、试用提..."
 source: "https://www.elenaverna.com/p/trial-configurations-explained"
 ---

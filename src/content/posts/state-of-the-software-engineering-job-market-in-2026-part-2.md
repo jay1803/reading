@@ -2,6 +2,7 @@
 title: "State of the software engineering job market in 2026, part 2"
 date: 2026-06-10T08:01:08Z
 category: reading
+author: "Gergely Orosz"
 description: "实习生招聘和SWE整体招聘首次出现反向走势——后者在复苏，前者持续下滑——意味着大型科技公司正系统性地关闭「无经验入门」通道，而非暂时收缩。"
 source: "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2"
 ---

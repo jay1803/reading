@@ -2,6 +2,7 @@
 title: "Anthropic Mythos – We’ve Opened Pandora’s Box"
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Steve Blank"
 description: "Steve Blank 的核心判断是：AI 漏洞发现工具把网络安全从“偶发泄密冲击”推入“持续指数级攻防竞赛”。如果 Mythos 这类系统能把过去只有国家级团队掌握的零日与利用链快速商品化，那么真正的瓶颈不再是预算、模型访问或授权，而是防御组织把修复部署到生产环境的速度。"
 source: "https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/"
 ---

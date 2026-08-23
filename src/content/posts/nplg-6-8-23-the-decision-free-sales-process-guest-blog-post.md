@@ -2,6 +2,7 @@
 title: "NPLG 6.8.23: The Decision-Free Sales Process (Guest Blog Post)"
 date: 2023-06-09T11:52:31Z
 category: reading
+author: "Zachary DeWitt"
 description: "本文讨论了在销售过程中过分强调决策的弊端，并提倡采用一种“无决策”的销售流程。作者认为人们普遍不喜欢做决策，因此通过将大的决策分解为一系列带有奖励的小决策，可以创造更好的客户体验并提高销售额。作者以 Visor 公司为例，说明了如何通过免费增值策略和专注于为用户提供价值的成功团队来实现这一目标。"
 source: "https://notoriousplg.substack.com/p/nplg-6823-the-decision-free-sales"
 ---

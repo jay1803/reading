@@ -2,6 +2,7 @@
 title: "The Worst Thing You Can Be in an SEO Job Interview Is Forgettable"
 date: 2026-08-18T08:54:00Z
 category: reading
+author: "Nick LeRoy"
 description: "SEO 求职市场已翻转——经验年限只是入场券，真正让你被录用的是让面试官在你离开会议室后还记得你的那件具体的事。"
 source: "https://www.seoforlunch.com/p/the-worst-thing-you-can-be-in-an"
 ---

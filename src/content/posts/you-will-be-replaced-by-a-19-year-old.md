@@ -2,6 +2,7 @@
 title: "You will be replaced by a 19-year-old."
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Tom Orbach"
 description: "作者做了十年营销，AI 出现之后，经验的护城河几乎消失。威胁他的不是 AI，是一个 19 岁的女生，原因有两个："
 source: "https://www.marketingideas.com/p/you-will-be-replaced-by-a-19-year"
 ---

@@ -2,6 +2,7 @@
 title: "Pluralistic: Lee Lai's \"Cannon\" (08 May 2026)"
 date: 2026-05-09T08:02:38Z
 category: reading
+author: "Cory Doctorow"
 description: "Cory Doctorow 把 Lee Lai 的《Cannon》视为一部关于“责任如何把人磨成沉默承受者”的图像小说：它不靠戏剧化爆点取胜，而是用 Lucy/Cannon 在家庭照护、餐厅劳动、酷儿关系与族裔孤立之间的持续失控，呈现一个人如何在亲密关系和制度性压榨中同时被需要、被利用、被背叛。"
 source: "https://pluralistic.net/2026/05/08/gung-gung/"
 ---

@@ -2,6 +2,7 @@
 title: "Transcript for Craig Jones: Jiu Jitsu, $2 Million Prize, CJI, ADCC, Ukraine & Trolling | Lex Fridman Podcast #439"
 date: 2024-09-15T15:24:58Z
 category: reading
+author: "Lex Fridman"
 description: "这个页面是 Lex Fridman 对 Craig Jones 的播客访谈 #439 的文字稿，名为《Craig Jones: Jiu Jitsu, $2 Million Prize, CJI, ADCC, Ukraine & Trolling》。Craig Jones 是一位巴西柔术格斗家，他在访谈中讨论了多个..."
 source: "https://lexfridman.com/craig-jones-2-transcript/"
 ---

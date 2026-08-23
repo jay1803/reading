@@ -2,6 +2,7 @@
 title: "How to think about AI company finances"
 date: 2026-03-20T08:00:45Z
 category: reading
+author: "Timothy B. Lee"
 description: "AI 公司年年亏损加剧本身不是危险信号——判断一家公司是否走向崩盘的真正指标是毛利率（gross margin），而非亏损额的绝对值。只要每笔交易有正毛利，规模越大越接近盈利；毛利为负则再大也无救。"
 source: "https://www.understandingai.org/p/how-to-think-about-the-ai-company"
 ---

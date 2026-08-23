@@ -2,6 +2,7 @@
 title: "Defending Privacy, Daily"
 date: 2026-04-01T08:00:34Z
 category: reading
+author: "Anil Dash"
 description: "这篇文章真正强调的，不是隐私议题本身有多技术化，而是数字权利必须先被翻译成普通人听得懂、愿意在乎的公共语言；Cindy Cohn 登上《The Daily Show》的意义，就在这里。"
 source: "https://anildash.com/2026/03/31/defending-privacy-daily/"
 ---

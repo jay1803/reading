@@ -2,6 +2,7 @@
 title: "★ David Pogue’s ‘Apple: The First 50 Years’"
 date: 2026-04-11T08:02:45Z
 category: reading
+author: "John Gruber"
 description: "这篇短文真正想说的不是“这本 Apple 新书很好看”，而是 David Pogue 这本书很可能成了 Apple 五十年历史第一本兼具可读性、参考价值和新增史料密度的准权威文本，而它最有价值的部分恰恰在于揭示 Apple 的关键转折并不总来自天才总设计，很多时候来自内部人顶着 Jobs 意志偷偷把正确的东西先做出来。"
 source: "https://daringfireball.net/2026/04/pogue_apple_first_50_years"
 ---

@@ -2,6 +2,7 @@
 title: "Growing Revenue at a Pumpkin Patch (Part 2)"
 date: 2025-11-04T11:15:38Z
 category: reading
+author: "Adam Fishman"
 description: "一个义工驱动的学校南瓜摊，在卡了13年的3万美元基础上三年涨到5.4万——不靠涨价，靠把零售常识首次认真执行一遍：高堆陈列、主动走入客群、精确库存追踪。每项都是教科书里的，但在这个场景从未被用过，所以每项都产生了不成比例的回报。"
 source: "https://www.fishmanafnewsletter.com/p/growth-strategies-for-scaling-a-pumpkin-patch"
 ---

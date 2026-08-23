@@ -2,6 +2,7 @@
 title: "Map user journeys to search queries and prompts"
 date: 2026-03-22T18:45:33Z
 category: reading
+author: "Eli Schwartz"
 description: "按购买意图把关键词分到\"问题感知→方案感知→产品感知\"三阶段，比按搜索量分组更能预测转化——意图决定了内容能否引发行动，排名本身不能。"
 source: "https://www.productledseo.com/p/map-user-journeys-to-search-queries"
 ---

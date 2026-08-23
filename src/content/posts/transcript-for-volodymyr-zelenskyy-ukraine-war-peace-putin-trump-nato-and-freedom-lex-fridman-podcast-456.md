@@ -2,6 +2,7 @@
 title: "Transcript for Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456"
 date: 2025-01-08T10:09:17Z
 category: reading
+author: "Lex Fridman"
 description: "Here's a summary of the main topics discussed in the transcript of the Lex Fridman Podcast with Volodymyr Zelenskyy:"
 source: "https://lexfridman.com/volodymyr-zelenskyy-transcript/"
 ---

@@ -2,6 +2,7 @@
 title: "Transcript for Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Lex Fridman"
 description: "Demis Hassabis 以“自然可学习结构”统一串联 AlphaX 系列与多模态生成：若自然界的模式由演化塑形，则存在可被经典学习算法高效发现的低维流形，用以指导在高维组合空间中的高效搜索（AlphaGo/AlphaFold 的共同范式）；Veo 在视频中对流体、材质、光照的近物理建模提示“从数据中反演物理..."
 source: "https://lexfridman.com/demis-hassabis-2-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=demis-hassabis-2-transcript"
 ---

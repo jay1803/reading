@@ -2,6 +2,7 @@
 title: "Shopify and the Power of Platforms"
 date: 2023-08-31T14:19:31Z
 category: reading
+author: "Ben Thompson"
 description: "I discussed this at length last year:"
 source: "https://stratechery.com/2019/shopify-and-the-power-of-platforms/"
 ---

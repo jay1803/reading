@@ -2,6 +2,7 @@
 title: "Revisiting “No Silver Bullets” in the age of AI"
 date: 2026-05-13T08:01:53Z
 category: reading
+author: "Gergely Orosz"
 description: "无法生成摘要：这篇 Substack 文章是 paid-subscriber 内容，当前可用材料只到第 3 节开头的 paywall 前 preview，缺失 open source/GitHub 与 AI 是否为 silver bullet 的核心后半部分，不能代表全文。"
 source: "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the"
 ---

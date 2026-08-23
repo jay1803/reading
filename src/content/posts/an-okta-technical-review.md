@@ -2,6 +2,7 @@
 title: "An Okta technical review"
 date: 2023-12-28T16:15:09Z
 category: reading
+author: "muji"
 description: "EVERY COMPANY MUST be a tech-driven company."
 source: "https://hhhypergrowth.com/an-okta-technical-review/"
 ---

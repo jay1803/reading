@@ -2,6 +2,7 @@
 title: "Your B2B product-led motion is more of a data problem than a product problem."
 date: 2025-02-19T16:07:50Z
 category: reading
+author: "Elena Verna"
 description: "文章与 Clarify (AI-native CRM) 的联合创始人 Austin Hay 共同撰写，探讨了产品驱动增长 (Product-Led Growth, PLG) 成功的关键因素——数据可用性。许多公司因未能优先考虑正确的数据基础设施和特定数据类型而导致PLG策略失败。文章详细阐述了PLG所需的数据基础..."
 source: "https://www.elenaverna.com/p/your-b2b-product-led-motion-is-more"
 ---

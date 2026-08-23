@@ -2,6 +2,7 @@
 title: "An Interview with Snowflake CEO Sridhar Ramaswamy About Data and AI – Stratechery by Ben Thompson"
 date: 2025-03-31T17:58:14Z
 category: reading
+author: "Ben Thompson"
 description: "这篇访谈记录了 Stratechery 对 Snowflake 现任 CEO Sridhar Ramaswamy 的采访。Ramaswamy 拥有在 Google 领导搜索广告业务 15 年的背景，并创办了后被 Snowflake 收购的搜索引擎 Neeva。访谈内容涵盖了他的职业经历、对 Google 现状的看..."
 source: "https://stratechery.com/2025/an-interview-with-snowflake-ceo-sridhar-ramaswamy-about-data-and-ai/"
 ---

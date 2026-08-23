@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.27.25 - New Rules For a New Game"
 date: 2025-07-03T12:17:48Z
 category: reading
+author: "Jamin Ball"
 description: "AI 时代的绿色赛道里，速度与迭代优先于完美与循序渐进：并行推进产品、GTM 与招聘，提前押注、快速试错、持续校准，比“旧范式”的里程碑式节奏更能占据心智与类目地位，但并非所有稳健型 SaaS 都适用。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-62725-new-rules"
 ---

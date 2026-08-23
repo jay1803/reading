@@ -2,6 +2,7 @@
 title: "Introduction to Hash Tables"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "哈希表的 O(1) 查找不是黑魔法——它把\"查找\"变成了\"计算\"：用键本身算出值的存储地址，彻底消灭搜索过程。"
 source: "https://photonlines.substack.com/p/introduction-to-hash-tables"
 ---

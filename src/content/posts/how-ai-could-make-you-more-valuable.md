@@ -2,6 +2,7 @@
 title: "How AI could make you more valuable"
 date: 2025-11-19T08:33:54Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章的主判断是：AI没有把优质知识工作变廉价，反而把“判断什么重要、如何表达清楚、怎样把技术转成可被市场理解的价值”变得更值钱。廉价内容会继续泛滥，但真正稀缺的是能把AI当作杠杆、又能对结果负责的人——顶级写作者、产品营销人、运营者和专业人士都会因此获得更高溢价。"
 source: "https://www.growthunhinged.com/p/how-ai-could-make-you-more-valuable"
 ---

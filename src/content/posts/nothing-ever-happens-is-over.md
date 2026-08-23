@@ -2,6 +2,7 @@
 title: "‘Nothing Ever Happens’ Is Over"
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "Naval Ravikant"
 description: "Naval Ravikant 是 Impossible 的联合创始人之一；对话由 Nivi 主持。内容本质是一场 Naval Podcast 访谈，围绕 AI、组织形态、硬件、无人机、生物风险与乐观主义展开。"
 source: "https://nav.al/over"
 ---

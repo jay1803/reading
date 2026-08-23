@@ -2,6 +2,7 @@
 title: "Has AI Disrupted Product Development?"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Itamar Gilad"
 description: "生产级软件开发没有被 AI 颠覆：工程师依然不可或缺、SaaS 市场反而在增长、就业数据暂无明显 AI 影响——\"颠覆\"更多是 Amara 定律的短期高估阶段。"
 source: "https://itamargilad.com/ai-disruption/"
 ---

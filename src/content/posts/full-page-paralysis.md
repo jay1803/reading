@@ -2,6 +2,7 @@
 title: "Full Page Paralysis"
 date: 2026-06-20T08:03:54Z
 category: reading
+author: "Jim Nielsen"
 description: "\"空白页恐惧\"描错了方向。开始很容易；难的是收尾。软件里叫\"最后的90%\"，物流里叫\"最后一公里\"——最后那段路的难度与工作量严重不成比例。"
 source: "https://blog.jim-nielsen.com/2026/full-page-paralysis/"
 ---

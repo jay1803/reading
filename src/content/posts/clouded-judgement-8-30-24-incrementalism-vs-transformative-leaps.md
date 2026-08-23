@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.30.24 - Incrementalism vs Transformative Leaps"
 date: 2024-09-02T15:47:34Z
 category: reading
+author: "Jamin Ball"
 description: "文章探讨了当今软件市场中\"增量改进\"与\"变革性突破\"的区别及其影响。在风险资本充裕的环境下，多家公司在同一领域获得融资导致市场拥挤，作者认为企业应该追求变革性突破而非仅仅提供增量改进，以避免成为\"僵尸企业\"。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-83024-incrementalism"
 ---

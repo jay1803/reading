@@ -2,6 +2,7 @@
 title: "LLM traffic is shrinking"
 date: 2025-11-04T11:15:38Z
 category: reading
+author: "Kevin Indig"
 description: "LLM 引荐流量在 2025 年 8 月后急速下滑，根本原因不是季节性，而是 ChatGPT 5 的模型路由器减少了引文输出——\"LLM 会持续带来增量流量\"的假设已经失效，流量指标需要被可见性指标整体替代。"
 source: "https://www.growth-memo.com/p/llm-traffic-is-shrinking"
 ---

@@ -2,6 +2,7 @@
 title: "What’s your TRUE customer lifetime value (LTV)?  – DCF provides the answer"
 date: 2021-07-30T13:38:02Z
 category: reading
+author: "David Skok"
 description: "But it’s important to note that these formulae will only yield meaningful"
 source: "https://www.forentrepreneurs.com/ltv/"
 ---

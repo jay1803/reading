@@ -2,6 +2,7 @@
 title: "☁️ Oracle: The Art of Leverage"
 date: 2026-03-12T08:14:12Z
 category: reading
+author: "Kevin Palmer"
 description: "Oracle的AI客户开始直接预付款、自带GPU来供应数据中心——资本支出风险正在向需求方转移。这是当前1140亿净债务（4x EBITDA）、TTM自由现金流-250亿的公司得以继续融资500亿的底层逻辑。"
 source: "https://www.appeconomyinsights.com/p/oracle-the-art-of-leverage"
 ---

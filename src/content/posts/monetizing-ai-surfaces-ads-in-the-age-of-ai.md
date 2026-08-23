@@ -2,6 +2,7 @@
 title: "Monetizing AI surfaces: Ads in the age of AI"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Tanay Jaipuria"
 description: "这篇文章的核心判断是：AI 免费层最终一定会走向广告与交易抽成，不是“会不会”，而是“先从哪种广告形态开始、再如何进化到 agent 时代”。OpenAI 当前走的是双路径：一边做意图广告，一边做原生结账抽佣，短期先验证变现，长期瞄准的是接近搜索/社媒级别的收入天花板。"
 source: "https://www.tanayj.com/p/monetizing-ai-surfaces-ads-in-the"
 ---

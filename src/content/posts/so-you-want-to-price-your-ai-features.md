@@ -2,6 +2,7 @@
 title: "So you want to price your AI features…"
 date: 2025-05-06T11:52:21Z
 category: reading
+author: "Elena Verna"
 description: "SaaS 的零边际成本时代正式结束：AI 推断有真实 COGS，单个用户可以字面意义上拖垮公司。主流应对不是\"纯用量计费\"，而是订阅 + 用量约束的混合模式——但被 AI 颠覆的品类需要的不是微调定价，而是重写整个商业模式。"
 source: "https://www.elenaverna.com/p/so-you-want-to-price-your-ai-features"
 ---

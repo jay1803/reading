@@ -2,6 +2,7 @@
 title: "16 Lessons on Selling (and Life) from My 5-Year-Old"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Packy McCormick"
 description: "这篇文章写的是作者五岁儿子第一次卖出 Donut Hat 的过程。表面上是个轻松故事，核心内容其实很简单：销售最开始不是技巧，而是开口、挨拒绝、记反馈、调整价格、继续试。 小孩在 playground 卖一个并不成熟的产品，几次被拒、两次成交、一路边卖边总结，最后反而把很多销售里最实用的东西讲出来了：目标客户是谁..."
 source: "https://www.notboring.co/p/16-lessons-on-selling-and-life-from"
 ---

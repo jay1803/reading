@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.19.25 - The System of Record's Front Door"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Jamin Ball"
 description: "AI 时代的企业 SaaS 面对的不是\"消亡威胁\"，而是\"前门转移\"问题：系统记录层会存活，但价值几乎可以全部被掌控新接口层的人拿走——就像 OTA 吞掉了 GDS 的大部分市值。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-121925-the-front"
 ---

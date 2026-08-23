@@ -2,6 +2,7 @@
 title: "The World's First Bullshit"
 date: 2026-04-02T08:01:08Z
 category: reading
+author: "Joan Westenberg"
 description: "“世界第一”现在更像一种注意力套利：只要把品类切得足够窄，首创几乎总能宣称出来。产品真正的护城河来自把已有类别里反复暴露的问题修好，而不是抢到最早的时间戳。"
 source: "https://www.joanwestenberg.com/the-worlds-first-bullshit/"
 ---

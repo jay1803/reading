@@ -2,6 +2,7 @@
 title: "Transcript for Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493"
 date: 2026-03-14T01:00:31Z
 category: reading
+author: "Lex Fridman"
 description: "Jeff Kaplan把自己的职业史讲成一条完整因果链：街机、Zork、Ultima、EverQuest塑造了他对“游戏=可居住世界”的理解，Blizzard则把这种玩家直觉训练成系统化的产品能力。《魔兽世界》的成功来自把宏大世界、任务流、社群协作和工业级打磨压成一个可持续循环；Titan和Overwatch 2..."
 source: "https://lexfridman.com/jeff-kaplan-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan-transcript"
 ---

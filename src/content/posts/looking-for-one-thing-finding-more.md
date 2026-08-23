@@ -2,6 +2,7 @@
 title: "Looking for one thing, finding more?"
 date: 2026-05-02T08:02:51Z
 category: reading
+author: "Rebecca Darley"
 description: "历史现场的真正价值超出单一过去的还原，关键在于让不同训练、信仰与生活经验的人互相校正视角：拜占庭学者在伊斯坦布尔的清真寺里寻找教堂，来自巴基斯坦的学生则看见当下穆斯林空间里的使用习惯、装饰传统与社交生活；两种观看叠在一起，才让城市从“遗迹”变成共享的故事。"
 source: "https://coffeewithclio.substack.com/p/looking-for-one-thing-finding-more"
 ---

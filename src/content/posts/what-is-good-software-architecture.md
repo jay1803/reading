@@ -2,6 +2,7 @@
 title: "What is good software architecture?"
 date: 2025-10-22T11:09:17Z
 category: reading
+author: "Gergely Orosz"
 description: "资深工程师 Matthew Hawthorne 通过多年在 Netflix 等公司的经验指出，优秀的软件架构在于用可控的代价换取“更好的新问题”，并在现实约束内协调人、团队与系统，而非依赖头衔化的 Architect 或纯粹的技术完美。"
 source: "https://newsletter.pragmaticengineer.com/p/what-is-good-software-architecture"
 ---

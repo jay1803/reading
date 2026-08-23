@@ -2,6 +2,7 @@
 title: "Why Product Market Fit Isn't Enough"
 date: 2022-07-31T01:12:05Z
 category: reading
+author: "Brian Balfour"
 description: "The “go-to” answer for almost every question in startups, is “build a great product.”"
 source: "https://brianbalfour.com/essays/product-market-fit-isnt-enough"
 ---

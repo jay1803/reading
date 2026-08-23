@@ -2,6 +2,7 @@
 title: "Watch Out For that Tree! Problems with Competitive Analysis"
 date: 2023-07-18T20:28:10Z
 category: reading
+author: "Luke Wroblewski"
 description: "在产品设计中过度关注竞争对手的分析（Competitive Analysis）会导致“目标锁定”（Target Fixation），使你无意中模仿他们的做法，从而偏离真正要解决的问题。要专注于理解问题本身、目标用户及其需求，才能找到正确的方向。"
 source: "https://www.lukew.com/ff/entry.asp?2027"
 ---

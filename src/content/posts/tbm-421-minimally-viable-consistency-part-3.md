@@ -2,6 +2,7 @@
 title: "TBM 421: Minimally Viable Consistency (Part 3)"
 date: 2026-05-10T08:01:04Z
 category: reading
+author: "John Cutler"
 description: "组织设计里的“一致性”不是单一旋钮，而是三种不同工具：少数必须统一的尖锐一致性、共享意图但允许本地弯曲的弹性一致性，以及把差异命名清楚的可读多样性。AI 的价值不在于把组织压成一个统一模板，而在于降低多模型、多语境、多视角之间的翻译成本；真正危险的是，它也可能顺手移除人类通过翻译、争论和同步来形成理解的过程。"
 source: "https://cutlefish.substack.com/p/tbm-421-minimally-viable-consistency"
 ---

@@ -2,6 +2,7 @@
 title: "Storytelling in Customer Success: Use the Power of Goal Discovery"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心观点是：客户成功里的“讲故事”不能停留在 ROI 汇报，真正有说服力的叙事要建立在 Goal Discovery Framework 挖出的目标、时点与更深层的动机之上。只有把客户最初为什么想改变、当时卡在哪里、后来如何跨过关键节点讲清楚，价值才会从“省了多少钱”升级为“帮客户实现了什么结果”。"
 source: "https://sixteenventures.com/storytelling-in-customer-success"
 ---

@@ -2,6 +2,7 @@
 title: "Getting a better sense for when you’re thinking well and when you’re faking it"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Henrik Karlsson"
 description: "这篇文章的核心观点是：一个人真正会思考，不只是因为他“聪明”或者“知识多”，而是因为他能感觉到自己什么时候是在真正接近问题，什么时候只是在模仿思考、迎合他人、或者被某种虚假的兴奋感带着走。作者把这种能力类比为身体的“本体感觉”，称之为 mental proprioception，也就是一种对自己思维姿态的内在感知。"
 source: "https://www.henrikkarlsson.xyz/p/mental-proprioception"
 ---

@@ -2,6 +2,7 @@
 title: "You should be using SwiftLog"
 date: 2025-05-12T13:44:36Z
 category: reading
+author: "Jacob Bartlett"
 description: "这篇文章的核心观点很务实：如果你在写 Swift 应用，还在到处 print() 调试和排障，那你大概率早该切到 SwiftLog 了。 作者想强调的，不只是“有个更优雅的 logging API”，而是 SwiftLog 能把你项目里的各种日志出口统一起来：开发时打到 LLDB / OSLog，线上时写到本地文..."
 source: "https://blog.jacobstechtavern.com/p/swiftlog"
 ---

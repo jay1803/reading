@@ -2,6 +2,7 @@
 title: "Topic-first SEO: The smarter way to scale authority"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Kevin Indig"
 description: "关键词已不是 SEO 的原子单位——Google 理解的是话题与实体；拥有话题权威比堆砌关键词覆盖面更能抵御算法波动和 AI 模式替代。"
 source: "https://www.growth-memo.com/p/topic-first-seo-the-smarter-way-to"
 ---

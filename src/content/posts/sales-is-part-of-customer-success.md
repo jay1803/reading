@@ -2,6 +2,7 @@
 title: "Sales is Part of Customer Success"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章在讲：Sales 本来就是 Customer Success 的一部分。 Customer Success 不是售后职能，也不是 CSM 团队的工作边界，而是一种 operating philosophy。只要客户和公司开始发生互动，Customer Success 就已经开始了。所以销售、市场、产品、支..."
 source: "https://sixteenventures.com/sales-customer-success"
 ---

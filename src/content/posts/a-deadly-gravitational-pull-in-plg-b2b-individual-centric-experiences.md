@@ -2,6 +2,7 @@
 title: "A Deadly Gravitational Pull in PLG B2B: Individual-Centric Experiences"
 date: 2025-05-20T13:43:46Z
 category: reading
+author: "Elena Verna"
 description: "B2B PLG 靠个体用户可以做到数亿营收，但没有早期团队体验整合，上市场扩张会系统性失败——这是结构性定时炸弹，增长越顺导线越隐蔽。"
 source: "https://www.elenaverna.com/p/a-deadly-gravitational-pull-in-plg"
 ---

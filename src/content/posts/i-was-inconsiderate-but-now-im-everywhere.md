@@ -2,6 +2,7 @@
 title: "I was inconsiderate but now I'm everywhere"
 date: 2026-03-18T08:01:19Z
 category: reading
+author: "Derek Sivers"
 description: "只在自己网站发布不是在\"保持独立\"，而是在向读者索取迁就——体贴应体现为主动分发，而非要求所有人登门。"
 source: "https://sive.rs/socials"
 ---

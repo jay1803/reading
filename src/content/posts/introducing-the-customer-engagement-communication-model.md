@@ -2,6 +2,7 @@
 title: "Introducing the Customer Engagement Communication Model"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心观点很朴素，但其实能直接改善很多 Customer Success / 客户沟通失效问题：大多数客户沟通之所以效果差，不是因为我们沟通得不够多，而是因为我们几乎从不认真设计沟通本身。 Lincoln Murphy 把 customer engagement 的沟通拆成六个要素：goal、receiv..."
 source: "https://sixteenventures.com/communication-model"
 ---

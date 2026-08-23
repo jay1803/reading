@@ -2,6 +2,7 @@
 title: "Two ways to visualize the importance of churn & expansion."
 date: 2025-05-26T17:46:33Z
 category: reading
+author: "Elena Verna"
 description: "公司应该将重心从获取新客户转移到减少客户流失 (Churn) 和提升现有客户留存上。通过提高现有客户的扩展收入，即使不获取新客户，公司也能实现收入的复合增长，这是区分“增长英雄”和“增长零蛋”的关键。"
 source: "https://www.elenaverna.com/p/two-ways-to-visualize-importance"
 ---

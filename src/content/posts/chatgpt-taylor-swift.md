@@ -2,6 +2,7 @@
 title: "ChatGPT & Taylor Swift"
 date: 2023-04-18T14:35:47Z
 category: reading
+author: "Tomasz Tunguz"
 description: "ChatGPT"
 source: "https://tomtunguz.com/user-acquisition-curiosity/"
 ---

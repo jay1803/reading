@@ -2,6 +2,7 @@
 title: "Understanding Optimization Algorithms: Newton's Method"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "牛顿法的本质不是\"找最优解\"，而是\"找方程的根\"——把优化问题转化为 f(x) = 0，再用切线迭代逼近零点。4次迭代就能将√3逼近到16位小数精度。"
 source: "https://photonlines.substack.com/p/understanding-optimization-algorithms"
 ---

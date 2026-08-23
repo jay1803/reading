@@ -2,6 +2,7 @@
 title: "What Are The Best Customer Success KPIs?"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "衡量 Customer Success 最重要的只有两个指标：NRR（净收入留存率）作为财务锚点，Health Score 作为客户导向的制衡；两者缺一，单看任何一个都会把 CS 拉回纯粹的账户管理逻辑。"
 source: "https://sixteenventures.com/customer-success-kpi"
 ---

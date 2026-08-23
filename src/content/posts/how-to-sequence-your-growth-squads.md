@@ -2,6 +2,7 @@
 title: "How to sequence your growth squads"
 date: 2025-05-16T12:01:59Z
 category: reading
+author: "Elena Verna"
 description: "为了有效推动公司增长，应按特定顺序构建增长团队：首先是激活 (activation)，其次是变现 (monetization)，接着是用户获取 (acquisition)，最后是用户留存 (retention)。后续可根据组织成熟度建立专门的进阶增长团队，并合理分配预算。"
 source: "https://www.elenaverna.com/p/how-to-sequence-your-growth-squads"
 ---

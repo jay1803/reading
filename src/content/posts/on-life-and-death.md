@@ -2,6 +2,7 @@
 title: "On Life and Death"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "「我」只是一个概念，就像海浪——死亡不是消亡，而是概念解体，组成你的物质与思想从未离开宇宙。"
 source: "https://photonlines.substack.com/p/on-death-and-the-fear-of-death"
 ---

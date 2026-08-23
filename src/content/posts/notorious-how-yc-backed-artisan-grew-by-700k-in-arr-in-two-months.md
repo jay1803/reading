@@ -2,6 +2,7 @@
 title: "Notorious: How YC-Backed Artisan Grew by $700K in ARR in Two Months"
 date: 2024-09-15T14:31:29Z
 category: reading
+author: "Zachary DeWitt"
 description: "这篇文章介绍了 YC 孵化的初创公司 Artisan 如何在两个月内实现 70 万美元 ARR 的增长。文章主要讨论了 Artisan 的产品、增长策略以及未来的发展方向，核心观点是强调产品自动化和客户成功在销售领域的价值。"
 source: "https://www.notoriousplg.ai/p/notorious-how-yc-backed-artisan-grew"
 ---

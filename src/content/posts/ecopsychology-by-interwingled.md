@@ -2,6 +2,7 @@
 title: "Ecopsychology - by Interwingled"
 date: 2025-06-17T12:29:02Z
 category: reading
+author: "Jeremy Keith"
 description: "心理健康危机与生态危机本质上是同一件事的两面：当代人对自然世界的系统性切断，既是外部破坏的根源，也是内部痛苦的根源。单独修复心理或单独修复生态，都是在治症状。"
 source: "https://intertwingled.org/ecopsychology/"
 ---

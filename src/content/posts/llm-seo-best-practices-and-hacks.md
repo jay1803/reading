@@ -2,6 +2,7 @@
 title: "LLM SEO best practices and hacks?"
 date: 2025-03-17T21:14:09Z
 category: reading
+author: "Eli Schwartz"
 description: "本文介绍了针对 LLM 的 SEO 最佳实践和技巧。尽管 LLM 的出现给 SEO 带来了变化，但其核心原则仍然是创建可访问、以用户意图为中心和权威的内容。文章强调了理解 LLM 的工作原理、关注用户意图、遵循索引最佳实践、建立真正的权威链接以及优化内容格式的重要性。"
 source: "https://www.productledseo.com/p/llm-seo-best-practices-and-hacks"
 ---

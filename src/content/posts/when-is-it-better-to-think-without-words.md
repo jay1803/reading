@@ -2,6 +2,7 @@
 title: "When is it better to think without words?"
 date: 2025-10-30T14:50:53Z
 category: reading
+author: "Henrik Karlsson"
 description: "在高熟练度领域，无词思考之所以有效，是因为它绕过了把高维概念网络压缩成线性语言的成本，让大脑能在更大的搜索空间里并行试探可能解。它的前提不是“想得越模糊越好”，而是长期写作、阅读、推导已经把领域结构内化为稳固心智模型；写作随后承担检验、固化和接力的角色，否则直觉很快滑向自洽但错误的幻觉。"
 source: "https://www.henrikkarlsson.xyz/p/wordless-thought"
 ---

@@ -2,6 +2,7 @@
 title: "Rebecca Heineman – from homelessness to porting Doom (2022)"
 date: 2025-11-20T13:54:34Z
 category: reading
+author: "Adam Gordon Bell"
 description: "Rebecca \"Burger Becky\" Heineman，跨平台移植专家，视频游戏行业先驱。1980 年赢得北美首届 Atari 2600 Space Invaders 全国锦标赛，由此入行。曾参与创立 Interplay，主导了 Wolfenstein、Doom 等经典游戏的主机移植工作，覆盖 Apple..."
 source: "https://corecursive.com/doomed-to-fail-with-burger-becky/"
 ---

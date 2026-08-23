@@ -2,6 +2,7 @@
 title: "Email Marketing: How Vero Got a 450% Increase in Conversions"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "Vero 3个月内将邮件转化率从 2% 提到 7.82%，靠的不是多发，而是分群精准发——每个用户每周收到的邮件数量几乎没变，变的是每封邮件与收件人的匹配度。"
 source: "http://sixteenventures.com/email-marketing-conversions?utm_source=rss&utm_medium=rss&utm_campaign=email-marketing-conversions"
 ---

@@ -2,6 +2,7 @@
 title: "Engaging at Scale: The Secret to Automating Personal Emails"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "自动\"个人邮件\"失败的根本原因是元数据泄露意图——时间戳和发送速度比内容更诚实。解法不是调整延迟，而是反转链路：让 bot 先给你发通知，再由\"你\"转发给用户，从根本上模拟人工干预的痕迹。"
 source: "http://sixteenventures.com/personal-emails"
 ---

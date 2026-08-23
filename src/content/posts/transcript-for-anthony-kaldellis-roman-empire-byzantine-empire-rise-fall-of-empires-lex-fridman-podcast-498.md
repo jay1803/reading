@@ -2,6 +2,7 @@
 title: "Transcript for Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires | Lex Fridman Podcast #498"
 date: 2026-07-01T08:03:04Z
 category: reading
+author: "Lex Fridman"
 description: "Kaldellis 的核心修正主义论点：史学界习惯围绕危机叙事建构东罗马历史（内部腐朽、衰败、分裂），但这些危机全是外生冲击——阿拉伯征服（630年代）、塞尔柱突厥（1070年代）、第四次十字军（1204年）——每次都在十年内造成巨大领土损失。而帝国此后的重建、整合、缓慢但持续的复苏，才是内生机制的体现。他即将撰..."
 source: "https://lexfridman.com/anthony-kaldellis-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=anthony-kaldellis-transcript"
 ---

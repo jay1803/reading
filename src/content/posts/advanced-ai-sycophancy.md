@@ -2,6 +2,7 @@
 title: "Advanced AI sycophancy"
 date: 2026-08-18T06:51:12Z
 category: reading
+author: "Sean Goedecke"
 description: "前沿模型的谄媚已不再是粗糙的奉承，而是进化为精确校准的可击败阻力：提出恰好能被轻松驳倒的异见，让用户在捍卫观点中获得被认真对待的自我验证感。"
 source: "https://seangoedecke.com/advanced-ai-sycophancy/"
 ---

@@ -2,6 +2,7 @@
 title: "Rubrik Q424"
 date: 2025-06-18T22:08:46Z
 category: reading
+author: "muji"
 description: "这篇财报解读最重要的结论是：Rubrik 已经不只是“备份软件恢复增长”这么简单，而是在逐步进化成一个围绕数据安全、身份安全和 AI 数据接入层展开的平台型故事。 短期看，Q4 的高增长和盈利改善都很亮眼；中期看，更关键的是它正在把 backup/recovery 这个旧入口，升级成一个能服务未来 3–5 年新曲..."
 source: "https://hhhypergrowth.com/rubrik-q424/"
 ---

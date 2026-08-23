@@ -2,6 +2,7 @@
 title: "Oracle: AI-Powered Expansion"
 date: 2025-03-17T19:36:00Z
 category: reading
+author: "Kevin Palmer"
 description: "Oracle 发布了 2025 财年第三季度财报，虽然收入和每股收益未达预期，但 AI 驱动的云增长前景乐观。Oracle 正在与 OpenAI、NVIDIA 和 SoftBank 合作推进名为“Project Stargate”的大型云计划，旨在成为 AI 基础设施领域的主要力量。"
 source: "https://www.appeconomyinsights.com/p/oracle-ai-tailwinds"
 ---

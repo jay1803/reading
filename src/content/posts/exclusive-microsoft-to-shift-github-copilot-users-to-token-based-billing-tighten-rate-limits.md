@@ -2,6 +2,7 @@
 title: "Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits"
 date: 2026-04-22T08:01:29Z
 category: reading
+author: "Ed Zitron"
 description: "GitHub Copilot 的核心转向不是“多收一点钱”，而是微软承认 AI 编程助手已经无法继续靠统一订阅价掩盖算力差异：Copilot 正从 SaaS 订阅品，变成按 token 计量的算力转售业务，低价用户补贴时代正在结束。"
 source: "https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/"
 ---

@@ -2,6 +2,7 @@
 title: "Geography is four-dimensional"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Derek Sivers"
 description: "地点会过期：一个人说“某地如何”时，真正有效的信息不是地名，而是他接触那个地方的时间戳；脱离时间的地理判断，本质上是在把旧照片当实时地图。"
 source: "https://sive.rs/4d"
 ---

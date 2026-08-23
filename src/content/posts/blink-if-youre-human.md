@@ -2,6 +2,7 @@
 title: "Blink if you’re human"
 date: 2026-06-27T08:05:09Z
 category: reading
+author: "dynomight"
 description: "主流辩论方向搞反了。与其争论 AI 使用是否需要披露，不如接受 AI 使用默认合法——然后把责任放到选择自我限制的人那里：如果你立了规矩，就公开说出来。"
 source: "https://dynomight.net/blink/"
 ---

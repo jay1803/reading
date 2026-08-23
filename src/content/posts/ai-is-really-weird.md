@@ -2,6 +2,7 @@
 title: "AI Is Really Weird"
 date: 2026-04-09T08:03:18Z
 category: reading
+author: "Ed Zitron"
 description: "Ed Zitron 的核心判断更狠：今天的生成式 AI 泡沫已经拥有接近完整的基础设施、资本和社会注意力，却仍然说不清自己到底创造了什么不可替代的价值，这说明问题落在产品能力与经济现实本身，不能再用“还太早”来解释。"
 source: "https://www.wheresyoured.at/ai-is-really-weird/"
 ---

@@ -2,6 +2,7 @@
 title: "Mind Lab Pro Review—Does It Actually Work — Or Is It Overhyped?"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Ed Latimore"
 description: "Mind Lab Pro 的实际作用是降低认知摩擦，而不是提升认知上限——11 种成分各司其职，多路径协同支持，效果以\"雾散\"而非\"开灯\"的方式出现，需要 2-4 周才能评估。"
 source: "https://edlatimore.com/mind-lab-pro-review/"
 ---

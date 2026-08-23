@@ -2,6 +2,7 @@
 title: "Building WhatsApp with Jean Lee"
 date: 2026-03-19T08:00:38Z
 category: reading
+author: "Gergely Orosz"
 description: "Jean Lee，WhatsApp 第 19 号工程师，参与公司从早期小团队扩张到数亿用户的全程，亲历 2014 年 Facebook 以 190 亿美元收购；此后在 Meta 担任工程师及管理职位。[补充：现经营职业发展平台 Exaltitude，面向软件工程师提供职业指导。] 主持人为 The Pragmat..."
 source: "https://newsletter.pragmaticengineer.com/p/building-whatsapp-with-jean-lee"
 ---

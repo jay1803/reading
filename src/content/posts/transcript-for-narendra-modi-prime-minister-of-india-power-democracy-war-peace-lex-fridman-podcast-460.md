@@ -2,6 +2,7 @@
 title: "Transcript for Narendra Modi: Prime Minister of India – Power, Democracy, War & Peace | Lex Fridman Podcast #460"
 date: 2025-03-17T13:06:36Z
 category: reading
+author: "Lex Fridman"
 description: "Lex Fridman 与印度总理 Narendra Modi 进行了一次深度对话。这次对话是关于 Modi 的生平、哲学观和政治生涯。Modi 从小在贫困中长大，通过禁食、游历喜马拉雅山和参与社会服务，形成了自己独特的人生观。他强调服务人民、追求和平、重视教育和技术创新。在对话中，他还谈到了他对印度与巴基斯坦关..."
 source: "https://lexfridman.com/narendra-modi-transcript"
 ---

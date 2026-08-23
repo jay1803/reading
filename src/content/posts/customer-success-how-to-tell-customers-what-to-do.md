@@ -2,6 +2,7 @@
 title: "Customer Success: How to Tell Customers What to Do"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "你已经知道客户在哪里卡住了。CS 最容易被绕过的一步不是发现问题，而是开口说出来。"
 source: "http://sixteenventures.com/customer-success-tell-what-to-do"
 ---

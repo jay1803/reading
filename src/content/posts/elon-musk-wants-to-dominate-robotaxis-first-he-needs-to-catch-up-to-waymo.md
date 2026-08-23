@@ -2,6 +2,7 @@
 title: "Elon Musk wants to dominate robotaxis—first he needs to catch up to Waymo"
 date: 2024-10-23T15:19:45Z
 category: reading
+author: "Timothy B. Lee"
 description: "特斯拉的股票市场估值为 7550 亿美元，远远高于通用汽车（530 亿美元）和福特（420 亿美元）等汽车销量超过特斯拉的公司。特斯拉的高估值似乎反映出人们对特斯拉将主导无人驾驶汽车新兴市场的希望。"
 source: "https://www.understandingai.org/p/elon-musk-wants-to-dominate-robotaxisfirst"
 ---

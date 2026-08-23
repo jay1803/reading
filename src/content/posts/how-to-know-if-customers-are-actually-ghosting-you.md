@@ -2,6 +2,7 @@
 title: "How to Know if Customers are Actually Ghosting you"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇短文最有价值的提醒是：很多你以为是“客户在 ghost 你”的情况，实际上只是你误判了客户此刻并不需要和你互动。 问题不一定出在客户冷淡，而可能出在你把自己的触达节奏，当成了客户理应接受的关系节奏。"
 source: "https://sixteenventures.com/customer-actually-ghosting"
 ---

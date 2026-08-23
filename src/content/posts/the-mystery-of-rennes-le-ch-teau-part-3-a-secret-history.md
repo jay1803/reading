@@ -2,6 +2,7 @@
 title: "The Mystery of Rennes-le-Château, Part 3: A Secret History"
 date: 2026-04-11T08:02:46Z
 category: reading
+author: "Jimmy Maher"
 description: "这篇文章最重要的判断不是“雷恩堡之谜又多了一条线索”，而是：到 1970 年代末，这套叙事已经从寻宝故事变成一台会自我增殖的神话机器。皮埃尔·普朗塔尔负责投放模糊暗示，亨利·林肯负责把这些暗示扩写成横跨圣殿骑士、墨洛温王朝、抹大拉的马利亚与法国未来政局的宏大剧本。所谓“秘密”越来越不像一条可验证的历史事实，更像一..."
 source: "https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/"
 ---

@@ -2,6 +2,7 @@
 title: "Love is about being invested in someone’s continual expansion"
 date: 2026-05-21T05:49:55Z
 category: reading
+author: "Henrik Karlsson"
 description: "爱的高阶形态是让对方的新价值系统扩张自己的感知能力：你先因为爱而承认陌生事物有价值，随后主动学习怎样看见它，最后让这套新眼光改变你能经验到的世界。"
 source: "https://www.henrikkarlsson.xyz/p/love-and-change"
 ---

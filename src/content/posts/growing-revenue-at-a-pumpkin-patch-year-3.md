@@ -2,6 +2,7 @@
 title: "Growing Revenue at a Pumpkin Patch (Year 3)"
 date: 2025-11-04T10:54:15Z
 category: reading
+author: "Adam Fishman"
 description: "这篇复盘的核心发现是：一个长期停在 3 万美元营收的学校义卖南瓜摊，连续三年被推到 6.91 万美元，增长来自获客、转化、库存和现场体验组成的系统，单点奇招只是表象。2025 年最关键的突破，是库存哲学从“尽量卖光”切到“直到最后一天都让顾客看到充足选择”，于是销量、客单价和临门一脚的购买意愿一起抬升。最大的约束..."
 source: "https://www.fishmanafnewsletter.com/p/growing-revenue-at-a-pumpkin-patch-year-3"
 ---

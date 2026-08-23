@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Are We Headed into Recession?"
 date: 2025-03-14T19:12:41Z
 category: reading
+author: "Matt Stoller"
 description: "本文讨论了美国经济是否正在走向衰退，以及“DOGE”政府（特朗普政府）可能采取的应对措施。文章分析了消费者信心下降、储蓄率上升、企业裁员等现象，并指出政府可能通过改变经济统计方式来掩盖衰退。文章还提到了特朗普政府可能采取的“重新私有化经济”的策略，即将公共资源转移到私营部门，特别是化石燃料和投机活动。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-are-we-headed-into"
 ---

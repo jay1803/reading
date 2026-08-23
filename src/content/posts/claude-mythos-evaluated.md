@@ -2,6 +2,7 @@
 title: "Claude Mythos, evaluated"
 date: 2026-04-14T08:01:12Z
 category: reading
+author: "Gary Marcus"
 description: "真正值得警惕的不是“Claude Mythos 已接近随手打崩电网”这种媒体化想象，而是它第一次被 AISI 评到能端到端完成 cyber range 攻击流程，说明前沿模型已跨过“能把低水平攻击自动化”的门槛，威胁开始落在那些小型、脆弱、暴露在网中的真实系统上。"
 source: "https://garymarcus.substack.com/p/claude-mythos-evaluated"
 ---

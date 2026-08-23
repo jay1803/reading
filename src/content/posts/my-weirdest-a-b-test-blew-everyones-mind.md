@@ -2,6 +2,7 @@
 title: "My weirdest A/B test blew everyone's mind 🧪"
 date: 2025-03-17T21:14:57Z
 category: reading
+author: "Tom Orbach"
 description: "作者介绍了一个不寻常但有效的 A/B 测试方法：在注册表单后面放置模糊的产品截图。这个方法利用了人们的好奇心、对进度的错觉以及预览带来的信任感，从而显著提高了转化率。文章中，作者分享了他在 MineOS 公司的实践经验，以及其他公司 GRIN 和 MyCase 应用此策略的案例，并提供了一些进阶版本的建议。"
 source: "https://www.marketingideas.com/p/my-weirdest-ab-test-blew-everyones"
 ---

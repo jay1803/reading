@@ -2,6 +2,7 @@
 title: "A Look Back at Q1 '24 Public Cloud Software Earnings"
 date: 2024-09-15T15:26:16Z
 category: reading
+author: "Jamin Ball"
 description: "本文总结了 2024 年第一季度公开云软件公司的收益报告。文章分析了这些公司的表现，并与作者作为风险投资家的经验和基准进行了比较。核心问题是评估这些公司是否达到了预期，以及它们的表现如何反映了当前的宏观经济环境。作者的观点是，尽管超大规模企业（Azure、AWS、GCP）受益于人工智能，但其他大多数软件公司都面临压力。"
 source: "https://cloudedjudgement.substack.com/p/a-look-back-at-q1-24-public-cloud"
 ---

@@ -2,6 +2,7 @@
 title: "Notorious: Startup Revenue Growth Rates Are Slowing (Benchmarking)"
 date: 2025-06-18T21:47:48Z
 category: reading
+author: "Zachary DeWitt"
 description: "基于 Standard Metrics 的 Global Benchmarking 数据，2025 年 Q1 全球初创企业季度营收增速整体回落：中位数环比下滑约 3–5 个百分点、上四分位环比下滑约 8–10 个百分点；自 2021 年以来形成“Q4 抬升、Q1 回落”的季节性模式，行业广泛（Consumer 受..."
 source: "https://www.notoriousplg.ai/p/notorious-startup-revenue-growth"
 ---

@@ -2,6 +2,7 @@
 title: "SEO and AEO is an effort in compounding growth"
 date: 2026-08-14T03:46:51Z
 category: reading
+author: "Eli Schwartz"
 description: "AEO 和 SEO 的复利机制根本不同：SEO 价值应计永久留存，AEO citations 在下次模型训练才被吸收，无法强制刷新，借用 SEO 打法会直接导致预算错配。"
 source: "https://www.productledseo.com/p/the-magic-of-seo-aeo-compounding"
 ---

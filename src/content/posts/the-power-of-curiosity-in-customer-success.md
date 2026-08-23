@@ -2,6 +2,7 @@
 title: "The Power of Curiosity in Customer Success"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "CSM 最大的竞争优势不是产品知识，而是真正的好奇心——它能在客户自己尚未意识到的地方，提前发现问题和机会。"
 source: "https://sixteenventures.com/the-power-of-curiosity-in-customer-success"
 ---

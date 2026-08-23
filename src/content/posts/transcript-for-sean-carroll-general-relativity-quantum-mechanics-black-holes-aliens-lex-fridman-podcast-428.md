@@ -2,6 +2,7 @@
 title: "Transcript for Sean Carroll: General Relativity, Quantum Mechanics, Black Holes & Aliens | Lex Fridman Podcast #428"
 date: 2024-09-02T15:30:35Z
 category: reading
+author: "Lex Fridman"
 description: "这是 Lex Fridman 对 Andrew Huberman 的一次访谈，属于 Lex Fridman 播客的一部分。谈话涵盖了多个主题，包括人际关系、个人成长、心理健康、生产力以及对生活和死亡的思考。Huberman 分享了他对这些主题的个人经验和专业见解，强调了潜意识探索、人际关系中的坦诚沟通以及身体和心..."
 source: "https://lexfridman.com/sean-carroll-test-transcript/"
 ---

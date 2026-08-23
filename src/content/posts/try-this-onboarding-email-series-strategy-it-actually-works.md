@@ -2,6 +2,7 @@
 title: "Try this onboarding email series strategy… it actually works!"
 date: 2024-03-08T10:28:39Z
 category: reading
+author: "Elena Verna"
 description: "文章介绍了一种高效的用户引导 (onboarding) 邮件策略：在用户注册后的最初7到30天内，每天发送一封邮件，每封邮件聚焦于产品的一个特定功能。这种方法能显著提升用户激活 (activation) 和功能参与度，其邮件打开率可达40-60%，并带来显著的用户激活指标提升。"
 source: "https://elenaverna.substack.com/p/try-this-onboarding-email-series"
 ---

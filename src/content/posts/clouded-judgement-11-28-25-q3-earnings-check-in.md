@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.28.25 - Q3 Earnings Check In"
 date: 2025-11-30T20:20:18Z
 category: reading
+author: "Jamin Ball"
 description: "Q3 2025 是可追踪的约 80 家云软件公司中 net new ARR 增量的历史最高季，而此时行业估值中位数仅 4.6x NTM Revenue——市场定价的乐观程度远低于基本面实际改善的幅度。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-112825-q3-earnings"
 ---

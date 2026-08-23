@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.26.26 - Time to Power"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Jamin Ball"
 description: "AI 数据中心的真正稀缺资源既不是芯片，也不是资本，而是\"接电速度\"（Time to Power）。放贷方向 neocloud 投融资的核心问题，以及大客户决定是否在某站点落单的核心问题，归根结底是同一件事：这个站点什么时候能真正有电？合同不等于到位的电，从 PPA 签署到实际通电之间存在巨大不确定性。签了协议、..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-62626-time-to-power"
 ---

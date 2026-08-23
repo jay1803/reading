@@ -2,6 +2,7 @@
 title: "Customer Success: Working with Customers that don't like Technology"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户说\"不喜欢技术\"，几乎从不是真的——他们是不喜欢某类技术人员（或那种沟通方式）。真正的阻力不在产品，在话语框架。"
 source: "http://sixteenventures.com/customer-success-non-tech"
 ---

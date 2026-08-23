@@ -2,6 +2,7 @@
 title: "If you have multiple interests, do not waste the next 2-3 years"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Dan Koe"
 description: "工业时代需要可替换的专才，互联网与 AI 时代更值钱的是能把多个兴趣压缩成独特视角、分发能力和产品能力的人。多兴趣本身不会自动变成优势，关键是给它一个“载体”：围绕自己的目标持续学习、公开表达、积累受众，再把这些兴趣转成可交易的产品与工作。"
 source: "https://letters.thedankoe.com/p/if-you-have-multiple-interests-do"
 ---

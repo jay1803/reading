@@ -2,6 +2,7 @@
 title: "Actually, people love to work hard"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Anil Dash"
 description: "人并不天然厌恶高强度工作，真正摧毁投入感的通常不是辛苦本身，而是目标失焦、价值错位、自治被拿走，以及领导把管理失败伪装成员工懒散。"
 source: "https://anildash.com/2026/04/06/people-love-to-work-hard/"
 ---

@@ -2,6 +2,7 @@
 title: "Repeat great words, repeat them stubbornly"
 date: 2025-05-06T14:35:09Z
 category: reading
+author: "Henrik Karlsson"
 description: "这篇文章借波兰诗人 Herbert 与“Mr Cogito”的诞生，讨论人在政治黑暗里如何维持伦理判断。核心不是服从外部道德律，而是在恐惧、代价和失败几乎确定时，仍忠于自己已经知道正确的事。Herbert 最重要的回答，是用诗、寓言和“伟大的词句”把文明内化成一种无法被政权没收的精神结构。"
 source: "https://www.henrikkarlsson.xyz/p/repeat-great-words"
 ---

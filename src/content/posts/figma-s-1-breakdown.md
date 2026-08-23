@@ -2,6 +2,7 @@
 title: "Figma S-1 Breakdown"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Tanay Jaipuria"
 description: "Figma 的 S-1 展示的不是一家设计工具公司终于上市，而是一家少见的高质量应用层 SaaS：它用漫长而克制的产品孵化、浏览器原生协作、PLG 分发和企业扩张，把自己做成了接近 10 亿 ARR 的平台型公司。真正的悬念已经不是核心产品是否足够强，而是当 AI 开始压缩界面设计本身的稀缺性时，Figma 能否..."
 source: "https://www.tanayj.com/p/figma-s-1-breakdown"
 ---

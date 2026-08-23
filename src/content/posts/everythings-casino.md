@@ -2,6 +2,7 @@
 title: "Everything's Casino"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Joan Westenberg"
 description: "赌博化不是现代社会的副产品，而是运营原则：Skinner的变比强化（不可预测的回报比固定回报驱动更强的行为）已被主动植入平台、劳动市场、住房和政治；让机制持续运转的不是贪婪，而是绝望——当储蓄在结构上无法兑换未来时，下注成为唯一理性的选择。"
 source: "https://www.joanwestenberg.com/everythings-casino/"
 ---

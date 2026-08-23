@@ -2,6 +2,7 @@
 title: "The pressure"
 date: 2026-05-28T08:01:27Z
 category: reading
+author: "Simon Willison"
 description: "AI 辅助安全审计把 curl 这种核心开源基础设施推入了新的压力区：问题报告不再只是低质量噪音，而是数量暴涨、质量变高、验证成本极重的持续来件；真正的瓶颈已经从“有没有人找 bug”转成“少数维护者能不能在不透支健康的情况下消化全球依赖带来的责任”。"
 source: "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything"
 ---

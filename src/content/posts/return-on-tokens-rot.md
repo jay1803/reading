@@ -2,6 +2,7 @@
 title: "Return on Tokens (ROT)"
 date: 2026-06-12T08:01:14Z
 category: reading
+author: "Packy McCormick"
 description: "Tokenmaxxing 是一场市场激励机制设计出来的大规模幻觉：企业把 token 消耗量当成 AI 价值的代理指标，实质上是在给 AI 实验室的「驻场员工」发无限额信用卡。真正应该追求的指标是 ROT（Return on Tokens）= (产出价值 - Token 成本) / Token 成本 × 100。..."
 source: "https://www.notboring.co/p/return-on-tokens-rot"
 ---

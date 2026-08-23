@@ -2,6 +2,7 @@
 title: "Pluralistic: A fascist paradigm (12 May 2026)"
 date: 2026-05-13T08:01:53Z
 category: reading
+author: "Cory Doctorow"
 description: "法西斯复兴的有效性不只来自改法律或操纵反馈回路，而是成功改写了“人是否能自治”的底层范式：把民主的默认假设从“人人有能力也会犯错，因此需要互相制衡”，推向“多数人天生不配自我治理，因此要把权力交给所谓优生统治者”。"
 source: "https://pluralistic.net/2026/05/12/donella-meadows/"
 ---

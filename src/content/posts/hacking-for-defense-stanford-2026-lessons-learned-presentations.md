@@ -2,6 +2,7 @@
 title: "Hacking for Defense @ Stanford 2026 – Lessons Learned Presentations"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Steve Blank"
 description: "AI把MVP的成本压到接近零之后，Stanford H4D课程面临了一个意外的教育危机：学生用\"精美交付物\"替代了\"深度理解利益相关方\"，坏主意只是走得更快了。课程的应对是强制减速——要求学生携原型入场时必须同时提交假设清单和验证实验设计。"
 source: "https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/"
 ---

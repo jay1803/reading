@@ -2,6 +2,7 @@
 title: "I was raised by a single mom—the problems I had to fix when I grew up"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Ed Latimore"
 description: "父亲缺席本身不是最大的伤害——真正的创伤来自母亲身上未愈合的伤，以及她带进家里施暴的男人；单亲家庭的核心风险不是贫穷，而是创伤的代际传染。"
 source: "https://edlatimore.com/raised-by-single-mom"
 ---

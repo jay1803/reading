@@ -2,6 +2,7 @@
 title: "Underrated reasons to be thankful V"
 date: 2025-11-30T20:20:18Z
 category: reading
+author: "dynomight"
 description: "这不是鸡汤感恩清单。每条理由背后都藏着一个反直觉的科学或逻辑真相：世界本可以完全不同，而恰好运气尚佳。\"感恩\"在这里是一种认识论姿态，不是情绪。"
 source: "https://dynomight.net/thanks-5/"
 ---

@@ -2,6 +2,7 @@
 title: "💥 Robots, Reverse Aging, and Our Next 250 Years."
 date: 2026-07-14T08:01:56Z
 category: reading
+author: "Andrew Lokenauth"
 description: "剥离AI异常利润后，标普500席勒CAPE达68，高于2000年峰值44.2和1929年峰值32.6。最大10支股票占指数40%，而2000年网络泡沫顶峰仅27%。巴菲特持有3970亿美元现金创历史记录，30年期美债收益率5.06%（2007年以来最高）。然而散户在Schwab以2:1比例持续买入科技股。两者不可..."
 source: "https://www.thefinancenewsletter.com/p/stock-market-bubble-stocks"
 ---

@@ -2,6 +2,7 @@
 title: "Transcript for Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494"
 date: 2026-03-24T08:01:59Z
 category: reading
+author: "Lex Fridman"
 description: "Jensen Huang，NVIDIA CEO 兼联合创始人，1993 年创立公司至今。[补充：NVIDIA 目前市值约 4 万亿美元，是全球最高估值的半导体公司，也是 AI 基础设施的核心供应商。] Lex Fridman 为主持人，麻省理工研究员，主理 Lex Fridman Podcast。"
 source: "https://lexfridman.com/jensen-huang-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang-transcript"
 ---

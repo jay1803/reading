@@ -2,6 +2,7 @@
 title: "📦 How AI Really Disrupts Commerce"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Kevin Palmer"
 description: "AI 在电商的真实破坏力不在于取代购买决策，而在于把\"发现→研究→比价→筛选\"这整段中间过程全部吞噬——最终受益的反而是最靠近结账按钮的平台（亚马逊、Shopify），因为购买动作落地的地方没变。"
 source: "https://www.appeconomyinsights.com/p/how-ai-really-disrupts-commerce"
 ---

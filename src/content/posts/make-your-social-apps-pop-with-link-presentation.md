@@ -2,6 +2,7 @@
 title: "Make your social apps pop with Link Presentation"
 date: 2025-05-12T13:45:18Z
 category: reading
+author: "Jacob Bartlett"
 description: "这篇文章是一个非常实用的 iOS/SwiftUI 小技巧：用 Link Presentation 给聊天或社交场景补上“可点击链接 + 预览卡片”的体验升级。作者的主张很直接——这不是大工程，而是一个可以在短时间内落地的 UX 杠杆点。"
 source: "https://blog.jacobstechtavern.com/p/linkpresentation"
 ---

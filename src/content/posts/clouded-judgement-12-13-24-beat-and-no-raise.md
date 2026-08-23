@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.13.24 - Beat and No Raise?"
 date: 2025-01-02T11:01:15Z
 category: reading
+author: "Jamin Ball"
 description: "大多数公司的表现与年初以来的普遍预期一致。估计的中值变化仅为 0.2%。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-121324-beat-and"
 ---

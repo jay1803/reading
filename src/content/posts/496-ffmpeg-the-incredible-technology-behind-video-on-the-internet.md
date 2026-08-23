@@ -2,6 +2,7 @@
 title: "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet"
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Lex Fridman"
 description: "Jean-Baptiste Kempf 是 VLC 核心开发者、VideoLAN president，也是把 VLC 从学生项目维持成全球级公共软件的人。Kieran Kunhya 是长期 FFmpeg contributor、codec engineer、Open Broadcast Systems 创始人之一..."
 source: "https://lexfridman.com/ffmpeg/?utm_source=rss&utm_medium=rss&utm_campaign=ffmpeg"
 ---

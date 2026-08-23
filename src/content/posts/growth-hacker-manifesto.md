@@ -2,6 +2,7 @@
 title: "Growth Hacker Manifesto"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "增长黑客定义被滥用的真正危险不是术语贬值，而是它掩盖了一个事实：真正的增长黑客极其稀少——能同时横跨营销、产品、工程三个学科、且唯一认可的成果指标是留存用户规模增长的人，在市场上几乎不存在。"
 source: "http://sixteenventures.com/growth-hacker-manifesto?utm_source=rss&utm_medium=rss&utm_campaign=growth-hacker-manifesto"
 ---

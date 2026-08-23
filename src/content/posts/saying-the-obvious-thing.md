@@ -2,6 +2,7 @@
 title: "Saying the obvious thing"
 date: 2026-06-28T08:02:48Z
 category: reading
+author: "Sean Goedecke"
 description: "显然之事值得写，且难以写。其价值不只是\"提醒别人\"——更深的原因是：人的大部分知识长期处于意识阈值以下，一篇文章能把它们重新激活。你知道自己不喜欢某件事，但不确定原因；读到一句精准的显然判断，才能说清楚自己的立场。"
 source: "https://seangoedecke.com/saying-the-obvious-thing/"
 ---

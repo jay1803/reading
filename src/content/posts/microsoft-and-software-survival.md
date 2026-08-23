@@ -2,6 +2,7 @@
 title: "Microsoft and Software Survival"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Ben Thompson"
 description: "微软这次被市场重罚，表面上是 Azure 增速不及预期、AI 资本开支过猛，深层上是 AI 正在同时改写软件的供给、定价和使用方式，直接冲击微软最赚钱的两套逻辑：按席位收费的生产力套件，以及把算力优先卖给外部客户的云业务。作者判断，微软大概率仍会是幸存者，但前提是主动牺牲一部分 Azure 的短期增长，把稀缺 G..."
 source: "https://stratechery.com/2026/microsoft-and-software-survival/"
 ---

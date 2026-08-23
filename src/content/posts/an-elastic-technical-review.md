@@ -2,6 +2,7 @@
 title: "An Elastic technical review"
 date: 2023-12-28T16:12:32Z
 category: reading
+author: "muji"
 description: "As I said before, EVERY COMPANY MUST be a tech-driven company."
 source: "https://hhhypergrowth.com/an-elastic-technical-review/"
 ---

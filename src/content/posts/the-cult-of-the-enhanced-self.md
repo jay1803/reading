@@ -2,6 +2,7 @@
 title: "The Cult of the Enhanced Self"
 date: 2026-06-19T08:02:20Z
 category: reading
+author: "Derek Thompson"
 description: "优化健康在生理上是好的，但它的底层逻辑——把死亡当作随时可算的账目——正在把人从当下和他人中拉走。Enhanced Self 运动最深的代价不是健身本身，而是健身取代了社交：睡得更好的最优解是减少夜晚约人，练得更好的最优解是取消午餐聚会。这不是副作用，是结构性代价。"
 source: "https://www.derekthompson.org/p/the-cult-of-the-enhanced-self"
 ---

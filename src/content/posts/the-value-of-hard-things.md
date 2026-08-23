@@ -2,6 +2,7 @@
 title: "The value of hard things"
 date: 2024-03-18T16:29:22Z
 category: reading
+author: "Ed Latimore"
 description: "Today’s newsletter was inspired by the following post on FB."
 source: "https://edlatimore.com/why-do-hard-things/"
 ---

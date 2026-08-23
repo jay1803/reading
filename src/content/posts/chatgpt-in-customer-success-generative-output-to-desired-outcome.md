@@ -2,6 +2,7 @@
 title: "ChatGPT in Customer Success: Generative Output to Desired Outcome"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "ChatGPT 让 CS 团队的邮件产量可以瞬间翻倍——但这恰是陷阱：如果你不懂怎么把每封邮件串成推动客户前进的流程，产量越大噪音越大。"
 source: "https://sixteenventures.com/chatgpt-customer-success"
 ---

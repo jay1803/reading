@@ -2,6 +2,7 @@
 title: "Why the Iran War Hasn't Crashed the Economy"
 date: 2026-06-17T08:03:59Z
 category: reading
+author: "Matt Stoller"
 description: "霍尔木兹海峡被封锁已超过100天，全球20%的碳氢化合物过境中断。按此前分析师共识，油价早应突破$150-$200/桶，引发类似2020年供应链崩溃的冲击。没有发生的原因只有一个：美国战略石油储备（SPR）加上私人库存，足够对冲缺口。油价至今仅上涨13%。"
 source: "https://www.thebignewsletter.com/p/one-obvious-reason-the-iran-war-hasnt"
 ---

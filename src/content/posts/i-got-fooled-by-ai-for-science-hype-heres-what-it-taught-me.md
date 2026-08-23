@@ -2,6 +2,7 @@
 title: "I got fooled by AI-for-science hype—here's what it taught me"
 date: 2025-05-20T10:31:48Z
 category: reading
+author: "Timothy B. Lee"
 description: "物理学家 Nick McGreivy 分享了他对人工智能 (AI) 在科研领域应用的失望经历。他最初对 AI 加速物理研究（特别是通过 AI 解决偏微分方程）抱有乐观态度，但实践结果远逊于预期。他认为，当前 AI 在科学领域的革命性潜力被普遍夸大，这主要源于有缺陷的研究方法、对负面结果的隐藏、以及研究者个人利益与..."
 source: "https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres"
 ---

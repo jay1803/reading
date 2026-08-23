@@ -2,6 +2,7 @@
 title: "3 AI PM Archetypes + 1"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Itamar Gilad"
 description: "AI 对 PM 的核心冲击不是“所有 PM 都要变成 AI 专家或兼职工程师”，而是把只负责把路线图翻译成 backlog、PRD、user story 的纯交付型 PO 暴露为最容易被自动化替代的一层。更有防御力的 PM 方向，是上游到公司运行模型层面，用 AI 改善目标、决策、数据分析、组织对齐和认知负担，而..."
 source: "https://itamargilad.com/ai-pm-future/"
 ---

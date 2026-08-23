@@ -2,6 +2,7 @@
 title: "What Our AI Mode User Behavior Study Reveals about the Future of Search"
 date: 2025-10-10T00:42:08Z
 category: reading
+author: "Kevin Indig"
 description: "37人、250次任务的可用性研究证明：Google AI Mode 是一个封闭体验——用户在里面读完、判断完、然后只在要购买时才点出去。中位外部点击数为零。"
 source: "https://www.growth-memo.com/p/what-our-ai-mode-user-behavior-study"
 ---

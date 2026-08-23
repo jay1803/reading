@@ -2,6 +2,7 @@
 title: "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "John Gruber"
 description: "Claude Mac app 自 2024 年 10 月发布以来一直是 Electron 应用——慢、臃肿、非原生。根源不是 AI 编程工具做不了原生 Mac app，而是做决策的人是 Felix Rieseberg：Electron 的联合创始人、Electron 现任行政工作组三名成员之一，在 Anthrop..."
 source: "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job"
 ---

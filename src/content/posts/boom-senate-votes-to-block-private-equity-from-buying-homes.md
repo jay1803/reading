@@ -2,6 +2,7 @@
 title: "BOOM: Senate Votes to Block Private Equity from Buying Homes"
 date: 2026-03-16T01:01:01Z
 category: reading
+author: "Matt Stoller"
 description: "参议院以 89-10 通过限制机构投资者购房的法案，不是\"两党合作的好故事\"，而是揭示了一个更大的问题：华尔街主导单户住宅市场这件事，从奥巴马时代才开始，是政策选择的结果，不是市场自然演化。"
 source: "https://www.thebignewsletter.com/p/boom-senate-votes-to-block-private"
 ---

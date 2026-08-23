@@ -2,6 +2,7 @@
 title: "The Wisdom and Madness of Crowds: Market Prices as Political Predictors!"
 date: 2024-11-25T16:08:04Z
 category: reading
+author: "Aswath Damodaran"
 description: "本文讨论了市场预测的智慧和疯狂，特别是在政治预测方面，作者探讨了政治市场、民意调查和专家判断在预测选举结果方面的作用和局限性。作者认为，虽然市场预测可以提供有价值的信息，但也存在一些问题，如噪音、动量和操纵。作者强调，理解这些问题对于准确预测和决策至关重要。"
 source: "https://aswathdamodaran.blogspot.com/2024/11/the-wisdom-and-madness-of-crowds.html"
 ---

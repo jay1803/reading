@@ -2,6 +2,7 @@
 title: "Pooled CSMs: Benefits, Challenges, and Requirements for Success"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "Pooled CSM 不是一个天然更高效的万能组织设计，它只在一类很具体的客户场景里成立：账户数量大、复杂度低、客户对体验的期待更偏向异步和自助，而不是持续的关系经营。它的价值在于把有限的 CSM 资源从“守着一批固定账户”改成“围绕一组标准化需求做规模化响应”，但代价是关系深度、上下文连续性和责任归属都会变弱。"
 source: "https://sixteenventures.com/csm-pool"
 ---

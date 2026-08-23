@@ -2,6 +2,7 @@
 title: "An Ode to Restraint: Lessons from the Tim Cook Legacy"
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Aswath Damodaran"
 description: "Damodaran 最不显然的判断是：Tim Cook 的核心贡献发生在 Apple 已进入成熟增长期之后；他用克制、资本纪律和供应链执行，把 iPhone 这台现金机器防守到极致。这种 CEO 类型在商业文化里不容易被拍成电影，却可能比英雄式转型更少毁灭股东价值。"
 source: "https://aswathdamodaran.blogspot.com/2026/05/an-ode-to-restraint-lessons-from-tim.html"
 ---

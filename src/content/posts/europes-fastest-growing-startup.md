@@ -2,6 +2,7 @@
 title: "Europe's fastest growing startup?"
 date: 2025-05-06T16:44:41Z
 category: reading
+author: "Kate Syuma"
 description: "Lovable 用 $2M 和 18 人，在 120 天内做到 $30M ARR。这个数字本身没什么可学的——更反直觉的是：爆发性增长之前是 18 个月的失败迭代，真正驱动增长的不是 GTM 机器，而是好到让人忍不住讨论的产品，加上用自己产品做分发工具的闭环逻辑。"
 source: "https://www.growthunhinged.com/p/lovable-growth-story"
 ---

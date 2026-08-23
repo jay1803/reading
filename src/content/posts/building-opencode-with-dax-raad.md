@@ -2,6 +2,7 @@
 title: "Building OpenCode with Dax Raad"
 date: 2026-05-28T08:01:27Z
 category: reading
+author: "Gergely Orosz"
 description: "OpenCode 的增长关键不是“更会用 AI 写代码”，而是抢到了开源 AI coding harness 的定位空位；Dax Raad 的核心判断是，AI 降低了执行成本，却没有替代产品判断、工程品味和组织激励这些真正决定软件质量的瓶颈。"
 source: "https://newsletter.pragmaticengineer.com/p/opencode"
 ---

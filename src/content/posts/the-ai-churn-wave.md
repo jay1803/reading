@@ -2,6 +2,7 @@
 title: "The AI churn wave?"
 date: 2026-02-14T20:34:04Z
 category: reading
+author: "Kate Syuma"
 description: "AI 原生产品整体留存比 B2C 消费类应用更差——但这是定价问题而非 AI 本身的问题：客单价一旦超过 $250/月，AI 原生产品的 GRR/NRR 就与传统 B2B SaaS 持平。"
 source: "https://www.growthunhinged.com/p/the-ai-churn-wave"
 ---

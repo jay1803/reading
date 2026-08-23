@@ -2,6 +2,7 @@
 title: "SaaS Growth Hacking: Email Address Pre-targeting"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "冷邮件发出之前，先用同一份邮件列表在 Facebook / LinkedIn / Twitter 投不带 CTA 的曝光广告——目的只是\"让他们见过你的名字\"，而不是让他们点击。这一步不是可选优化，而是决定邮件打开率的实质前置操作。"
 source: "http://sixteenventures.com/saas-growth-hacking-email?utm_source=rss&utm_medium=rss&utm_campaign=saas-growth-hacking-email"
 ---

@@ -2,6 +2,7 @@
 title: "Understanding The Monte Carlo Method"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "蒙特卡洛方法的核心不是\"模拟\"，而是用随机采样将不可解析的积分/面积问题转化为概率估计——只要样本够多，大数定律保证收敛到真实答案，且无需理解形状本身的数学结构。"
 source: "https://photonlines.substack.com/p/understanding-the-monte-carlo-method"
 ---

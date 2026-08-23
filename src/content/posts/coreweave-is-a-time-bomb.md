@@ -2,6 +2,7 @@
 title: "CoreWeave Is A Time Bomb"
 date: 2025-03-18T11:55:42Z
 category: reading
+author: "Ed Zitron"
 description: "CoreWeave 是一家 AI 云计算提供商，主要向 AI 公司出售 GPU 算力。该公司最近推迟了原定于上周进行的 IPO。文章详细分析了 CoreWeave 的 S-1 文件，揭示了该公司财务状况的严重问题。CoreWeave 高度依赖少数大客户，尤其是微软，且背负着巨额债务，其商业模式的可持续性存疑。文章..."
 source: "https://www.wheresyoured.at/core-incompetency/"
 ---

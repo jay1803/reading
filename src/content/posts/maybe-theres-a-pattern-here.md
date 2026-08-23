@@ -2,6 +2,7 @@
 title: "Maybe there's a pattern here?"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "dynomight"
 description: "每一位发明大规模杀伤性武器的人，要么在发明时相信它会缩短战争、促进和平，要么在死前陷入道德崩溃——而这套模式从未阻止过任何一项技术被全面武器化。"
 source: "https://dynomight.net/pattern/"
 ---

@@ -2,6 +2,7 @@
 title: "The No Keyword SEO Strategy That Drove 1 Million Sessions."
 date: 2025-11-19T08:43:10Z
 category: reading
+author: "Nick LeRoy"
 description: "这篇文章最值得记住的，不是作者靠一个小 niche site 搞到 100 万 organic visits，而是它同时讲了两个完全不同层次的 SEO 真相：第一，真正有价值的内容机会未必来自 keyword tool，而可能来自对真实搜索行为的直觉理解；第二，authority shortcuts 的确能让流量..."
 source: "https://www.seoforlunch.com/p/no-keywords"
 ---

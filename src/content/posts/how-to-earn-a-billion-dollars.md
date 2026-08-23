@@ -2,6 +2,7 @@
 title: "How to earn a billion dollars"
 date: 2026-06-15T08:02:50Z
 category: reading
+author: "Paul Graham"
 description: "成为亿万富翁只需两个数字：月增长率和持续时间；数学证明二者均无需欺诈，指数增长本身就能让普通初创公司在数年内达到十亿估值。"
 source: "https://paulgraham.com/earn.html"
 ---

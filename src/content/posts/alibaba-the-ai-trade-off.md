@@ -2,6 +2,7 @@
 title: "🐉 Alibaba: The AI Trade-Off"
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Kevin Palmer"
 description: "Alibaba 这次财报的核心不是“利润暴雷但市场宽容”，而是市场开始把它重新按“中国 AI 基础设施平台”定价；代价是短期利润、自由现金流和电商利润率被主动牺牲，风险在于 AI 收入必须足够持久，否则这只是更大的 CapEx 与补贴账单。"
 source: "https://www.appeconomyinsights.com/p/alibaba-the-ai-trade-off"
 ---

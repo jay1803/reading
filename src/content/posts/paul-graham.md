@@ -2,6 +2,7 @@
 title: "Paul Graham：如何努力工作"
 date: 2023-07-11T11:37:46Z
 category: reading
+author: "Paul Graham"
 description: "Paul Graham 在这篇文章中探讨了如何努力工作（How to Work Hard），强调了努力工作不仅是简单地投入时间，而是一个复杂的动态系统，需要不断调整和优化。要想取得卓越成就，除了天赋和实践，还需要极度的努力、对工作的热爱、以及诚实地评估自己的能力和进展。"
 source: "http://paulgraham.com/hwh.html"
 ---

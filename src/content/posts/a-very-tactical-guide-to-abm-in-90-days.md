@@ -2,6 +2,7 @@
 title: "A very tactical guide to ABM in 90 days"
 date: 2025-03-14T19:45:55Z
 category: reading
+author: "Kate Syuma"
 description: "Userpilot 的市场营销副总裁 Emilia Korczynska 分享了她在 90 天内实施 ABM（Account-Based Marketing，目标客户营销）的详细过程和经验。由于之前没有 ABM 经验，团队面临诸多挑战，但通过不断尝试和优化，最终将 ABM 转变为一个有利可图的渠道。在 90 天内..."
 source: "https://www.growthunhinged.com/p/a-very-tactical-guide-to-abm"
 ---

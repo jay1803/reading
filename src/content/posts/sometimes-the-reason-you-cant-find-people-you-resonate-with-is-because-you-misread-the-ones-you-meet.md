@@ -2,6 +2,7 @@
 title: "Sometimes the reason you can't find people you resonate with is because you misread the ones you meet"
 date: 2025-05-06T13:56:13Z
 category: reading
+author: "Henrik Karlsson"
 description: "你觉得找不到真正\"懂你\"的人，很可能不是因为那种人不在你身边，而是因为你从没用对方式看他们。作者与挚友 Torbjörn 相识 15 年，一直把他当配角，直到一次 1 对 1 谈话才发现：自己一直在看错了那一层。"
 source: "https://www.henrikkarlsson.xyz/p/friends-missed"
 ---

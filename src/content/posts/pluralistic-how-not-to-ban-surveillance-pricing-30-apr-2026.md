@@ -2,6 +2,7 @@
 title: "Pluralistic: How not to ban surveillance pricing (30 Apr 2026)"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "Cory Doctorow"
 description: "监控定价真正危险的地方，不是“商家更懂需求所以更有效率”，而是它把个人数据变成榨取绝望溢价的基础设施；马里兰所谓“全国首个禁令”因为范围极窄、同意例外、促销/折扣/会员/订阅豁免和无私人诉权，几乎把问题重新合法化，甚至可能削弱原有消费者保护。"
 source: "https://pluralistic.net/2026/04/30/something-must-be-done/"
 ---

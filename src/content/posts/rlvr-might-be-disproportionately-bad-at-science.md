@@ -2,6 +2,7 @@
 title: "RLVR might be disproportionately bad at science"
 date: 2026-05-17T08:01:23Z
 category: reading
+author: "Dwarkesh Patel"
 description: "RLVR 可能不擅长“大科学突破”，因为科学里最关键的验证对象常常是一个研究纲领在几十年里能否持续产出新解释、新预测和新工具；这种长期、稀疏、含糊的反馈，很难被压缩成可奖励的训练循环。"
 source: "https://www.dwarkesh.com/p/rlvr-might-be-disproportionately"
 ---

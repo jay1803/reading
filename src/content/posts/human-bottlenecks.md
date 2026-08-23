@@ -2,6 +2,7 @@
 title: "Human Bottlenecks"
 date: 2026-05-19T08:02:04Z
 category: reading
+author: "Fernando Borretti"
 description: "AI 对多数人的限制很难产生“10x 增强”，关键原因不是提示词、工具链或 agent harness 还不够精巧，而是大多数人缺少一个严肃的使用场景，或者真正瓶颈在动机、执行功能、智力、长期知识这些内部变量上。外部脚手架能放大已有目标和能力，却很难替一个没有明确产出压力的人创造“要被移动的针”。"
 source: "https://borretti.me/article/human-bottlenecks"
 ---

@@ -2,6 +2,7 @@
 title: "Helium Is Hard to Replace"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Brian Potter"
 description: "这篇文章真正要强调的不是“氦会短缺”，而是现代工业里有些关键投入的脆弱性来自物理定律，不来自管理失误。氦因为极低沸点、惰性、轻和高导热，卡住了 MRI、先进半导体、光纤、科研和航天等一串高价值环节，所以它更像被低估的战略瓶颈物质，而不是普通工业气体。"
 source: "https://www.construction-physics.com/p/helium-is-hard-to-replace"
 ---

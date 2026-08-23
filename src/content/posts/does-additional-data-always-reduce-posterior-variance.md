@@ -2,6 +2,7 @@
 title: "Does additional data always reduce posterior variance?"
 date: 2026-07-05T08:00:59Z
 category: reading
+author: "John D. Cook"
 description: "在 beta-binomial 模型里，若先验参数满足 2a < b（即先验极度倾向\"失败\"），观察到一次成功反而会使后验方差严格大于先验方差。保证方差下降的充分条件是 2a ≥ b——当先验对成功的胜率超过 1:2 时才成立。本质上：越\"出乎意料\"的观测，越可能撑大后验不确定性。"
 source: "https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/"
 ---

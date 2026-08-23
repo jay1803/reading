@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.25.25 - Q1 '25 Earnings Season Kicks Off"
 date: 2025-05-06T16:02:15Z
 category: reading
+author: "Jamin Ball"
 description: "这篇周报的核心结论是：Q1 财报季的第一批结果“没有想象中糟”，但也谈不上强复苏。软件公司整体呈现“守住预期、谨慎前瞻”的状态；真正清晰的主线是 AI 相关资本开支和算力投入仍在高强度推进，而宏观消费端开始出现分层走弱信号。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-42525-q1-25-earnings"
 ---

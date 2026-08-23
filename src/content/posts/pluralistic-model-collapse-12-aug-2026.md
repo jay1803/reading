@@ -2,6 +2,7 @@
 title: "Pluralistic: Model collapse (12 Aug 2026)"
 date: 2026-08-22T22:00:00Z
 category: reading
+author: "Cory Doctorow"
 description: "数据驱动的预测会把丰富的现实压缩成可复制的平均值，performativity、model collapse 与 placelessness 共享同一机制：预测一旦分配选择，便无法再区分人原本想要什么和系统让人容易想要什么。"
 source: "https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/"
 ---

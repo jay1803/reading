@@ -2,6 +2,7 @@
 title: "World Models: Computing the Uncomputable"
 date: 2026-03-20T08:00:45Z
 category: reading
+author: "Packy McCormick"
 description: "语言与代码对现实的描述是有损压缩——LLM 理解的是符号，而 World Models 学习的是因果结构；后者能以固定计算成本模拟随机、不可编码的真实世界，这是 LLM 在架构层面做不到的。"
 source: "https://www.notboring.co/p/world-models"
 ---

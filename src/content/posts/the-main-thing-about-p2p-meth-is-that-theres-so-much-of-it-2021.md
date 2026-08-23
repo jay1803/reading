@@ -2,6 +2,7 @@
 title: "The main thing about P2P meth is that there's so much of it (2021)"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "dynomight"
 description: "P2P meth 造成美国甲基苯丙胺危机恶化的关键机制，最可能是供给规模暴涨后制造出更多重度使用者，而非“新配方”在化学上突然更容易诱发精神病。"
 source: "https://dynomight.net/p2p-meth/"
 ---

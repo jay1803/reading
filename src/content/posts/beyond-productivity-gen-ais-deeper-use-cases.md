@@ -2,6 +2,7 @@
 title: "Beyond Productivity: Gen-AI’s Deeper Use Cases"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Itamar Gilad"
 description: "这篇文章在讲：Gen-AI 更有价值的用法，可能不在“把现有工作做快一点”，而在帮助组织做那些一直做不好的事。 作者觉得很多公司真正的问题不是写代码不够快，而是判断错方向、分析不够深、知识散落、流程用错、文化卡住、实验做不起来。文章提出几类更深层的 AI 用法：把 AI 当思考辅助工具、组织记忆层、随时在线的专业..."
 source: "https://itamargilad.com/ai-usecases/"
 ---

@@ -2,6 +2,7 @@
 title: "If You Want to Learn, Do"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Naval Ravikant"
 description: "\"想学东西\"的驱动力不来自决定学习，而来自手头有真实事情要做——doing 产生学习的需求，而不是反过来。纯粹为学而学的动力会迅速变空洞。"
 source: "https://nav.al/do"
 ---

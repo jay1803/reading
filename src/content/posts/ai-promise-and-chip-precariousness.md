@@ -2,6 +2,7 @@
 title: "AI Promise and Chip Precariousness"
 date: 2025-03-14T19:46:18Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章深入分析了当前 AI 领域的竞争格局、技术发展以及地缘政治对芯片产业的影响。作者认为，AI 发展正处于一个关键时刻，一方面技术进步和竞争带来了机遇，另一方面对 TSMC 的过度依赖以及与中国的紧张关系构成了重大风险。作者提出了一系列政策建议，旨在增强美国在 AI 和芯片领域的自主性和安全性。"
 source: "https://stratechery.com/2025/ai-promise-and-chip-precariousness/"
 ---

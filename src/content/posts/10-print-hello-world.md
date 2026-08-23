@@ -2,6 +2,7 @@
 title: "10 print \"Hello World\""
 date: 2026-03-16T01:01:01Z
 category: reading
+author: "Leah Tharin"
 description: "AI 对 Leah 真正有价值的地方，不是生成内容，而是让她重新成为一个 builder——而这件事之所以能发生，是因为她花了几十年积累了\"正确的上下文\"，而不是等 AI 来替她生成它。"
 source: "https://www.leahtharin.com/p/10-print-hello-world"
 ---

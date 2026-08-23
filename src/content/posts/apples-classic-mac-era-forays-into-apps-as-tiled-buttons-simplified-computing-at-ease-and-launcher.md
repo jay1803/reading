@@ -2,6 +2,7 @@
 title: "Apple's Classic Mac Era Forays Into 'Apps as Tiled Buttons' Simplified Computing: At Ease and Launcher"
 date: 2026-07-10T08:03:18Z
 category: reading
+author: "John Gruber"
 description: "iOS 图标的方圆形（squircle）从来就是\"触摸按钮\"逻辑的产物，不是美学选择——把它强制施加到 macOS，等于把不同的交互范式强行混同。Gruber 用 Apple 自己 2018 年的 HIG 打 Apple 的脸：八年前 Apple 还明确写着\"避免使用人们联想到 iOS 图标的圆角矩形\"。"
 source: "https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander"
 ---

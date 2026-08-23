@@ -2,6 +2,7 @@
 title: "🚧 Wall Street Hits a Speed Bump"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Kevin Palmer"
 description: "大型银行 Q4 FY25 的利润没有塌，但叙事已经断裂——\"监管松绑红利\"被直接否定为威胁，投行并购业务的反弹比想象中更不稳，支撑季报的其实是交易员而非投行家。"
 source: "https://www.appeconomyinsights.com/p/wall-street-hits-a-speed-bump"
 ---

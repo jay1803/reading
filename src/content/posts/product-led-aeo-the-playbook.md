@@ -2,6 +2,7 @@
 title: "Product Led AEO: The playbook"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Eli Schwartz"
 description: "这篇文章在讲一个核心判断：AEO / GEO / AI visibility 这套东西，不需要完全重写成一门新学科，Product-Led SEO 的思路仍然适用，只是界面从传统搜索结果页变成了 AI 回答界面。 作者把这套方法叫做 Product-Led AEO。重点不只是“让品牌出现在 LLM 回答里”，而是..."
 source: "https://www.productledseo.com/p/product-led-aeo-the-playbook"
 ---

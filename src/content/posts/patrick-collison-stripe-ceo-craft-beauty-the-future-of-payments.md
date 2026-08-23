@@ -2,6 +2,7 @@
 title: "Patrick Collison (Stripe CEO) - Craft, Beauty, & The Future of Payments"
 date: 2026-03-16T01:01:01Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Patrick Collison——SF 创始人神话的活体代表——主动告诉听他建议的人：你们大概走错方向了。世界需要更多 Herb Boyer，花十几年积累深度技术知识，而 SF 的地位体系把这条路变成了低价值选项。Fast Grants 调查的数字是锚点：79% 的 NIH 被资助者，如果可以自由支配经费，会\"..."
 source: "https://www.dwarkesh.com/p/patrick-collison?open=false#%C2%A7transcript"
 ---

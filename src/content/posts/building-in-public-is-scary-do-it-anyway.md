@@ -2,6 +2,7 @@
 title: "Building In Public is scary. Do it anyway."
 date: 2025-12-08T16:56:29Z
 category: reading
+author: "Elena Verna"
 description: "公开建造（BIP）的真正价值不是营销技巧，而是用持续的产品进展本身替代独立的营销活动——信任由此自然涌现，而非被刻意经营。AI 产品时代，这不是可选项，是生存策略。"
 source: "https://www.elenaverna.com/p/building-in-public-is-scary-do-it"
 ---

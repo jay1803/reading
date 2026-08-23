@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.16.26 - Platform of Platforms"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Jamin Ball"
 description: "遗留 SaaS 最大的结构性弱点不是功能不够，而是它的权威只在自己的域内有效——AI agent 天然跨域工作，这让 SaaS 系统从\"前台\"降级为\"数据库\"的速度比任何人预想的都快。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-11626-platform"
 ---

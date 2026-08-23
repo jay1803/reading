@@ -2,6 +2,7 @@
 title: "Why Is Product So Hard?"
 date: 2025-03-13T13:02:43Z
 category: reading
+author: "Itamar Gilad"
 description: "产品开发之所以困难，是因为面临着不确定性、复杂性和持续变化，需求和利益不一致，以及组织文化这三大核心挑战。这些挑战很少被公开讨论，更不用说真正解决了。我们需要采用结合构建与学习的模式，建立战略背景以协调和集中公司，并积极主动地塑造和维护组织文化。"
 source: "https://itamargilad.com/product-challenges/"
 ---

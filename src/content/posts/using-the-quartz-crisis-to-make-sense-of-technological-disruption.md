@@ -2,6 +2,7 @@
 title: "Using the Quartz Crisis to Make Sense of Technological Disruption"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Cedric Chin"
 description: "Donzé（当代最权威的瑞士钟表史学家）的研究推翻了通行版本。1975-1985年的瑞士表业危机，表面上看是石英技术颠覆了机械表，实际上是竞争优势的正面冲突（日本廉价大规模制造 vs 瑞士的工艺品牌）加上破碎的行业结构，再叠加一个关键人物（Nicolas Hayek）的逆转式反应。石英只是引爆点，不是根本原因。许..."
 source: "https://commoncog.com/quartz-crisis-learning-tech-disruption/"
 ---

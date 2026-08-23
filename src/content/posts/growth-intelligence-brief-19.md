@@ -2,6 +2,7 @@
 title: "Growth Intelligence Brief #19"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Kevin Indig"
 description: "Google 的流量分配正在重新偏向“聚合器”和本地/评论型中介，而不是原始品牌站点；SaaS 品牌一边获得更多 AI mentions，一边失去传统 SEO 可见度，说明 AI 曝光与搜索点击正在继续分叉。"
 source: "https://www.growth-memo.com/p/growth-intelligence-brief-19"
 ---

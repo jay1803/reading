@@ -2,6 +2,7 @@
 title: "Transcript for Andrew Huberman: Focus, Controversy, Politics, and Relationships | Lex Fridman Podcast #435"
 date: 2024-07-16T10:04:34Z
 category: reading
+author: "Lex Fridman"
 description: "Here is the summary of the topics covered in the transcript of Lex Fridman's podcast episode #435 featuring Andrew Huberman:"
 source: "https://lexfridman.com/andrew-huberman-5-transcript/"
 ---

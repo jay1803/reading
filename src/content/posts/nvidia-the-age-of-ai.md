@@ -2,6 +2,7 @@
 title: "NVIDIA: The Age of AI"
 date: 2024-11-25T16:05:34Z
 category: reading
+author: "Kevin Palmer"
 description: "预训练大型语言模型 ( LLMs ) 的扩展是否已达到极限？"
 source: "https://www.appeconomyinsights.com/p/nvidia-the-age-of-ai"
 ---

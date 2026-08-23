@@ -2,6 +2,7 @@
 title: "Being a Human Engineer in the AI Era"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Jean Hsu"
 description: "AI 时代工程师真正要跨越的不是工具学习曲线，而是身份威胁：当 AI 把“亲手写出每一行代码”的成就感压缩掉，最有效的适应路径不是恐惧驱动的追赶，而是用小到荒诞、足够个人、足够低风险的项目，重新建立创造的愉悦、判断力和行动惯性。"
 source: "https://jeanhsu.substack.com/p/being-a-human-engineer-in-the-ai"
 ---

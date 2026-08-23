@@ -2,6 +2,7 @@
 title: "The first RCT for GLP-1 drugs and alcoholism isn't what we hoped"
 date: 2025-03-14T19:49:24Z
 category: reading
+author: "dynomight"
 description: "GLP-1 药物如 Semaglutide（Wegovy / Ozempic）在治疗糖尿病和肥胖症方面效果显著。有传言称它们也可能对酒精、药物、尼古丁和赌博成瘾有治疗作用。但最近的一项随机对照试验（RCT）结果并不乐观，该试验研究了 Semaglutide 对酒精使用障碍的治疗效果，发现其在日常饮酒量方面没有显著..."
 source: "https://dynomight.net/glp-1/"
 ---

@@ -2,6 +2,7 @@
 title: "Qualitative Checklist Part 3 of 3 + Trade Alert"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Ryan Reeves"
 description: "作者把最后两条定性清单压成两个硬门槛：先确认公司不容易死，再确认它确实会赚钱。强资产负债表的价值在于切掉破产这条左尾风险；真正该看的盈利能力，则是扣除营运资本波动、维持性资本开支和股权激励噪音后的常态化 owner earnings。真正优秀的公司通常很早就能证明核心盈利能力，长期靠烧钱换规模的故事大多风险高于赔率。"
 source: "https://www.investing-city.com/p/qualitative-checklist-part-3-of-3"
 ---

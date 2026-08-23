@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.4.25 - Happy 4th!"
 date: 2025-07-07T12:15:31Z
 category: reading
+author: "Jamin Ball"
 description: "本周为简版周报：主要更新SaaS估值与股价变动图表，并复习估值口径。行业整体EV/NTM Revenue中位数约5.5x，高增长公司显著溢价（约21.6x），中低增长分桶分别约8.9x与4.2x；Top 5公司中位数约24.7x。10Y约4.3%。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-7425-happy-4th"
 ---

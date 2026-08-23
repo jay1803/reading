@@ -2,6 +2,7 @@
 title: "Transcript for Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Lex Fridman"
 description: "第二不完备性定理的最反直觉推论：一个能自证无矛盾的系统并不因此值得信任——不一致的系统同样能证明自身一致。希尔伯特纲领的两个目标（写出回答所有问题的强理论，再用有限方法证明它安全）因此均被哥德尔彻底击碎。"
 source: "https://lexfridman.com/joel-david-hamkins-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=joel-david-hamkins-transcript"
 ---

@@ -2,6 +2,7 @@
 title: "★ On the Future of Apple’s Vision Platform"
 date: 2026-05-02T08:02:51Z
 category: reading
+author: "John Gruber"
 description: "Vision Pro 销量差，不等于 Apple 放弃 Vision 平台。Gruber 的核心判断是：MacRumors 把“当前形态 Vision Pro 可能没有第三代小修小补”写成了“整个平台停摆”；但 VisionOS、沉浸内容和新硬件仍在推进，M5 版从一开始就只是低调续航信号，不是销量拐点方案。"
 source: "https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform"
 ---

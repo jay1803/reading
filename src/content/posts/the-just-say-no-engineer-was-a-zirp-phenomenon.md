@@ -2,6 +2,7 @@
 title: "The just-say-no engineer was a ZIRP phenomenon"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Sean Goedecke"
 description: "“只会说不”的资深工程师并不是被 AI 突然淘汰，而是被 ZIRP 结束后的资本纪律改变了组织用途：过去公司有钱养大量低产出探索，强 gatekeeper 能替系统挡住复杂度；现在公司要求工程团队直接变现、快速试错，这类角色的默认否决权就从资产变成阻力。"
 source: "https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/"
 ---

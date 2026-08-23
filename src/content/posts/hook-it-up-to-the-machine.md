@@ -2,6 +2,7 @@
 title: "Hook It Up to the Machine"
 date: 2026-04-20T08:01:01Z
 category: reading
+author: "Jim Nielsen"
 description: "这篇文章真正的判断是：当系统的关键因果链转入“数字层”后，人的经验不再足以诊断系统，必须靠另一台机器解释这台机器。作者借童年一次故障车经历，提出对 LLM 编码的担忧：未来代码库可能会像现代汽车一样，能运行，但一旦出问题，只有接入同类智能系统才能理解和修复。"
 source: "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
 ---

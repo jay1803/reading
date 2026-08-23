@@ -2,6 +2,7 @@
 title: "Pluralistic: Bubbles are REALLY evil (07 May 2026)"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 的核心判断是：AI 泡沫即使会留下比加密货币更有用的“生产残骸”，也仍然是一次不可辩护的财富转移；真正的问题不是泡沫后能捡到多少数据中心、GPU、开源模型和人才，而是普通劳动者的退休储蓄被迫押上牌桌，为少数内部人兑现退出流动性。"
 source: "https://pluralistic.net/2026/05/07/dump-the-pumpers/"
 ---

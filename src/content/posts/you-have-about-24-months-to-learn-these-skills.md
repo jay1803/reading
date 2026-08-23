@@ -2,6 +2,7 @@
 title: "You have about 24 months to learn these skills"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Dan Koe"
 description: "AI 的技术扩散速度比印刷机或工业革命快一个数量级，且能力差距以指数级拉开——这意味着今天开始实验的人，与 2027 年才入场的人之间，不是\"早晚都能追上\"的线性差距，而是结构性的永久领先。"
 source: "https://letters.thedankoe.com/p/something-is-different-about-2026"
 ---

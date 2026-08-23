@@ -2,6 +2,7 @@
 title: "Exploring Pinterest’s Global User Forecast Models"
 date: 2025-01-10T14:43:56Z
 category: reading
+author: "Ben McRedmond"
 description: "The model was critical for both external funding requirements and internal decision-making"
 source: "https://wrap-text.equals.com/p/exploring-pinterests-global-user"
 ---

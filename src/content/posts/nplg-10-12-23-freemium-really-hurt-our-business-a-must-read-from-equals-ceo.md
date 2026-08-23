@@ -2,6 +2,7 @@
 title: "NPLG 10.12.23: \"Freemium Really Hurt Our Business\" - A Must Read from Equals CEO"
 date: 2023-10-16T15:27:29Z
 category: reading
+author: "Zachary DeWitt"
 description: "Equals 公司的 CEO Bobby Pinero 分享了他们转向 Freemium 模式的经历。尽管初期用户注册量增加，但 Freemium 最终损害了业务增长和用户转化。他们最终取消了免费计划，转而采用需要信用卡的免费试用模式，发现增加适当的门槛反而提升了用户参与度和业务增长。"
 source: "https://notoriousplg.substack.com/p/nplg-101223-freemium-really-hurt"
 ---

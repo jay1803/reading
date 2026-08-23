@@ -2,6 +2,7 @@
 title: "Trump Just Pardoned Ticketmaster When No One Was Looking"
 date: 2026-03-11T01:01:27Z
 category: reading
+author: "Matt Stoller"
 description: "文章的核心不是 DOJ 和 Live Nation 达成了什么补救条款，而是联邦政府在陪审团审理刚启动时突然选择和解，等于在最关键的结构性反垄断案里临阵撤火，给 Ticketmaster 一次事实上的政治赦免。作者认为，这种和解之所以严重，不只是因为过去十多年类似 consent decree 已反复失败，更因为..."
 source: "https://www.thebignewsletter.com/p/a-wild-day-as-trump-doj-settles-with"
 ---

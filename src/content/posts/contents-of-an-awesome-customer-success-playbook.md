@@ -2,6 +2,7 @@
 title: "Contents of an Awesome Customer Success Playbook"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "两份覆盖相同客户群的 CS Playbook 可能有 90% 内容重合，但决定成败的是那 10% 的差异——任何通用模板都在系统性消灭这个差异。"
 source: "http://sixteenventures.com/customer-success-playbook"
 ---

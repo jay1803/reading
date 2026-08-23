@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.1.26 - The Death of Per-Seat Pricing?"
 date: 2026-05-02T08:02:51Z
 category: reading
+author: "Jamin Ball"
 description: "微软正在把“seat”从 SaaS 的核心商品降级为“预付消费额度的包装层”：用户仍会买 seat，但真正扩张的收入来自 token、agent action、任务和结果。这个转向会让 ARR、NRR、bookings、Rule of 40 和销售 quota 都变脏，但它给所有 AI 软件公司一个强信号：age..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-5126-the-death"
 ---

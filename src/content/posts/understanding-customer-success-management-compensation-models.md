@@ -2,6 +2,7 @@
 title: "Understanding Customer Success Management Compensation Models"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心观点非常鲜明：Customer Success 团队在早期通常不应该急着上 variable comp。 Lincoln Murphy 认为，很多公司一搭 CS 团队，就本能地从销售和 AM 那边抄 compensation model，开始纠结 commission、OTE、个人指标和组织指标占比..."
 source: "http://sixteenventures.com/customer-success-compensation-models"
 ---

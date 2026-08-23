@@ -2,6 +2,7 @@
 title: "Cultivating a state of mind where new ideas are born"
 date: 2026-03-09T22:36:51Z
 category: reading
+author: "Henrik Karlsson"
 description: "好点子最容易死在过早暴露给他人评价这一步。作者借 Altman、Grothendieck 和 Bergman 说明，创造力依赖一种能暂时屏蔽群体奖励、容忍混乱、让含混直觉继续发育的心理状态；它之所以关键，在于原创性首先体现为提出别人不会提的问题，而不只是更快回答现成问题。"
 source: "https://www.henrikkarlsson.xyz/p/good-ideas"
 ---

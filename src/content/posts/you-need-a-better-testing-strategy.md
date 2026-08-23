@@ -2,6 +2,7 @@
 title: "You need a better testing strategy"
 date: 2025-05-19T17:41:25Z
 category: reading
+author: "Kate Syuma"
 description: "25,000 次 A/B 测试数据揭示的核心矛盾：品牌不是不知道测试结果，而是当测试告诉你\"别这么做\"，内部压力却让你必须这么做——测试文化最深的病根是组织政治，不是方法论。"
 source: "https://www.growthunhinged.com/p/testing-strategy"
 ---

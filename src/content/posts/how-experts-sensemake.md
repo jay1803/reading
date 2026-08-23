@@ -2,6 +2,7 @@
 title: "How Experts Sensemake"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Cedric Chin"
 description: "这篇最强的结论是：sensemaking 的关键变量不是多看数据或延迟判断，而是尽快用少量锚点搭出一个可被现实打脸的 frame。专家之所以更准，不在于更中立，而在于他们敢更早形成解释，并用更具体的预期更快发现异常。"
 source: "https://commoncog.com/how-experts-sensemake/"
 ---

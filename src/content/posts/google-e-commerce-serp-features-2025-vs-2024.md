@@ -2,6 +2,7 @@
 title: "Google E-commerce SERP Features 2025 vs 2024"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Kevin Indig"
 description: "AI Overviews 正在直接取代电商 SERP 的商品网格——这不是\"新增一个功能\"，而是原有流量入口被吞掉。从 2025 年 3 月起，AIO 出现率与商品网格出现率呈反相关趋势，影响是系统性的。"
 source: "https://www.growth-memo.com/p/google-e-commerce-serp-features-2025"
 ---

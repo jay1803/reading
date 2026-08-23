@@ -2,6 +2,7 @@
 title: "Engineers do get promoted for writing simple code"
 date: 2026-03-27T08:02:35Z
 category: reading
+author: "Sean Goedecke"
 description: "写简单代码不仅不阻碍晋升，反而是更可靠的职业策略——管理者最终看的不是代码复杂度，而是交付记录。"
 source: "https://seangoedecke.com/simple-work-gets-rewarded/"
 ---

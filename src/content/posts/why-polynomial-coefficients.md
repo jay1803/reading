@@ -2,6 +2,7 @@
 title: "Why polynomial coefficients?"
 date: 2026-08-20T14:26:00Z
 category: reading
+author: "John D. Cook"
 description: "物理 PDE 的可分离性决定了多项式系数 ODE 的重要地位：分离变量后所得的方程，要么本身已具多项式系数，要么经换元可化为此形式。"
 source: "https://www.johndcook.com/blog/2026/08/01/why-polynomial-coefficients/"
 ---

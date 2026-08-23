@@ -2,6 +2,7 @@
 title: "The left-wing case for AI"
 date: 2026-05-11T08:01:08Z
 category: reading
+author: "Sean Goedecke"
 description: "左翼反 AI 立场错过了一个更符合自身价值的技术叙事：LLM 不只是资本与自动化工具，也可能是残障辅助、医疗自救、阶级沟通平权和教育机会扩散的基础设施；最强论点不是“AI 会带来乌托邦”，而是它已经在把一部分制度性弱势者原本缺失的能力补回来。"
 source: "https://seangoedecke.com/the-left-wing-case-for-ai/"
 ---

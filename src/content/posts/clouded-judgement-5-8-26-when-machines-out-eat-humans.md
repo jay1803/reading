@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.8.26 - When Machines Out-Eat Humans"
 date: 2026-05-09T08:02:38Z
 category: reading
+author: "Jamin Ball"
 description: "作者把 AGI 判定从“模型是否像人”改成“社会是否把边际能源优先喂给机器”：当数据中心耗能超过维持人类生活的耗能，说明计算已经成为更高效用的能源去处。2033 这个结论本身很脆弱，但框架有用——AI 的核心约束正在从模型能力，转向电力、输电、土地、资本开支与利用率。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-5826-when-machines"
 ---

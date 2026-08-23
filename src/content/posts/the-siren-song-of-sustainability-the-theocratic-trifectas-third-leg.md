@@ -2,6 +2,7 @@
 title: "The Siren Song of Sustainability: The Theocratic Trifecta's Third Leg!"
 date: 2024-11-25T16:06:54Z
 category: reading
+author: "Aswath Damodaran"
 description: "该页面讨论了可持续性（sustainability）和环境、社会及治理（ESG）等概念，作者认为这些概念被过度炒作和滥用。作者质疑这些概念的实质性影响，并认为它们往往被用来进行-greenwashing 和抬高公司的社会形象。作者强调，真正的可持续性需要透明的成本估算和明确的责任承担，而不是仅仅依靠口号和包装。"
 source: "https://aswathdamodaran.blogspot.com/2024/11/the-siren-song-of-sustainability.html"
 ---

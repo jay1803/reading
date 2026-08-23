@@ -2,6 +2,7 @@
 title: "Ten advances in mathematics and theoretical computer science"
 date: 2026-08-20T23:34:26Z
 category: reading
+author: "Simon Willison"
 description: "OpenAI 用不足 $2,000 每道题解开十个悬置十年的数学难题，成本曲线已断裂，数学界正经历 AI 版 Deep Blue 时刻。"
 source: "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything"
 ---

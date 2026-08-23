@@ -2,6 +2,7 @@
 title: "Palo Alto Network: The Long Thesis in Q2'25"
 date: 2025-05-06T16:40:44Z
 category: reading
+author: "Eric Flaningam"
 description: "PANW 不只是最大的纯网络安全公司，其增长逻辑已转向平台化整合——平台化正在把中型安全公司边缘化，逼其要么被收购要么出局。"
 source: "https://blog.publiccomps.com/palo-alto-network-the-long-thesis-in-q225-2/"
 ---

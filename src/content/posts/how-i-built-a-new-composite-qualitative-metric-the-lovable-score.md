@@ -2,6 +2,7 @@
 title: "How I built a new composite qualitative metric - The Lovable Score"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Elena Verna"
 description: "单一定性指标（NPS/CSAT/PMF）各有盲点；把它们加权合并成一个复合分数，才能真正度量用户是否\"爱上\"产品，而非仅仅\"忍受\"产品——这个区别决定了增长能否持久。"
 source: "https://www.elenaverna.com/p/how-i-built-a-new-composite-qualitative"
 ---

@@ -2,6 +2,7 @@
 title: "Crime Pays: The Egg Bandits Made A Thousand Times the Fine They Just Paid for Price Fixing"
 date: 2026-07-02T08:03:15Z
 category: reading
+author: "Matt Stoller"
 description: "核心主张：2022-2025年美国蛋价暴涨不是单纯的供应冲击，而是三家头部蛋商（Cal-Maine、Versova、Hickman's）系统性地操控基准价格指数。最直接的证据：2025年3月5日DOJ要求保全文件，价格随即大幅下跌——说明减价随时可行，只是没有动机。"
 source: "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a"
 ---

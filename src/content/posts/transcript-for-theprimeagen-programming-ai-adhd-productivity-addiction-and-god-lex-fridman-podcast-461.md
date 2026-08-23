@@ -2,6 +2,7 @@
 title: "Transcript for ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast #461"
 date: 2025-03-24T10:31:30Z
 category: reading
+author: "Lex Fridman"
 description: "Lex Fridman 和 ThePrimeagen 进行了一次深度对话，ThePrimeagen 是一位程序员，他通过软件开发娱乐和启发了数百万人。ThePrimeagen 分享了他过山车般的人生故事，包括早年与毒瘾和心理健康问题的斗争，以及他最终如何通过编程找到救赎和成功。对话还涉及编程的乐趣与挑战、各种编程..."
 source: "https://lexfridman.com/theprimeagen-transcript/"
 ---

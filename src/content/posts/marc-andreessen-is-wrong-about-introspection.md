@@ -2,6 +2,7 @@
 title: "Marc Andreessen is wrong about introspection"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Joan Westenberg"
 description: "Andreessen 说\"内省是弗洛伊德发明的\"不是历史无知，是一个蓄意的修辞动作——用历史修正主义把内省驱逐出合法人类活动的范畴，从而避开一个他无法正面回答的问题：若不知道人们内心里要什么，他关于\"技术带来繁荣\"的整套主张凭什么成立？"
 source: "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/"
 ---

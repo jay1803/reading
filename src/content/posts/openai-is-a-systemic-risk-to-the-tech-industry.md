@@ -2,6 +2,7 @@
 title: "OpenAI Is A Systemic Risk To The Tech Industry"
 date: 2025-05-06T14:19:31Z
 category: reading
+author: "Ed Zitron"
 description: "OpenAI 的运营模式依赖巨额且持续增长的外部资金和计算资源，其成本远超收入，导致严重的财务不稳定性。该公司面临计算能力瓶颈和扩张挑战，同时其潜在的失败可能对 SoftBank、Microsoft、Oracle、CoreWeave 和 NVIDIA 等关键合作伙伴构成系统性风险，进而影响整个科技行业和 AI 叙..."
 source: "https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/"
 ---

@@ -2,6 +2,7 @@
 title: "TBM 427: The Bottleneck Strike Again!"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "John Cutler"
 description: "\"工程不再是瓶颈\"这句话几乎已经是一个被滥用到失真的 meme。Cutler 的核心主张：这个叙事的真实功能不是描述现实，而是为大规模裁员提供话语包装。McKinsey、BCG、Deloitte 正在向各公司 pitch\"两年内裁员 30%\"的方案，逻辑是：把人员削减 30%、替换为 token 成本的 5%，全..."
 source: "https://cutlefish.substack.com/p/tbm-427-the-bottleneck-strike-again"
 ---

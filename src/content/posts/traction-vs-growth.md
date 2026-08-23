@@ -2,6 +2,7 @@
 title: "Traction vs Growth"
 date: 2022-07-31T01:14:53Z
 category: reading
+author: "Brian Balfour"
 description: "Goal: The one and only goal should be to find product-market fit among some audience segment."
 source: "https://brianbalfour.com/essays/traction-vs-growth"
 ---

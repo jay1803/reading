@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: The Week Everyone Realized Apple Is Decaying"
 date: 2025-03-17T13:00:57Z
 category: reading
+author: "Matt Stoller"
 description: "本文主要讨论了苹果公司近期承认无法按计划推出其承诺的Apple Intelligence，即升级版的Siri，这标志着苹果公司创新能力衰退的开始。由于长期忽视创新，转而专注于财务回报和效率，苹果与第三方开发者的关系恶化，阻碍了其在新技术领域的进展。文章认为，这反映出美国大型科技公司模式的失败，并呼吁对这些公司进行..."
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-week-everyone"
 ---

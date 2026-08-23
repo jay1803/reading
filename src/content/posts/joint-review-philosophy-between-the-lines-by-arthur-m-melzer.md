@@ -2,6 +2,7 @@
 title: "JOINT REVIEW: Philosophy Between the Lines, by Arthur M. Melzer"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "John Psmith"
 description: "这篇 joint review 在讨论 Arthur Melzer 那本《Philosophy Between the Lines》的核心论点：前现代的大量哲学写作，本来就默认是要“隔行传意”来读的，作者不会把真正的教导直接摊在纸面上，而会把更关键的意思藏在字里行间。 这篇评论一边在接受这个历史判断，一边往下追问..."
 source: "https://www.thepsmiths.com/p/joint-review-philosophy-between-the"
 ---

@@ -2,6 +2,7 @@
 title: "4 Sales Mistakes That Lead To High SaaS Churn"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "高 SaaS churn 往往不是续费阶段才发生的问题，而是在获客与销售阶段就埋下了种子。文中点出四类最常见的销售失误：卖给不该买的人、拿未来承诺换今天成交、靠低价而不是价值成交、以及客户流失时不做挽回与诊断；它们共同的问题是把短期签单优化成了长期留存的毒药。"
 source: "http://sixteenventures.com/sales-mistakes-cause-saas-churn"
 ---

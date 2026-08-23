@@ -2,6 +2,7 @@
 title: "Quoting Armin Ronacher"
 date: 2026-08-15T07:47:00Z
 category: reading
+author: "Simon Willison"
 description: "软件项目真正的共同语言是对系统边界和架构动机的集体隐性认知，而 agent 正在绕过代码审查和协调依赖这套摩擦——那套摩擦本是同步团队认知的传输机制。"
 source: "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything"
 ---

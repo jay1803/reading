@@ -2,6 +2,7 @@
 title: "Why fun is a serious problem"
 date: 2026-05-09T08:02:37Z
 category: reading
+author: "Rebecca Darley"
 description: "这篇文章真正要捍卫的不是“古人也会玩”这个温和判断，而是考古解释里一个更深的方法论盲点：当缺少文字证据时，学者往往用“祭品”“模型”“容器”这类严肃、安全的标签保护自己，却可能因此把史前人的幽默、游戏、可爱感和日常快乐从历史想象中系统性删除。"
 source: "https://coffeewithclio.substack.com/p/why-fun-is-a-serious-problem"
 ---

@@ -2,6 +2,7 @@
 title: "AI Optimization: How to Rank in AI Search (+ Checklist)"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Brian Dean"
 description: "AI 引用与 Google 排名几乎无关——Google AI Mode 50% 的引用来源根本不在搜索第一页；品牌官网仅占 AI 引用的约 10%。多数网站还没做好被 AI 引用的准备，这正是当下的入场窗口。"
 source: "https://backlinko.com/ai-optimization"
 ---

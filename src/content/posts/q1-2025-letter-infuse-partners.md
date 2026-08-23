@@ -2,6 +2,7 @@
 title: "Q1 2025 Letter - Infuse partners"
 date: 2025-07-03T12:26:06Z
 category: reading
+author: "Ryan Reeves"
 description: "这封信探讨了卖出股票的复杂性，尤其聚焦于“税收悖论”：虽然为了避税而短期持有股票可能因市场波动而风险重重，但从长远来看，尽量减少税务事件能极大地促进复合回报。作者 Ryan Reeves 提倡，只有在最初的投资逻辑被打破，或者出现了远胜于当前持仓的投资机会时，才应该卖出股票。信中还介绍了一项新的未公开投资，目标是..."
 source: "https://www.investing-city.com/p/q1-2025-letter"
 ---

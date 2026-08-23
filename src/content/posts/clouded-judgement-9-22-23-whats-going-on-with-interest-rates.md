@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.22.23 - What's Going On With Interest Rates?"
 date: 2023-10-10T17:17:59Z
 category: reading
+author: "Jamin Ball"
 description: "虽然五月/六月/七月的情绪相当乐观（强劲的经济增长和通胀下降，从而导致利率下降），但共识开始转向利率长期走高（强劲的经济增长和持续的通胀要求利率保持在高位）。本周确实进一步加剧了近期的鹰派情绪。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-92223-whats-going"
 ---

@@ -2,6 +2,7 @@
 title: "A Walk Through Combinatorics"
 date: 2025-05-06T11:49:23Z
 category: reading
+author: "Nick M"
 description: "这篇文章把组合数学拆成一套“先判断对象是否可区分、顺序是否重要、是否允许重复，再选对应计数工具”的思维框架。核心价值在于它把鸽巢原理、归纳法、排列组合、双射、二项式、分拆、置换循环、容斥原理串成同一种语言：复杂计数题本质上都是在重写问题，使其落入一个可数的结构。"
 source: "https://photonlines.substack.com/p/a-walk-through-combinatorics-part"
 ---

@@ -2,6 +2,7 @@
 title: "NPLG 6.2.23: Non-Obvious Things I Look For When Investing"
 date: 2023-06-09T16:20:34Z
 category: reading
+author: "Zachary DeWitt"
 description: "My non-obvious investing checklist:"
 source: "https://notoriousplg.substack.com/p/nplg-6223-non-obvious-things-i-look"
 ---

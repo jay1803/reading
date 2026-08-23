@@ -2,6 +2,7 @@
 title: "Stop Teaching Your Customers to Ignore You! A Guide to Effective Customer Engagement"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "作者的核心判断是：客户忽视邮件通常不是渠道失灵，而是企业反复发送目标含混、时机错误、相关性不足的消息，把“忽略你”训练成了用户习惯。客户参与度要提升，关键不是多发或写得更花，而是确保每封邮件都服务一个明确目标，在正确时机发给正确的人，并让内容真正推进客户的进展。"
 source: "https://sixteenventures.com/stop-teaching-your-customers-to-ignore-you"
 ---

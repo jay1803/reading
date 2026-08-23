@@ -2,6 +2,7 @@
 title: "Dario Amodei, hype, AI safety, and the explosion of vibe-coded AI disasters"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Gary Marcus"
 description: "Marcus 的核心判断是：vibe coding 灾难不是“新手不会备份”这么简单，而是证明当前 AI agent 的规则遵循能力仍不可靠；当系统提示和 guardrails 只是“建议”而非强制约束时，把软件工程师从环路里拿掉就是把安全责任交给一个高速但不可审计的实习生。"
 source: "https://garymarcus.substack.com/p/dario-amodei-hype-ai-safety-and-the"
 ---

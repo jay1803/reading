@@ -2,6 +2,7 @@
 title: "The paradox is that when I accept myself just as I am, I change"
 date: 2025-11-20T13:54:34Z
 category: reading
+author: "Henrik Karlsson"
 description: "作者重读大学时期的日记后发现，自己长期困在一种用兴奋压住焦虑的循环里：一难受，就靠社交、喝酒、调情和高地位场域把自己推入亢奋，随后越界、羞耻、再度焦虑。真正让他改变的，不是更强的自控，而是遇见一个会认真对待他最私密、尴尬、真实部分的人；在这种被允许如实存在的关系里，他才开始从逃离痛苦转向靠近值得生长的东西。"
 source: "https://www.henrikkarlsson.xyz/p/diaries"
 ---

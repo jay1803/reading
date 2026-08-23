@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.8.25 - Earnings Season Starts Strong"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Jamin Ball"
 description: "云软件 Q2 财报是近三年来最强的一季——收入超预期幅度创 Q2 '22 以来新高，前瞻指引同样如此——但同期股价中位数下跌 8%。基本面与市价的背离幅度，本身就是信号。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-8825-earnings-season"
 ---

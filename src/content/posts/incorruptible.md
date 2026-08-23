@@ -2,6 +2,7 @@
 title: "Incorruptible"
 date: 2026-06-10T08:01:08Z
 category: reading
+author: "Steve Blank"
 description: "Eric Ries 的《Incorruptible》不是一本关于企业治理的管理书，而是一个等待金融危机爆发才能被接受的变革方案——Steve Blank 认为它只有在下一场金融崩溃后才会被主流真正拥抱，正如精益创业在 dot-com 泡沫破裂后才被 VC 和创业者接受一样。"
 source: "https://steveblank.com/2026/06/09/incorruptible/"
 ---

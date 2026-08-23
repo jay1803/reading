@@ -2,6 +2,7 @@
 title: "REVIEW: Anabasis, by Xenophon"
 date: 2026-06-02T08:01:20Z
 category: reading
+author: "John Psmith"
 description: "《远征记》的真正主题不是战争冒险，而是\"操作者\"（operator）如何在绝境中被情势推上舞台，以及一旦接过指挥权就不得体面离场的古老法则。色诺芬用了两年时间留守一支桀骜不驯的雇佣军，作者借此批判当代硅谷精英在公司被收购时率先出逃、违反最古老操作者信条的风气。"
 source: "https://www.thepsmiths.com/p/review-anabasis-by-xenophon"
 ---

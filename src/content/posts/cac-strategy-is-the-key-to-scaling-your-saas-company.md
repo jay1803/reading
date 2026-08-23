@@ -2,6 +2,7 @@
 title: "CAC Strategy is the Key to Scaling your SaaS Company"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "SaaS 里近零边际产品成本让传统\"降本竞争\"失效；真正的边际成本是 CAC。找到可规模化的客户获取方式，单位获取成本会持续下降，形成竞争壁垒，这才是 SaaS 规模化的核心杠杆。"
 source: "http://sixteenventures.com/cac-strategy-scaling-saas"
 ---

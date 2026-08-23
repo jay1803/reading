@@ -2,6 +2,7 @@
 title: "On Vulgar Materialism"
 date: 2026-06-22T08:02:04Z
 category: reading
+author: "Fernando Borretti"
 description: "现代人最常见的世界观错误：金钱解释一切——富人和企业在幕后操控国家，意识形态、民族主义、宗教只是烟幕。作者称之为\"粗俗唯物论\"——历史唯物主义的民粹简化版。它的根本性错误是把受益者认定为施力者，把政治权力的来源搞反了。1914 年前，有人认为\"有钱阶级不会允许欧洲打仗\"；2022 年，有人认为\"寡头会阻止普京入侵..."
 source: "https://borretti.me/article/on-vulgar-materialism"
 ---

@@ -2,6 +2,7 @@
 title: "The state of B2B monetization in 2025"
 date: 2025-06-18T22:09:02Z
 category: reading
+author: "Kate Syuma"
 description: "AI 时代的软件定价根本矛盾：过去卖「席位」假设用户越来越多，而 AI 恰恰反向——若产品奏效，客户反而需要更少的人。席位制正在快速瓦解，但真正的替代方案（结果定价）只有 5% 的公司在用。"
 source: "https://www.growthunhinged.com/p/2025-state-of-b2b-monetization"
 ---

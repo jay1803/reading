@@ -2,6 +2,7 @@
 title: "Examples of proven sales plays to create a sales pipeline on top of self-serve usage"
 date: 2025-03-18T11:18:41Z
 category: reading
+author: "Elena Verna"
 description: "本文介绍了如何通过 Product-led Sales (PLS) 策略，利用自服务用户 (self-serve users) 为销售团队创造销售线索。文章指出，许多公司错误地将所有注册用户直接交给销售团队，导致资源浪费和用户体验差。正确的做法是建立一个资格评估系统，评估用户的匹配度 (fit) 和行为 (beh..."
 source: "https://www.elenaverna.com/p/examples-of-proven-sales-plays-to"
 ---

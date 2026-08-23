@@ -2,6 +2,7 @@
 title: "Is Your SEO Team Lifting Others?"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Nick LeRoy"
 description: "SEO 项目因有机流量不达标被砍掉，但同一批页面往往已经在为付费搜索降低 CPC、为邮件营养提供素材、为销售缩短周期——只是没人记账。SEO 价值的正确核算单位是资产，不是渠道。"
 source: "https://www.seoforlunch.com/p/seo-lift"
 ---

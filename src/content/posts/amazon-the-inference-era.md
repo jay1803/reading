@@ -2,6 +2,7 @@
 title: "☁️ Amazon: The Inference Era"
 date: 2026-05-02T08:02:51Z
 category: reading
+author: "Kevin Palmer"
 description: "Amazon 的 AI 投资逻辑正在从“云厂商买 GPU”升级成“全栈控制企业智能工作流”：底层用 Graviton / Trainium / Nitro 压低算力成本，中层用 Bedrock 承接 OpenAI、Anthropic、Meta 等模型，上层用 Managed Agents、Quick、Connec..."
 source: "https://www.appeconomyinsights.com/p/amazon-the-inference-era"
 ---

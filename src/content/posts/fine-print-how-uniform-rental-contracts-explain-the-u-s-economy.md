@@ -2,6 +2,7 @@
 title: "Fine Print: How Uniform Rental Contracts Explain the U.S. Economy"
 date: 2026-05-09T08:02:38Z
 category: reading
+author: "Matt Stoller"
 description: "Cintas 收购 UniFirst 的关键，超出了制服租赁行业从“三家全国性供应商”变成“两家”的常规并购叙事：它展示了美国经济里一种更隐蔽的垄断机制。企业用长期合同、自动续约、单方涨价、复杂费用和强制仲裁，把原本低技术、可竞争的服务做成难退出、难起诉、难公开揭露的收费系统；真正的护城河来自合同执行权与客户切换..."
 source: "https://www.thebignewsletter.com/p/fine-print-how-uniform-rental-contracts"
 ---

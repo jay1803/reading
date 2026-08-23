@@ -2,6 +2,7 @@
 title: "The whole thing was a scam"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Gary Marcus"
 description: "Altman 在公开声援 Amodei 的同一天，已秘密运作截走 Anthropic 五角大楼合同长达数日——这不是道义姿态，是有预谋的政治剧场。"
 source: "https://garymarcus.substack.com/p/the-whole-thing-was-scam"
 ---

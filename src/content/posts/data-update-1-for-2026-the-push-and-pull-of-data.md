@@ -2,6 +2,7 @@
 title: "Data Update 1 for 2026: The Push and Pull of Data!"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Aswath Damodaran"
 description: "作者借发布 2026 年估值数据集的机会，讨论了数据为什么如此诱人、又为什么同样危险。数据能帮助人在不确定中找信号、做判断、校正视角、抵抗胡说八道，但一旦把数字当成事实、把历史均值当成自然法则、把模型输出当成免责理由，数据也会把分析带向错误的确定感。"
 source: "https://aswathdamodaran.blogspot.com/2026/01/data-update-1-for-2026-push-and-pull-of.html"
 ---

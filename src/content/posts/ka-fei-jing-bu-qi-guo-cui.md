@@ -2,6 +2,7 @@
 title: "咖啡经不起过萃"
 date: 2026-08-17T07:08:00Z
 category: reading
+author: "dimlau"
 description: "小红书文案「虚伪的人和咖啡都经不起时间的萃取」类比有误：咖啡失败于过萃而非时间。评论区情绪宣泄、漠视意涵的现象，比文案本身更值得注意。"
 source: "https://kaix.in/2026/0810/"
 ---

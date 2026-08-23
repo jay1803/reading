@@ -2,6 +2,7 @@
 title: "One-shotting a Raccoon Heist game using Claude Fable 5"
 date: 2026-08-18T04:45:51Z
 category: reading
+author: "Simon Willison"
 description: "单条提示词让 Fable 5 构建了一个完整可运行的 3D 浏览器游戏，技术实现令人信服，但游戏本身乏味——LLM 能 one-shot 技术完整性，无法 one-shot「好玩」。"
 source: "https://simonwillison.net/2026/Aug/5/raccoon-heist/"
 ---

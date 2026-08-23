@@ -2,6 +2,7 @@
 title: "Alphabet: Cloud Rebounds"
 date: 2024-02-03T16:08:25Z
 category: reading
+author: "Kevin Palmer"
 description: "GCP + Workspace: Remember, Cloud includes GCP (Google Cloud Platform) and Workspace, making a direct comparison with AWS or Azure slightly complicated."
 source: "https://www.appeconomyinsights.com/p/alphabet-cloud-rebounds"
 ---

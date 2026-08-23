@@ -2,6 +2,7 @@
 title: "The definitive framework to find your next scalable user acquisition channel"
 date: 2025-03-13T12:54:02Z
 category: reading
+author: "Kate Syuma"
 description: "本文介绍了一个名为“杠铃策略”的框架，由全栈增长负责人 Sandy Diao（曾在 Pinterest、Meta 和 Descript 工作）提出，旨在帮助创业公司找到下一个可规模化的用户获取渠道。该框架强调，初创公司不应在太多渠道上分散精力，而应集中精力于一两个与产品固有优势相符的“核心获取渠道”。文章详细介绍..."
 source: "https://www.growthunhinged.com/p/user-acquisition-framework"
 ---

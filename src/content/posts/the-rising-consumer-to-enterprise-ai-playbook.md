@@ -2,6 +2,7 @@
 title: "The rising consumer to enterprise AI playbook"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Kate Syuma"
 description: "AI把消费软件从“高流失、低ARPU、难沉淀”改成了“能靠病毒式产品快速起量，再把个人使用转成企业预算”的生意，Fyxer是这个路径的浓缩样本。它先用极简、即开即用的邮箱AI抓住非技术重度邮件用户，再用LinkedIn背书和消费品式投放放大分发，最后把真正高价值的工作邮箱用户转成团队扩张和企业合同；这是AI时代的..."
 source: "https://www.growthunhinged.com/p/fyxer-ai-growth"
 ---

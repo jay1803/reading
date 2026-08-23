@@ -2,6 +2,7 @@
 title: "GTM strategies to reach $250M ARR at ActiveCampaign"
 date: 2024-04-01T14:18:21Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章总结了 ActiveCampaign 市场营销负责人 Casey Hill 分享的该公司为实现 2.5 亿美元 ARR（年度经常性收入）所采用的增长策略。文章重点介绍了 Casey 团队在过去一个季度中尝试的各种营销策略，包括成功的和失败的案例，并对每种策略进行了评级。"
 source: "https://www.growthunhinged.com/p/gtm-strategies-active-campaign"
 ---

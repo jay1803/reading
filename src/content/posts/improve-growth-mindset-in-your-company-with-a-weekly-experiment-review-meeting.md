@@ -2,6 +2,7 @@
 title: "Improve Growth Mindset in your company with a weekly Experiment Review meeting."
 date: 2025-05-26T17:40:31Z
 category: reading
+author: "Elena Verna"
 description: "文章介绍了一种通过建立“实验复盘 (Experimentation Review)”机制来培养团队“成长型思维 (Growth Mindset)”的方法，旨在解决公司在规模化过程中常见的“认知-现实差距 (perception-reality gap)”，从而实现可预测、可持续、可防御的增长。"
 source: "https://www.elenaverna.com/p/improve-growth-mindset-in-your-company"
 ---

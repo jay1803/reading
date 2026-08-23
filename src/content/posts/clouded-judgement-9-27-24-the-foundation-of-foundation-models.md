@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.27.24 - The Foundation of Foundation Models"
 date: 2024-10-08T18:32:34Z
 category: reading
+author: "Jamin Ball"
 description: "许多人将 2006 年视为公有云的诞生 - Amazon 推出 AWS 的那一年。Microsoft 在 2010 年推出了 Azure，Google 在 2011 年向公众发布了 GCP（他们在 2008 年推出了 Google App Engine 的预览版，但在 2011 年才公开发布）。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-92724-the-foundation"
 ---

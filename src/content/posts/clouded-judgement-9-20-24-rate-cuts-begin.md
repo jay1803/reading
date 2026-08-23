@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.20.24 - Rate Cuts Begin!"
 date: 2024-10-08T18:33:55Z
 category: reading
+author: "Jamin Ball"
 description: "此次降息是在喜忧参半的经济信号背景下进行的。虽然美联储承认经济活动继续以稳健的速度扩张，但他们也指出，就业增长已经放缓，失业率有所上升"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-92024-rate-cuts"
 ---

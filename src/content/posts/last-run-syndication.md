@@ -2,6 +2,7 @@
 title: "Last-Run Syndication"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Ernie Smith"
 description: "First-run syndication 并非整体在死——Wheel of Fortune 和 Jeopardy! 上周的线性收视率高于任何黄金时间节目；真正在死的是 NBCUniversal 这类巨型媒体公司的版本，因为他们的头牌联合发行节目只是 Dateline 的重新打包。"
 source: "https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline"
 ---

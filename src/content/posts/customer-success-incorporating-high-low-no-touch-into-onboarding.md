@@ -2,6 +2,7 @@
 title: "Customer Success: Incorporating High/Low/No Touch into Onboarding"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章在讲：onboarding 的 high-touch / low-touch / no-touch，不应该先按客户付多少钱来分，而应该先按这个客户真正需要什么样的 Appropriate Experience 来分。 onboarding 的目标也不是防 churn，而是让客户实现 Desired Out..."
 source: "http://sixteenventures.com/customer-success-high-low-no-touch-onboarding"
 ---

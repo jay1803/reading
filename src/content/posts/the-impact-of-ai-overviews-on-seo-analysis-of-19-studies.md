@@ -2,6 +2,7 @@
 title: "The impact of AI Overviews on SEO - analysis of 19 studies"
 date: 2025-03-19T10:21:06Z
 category: reading
+author: "Kevin Indig"
 description: "本文通过元分析（Meta-Analysis）的方法，综合分析了 19 项关于 Google AI Overviews (AIOs) 的研究，总结了 AIOs 的触发机制、对点击率和 SEO 流量的影响，以及如何优化内容以在 AIOs 中获得排名。"
 source: "https://www.growth-memo.com/p/the-impact-of-ai-overviews-on-seo"
 ---

@@ -2,6 +2,7 @@
 title: "Control your AEO with your website"
 date: 2026-03-27T08:02:35Z
 category: reading
+author: "Eli Schwartz"
 description: "流量下降是分发渠道变迁的信号，不是网站失效的信号。恰恰相反：在 AI 答案引擎时代，网站是唯一你能完全掌控的内容资产，其价值比以往任何时候都高——因为没有网站，就没有被 LLM 引用的机会。"
 source: "https://www.productledseo.com/p/websites-are-more-valuable-than-ever"
 ---

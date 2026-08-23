@@ -2,6 +2,7 @@
 title: "A Primer on Semiconductor Capital Equipment (Semicap)"
 date: 2025-03-14T19:58:00Z
 category: reading
+author: "Eric Flaningam"
 description: "这篇文章主要介绍了半导体资本设备（Semicap）行业，这是一个对全球至关重要但却鲜为人知的行业。这个行业具有结构性优势，包括深厚的竞争优势、技术差异化、强大的资本回报和高额的股东现金回报，对于长期关注质量的投资者来说具有吸引力。文章详细介绍了半导体制造过程、Semicap 市场概况以及推动该行业发展的趋势。"
 source: "https://blog.publiccomps.com/a-primer-on-semiconductor-capital-equipment-semicap/"
 ---

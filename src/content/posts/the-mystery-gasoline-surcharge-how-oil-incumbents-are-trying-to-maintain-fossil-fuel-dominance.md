@@ -2,6 +2,7 @@
 title: "The Mystery Gasoline Surcharge: How Oil Incumbents Are Trying to Maintain Fossil Fuel Dominance"
 date: 2026-05-30T08:04:27Z
 category: reading
+author: "Matt Stoller"
 description: "加州汽油贵的核心不在“绿色政策把成本打爆”，而在化石燃料寡头把特殊燃油标准、炼油集中度、纵向一体化零售渠道变成了长期加价权；油企再把这份加价包装成反环保叙事，用高油价削弱电动车和清洁能源竞争。"
 source: "https://www.thebignewsletter.com/p/the-mystery-gasoline-surcharge-how"
 ---

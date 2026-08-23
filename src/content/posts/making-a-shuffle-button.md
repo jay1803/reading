@@ -2,6 +2,7 @@
 title: "Making a Shuffle Button"
 date: 2026-07-07T08:02:30Z
 category: reading
+author: "Jim Nielsen"
 description: "当每个页面都内嵌 974 个 note ID 时，发布新文章会让全站 HTML 文件的 hash 全部失效——Netlify 须重新上传每一个文件。无论是注入 ID 还是在构建期写死随机 href，问题根源相同：把会变的数据散布到每个页面。"
 source: "https://blog.jim-nielsen.com/2026/notes-shuffle/"
 ---

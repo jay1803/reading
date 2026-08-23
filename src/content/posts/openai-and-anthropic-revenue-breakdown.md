@@ -2,6 +2,7 @@
 title: "OpenAI and Anthropic Revenue Breakdown"
 date: 2024-10-08T18:24:30Z
 category: reading
+author: "Tanay Jaipuria"
 description: "这篇文章分析了OpenAI和Anthropic两家人工智能公司的收入和成长率。文章探讨了两家公司在消费者订阅业务和API业务之间的不同侧重点，并对两者的收入来源进行了对比。"
 source: "https://www.tanayj.com/p/openai-and-anthropic-revenue-breakdown"
 ---

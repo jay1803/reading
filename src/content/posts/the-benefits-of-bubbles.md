@@ -2,6 +2,7 @@
 title: "The Benefits of Bubbles"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Ben Thompson"
 description: "作者的判断很直接：AI 就是泡沫，而且大概率会破；问题不在于会不会破，而在于泡沫期堆出来的东西是否能在破裂后继续创造价值。好泡沫的作用，是用投机性的资本错配，提前铺好未来几十年都能反复利用的基础设施与能力底座。AI 这一轮最值得盯的，不是估值本身，而是它是否能像当年的光纤、浏览器协议和互联网基础设施那样，把未来创..."
 source: "https://stratechery.com/2025/the-benefits-of-bubbles/"
 ---

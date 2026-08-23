@@ -2,6 +2,7 @@
 title: "Act 2"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Gaurav Vohra"
 description: "公司做不出第二曲线，通常不是因为缺点子，而是因为成熟组织会系统性压制一件本质上不“理性”的事：为了一个当前看起来微不足道、短期会拖累曲线的新产品，重新投入创业期才有的专注、人员配置和风险承受力。Act 2 的门槛，不在战略判断，而在是否愿意把公司暂时重新创业一次。"
 source: "https://substack.gauravvohra.com/p/act-2"
 ---

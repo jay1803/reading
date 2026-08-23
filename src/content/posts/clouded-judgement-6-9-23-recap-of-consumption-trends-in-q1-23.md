@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.9.23 - Recap of Consumption Trends in Q1 '23"
 date: 2023-06-12T15:09:36Z
 category: reading
+author: "Jamin Ball"
 description: "Mongo: Very Positive - Is The Bottom Behind Them?"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-6923-recap-of-consumption"
 ---

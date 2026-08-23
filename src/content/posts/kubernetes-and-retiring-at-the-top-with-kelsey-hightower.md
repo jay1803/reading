@@ -2,6 +2,7 @@
 title: "Kubernetes and retiring at the top with Kelsey Hightower"
 date: 2026-06-04T08:02:07Z
 category: reading
+author: "Gergely Orosz"
 description: "Kelsey 的职业天花板是\"Google Distinguished Engineer\"，但他真正想说的是：技术从来不是终点，它只是服务人的工具；当你用这个框架做决策，你会在该加速时加速、该慢下来时慢下来——而这恰恰是大多数工程师终生学不会的事。"
 source: "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top"
 ---

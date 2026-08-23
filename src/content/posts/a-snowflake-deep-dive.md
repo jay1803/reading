@@ -2,6 +2,7 @@
 title: "A Snowflake deep dive"
 date: 2023-10-11T19:41:55Z
 category: reading
+author: "muji"
 description: "公司必须衡量和跟踪一切：来自销售的数据，来自营销活动的数据，来自供应链的数据，来自客户的数据，来自合作伙伴的数据，来自财务的数据，来自基础设施的数据，来自软件团队的数据，以及来自其业务所基于的每个SaaS应用程序和服务的数据。这些往往收集在单独的数据孤岛中，组织中的每个团队都在保存和访问与他们相关的数据。"
 source: "https://hhhypergrowth.com/a-snowflake-deep-dive/"
 ---

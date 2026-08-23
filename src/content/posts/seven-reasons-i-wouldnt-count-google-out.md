@@ -2,6 +2,7 @@
 title: "Seven reasons I wouldn't count Google out"
 date: 2026-08-16T03:40:00Z
 category: reading
+author: "Gary Marcus"
 description: "即使 LLM 市场演变为多方平局，Google 凭搜索、Android、YouTube 的现金流可以活下去；而 Anthropic 和 OpenAI 没有退路，投资极可能永远无法回本。"
 source: "https://garymarcus.substack.com/p/seven-reasons-i-wouldnt-count-google"
 ---

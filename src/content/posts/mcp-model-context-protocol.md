@@ -2,6 +2,7 @@
 title: "MCP: Model-Context-Protocol"
 date: 2025-06-17T13:49:12Z
 category: reading
+author: "Luke Wroblewski"
 description: "MCP（Model‑Context‑Protocol）是一个开放协议，用来标准化“AI 应用如何与外部数据源与工具交互”。它定位于“AI 应用 ↔ 外部系统”，而非“模型 ↔ 外部系统”，通过将“数据接入（Server）”与“应用构建（Client）”解耦，减少各家自定义 Prompt、工具调用的碎片化，作用类似..."
 source: "https://www.lukew.com/ff/entry.asp?2103"
 ---

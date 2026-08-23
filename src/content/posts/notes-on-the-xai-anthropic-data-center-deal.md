@@ -2,6 +2,7 @@
 title: "Notes on the xAI/Anthropic data center deal"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Simon Willison"
 description: "Anthropic 租用 xAI / SpaceX 的 Colossus 1，不只是一次算力采购；它暴露的是前沿 AI 公司在算力极度稀缺时，会被迫把品牌、安全叙事、环境争议和供应链主权一起押进同一个外部依赖里。"
 source: "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything"
 ---

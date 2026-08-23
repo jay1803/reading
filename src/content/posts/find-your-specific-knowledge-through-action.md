@@ -2,6 +2,7 @@
 title: "Find Your Specific Knowledge Through Action"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Naval Ravikant"
 description: "这篇文章在讲：specific knowledge 不是靠坐着想出来的，而是在行动里试出来的。 一个人真正擅长什么、在哪种困难环境里比别人更自然、更稳定、更有优势，往往只有在现实里做事时才会显出来。Naval 说的重点是，想找到自己独特的竞争力，不能只靠自我分析，要去进入 arena，在不同难题里做事、碰壁、继续..."
 source: "https://nav.al/find"
 ---

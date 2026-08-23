@@ -2,6 +2,7 @@
 title: "Seasons, seasons, seasons"
 date: 2026-08-18T17:18:00Z
 category: reading
+author: "Jean Hsu"
 description: "人用刚性生产力框架强行压平了本该流动的生命季节——Jean Hsu 用两年产后恢复、探索、分形工作到 DRI Your Career 的亲历验证这一命题。"
 source: "https://jeanhsu.substack.com/p/seasons-seasons-seasons"
 ---

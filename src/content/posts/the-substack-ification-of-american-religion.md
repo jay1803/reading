@@ -2,6 +2,7 @@
 title: "The Substack-ification of American Religion"
 date: 2026-04-09T08:03:18Z
 category: reading
+author: "Derek Thompson"
 description: "Ryan Burge，宗教数据研究者，Graphs About Religion 作者，长期跟踪美国宗教人口与政治行为。"
 source: "https://www.derekthompson.org/p/all-the-religious-trends-youre-wrong"
 ---

@@ -2,6 +2,7 @@
 title: "An Interview with Ben Thompson by John Collison on the Cheeky Pint Podcast"
 date: 2026-02-24T10:13:42Z
 category: reading
+author: "Ben Thompson"
 description: "Ben Thompson，Stratechery 创始人兼主笔，科技策略分析师，以 Aggregation Theory（聚合理论）著称。[补充：在台湾独立生活写作约 13 年后近期迁回美国威斯康星州；Stratechery 订阅者遍布 200+ 国家，是科技圈最具影响力的付费独立 Newsletter 之一。]..."
 source: "https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/"
 ---

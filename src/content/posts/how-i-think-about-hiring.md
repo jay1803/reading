@@ -2,6 +2,7 @@
 title: "How I think about hiring"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Elena Verna"
 description: "高速增长公司不能只按职能招聘，而要按“探索 vs. 规模化”和“经验老兵 vs. AI 原生新人”两条轴来配队；真正的难点不是找到某一类“最强人才”，而是让互相冲突的能力类型在低层级、强自治、能忍受混乱的组织里形成健康张力。"
 source: "https://www.elenaverna.com/p/hiring-lovable-cowboys-farmers-old-guard-new-guard"
 ---

@@ -2,6 +2,7 @@
 title: "Topics matter for third-party authority signals"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Kevin Indig"
 description: "AI 对每个话题重建一套信任来源池，而不是跨话题通用——\"发票\"话题中竞品域名占 AI 引用的 33.5%，换到\"创业\"话题同一类来源只占 7%。这意味着你的第三方权威建设必须是话题驱动的，瞄准正确话题的顶层来源，而非广撒网。"
 source: "https://www.growth-memo.com/p/topics-matter-for-third-party-authority"
 ---

@@ -2,6 +2,7 @@
 title: "The White House’s shambolic AI policy"
 date: 2026-06-14T08:02:30Z
 category: reading
+author: "Gary Marcus"
 description: "Trump 6月2日行政令方向对——要求AI公司做上线前测试——但力度残缺。测试自愿、范围仅限网络安全，公司可以无视。佛罗里达州AG针对OpenAI的诉状揭示，真实伤害远超该令覆盖范围：消费者数据滥用、对未成年人和老年人的操控、虚假广告、模型奉承。纽约州随后联合多州向OpenAI发出大规模传票，要求解释从用户参与..."
 source: "https://garymarcus.substack.com/p/the-white-houses-shambolic-ai-policy"
 ---

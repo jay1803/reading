@@ -2,6 +2,7 @@
 title: "Misplaced panic over AI progress"
 date: 2026-05-11T08:01:08Z
 category: reading
+author: "Gary Marcus"
 description: "Gary Marcus 的核心判断：METR 图表显示 Claude Mythos 在“50% 成功率的软件任务”上明显变强，但这不能直接外推成通用智能临近。真正危险的误读在于把短期指数曲线当作无限延长的自然律，忽略可靠性、任务边界、验证工具和现实资源约束。"
 source: "https://garymarcus.substack.com/p/misplaced-panic-over-ai-progress"
 ---

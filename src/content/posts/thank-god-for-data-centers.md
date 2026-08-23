@@ -2,6 +2,7 @@
 title: "Thank God For Data Centers"
 date: 2026-05-28T08:01:44Z
 category: reading
+author: "Packy McCormick"
 description: "AI 数据中心最不显然的价值，不只是买 GPU、耗电、训练模型，而是正在充当一种商业版“能力买家”：它们用近乎政府级的预算、采购速度和容错，替先进核能、地热、HVDC、固态变压器、光子互连、模块化建筑、储能等硬科技提前支付学习曲线成本。"
 source: "https://www.notboring.co/p/thank-god-for-data-centers"
 ---

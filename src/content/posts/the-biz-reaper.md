@@ -2,6 +2,7 @@
 title: "The Biz Reaper"
 date: 2026-05-15T08:01:24Z
 category: reading
+author: "Ernie Smith"
 description: "BuzzFeed 交到 Byron Allen 这种“困境资产运营者”手里，最关键的信号是：它已经从数字媒体实验室，退回到需要老派交易能力先止血、再变现的普通媒体资产。"
 source: "https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis"
 ---

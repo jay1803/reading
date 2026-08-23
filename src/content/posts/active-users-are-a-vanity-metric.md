@@ -2,6 +2,7 @@
 title: "Active Users are a Vanity Metric"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "\"活跃用户\"是虚荣指标——高频登录有时恰恰是流失预警：用户在反复操作，是因为他们根本找不到该做什么。"
 source: "http://sixteenventures.com/active-users-vanity-metric"
 ---

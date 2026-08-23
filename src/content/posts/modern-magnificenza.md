@@ -2,6 +2,7 @@
 title: "Modern Magnificenza"
 date: 2025-06-18T21:51:23Z
 category: reading
+author: "Packy McCormick"
 description: "结论先说：这篇《Modern Magnificenza》的核心主张是——在一个被“左脑化”（效率、可量化、ROI、工具理性）主导的时代，AI 会进一步加剧这种倾向；真正可能带来文化与意义复兴的力量，不在公司体制内，而在拥有巨额个人财富、已脱离短期回报约束的科技新贵。他们若转向“Magnificenza”（以公共之..."
 source: "https://www.notboring.co/p/modern-magnificenza"
 ---

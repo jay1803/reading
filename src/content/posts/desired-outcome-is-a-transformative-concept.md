@@ -2,6 +2,7 @@
 title: "Desired Outcome is a Transformative Concept"
 date: 2025-11-04T11:14:22Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章最有价值的地方，是它把“客户成功”从一堆指标（adoption、retention、expansion）重新拉回到一个更根本的问题：客户真正想达成什么结果，以及他们需要以什么样的方式达成它。 Lincoln Murphy 把这合称为 Desired Outcome，并拆成两个部分：Required Out..."
 source: "http://sixteenventures.com/desired-outcome?amp=1"
 ---

@@ -2,6 +2,7 @@
 title: "Engels' Pause and the Permanent Underclass"
 date: 2026-04-16T08:01:43Z
 category: reading
+author: "Doug O'Laughlin"
 description: "这篇文章最核心的判断不是“AI 会提高生产率”，而是美国知识工作者正在进入一次现代版“恩格斯停滞”：产出会先暴涨，资本先吃掉大部分收益，而大量原本高溢价的白领与专业岗位会在相当长一段时间里先经历工资份额下滑、入门通道塌缩和议价权丧失，而不是立刻等来新繁荣。"
 source: "https://www.fabricatedknowledge.com/p/mythos-and-engels-pause"
 ---

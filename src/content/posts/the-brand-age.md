@@ -2,6 +2,7 @@
 title: "The Brand Age"
 date: 2026-03-07T17:40:36Z
 category: reading
+author: "Paul Graham"
 description: "技术进步天然消解产品间的实质差异，品牌正是差异消失后的剩余物。瑞士手表的历史因此不是一个离奇案例，而是一切进入\"品牌时代\"的领域的通用剧本。"
 source: "https://paulgraham.com/brandage.html"
 ---

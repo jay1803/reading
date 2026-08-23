@@ -2,6 +2,7 @@
 title: "Customer Success Goals: Cohorts, Metrics, and Prioritization"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "Customer Success 团队的目标不是\"让客户成功\"——那是存在目的，不是目标。真正的 CS 目标必须是按客户队列拆解的、有时间绑定的 KPI，能直接驱动公司级目标；否则你无法在高管席位上自我证明。"
 source: "http://sixteenventures.com/customer-success-goals"
 ---

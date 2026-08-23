@@ -2,6 +2,7 @@
 title: "Growth at what cost? Balancing user experience and revenue"
 date: 2025-03-24T11:24:33Z
 category: reading
+author: "Elena Verna"
 description: "Dark patterns 很少来自恶意——它们是组织将 KPI 置于长期信任之上后的系统性产物。个人道德感是必要的，但若只靠个人，结构性压力终会让边界弯曲。"
 source: "https://www.elenaverna.com/p/growth-at-what-cost-balancing-user"
 ---

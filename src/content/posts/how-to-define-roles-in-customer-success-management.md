@@ -2,6 +2,7 @@
 title: "How to Define Roles in Customer Success Management"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "CSM 岗位定义不该从\"要招几个 CSM\"开始，而应从客户细分（Customer Segmentation）开始——角色类型、人数、触达方式、人机比率，全部由细分结果决定，而不是由组织惯例或收入规模决定。"
 source: "http://sixteenventures.com/customer-success-management-roles"
 ---

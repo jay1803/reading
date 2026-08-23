@@ -2,6 +2,7 @@
 title: "First you need an SEO strategy, not a GEO tool"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Eli Schwartz"
 description: "购买 GEO 工具而没有 SEO 策略，只是在把旧式关键词垃圾流量打法复制进 AI 介质——出现在 AI 回复中更接近品牌曝光，而非获客，连战役的一半都算不上。"
 source: "https://www.productledseo.com/p/first-you-need-an-seo-strategy-not"
 ---

@@ -2,6 +2,7 @@
 title: "There is no transition \"out of sales\" as a founder"
 date: 2025-03-14T19:09:17Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章介绍了一个创始人主导销售的六步框架，帮助 B2B 初创公司创始人更好地理解和执行销售策略。文章强调创始人不应该试图“退出销售”，而应该始终作为公司的收入负责人。通过六个阶段的详细解释，包括寻找早期产品市场契合度（PMF）、获取客户、首次销售招聘、使销售过程可预测、多次销售招聘以及招聘销售领导，为创始人提供..."
 source: "https://www.growthunhinged.com/p/founder-led-sales-framework"
 ---

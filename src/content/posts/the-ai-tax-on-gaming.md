@@ -2,6 +2,7 @@
 title: "🎮 The AI Tax on Gaming"
 date: 2026-05-13T08:01:53Z
 category: reading
+author: "Kevin Palmer"
 description: "无法生成摘要：可获得内容不完整。"
 source: "https://www.appeconomyinsights.com/p/the-ai-tax-on-gaming"
 ---

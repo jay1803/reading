@@ -2,6 +2,7 @@
 title: "★ Another Day Has Come"
 date: 2026-04-22T08:01:29Z
 category: reading
+author: "John Gruber"
 description: "这篇文章的核心判断不是“Cook 退休”，而是 Apple 完成了一次几乎理想化的权力移交：2011 年 Jobs 把公司交给 Cook 时伴随病痛与集体哀伤；2026 年 Cook 把公司交给 Ternus 时，则是在业务强势、组织稳定、节奏可预测的顶点主动交棒。作者认为，Cook 最大的成就不是财务数字，而是..."
 source: "https://daringfireball.net/2026/04/another_day_has_come"
 ---

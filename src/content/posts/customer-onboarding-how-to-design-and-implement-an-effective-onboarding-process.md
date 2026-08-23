@@ -2,6 +2,7 @@
 title: "Customer Onboarding: How to Design and Implement an Effective Onboarding Process"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "约 102% 的 onboarding 流程没有定义\"什么叫做 onboarded\"——这才是问题的根源。Onboarding 结束的标志不是时间，而是客户首次获得或看到价值的那个里程碑。"
 source: "https://sixteenventures.com/customer-onboarding-process"
 ---

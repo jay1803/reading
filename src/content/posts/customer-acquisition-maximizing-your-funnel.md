@@ -2,6 +2,7 @@
 title: "Customer Acquisition: Maximizing your Funnel"
 date: 2024-05-08T15:47:26Z
 category: reading
+author: "David Skok"
 description: "Common answers to this might include:"
 source: "https://www.forentrepreneurs.com/sales-funnel/"
 ---

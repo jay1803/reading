@@ -2,6 +2,7 @@
 title: "☁️ Oracle is Bleeding Cash"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Kevin Palmer"
 description: "Oracle 每季度自由现金流已达 -100 亿美元，净债务 1050 亿；\"EPS 超预期\"依赖一笔 27 亿美元一次性资产变现——剔除后实为大幅不及预期。AI 基础设施豪赌使这家传统软件公司的财务面貌彻底改变。"
 source: "https://www.appeconomyinsights.com/p/oracle-is-bleeding-cash"
 ---

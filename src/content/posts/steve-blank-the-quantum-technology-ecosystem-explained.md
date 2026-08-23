@@ -2,6 +2,7 @@
 title: "Steve Blank The Quantum Technology Ecosystem – Explained"
 date: 2024-12-18T17:36:11Z
 category: reading
+author: "Steve Blank"
 description: "While most of the IPOs have been in Quantum Computing, Quantum technologies are used in three very different and distinct markets: Quantum Computing, Quantum..."
 source: "https://steveblank.com/2022/03/22/the-quantum-technology-ecosystem-explained/"
 ---

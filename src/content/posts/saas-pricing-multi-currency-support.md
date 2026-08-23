@@ -2,6 +2,7 @@
 title: "SaaS Pricing: Multi Currency Support"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "能支持本地货币时，就别让客户先在脑中做一次汇率换算。多币种支持的价值在于降低理解成本、支付摩擦和制度阻力，从而直接提高成交概率。"
 source: "http://sixteenventures.com/saas-multi-currency?utm_source=rss&utm_medium=rss&utm_campaign=saas-multi-currency"
 ---

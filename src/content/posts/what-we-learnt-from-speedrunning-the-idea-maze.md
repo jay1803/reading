@@ -2,6 +2,7 @@
 title: "What We Learnt From Speedrunning the Idea Maze"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Cedric Chin"
 description: "没有任何 PMF 框架能在事前告诉你如何找到 PMF——它们只能在事后辨认，或防止你对自己撒谎。找 PMF 在结构上依赖运气，但 Effectuation 提供了一套让运气可以被反复接触的操作系统：从\"我是谁、我知道什么、我认识谁、我有什么\"出发，做可承受的亏损赌注，把利益相关者变成合伙人，对任何可行的结果保持开放。"
 source: "https://commoncog.com/what-we-learnt-from-speedrunning-the-idea-maze/"
 ---

@@ -2,6 +2,7 @@
 title: "Podcast: Customer Success is the Foundation of Your Success"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章用 Kahuna Accounting 一年从 0 做到 180 个 B2B 客户、4 万美元月营收的案例说明：Customer Success 的起点在于先把“谁最可能成功”定义清楚，再围绕这类客户重写产品、营销和销售。真正带来增长的是更窄、更深的聚焦；一旦选对理想客户，信息、渠道、合作和口碑会相互强化..."
 source: "http://sixteenventures.com/customer-success-podcast-trepx"
 ---

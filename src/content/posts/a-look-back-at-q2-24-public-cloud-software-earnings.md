@@ -2,6 +2,7 @@
 title: "A Look Back at Q2 '24 Public Cloud Software Earnings"
 date: 2024-10-08T18:32:15Z
 category: reading
+author: "Jamin Ball"
 description: "从第二季度新增的净 ARR 总量来看，它并没有描绘出最好的情况。虽然它比第一季度有所上升，但比 23 年第二季度有所下降。外面卖软件还是很艰难的！"
 source: "https://cloudedjudgement.substack.com/p/a-look-back-at-q2-24-public-cloud"
 ---

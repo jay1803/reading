@@ -2,6 +2,7 @@
 title: "Agents Over Bubbles"
 date: 2026-03-18T08:02:09Z
 category: reading
+author: "Ben Thompson"
 description: "Agent 不只是\"更多算力需求\"的触发器——它同时降低了需要\"大规模普及\"的门槛：少数有主动性的人通过掌控多个 agent，即可释放足以颠覆行业的算力消耗与经济价值，泡沫论预设的\"需要亿级用户\"的前提根本不成立。"
 source: "https://stratechery.com/2026/agents-over-bubbles/"
 ---

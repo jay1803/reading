@@ -2,6 +2,7 @@
 title: "Bridging the Engagement Gap: Keeping Customers Actively Invested"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "在 SaaS 里，客户流失的前兆往往不是公开的不满，而是“看起来还行”却在续约前开始评估替代方案。作者的核心判断是，持续参与度来自客户是否持续朝自己的业务目标推进；engagement 的本质不是增加触达频次，而是先把目标挖清，再围绕目标稳定交付价值，从而同时压低 churn 与 downsell。"
 source: "https://sixteenventures.com/keeping-customers-engaged"
 ---

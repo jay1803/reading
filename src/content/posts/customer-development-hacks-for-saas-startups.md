@@ -2,6 +2,7 @@
 title: "Customer Development Hacks for SaaS Startups"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "文章聚焦一个早期 SaaS 的现实难题：产品可能适配很多客群，但团队并不知道先和谁聊、先验证谁。作者给出的做法分两步：先用一个粗粒度评分表快速筛出最值得优先验证的细分市场，再用公开讨论做“Jet-Safari”式观察，提前提取痛点、语言、竞争格局和可联系的人。它的价值在于把客户开发从漫长的盲聊，改造成先做桌面研究..."
 source: "http://sixteenventures.com/startup-customer-development-hacks?utm_source=rss&utm_medium=rss&utm_campaign=startup-customer-development-hacks"
 ---

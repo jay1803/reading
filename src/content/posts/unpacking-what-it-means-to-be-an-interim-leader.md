@@ -2,6 +2,7 @@
 title: "Unpacking what it means to be an interim leader."
 date: 2025-05-26T17:46:18Z
 category: reading
+author: "Elena Verna"
 description: "本文由一位拥有在 Miro、Netlify、Amplitude 和 Dropbox 担任临时领导者经验的专家撰写，旨在为读者提供一份关于临时职位 (interim roles) 的全面指南。文章解释了临时职位与全职职位的区别，并详细介绍了如何寻找和构建此类职位、设计其薪酬结构，以及如何在任期内取得成功的实用策略。"
 source: "https://www.elenaverna.com/p/unpacking-what-it-means-to-be-an"
 ---

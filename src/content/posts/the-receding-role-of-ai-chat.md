@@ -2,6 +2,7 @@
 title: "The Receding Role of AI Chat"
 date: 2025-06-17T13:48:39Z
 category: reading
+author: "Luke Wroblewski"
 description: "随着agents可自主调度工具并在后台执行任务，“与AI来回聊天获取结果”的主交互正让位于“目标→自动执行→产出可用”的流程；Chat不消失，但从主舞台退居为意图输入与过程审计通道，界面重心转向artifact/canvas与结果评审。"
 source: "https://www.lukew.com/ff/entry.asp?2105"
 ---

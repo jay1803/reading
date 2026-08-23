@@ -2,6 +2,7 @@
 title: "The Google Capital Company"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Ben Thompson"
 description: "Google 最强的 AI 资本优势可能不在模型本身，而在它能把搜索广告这台高现金流机器转化为长期算力产权：如果 AI 竞争最终从“谁的产品更好”升级为“谁能持续买到并部署最多算力”，Google 会从轻资产聚合器变成高资本开支的复利型基础设施公司。"
 source: "https://stratechery.com/2026/the-google-capital-company/"
 ---

@@ -2,6 +2,7 @@
 title: "Get Out of the ARPU-CAC Danger Zone with Channel Model Fit"
 date: 2022-12-03T09:46:12Z
 category: reading
+author: "Brian Balfour"
 description: "two types of companies:"
 source: "https://brianbalfour.com/essays/channel-model-fit-for-user-acquisition"
 ---

@@ -2,6 +2,7 @@
 title: "Transcript for Iran War Debate: Nuclear Weapons, Trump, Peace, Power & the Middle East | Lex Fridman Podcast #473"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Lex Fridman"
 description: "围绕伊朗核项目与美以政策的辩论：一方主张以严厉威慑与“零浓缩、彻底拆解”的一页式方案防止伊朗拥核，必要时以秘密行动与空袭反复摧毁能力；另一方强调“永久动员导致永久战争”，质疑“伊朗武器化”叙事的证据链，以 2007 年美国情报评估、IAEA 检查与过往战争借口为反例，主张通过可核查的民用核能与外交缓解安全困境。"
 source: "https://lexfridman.com/iran-war-debate-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-debate-transcript"
 ---

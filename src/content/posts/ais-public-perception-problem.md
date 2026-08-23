@@ -2,6 +2,7 @@
 title: "AI’s Public Perception Problem"
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "Tanay Jaipuria"
 description: "AI 行业面对的公众反弹，源于一套被自己放大的威胁叙事：工作会被替代，本地社区承担电力、水、噪音和土地成本，收益却集中到技术巨头手里。要维持 AI 的社会许可，行业需要把高频传播点从“AGI 威力 + 失业冲击”转向普通人能感知的收益：减少苦差、降低危险工作、普及专业知识、推动科学发现。"
 source: "https://www.tanayj.com/p/ais-public-perception-problem"
 ---

@@ -2,6 +2,7 @@
 title: "Reinventing the Wheel"
 date: 2026-05-04T08:02:01Z
 category: reading
+author: "Ernie Smith"
 description: "轮子的“革命性”不是来自几何形状本身，而是来自它和基础设施、负载场景、控制系统的共同成熟；过去两百年的“新轮子”反复证明：能解决方向、地形或转向问题的机械方案很多，真正难的是在能耗、复杂度、速度、维护成本和使用场景之间打赢总账。"
 source: "https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history"
 ---

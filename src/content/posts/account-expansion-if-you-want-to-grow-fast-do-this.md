@@ -2,6 +2,7 @@
 title: "Account Expansion: If You Want To Grow Fast, Do This…"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "让同一支销售团队同时负责新签与存量扩张，表面上省成本，实际上系统性毁掉最有价值的客户关系；双团队结构（新客引擎 + 客户增长引擎）是实现指数级增长而非线性增长的结构性前提。"
 source: "https://sixteenventures.com/expansion-grow-fast"
 ---

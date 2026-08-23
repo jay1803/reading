@@ -2,6 +2,7 @@
 title: "6 months at Lovable and why I had to throw out most of my playbook"
 date: 2025-11-19T08:33:54Z
 category: reading
+author: "Elena Verna"
 description: "在 AI 原生公司，增长不是加在产品上的一层——它直接嵌进 agent 质量、模型选择和推理行为里；与此同时，PMF 已变成永久运转的跑步机，\"找到 PMF 后再 scale\"的范式本身失效了。"
 source: "https://www.elenaverna.com/p/6-months-at-lovable-and-why-i-had"
 ---

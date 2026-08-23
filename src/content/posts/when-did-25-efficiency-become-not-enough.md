@@ -2,6 +2,7 @@
 title: "When did 25% efficiency become not enough?"
 date: 2026-04-15T08:02:20Z
 category: reading
+author: "Nick LeRoy"
 description: "作者真正反对的不是 AI，而是一个被营销制造出来的新绩效标准：如果 AI 不能替你逃掉判断、审稿和责任，连 25% 的效率提升都被说成“不够”。这会把本该放大高手的工具，扭成偷懒和甩锅的借口。"
 source: "https://www.seoforlunch.com/p/when-did-25-efficiency-become-not"
 ---

@@ -2,6 +2,7 @@
 title: "The Hutter Prize: Compression, prediction, and the limits of intelligence"
 date: 2026-08-15T17:47:00Z
 category: reading
+author: "Adam Gordon Bell"
 description: "压缩 Wikipedia 需要真正理解英语——Hutter Prize 的逻辑是压缩即预测即智能；当前记录约 0.88 bits/字符，精确落在 Shannon 1950 年估算的范围内，75 年后被 LLM 印证。"
 source: "https://corecursive.com/the-hutter-prize/"
 ---

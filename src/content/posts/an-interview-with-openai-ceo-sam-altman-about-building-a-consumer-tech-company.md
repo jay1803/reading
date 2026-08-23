@@ -2,6 +2,7 @@
 title: "An Interview with OpenAI CEO Sam Altman About Building a Consumer Tech Company"
 date: 2025-03-20T19:55:59Z
 category: reading
+author: "Ben Thompson"
 description: "OpenAI 的 CEO Sam Altman 接受了 Stratechery 的采访，讨论了 OpenAI 的发展历程、商业模式、未来规划以及他对 AI 领域的一些看法。Altman 强调 OpenAI 已经是一家消费者科技公司，并暗示未来可能会开源模型，推出 GPT-5，并构建一个包含多个产品的消费者服务包。"
 source: "https://stratechery.com/2025/an-interview-with-openai-ceo-sam-altman-about-building-a-consumer-tech-company/"
 ---

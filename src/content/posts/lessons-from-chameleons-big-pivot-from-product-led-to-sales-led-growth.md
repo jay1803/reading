@@ -2,6 +2,7 @@
 title: "Lessons From Chameleon’s Big Pivot from Product-Led to Sales-Led Growth"
 date: 2024-06-15T14:07:16Z
 category: reading
+author: "Sean Ellis"
 description: "This document is a transcript from the Breakout Growth podcast where the hosts discuss Chameleon’s shift from a product-led growth (PLG) strategy to a sales-..."
 source: "https://seanellis.substack.com/p/lessons-from-chameleons-big-pivot-1a7"
 ---

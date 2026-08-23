@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.31.25 - Cloud Giants Report Q3"
 date: 2025-11-04T10:54:15Z
 category: reading
+author: "Jamin Ball"
 description: "三大超大规模云厂商 Q3 全部加速（AWS 20%、Azure 39%、Google Cloud 34%），且一致声称供给而非需求是瓶颈——GPU 上线即被消化，没有\"暗光纤\"风险，有的只是建造速度的竞赛。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-103125-cloud-giants"
 ---

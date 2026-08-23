@@ -2,6 +2,7 @@
 title: "SaaS Customer Success: Start with Quick Wins"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "SaaS 留存的关键不是功能完备度，而是用户第一次能多快感受到一次具体的\"赢\"——在此之前，他们的默认倾向是寻找理由离开。"
 source: "http://sixteenventures.com/saas-customer-success-quick-wins?utm_source=rss&utm_medium=rss&utm_campaign=saas-customer-success-quick-wins"
 ---

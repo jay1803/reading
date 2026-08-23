@@ -2,6 +2,7 @@
 title: "The Hidden Cost Of Being Street Smart"
 date: 2025-05-06T12:11:19Z
 category: reading
+author: "Ed Latimore"
 description: "这篇文章探讨了“街头智慧 (street smarts)” 的真正含义、如何获得以及其隐藏的代价。作者 Ed Latimore 基于个人经历指出，街头智慧是在规则缺失或不被遵守的环境中，通过痛苦经历（如背叛、危险）学到的生存技能，它能帮助人识别危险和欺骗。然而，获得这种智慧往往伴随着心理创伤，可能导致过度警觉 (..."
 source: "https://edlatimore.com/hidden-cost-of-being-street-smart/"
 ---

@@ -2,6 +2,7 @@
 title: "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)"
 date: 2026-08-02T13:36:19Z
 category: reading
+author: "Simon Willison"
 description: "Simon Willison 的核心论点：给 agent 开一个终端+网络的\"全局授权\"在安全上几乎无法推理；MCP 工具集明确边界，可审计，小模型也能驱动。MCP 2.0（2026-07-28 规范，即 stateless MCP）同时把协议实现的工程成本降到可接受，三件事合在一起让他重新押注 MCP。"
 source: "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything"
 ---

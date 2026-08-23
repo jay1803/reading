@@ -2,6 +2,7 @@
 title: "A “Fairly Highly Valued” Market: A Fed Chair Opines on Stocks, but should we listen?"
 date: 2025-10-10T00:42:08Z
 category: reading
+author: "Aswath Damodaran"
 description: "市场估值偏高是事实，但历史回测证明：任何基于估值指标的择时策略，过去五十年都无法跑赢简单的持仓不动——包括鲍威尔所暗示的那种\"市场偏贵，应当谨慎\"的逻辑。"
 source: "https://aswathdamodaran.blogspot.com/2025/10/a-fairly-highly-valued-market-fed-chair.html"
 ---

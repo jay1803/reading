@@ -2,6 +2,7 @@
 title: "Get yourself a \"hype monkey\" 🐒"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Tom Orbach"
 description: "这篇文章的核心主张是：很多科技公司都该配一个专职“制造好感和存在感”的人格化账号，把品牌渗透进目标客户的日常信息流。它的价值不在直接讲产品，而在用高频、低防备、可传播的内容持续积累熟悉感，再借由 LinkedIn 的连接关系和员工互动，把这种熟悉感低成本放大成获客前的认知优势。"
 source: "https://www.marketingideas.com/p/get-yourself-a-hype-monkey"
 ---

@@ -2,6 +2,7 @@
 title: "Systems of Record Won the SaaS Era - Clearinghouses Will Win the Agents Era"
 date: 2026-06-13T08:01:52Z
 category: reading
+author: "Jamin Ball"
 description: "SaaS 时代赢家是系统性记录者——Salesforce 存客户数据、Workday 存员工数据、NetSuite 存财务数据，靠数据控制形成护城河，换掉的成本大到没人愿意承受。AI 时代等价的赢家是 Agent 清算所（Clearinghouse），但护城河可能更深：系统性记录者控制数据，清算所控制四层——me..."
 source: "https://cloudedjudgement.substack.com/p/systems-of-record-won-the-saas-era"
 ---

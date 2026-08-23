@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.3.25 - The New RL Training Grounds"
 date: 2025-10-10T00:42:08Z
 category: reading
+author: "Jamin Ball"
 description: "AI agent 的下一个基础设施瓶颈不是模型，而是训练环境——具体而言，是能镜像每家企业独特流程的\"数字孪生\"。谁掌握了这些环境，谁就掌握了 agent 能力的上限。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-10325-the-new-rl"
 ---

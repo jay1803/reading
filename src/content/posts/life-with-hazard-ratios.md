@@ -2,6 +2,7 @@
 title: "Life with hazard ratios"
 date: 2026-07-07T08:02:31Z
 category: reading
+author: "dynomight"
 description: "将论文中的风险比（HR）换算为预期寿命变化，正确公式："
 source: "https://dynomight.net/hazard-ratios/"
 ---

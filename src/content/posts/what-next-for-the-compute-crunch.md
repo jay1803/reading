@@ -2,6 +2,7 @@
 title: "What next for the compute crunch?"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Martin Alderson"
 description: "作者的判断很激进但抓住了重点，未来 18 到 24 个月 AI 行业真正稀缺的不是“更好的模型想法”，而是能把电力、液冷、内存和机房施工真正落地的现实产能。只要需求还在指数级往上冲，供给却只能线性扩容，配额收紧只是前菜，真正会重写行业经济学的是价格上升。"
 source: "https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

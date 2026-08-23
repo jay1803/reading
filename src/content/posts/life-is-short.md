@@ -2,6 +2,7 @@
 title: "Life is short"
 date: 2022-12-27T15:49:20Z
 category: reading
+author: "Paul Graham"
 description: "生命短暂，我们应该避免把时间浪费在无意义的事情上 (bullshit)，主动去做那些真正重要的事情，并且珍惜我们所拥有的时间。"
 source: "https://paulgraham.com/vb.html"
 ---

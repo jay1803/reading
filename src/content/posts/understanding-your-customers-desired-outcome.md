@@ -2,6 +2,7 @@
 title: "Understanding Your Customer’s Desired Outcome"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户真正购买的不是产品功能，而是某个可度量的结果，以及实现这个结果时与其预期相匹配的体验。客户成功的工作不是确保“产品被用了”，而是让客户以他们愿意接受、甚至愿意为之付溢价的方式达成目标；很多产品、定价、销售和 onboarding 失效，都是因为只解决了目标，没解决体验。"
 source: "http://sixteenventures.com/customer-success-desired-outcome"
 ---

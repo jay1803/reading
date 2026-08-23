@@ -2,6 +2,7 @@
 title: "A Tool To Automatically Detect Memory Leaks"
 date: 2026-03-22T02:00:30Z
 category: reading
+author: "Jacob Bartlett"
 description: "检测内存泄漏的有效性反转：与其在 deinit 监听\"某对象消失了没有\"（检测缺席），不如在 init 检测\"同类实例是否超额存活\"（检测过剩）——前者在日常工作流里极易漏掉，后者自动触发、无法回避。"
 source: "https://blog.jacobstechtavern.com/p/automatically-detect-memory-leaks"
 ---

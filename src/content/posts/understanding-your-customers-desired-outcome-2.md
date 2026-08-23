@@ -2,6 +2,7 @@
 title: "Understanding Your Customer's Desired Outcome"
 date: 2026-03-11T01:01:07Z
 category: reading
+author: "Lincoln Murphy"
 description: "帮客户\"实现目标\"不够，还要以符合其期望的方式实现——Desired Outcome = Customer Goal + Appropriate Experience，后者那半截才是产品真正的差异化战场。"
 source: "https://sixteenventures.com/customer-success-desired-outcome-understanding?amp=1"
 ---

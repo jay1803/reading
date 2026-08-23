@@ -2,6 +2,7 @@
 title: "SaaS Vendors: Is your Growth because of your Effort… or in spite of it?"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "SaaS 产品只要解决真实痛点，不做任何事也能获得一批用户——但\"一批\"就是天花板。早期采用者耗尽后停滞到来，churn 叠加则开始倒退；技术团队的本能反应（加功能、优化 UI）几乎从不突破这个上限。真正的增长需要 marketing → sales → onboarding → customer success..."
 source: "http://sixteenventures.com/deliberate-growth?utm_source=rss&utm_medium=rss&utm_campaign=deliberate-growth"
 ---

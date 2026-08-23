@@ -2,6 +2,7 @@
 title: "If You Can’t Program It, You Don’t Understand It"
 date: 2021-12-18T23:37:34Z
 category: reading
+author: "Naval Ravikant"
 description: "by"
 source: "https://nav.al/program"
 ---

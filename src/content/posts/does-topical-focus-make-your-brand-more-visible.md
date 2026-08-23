@@ -2,6 +2,7 @@
 title: "Does topical focus make your brand more visible?"
 date: 2026-08-04T08:03:59Z
 category: reading
+author: "Kevin Indig"
 description: "在 AI 搜索（ChatGPT）里，任何品牌都可以作为 citation 来源出现在任意话题下——即便完全偏离其核心专业，被引用率也几乎不变（远类目 41% vs 近类目 40%）。但被 AI 作为 recommendation 明确 mention 的概率则截然不同：在远类目中只有 25% 的出现转化为 men..."
 source: "https://www.growth-memo.com/p/does-topical-focus-make-your-brand"
 ---

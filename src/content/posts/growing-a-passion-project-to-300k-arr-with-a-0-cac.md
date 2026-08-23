@@ -2,6 +2,7 @@
 title: "Growing a passion project to $300k ARR with a $0 CAC"
 date: 2025-05-06T16:41:06Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章最值得记住的，不是 “$300k ARR、$0 CAC” 这个 headline 本身，而是它展示了一种很具体的 community-led growth（CLG）飞轮 怎么被慢慢养出来。Mallory Contois 并不是先设计商业模型再去找流量，而是先为自己和一群相似的人解决一个真实且情绪浓度很高的..."
 source: "https://www.growthunhinged.com/p/community-led-growth"
 ---

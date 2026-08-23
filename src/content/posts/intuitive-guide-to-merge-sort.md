@@ -2,6 +2,7 @@
 title: "Intuitive Guide to Merge Sort"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "归并排序的关键价值在于：无论输入原本多乱，它都能稳定给出 O(n log n) 的排序时间；对大规模数据，这种上界确定性往往比小样本上的常数差异更重要。它的核心机制是先把问题递归拆到足够小，再利用“每次从两个有序子序列前端挑更小者”的规则逐层合并，于是整体有序性会被自然保留下来。"
 source: "https://photonlines.substack.com/p/intuitive-guide-to-merge-sort"
 ---

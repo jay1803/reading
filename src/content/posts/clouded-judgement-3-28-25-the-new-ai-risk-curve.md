@@ -2,6 +2,7 @@
 title: "Clouded Judgement - 3.28.25 - The New AI Risk Curve"
 date: 2025-03-31T17:54:11Z
 category: reading
+author: "Jamin Ball"
 description: "AI 创业公司相比过去的软件公司（包括本地部署和 SaaS）能够实现更快的增长，但也更容易遭遇“假启动”现象，即在达到一定规模后增长停滞甚至收入下滑。这是因为 AI 技术进一步降低了创业的门槛，特别是在工程和市场推广方面，使得竞争加剧，建立持久的竞争壁垒（moats）变得更加困难。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-32825-the-new-ai"
 ---

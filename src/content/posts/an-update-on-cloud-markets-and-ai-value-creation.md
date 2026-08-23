@@ -2,6 +2,7 @@
 title: "An Update on Cloud Markets and AI Value Creation"
 date: 2025-03-14T19:57:29Z
 category: reading
+author: "Eric Flaningam"
 description: "本文是作者 Eric Flaningam 对超大规模云服务商（hyperscalers）的季度更新，分析了他们在 AI 领域的战略、资本支出、市场份额以及各自的业务进展。超大规模云服务商在 AI 领域采取垂直整合战略，包括硬件、平台和应用三个层面。目前，他们在 AI 基础设施上的资本支出巨大，但 AI 应用的价值..."
 source: "https://blog.publiccomps.com/an-update-on-cloud-markets-and-ai-value-creation/"
 ---

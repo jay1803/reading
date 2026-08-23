@@ -2,6 +2,7 @@
 title: "Customer Success: The Importance of User or Customer Onboarding"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "不是客户不肯续约，是你从第一天就没告诉他们值得续约。80%–90% 的流失原因在 onboarding 阶段就已埋下——客户从未真正\"启动\"，一只脚始终踏在门外。"
 source: "http://sixteenventures.com/importance-of-customer-onboarding"
 ---

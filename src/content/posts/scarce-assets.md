@@ -2,6 +2,7 @@
 title: "Scarce Assets"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "Packy McCormick"
 description: "当 AI、全球化资本和软件复制把越来越多东西变得便宜、充足、可替代时，价值不会消失，而是迁移到更难复制的位置：老牌球队、顶级艺术品、极少数城市地块、受信任的人格媒体、真正有物理与组织壁垒的公司、以及任何能在丰裕时代保持独特性的东西。真正的机会不在“用 abundance button 批量生产更多同质内容/产品”..."
 source: "https://www.notboring.co/p/scarce-assets"
 ---

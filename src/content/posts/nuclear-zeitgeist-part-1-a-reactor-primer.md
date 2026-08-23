@@ -2,6 +2,7 @@
 title: "Nuclear Zeitgeist Part 1: A Reactor Primer"
 date: 2024-10-08T18:27:58Z
 category: reading
+author: "Doug O'Laughlin"
 description: "本文主要介绍了核反应堆的历史、不同类型的核反应堆（特别是压水堆 PWR 和沸水堆 BWR）、核电的经济性问题以及 AI 对核电需求的推动作用。文章重点讨论了 Westinghouse 的 PWR 设计及其对核电行业的影响，以及核电建设成本高昂和工期延误等问题。作者认为，AI 的发展将大幅增加电力需求，而核电因其稳..."
 source: "https://www.fabricatedknowledge.com/p/nuclear-zeitgeist-part-1-a-reactor"
 ---

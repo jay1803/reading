@@ -2,6 +2,7 @@
 title: "Building a Growth Framework Towards a $100 Million Product"
 date: 2022-04-13T13:27:20Z
 category: reading
+author: "Brian Balfour"
 description: "Four Fits framework:"
 source: "https://brianbalfour.com/essays/hubspot-growth-framework-100m"
 ---

@@ -2,6 +2,7 @@
 title: "I want to eliminate my own job"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Elena Verna"
 description: "Growth 101 的全部内容——A/B 测试、归因追踪、onboarding 优化、lifecycle email——已经可以被 AI agent 完整自动化；Elena Verna 正在 Lovable 亲手构建这个系统，目标是消灭自己的职位，以及整个\"Growth 基础执行者\"这一类角色。"
 source: "https://www.elenaverna.com/p/i-want-to-eliminate-my-own-job"
 ---

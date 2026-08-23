@@ -2,6 +2,7 @@
 title: "An Interview with United CEO Scott Kirby About Tech Transformation"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Ben Thompson"
 description: "Kirby的核心判断是：航空业并非天然商品化，真正决定长期利润的是能否把高频、品牌忠诚客户从“比价模式”拉到“信任模式”；而这件事靠的首先不是更便宜，而是更强的技术栈、更顺滑的服务恢复能力和持续升级的产品体验。联合航空这些年的改善，不是零散功能堆砌，而是先花几亿美元拆掉 60 年代 Fortran 主机、再重做运..."
 source: "https://stratechery.com/2026/an-interview-with-united-ceo-scott-kirby-about-tech-transformation/"
 ---

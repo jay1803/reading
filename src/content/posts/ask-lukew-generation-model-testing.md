@@ -2,6 +2,7 @@
 title: "Ask LukeW: Generation Model Testing"
 date: 2025-06-17T13:48:57Z
 category: reading
+author: "Luke Wroblewski"
 description: "针对新一波顶级大模型（GPT‑4.1、Gemini 2.5 Pro、Claude Opus 4/Sonnet 4），用“Ask LukeW”这一熟悉领域的检验场做对比测试；在生成阶段的主观与客观评估中，Claude Opus 4在“抓住问题本质、凝练表达”方面显著优于早期“堆料式”回答，因而被选作当前pipeli..."
 source: "https://www.lukew.com/ff/entry.asp?2104"
 ---

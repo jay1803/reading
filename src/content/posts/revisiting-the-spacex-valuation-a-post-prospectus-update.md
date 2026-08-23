@@ -2,6 +2,7 @@
 title: "Revisiting the SpaceX Valuation: A Post-Prospectus Update!"
 date: 2026-06-06T08:04:03Z
 category: reading
+author: "Aswath Damodaran"
 description: "招股书让 Damodaran 的 SpaceX 内在价值估算从 $1.21T 仅升至 $1.22T，但发行定价 $1.8T——多出的 $600B 完全押注在 AI 业务上，而那恰恰是单位经济最差、护城河最窄、且马斯克可以凭借 85% 投票权不受任何制衡地豪赌进去的业务。"
 source: "https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html"
 ---

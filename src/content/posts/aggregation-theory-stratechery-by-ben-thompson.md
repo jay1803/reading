@@ -2,6 +2,7 @@
 title: "Aggregation Theory – Stratechery by Ben Thompson"
 date: 2024-06-26T15:38:48Z
 category: reading
+author: "Ben Thompson"
 description: "[Airbnb and the Internet Revolution](https://stratechery.com/2015/airbnb-and-the-internet-revolution/) described how Airbnb and the sharing economy have comm..."
 source: "https://stratechery.com/2015/aggregation-theory/"
 ---

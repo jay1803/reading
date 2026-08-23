@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.11.25 - The Bond Market"
 date: 2025-04-17T14:37:58Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章的核心判断是：本周真正决定市场是否失控的变量是美债，而非纳指的剧烈波动。若海外持有者继续抛售美债、财政部 10 年期和 30 年期国债拍卖又承接不足，收益率会被迫继续上冲，金融条件会瞬间收紧，股市和软件估值都会一起重定价。关税暂缓让这场流动性风险暂时熄火，但更大的后果还在后面：企业接下来大概率会用极保守指..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-41125-the-bond"
 ---

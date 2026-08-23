@@ -2,6 +2,7 @@
 title: "Explosive marketplace growth: GenM CEO, Moe Abbas, shares how they built a rapidly expanding two-sided marketplace that connects apprentices to real-world job experiences"
 date: 2024-06-16T15:13:19Z
 category: podcast
+author: "Sean Ellis"
 description: "In this episode of the Breakout Growth podcast hosted by Sean Ellis, Moe Abbas discusses the explosive growth of GenM, a platform that bridges the gap betwee..."
 source: "https://seanellis.substack.com/p/explosive-marketplace-growth-genm-4b7"
 ---

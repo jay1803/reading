@@ -2,6 +2,7 @@
 title: "Anthropic has caught up to OpenAI in image understanding"
 date: 2026-06-12T08:01:15Z
 category: reading
+author: "Timothy B. Lee"
 description: "Claude Fable 5 和 GPT-5.5 现在能稳定解决去年顶级模型失败的图像题（看模拟时钟、数物体数量）。Fable 5 的视觉成绩略优于 GPT-5.5，但差距微小；Google 的 Gemini 系列在此项明显落后。"
 source: "https://www.understandingai.org/p/anthropic-has-caught-up-to-openai"
 ---

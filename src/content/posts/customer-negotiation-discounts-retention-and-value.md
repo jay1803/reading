@@ -2,6 +2,7 @@
 title: "Customer Negotiation: Discounts, Retention, and Value"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户要折扣，多数不是因为钱不够——而是在测试自己对你的重要性，或者被竞争对手的报价激了一下。这意味着直接给折扣往往错误响应了真正的信号。"
 source: "https://sixteenventures.com/customer-negotiations"
 ---

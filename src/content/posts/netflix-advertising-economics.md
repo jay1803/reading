@@ -2,6 +2,7 @@
 title: "Netflix: Advertising Economics"
 date: 2023-04-25T20:16:35Z
 category: reading
+author: "Kevin Palmer"
 description: "Netflix"
 source: "https://www.appeconomyinsights.com/p/netflix-advertising-economics"
 ---

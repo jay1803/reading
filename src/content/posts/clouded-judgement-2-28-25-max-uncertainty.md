@@ -2,6 +2,7 @@
 title: "Clouded Judgement 2.28.25 - Max Uncertainty"
 date: 2025-03-14T19:22:05Z
 category: reading
+author: "Jamin Ball"
 description: "本文主要讨论了当前市场面临的最大不确定性，包括政治、经济和技术三个方面。特朗普的关税政策、政府支出削减（DOGE）以及人工智能的影响，都引发了激烈的争论和不同的观点。这些不确定性导致市场避险情绪升温，纳斯达克指数和10年期国债收益率均出现下跌。尽管 Nvidia 季度表现稳健，但股价仍下跌。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-22825-max-uncertainty"
 ---

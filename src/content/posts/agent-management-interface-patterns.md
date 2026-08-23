@@ -2,6 +2,7 @@
 title: "Agent Management Interface Patterns"
 date: 2025-06-17T13:48:20Z
 category: reading
+author: "Luke Wroblewski"
 description: "随着AI从助手走向“能独立跑任务的代理（agent）”，产品必须提供“启动—调度—审查—校正—终止—保存/分享”的全链路管理界面；可借用熟悉的UI范式（看板、仪表盘、收件箱、任务清单、日历）作为过渡，但各自存在边界与权衡，未来形态可能偏向混合与演化，甚至借鉴RTS游戏的实时指挥模式。"
 source: "https://www.lukew.com/ff/entry.asp?2106"
 ---

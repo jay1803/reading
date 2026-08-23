@@ -2,6 +2,7 @@
 title: "Elena's 2024 B2B Product-Led Sales Guide"
 date: 2025-05-06T18:25:38Z
 category: reading
+author: "Elena Verna"
 description: "PLS 最常见的误解是把\"手举者\"当做销售漏斗的顶部——实际上手举者是天花板，不是起点；当手举者耗尽时，才需要用 PQA 主动出击，而 PQA → PQL 的核心障碍不是产品信号，而是找到有预算的经济购买者。"
 source: "https://www.elenaverna.com/p/elenas-2024-b2b-product-led-sales"
 ---

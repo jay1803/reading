@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.20.25 - The AI Platform Wars"
 date: 2025-11-30T20:19:43Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章的主判断是：AI 的胜负手正在从“谁的模型分数更高”转向“谁把模型嵌进了更多入口、工作流和开发者生态”。当前沿能力差距快速收敛，Google、OpenAI、Anthropic、Meta 实际上在争夺四种不同的平台位势；同一篇通讯后半段给出的 SaaS 估值面板也在提醒同一件事：市场最终奖励的仍是可持续增长..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-112025-the-ai-platform"
 ---

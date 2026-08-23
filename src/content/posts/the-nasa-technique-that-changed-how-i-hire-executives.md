@@ -2,6 +2,7 @@
 title: "The NASA Technique That Changed How I Hire Executives"
 date: 2025-11-19T08:43:10Z
 category: reading
+author: "Adam Fishman"
 description: "面试高管时，能说会道的人最危险——他们精于讲故事，却可能根本没做过那件事。NASA 项目主管 Zurbuchen 的做法：提前列出你不了解的关键领域清单，面试时持续追问更具体的细节，直到对方卡住。Sarah Charlton 把这套方法移植到高管招聘，让外行也能可靠评估陌生职能的候选人。"
 source: "https://www.fishmanafnewsletter.com/p/how-to-interview-and-hire-executives-with-this-nasa-technique-sarah-charlton"
 ---

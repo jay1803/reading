@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.10.25 - The ChatGPT App Store Moment"
 date: 2025-10-11T22:38:33Z
 category: reading
+author: "Jamin Ball"
 description: "OpenAI 在 ChatGPT 内推出“应用 + Apps SDK”，把自然语言、API 调用与轻量交互融合为一体的对话式界面，开启“智能平台”雏形；随着更丰富的原生 API（记忆、持久化、动作执行等）开放，形态将从集成过渡到“原生 ChatGPT 应用”，并催生发现、分发与变现体系，ChatGPT 正从产品演..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-101025-the-chatgpt"
 ---

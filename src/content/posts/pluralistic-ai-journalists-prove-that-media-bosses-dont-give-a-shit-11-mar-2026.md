@@ -2,6 +2,7 @@
 title: "Pluralistic: AI \"journalists\" prove that media bosses don't give a shit (11 Mar 2026)"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Cory Doctorow"
 description: "AI 落地最快的行业，恰好是老板们最想毁掉那个行业的地方。企业用 AI 替换新闻写作或客服，不是因为 AI 能做好，而是因为他们本来就不想做好——AI 只是\"滚去死吧\"这条鄙视链的最新一环。"
 source: "https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/"
 ---

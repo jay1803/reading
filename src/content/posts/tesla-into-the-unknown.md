@@ -2,6 +2,7 @@
 title: "🚖 Tesla: Into The Unknown"
 date: 2025-10-30T14:50:53Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章的核心判断是：Tesla 的汽车业务还在，但它已经不足以单独支撑今天市场赋予它的想象空间；所以公司故事正越来越彻底地押注到 Autonomy + Energy + Robotics 上。作者对 Q3 的解读并不乐观：交付量反弹和收入增长看起来不错，但很大程度上可能只是美国税收优惠到期前的提前透支，汽车毛利..."
 source: "https://www.appeconomyinsights.com/p/tesla-into-the-unknown"
 ---

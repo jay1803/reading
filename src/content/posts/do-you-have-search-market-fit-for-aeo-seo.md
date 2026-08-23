@@ -2,6 +2,7 @@
 title: "Do you have search market fit for AEO/SEO?"
 date: 2026-05-29T08:01:15Z
 category: reading
+author: "Eli Schwartz"
 description: "SEO/AEO 的预算不该从关键词量或 AI citation 目标开始，而要先验证「搜索市场匹配」：目标用户是否真的带着可转化的意图在搜索，以及搜索/AI 给出的答案路径是否自然通向你的产品。没有这条商业路径，再多技术优化、内容规模化和 AI 可见性都只是把钱投向无法成交的人群。"
 source: "https://www.productledseo.com/p/do-you-have-search-market-fit-for-f65"
 ---

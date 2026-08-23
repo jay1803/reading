@@ -2,6 +2,7 @@
 title: "Customer Success: High/Low/No Touch Customer Segmentation"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "按 ARR（年度经常性收入）分层客户触达等级是行业的集体惰性。正确的分层变量只有一个：Appropriate Experience（AX）——每位客户实现成功目标所需的人工干预与技术自动化比例。"
 source: "http://sixteenventures.com/customer-success-high-low-no-touch-segmentation"
 ---

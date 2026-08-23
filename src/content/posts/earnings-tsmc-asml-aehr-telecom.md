@@ -2,6 +2,7 @@
 title: "Earnings: TSMC, ASML, AEHR, Telecom"
 date: 2024-10-22T15:20:31Z
 category: reading
+author: "Doug O'Laughlin"
 description: "ASML 控股报告第三季度净利润 €2.08B 对比市场预期 €1.91B"
 source: "https://www.fabricatedknowledge.com/p/earnings-tsmc-asml-aehr-telecom"
 ---

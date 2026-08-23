@@ -2,6 +2,7 @@
 title: "Make product worse, get money"
 date: 2025-11-30T20:19:43Z
 category: reading
+author: "dynomight"
 description: "\"公司当然有动力把产品做差\"——这句话对披萨店、航空公司、约会软件都成立，所以它的解释力接近于零。真正有内容的问题是：消费者选择和市场竞争理应纠正这些，为什么没有？"
 source: "https://dynomight.net/worse/"
 ---

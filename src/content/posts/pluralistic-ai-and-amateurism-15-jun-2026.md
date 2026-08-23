@@ -2,6 +2,7 @@
 title: "Pluralistic: AI and amateurism (15 Jun 2026)"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Cory Doctorow"
 description: "Vibe coding 真正有价值的地方——让普通人为自己制造私人工具——从一开始就被 AI 产业刻意冷落，因为个人化、不可货币化的软件无法支撑 $1.4 万亿的泡沫叙事；真正被压制的恰恰是这条技术民主化的历史脉络。"
 source: "https://pluralistic.net/2026/06/15/vernacular/"
 ---

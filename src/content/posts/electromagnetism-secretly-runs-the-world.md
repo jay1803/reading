@@ -2,6 +2,7 @@
 title: "Electromagnetism Secretly Runs the World"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Packy McCormick"
 description: "电磁学设计的核心瓶颈不是物理方程太难，而是人类进化上从未形成对可见光谱之外 EM 场的直觉——全球能真正\"凭直觉看到\"电磁场的 RF 工程师不超过 10 人。Arena Physica 正在用神经代理模型（Large Field Model）替代这个进化盲区，将 EM 模拟从小时级加速到毫秒级（18,000x），..."
 source: "https://www.notboring.co/p/electromagnetism-secretly-runs-the"
 ---

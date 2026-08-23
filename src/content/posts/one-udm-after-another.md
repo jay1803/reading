@@ -2,6 +2,7 @@
 title: "One &udm After Another"
 date: 2026-06-01T08:01:18Z
 category: reading
+author: "Ernie Smith"
 description: "Google 搜索危机的核心不是 AI 技术本身的好坏，而是一个默认入口级平台把战略焦虑包装成功能升级，强行覆盖到用户最高频的基础设施上；&udm=14 的反复走红说明，用户真正缺的是选择权，而小型、单一、可替代的工具能把这种选择权重新切出来。"
 source: "https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection"
 ---

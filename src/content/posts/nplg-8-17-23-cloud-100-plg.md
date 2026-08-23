@@ -2,6 +2,7 @@
 title: "NPLG 8.17.23: Cloud 100 & PLG"
 date: 2023-10-11T17:27:28Z
 category: reading
+author: "Zachary DeWitt"
 description: "本文分析了 2023 年《Forbes Cloud 100》榜单，重点关注其中的产品驱动增长（PLG）企业，并探讨了当前云计算行业的主要趋势。文章指出，人工智能（AI）正在深刻影响云计算，PLG 模式在 SaaS 领域已成为主流，同时透明定价、社区建设和生态系统合作也是顶级云计算公司的关键策略。"
 source: "https://notoriousplg.substack.com/p/nplg-81723-cloud-100-and-plg"
 ---

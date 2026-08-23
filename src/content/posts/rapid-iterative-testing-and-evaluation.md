@@ -2,6 +2,7 @@
 title: "Rapid Iterative Testing and Evaluation"
 date: 2024-01-02T14:23:07Z
 category: reading
+author: "Luke Wroblewski"
 description: "RITE基本上是一个持续的过程，包括设计和构建原型，与用户一起测试，并在短时间内（通常是几天）进行更改。"
 source: "https://www.lukew.com/ff/entry.asp?2033"
 ---

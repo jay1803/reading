@@ -2,6 +2,7 @@
 title: "Endgame for the Open Web"
 date: 2026-03-28T08:01:59Z
 category: reading
+author: "Anil Dash"
 description: "2026 年对开放 web 的攻击不是单一战线——大型科技公司正在用瓦解优步经济的同一套剧本，同时拆解开放 web 的每一根支柱（内容、代码、标准、社区基础设施），且资源不对等到无需协调就能同时推进。这一年是决定开放 web 能否存活的拐点。"
 source: "https://anildash.com/2026/03/27/endgame-open-web/"
 ---

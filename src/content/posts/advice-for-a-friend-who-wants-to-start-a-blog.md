@@ -2,6 +2,7 @@
 title: "Advice for a friend who wants to start a blog"
 date: 2026-03-09T22:36:51Z
 category: reading
+author: "Henrik Karlsson"
 description: "作者给一个想开博客的朋友的核心建议是：别把写作理解成进入某个体裁后的合格表演，而要把它当成把你身上那些古怪、矛盾、难以归类的部分完整暴露出来的媒介。真正有辨识度的写作，不来自模仿成熟风格，而来自把兴趣、幽默、语病、品味冲突和思考方式一起带上场，因为读者最终记住的就是这种未经抹平的人格纹理。"
 source: "https://www.henrikkarlsson.xyz/p/start-a-blog"
 ---

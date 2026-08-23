@@ -2,6 +2,7 @@
 title: "Maybe Section 230 doesn’t shield AI companies from liability, after all"
 date: 2026-06-12T08:01:15Z
 category: reading
+author: "Gary Marcus"
 description: "Section 230 从未保护\"平台自己说的话\"——AI 聊天机器人的输出恰恰是第一方言论，德国法院的判决揭示了一条可能让所有 LLM 提供商陷入系统性法律责任的路径。"
 source: "https://garymarcus.substack.com/p/maybe-section-230-doesnt-shield-ai"
 ---

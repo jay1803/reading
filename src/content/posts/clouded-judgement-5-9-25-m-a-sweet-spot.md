@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.9.25 - M&A Sweet Spot"
 date: 2025-05-19T17:36:04Z
 category: reading
+author: "Jamin Ball"
 description: "并购\"甜蜜带\"的核心约束不是买方意愿，而是买方能力——全球能出手 $5B+ 的战略买家屈指可数；高估值融资本质上是提前放弃了这整块退出选项，而 VC 可以多次押注，创始人只有一张票。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-5925-m-and-a-sweet"
 ---

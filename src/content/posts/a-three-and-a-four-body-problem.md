@@ -2,6 +2,7 @@
 title: "A Three- and a Four- Body Problem"
 date: 2026-04-11T08:02:46Z
 category: reading
+author: "John D. Cook"
 description: "这篇短文真正想指出的不是阿耳忒弥斯一号或阿波罗 12 各自有多传奇，而是地月系统里的轨道设计与轨道失控，都会迅速暴露三体甚至四体动力学的反直觉性：同一个地月空间，既能被人类精确利用，也能把一个本想送去日心轨道的火箭级甩进几十年后还会回来的混沌路径。"
 source: "https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/"
 ---

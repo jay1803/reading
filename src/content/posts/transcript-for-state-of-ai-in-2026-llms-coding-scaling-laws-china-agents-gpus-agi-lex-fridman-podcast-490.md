@@ -2,6 +2,7 @@
 title: "Transcript for State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Lex Fridman"
 description: "Sebastian Raschka：ML 研究员，著有《Build a Large Language Model from Scratch》与《Build a Reasoning Model from Scratch》，专注 LLM 教育与开源实验，通过\"从头复现已有模型\"方式做研究。"
 source: "https://lexfridman.com/ai-sota-2026-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026-transcript"
 ---

@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.18.24 - From Systems of Record to Systems of Intelligence"
 date: 2024-10-22T15:25:20Z
 category: reading
+author: "Jamin Ball"
 description: "There’s a long-held belief in enterprise software that building a lasting moat requires a system of record. Salesforce is the system of record for customer d..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-101824-from-systems"
 ---

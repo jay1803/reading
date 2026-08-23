@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.18.25 - The Hidden Value in the AI Application Layer"
 date: 2025-04-22T16:30:43Z
 category: reading
+author: "Jamin Ball"
 description: "AI foundational model公司（如 OpenAI、Anthropic）正显示出进入应用层的兴趣，例如通过收购或自建编码助手等应用。此举的主要动机可能是为了获取大量有价值的、甚至是专有的用户交互数据，用以改进其核心 AI 模型，同时也为了在模型 API 定价可能商品化的未来，开辟新的利润来源。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-41825-the-hidden"
 ---

@@ -2,6 +2,7 @@
 title: "Riding the Leopard"
 date: 2026-05-14T08:01:36Z
 category: reading
+author: "Packy McCormick"
 description: "无法完成摘要：本地缓存和公开 HTML 都只包含 Not Boring 文章的免费前半段；页面在 “So where does that leave us, the humans in the room?” 后出现 Substack paywall（“Keep reading with a 7-day free..."
 source: "https://www.notboring.co/p/riding-the-leopard"
 ---

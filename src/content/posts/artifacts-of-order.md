@@ -2,6 +2,7 @@
 title: "Artifacts of Order"
 date: 2026-07-02T08:03:15Z
 category: reading
+author: "Jeremy Keith"
 description: "\"We shape our categories; thereafter they shape us.\" 这是 Peter Morville《自然信息架构》第二章的核心命题。列表、分类法、图表不是中性容器——它们是范式的具身化（\"a taxonomy is the embodiment of a paradigm..."
 source: "https://intertwingled.org/artifacts-of-order/"
 ---

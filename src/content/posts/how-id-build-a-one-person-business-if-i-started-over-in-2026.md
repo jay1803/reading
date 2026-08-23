@@ -2,6 +2,7 @@
 title: "How I'd build a one-person business if I started over in 2026"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Dan Koe"
 description: "AI 把信息产品的制作门槛抹平了，但这反而让「特异知识」更值钱——真正的护城河不是「AI 做不到的事」，而是「只有你会想到去做的事」。"
 source: "https://letters.thedankoe.com/p/how-id-build-a-one-person-business"
 ---

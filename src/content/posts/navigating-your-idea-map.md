@@ -2,6 +2,7 @@
 title: "Navigating your Idea Map"
 date: 2025-05-29T10:10:18Z
 category: reading
+author: "Ben McRedmond"
 description: "初创公司，特别是横向产品公司，其发展过程更适合用“Idea Map”（想法地图）而非“Idea Maze”（想法迷宫）来比喻。“Idea Map”强调通过探索和学习积累认知，并允许战略性地“跳跃”到新的机会区域，而不是在迷宫中简单回溯。"
 source: "https://wrap-text.equals.com/p/navigating-your-idea-map"
 ---

@@ -2,6 +2,7 @@
 title: "Google Just Released an AI Opt-Out Feature. Your Competitors Hope You Use It."
 date: 2026-06-10T08:01:08Z
 category: reading
+author: "Nick LeRoy"
 description: "Google 给出版商的「AI 豁免权」是一个表面上的胜利：退出不会减少 AI 搜索，只会让竞争对手代替你出现在答案里。"
 source: "https://www.seoforlunch.com/p/google-ai-opt-out"
 ---

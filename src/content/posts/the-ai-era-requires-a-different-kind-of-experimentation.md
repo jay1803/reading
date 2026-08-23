@@ -2,6 +2,7 @@
 title: "The AI era requires a different kind of experimentation."
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Elena Verna"
 description: "过去的 A/B 测试逻辑建立在三个前提上：UI 界面丰富可优化、两周足以量化效果、个性化需要显式验证。这三个前提在 AI 产品中全部失效。"
 source: "https://www.elenaverna.com/p/the-ai-era-requires-a-different-kind"
 ---

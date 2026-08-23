@@ -2,6 +2,7 @@
 title: "SaaS Churn: Measure Revenue or Customer Retention?"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "如果你的目标是经营一个能持续放大收入的 SaaS，核心留存指标应优先看 DRR（Dollar Revenue Retention，美元收入留存），因为它直接回答“老客户这盘生意今年值不值更多钱”。但 DRR 不是免责条款：客户流失即使被扩容收入掩盖，仍然意味着获客错配、生命周期管理失灵和利润被侵蚀。"
 source: "http://sixteenventures.com/saas-churn-revenue-customer?utm_source=rss&utm_medium=rss&utm_campaign=saas-churn-revenue-customer"
 ---

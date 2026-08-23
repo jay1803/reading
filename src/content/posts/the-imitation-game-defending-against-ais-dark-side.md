@@ -2,6 +2,7 @@
 title: "The Imitation Game: Defending against AI's Dark Side!"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Aswath Damodaran"
 description: "作者借自己被 AI 冒名诈骗的经历说明：未来最危险的伪造，不在于“像不像”，而在于它会越来越会模仿你的语言、外貌与公开痕迹。对付这类风险，关键不是相信平台会替你挡住骗局，而是建立一套“内容一致性”审查：看对方的理念、方法、边界和激励是否真的自洽。"
 source: "https://aswathdamodaran.blogspot.com/2025/08/the-imitation-game-defending-against.html"
 ---

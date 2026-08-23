@@ -2,6 +2,7 @@
 title: "Why 'Cost Disease' Is the Secret Force Behind America's Toxic Solitude"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Derek Thompson"
 description: "美国当下的孤独危机，背后有一根很硬的经济约束: 凡是需要真人同场、几乎无法提效的社交活动，会在 Baumol 成本病下越来越贵；凡是能把独处体验规模化复制的产品，会越来越便宜、越来越强。"
 source: "https://www.derekthompson.org/p/why-cost-disease-is-the-secret-force"
 ---

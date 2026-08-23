@@ -2,6 +2,7 @@
 title: "Differently free"
 date: 2026-03-24T08:01:59Z
 category: reading
+author: "Henrik Karlsson"
 description: "不要寻找比你聪明的人，要寻找\"在你被锁住的地方自由的人\"——前者给你答案，后者让你看见你不知道自己没有的问题。Henrik 由此展开两件事：一个以服务与消失为全部信仰的祖父，以及他自己第一次公开表达的使命观：你的任务是守护\"只有通过你才能发生\"的可能性，离场后让宇宙的音乐比你在时更有趣。"
 source: "https://www.henrikkarlsson.xyz/p/differently-free"
 ---

@@ -2,6 +2,7 @@
 title: "Growth at Dropbox"
 date: 2024-05-11T11:05:23Z
 category: reading
+author: "Elena Verna"
 description: "这篇文章由 Dropbox 的增长负责人 Elena Verna 撰写，分享了 Dropbox 增长团队的内部运作方式。内容涵盖团队结构、核心指标、增长文化（特别是对学习和失败的拥抱）、成员角色、对过去增长模式（如推荐循环）的澄清、当前 B2B 与 B2C 并存的策略、PLG 模式的优势以及未来的增长方向，包括产..."
 source: "https://elenaverna.substack.com/p/growth-at-dropbox"
 ---

@@ -2,6 +2,7 @@
 title: "How to Get Customers to Help Define Engagement Models"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "问客户\"你希望多久开一次会\"在低付费客户那里是个陷阱：他们可能要求每周一小时的免费咨询，你一旦默许，期望就会固化，之后很难收回。"
 source: "http://sixteenventures.com/customer-success-engagement-models"
 ---

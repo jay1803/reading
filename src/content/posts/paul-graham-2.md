@@ -2,6 +2,7 @@
 title: "Paul Graham：如何做出伟大的工作？"
 date: 2023-07-11T11:38:22Z
 category: reading
+author: "Paul Graham"
 description: "Paul Graham 的文章《How to Do Great Work》探讨了在任何领域做出卓越工作的通用原则。核心观点是：选择你擅长且感兴趣的领域，深入学习直至前沿，发现并探索有前景的问题，通过持续迭代和大胆尝试，最终实现突破。"
 source: "http://paulgraham.com/greatwork.html"
 ---

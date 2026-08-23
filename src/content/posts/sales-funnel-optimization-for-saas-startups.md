@@ -2,6 +2,7 @@
 title: "Sales Funnel Optimization for SaaS Startups"
 date: 2024-05-08T15:49:23Z
 category: reading
+author: "Tomasz Tunguz"
 description: "Most startups employ a four stage funnel: prospect, lead, opportunity, customer. Typically, a prospect is an email of a potential customer. A Sales Developme..."
 source: "https://tomtunguz.com/counterintuitive-sales-funnel-efficiency/"
 ---

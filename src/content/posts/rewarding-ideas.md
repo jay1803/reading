@@ -2,6 +2,7 @@
 title: "Rewarding ideas"
 date: 2025-03-21T09:09:55Z
 category: reading
+author: "dynomight"
 description: "本文讨论了现有的版权、专利、商业机密、直接补贴和社交规范这五种奖励信息生产的方式。作者认为这些方式巧妙地平衡了自由流动和信息生产补贴的需求。然而，人工智能正在改变这些规则赖以存在的基础，可能会降低人们创作的积极性。文章探讨了可能的解决方案，包括维持现状、修改现有法律、增加非市场激励、明确衍生作品的定义、创建法律选..."
 source: "https://dynomight.net/ideas/"
 ---

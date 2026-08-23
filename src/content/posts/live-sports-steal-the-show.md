@@ -2,6 +2,7 @@
 title: "🏆 Live Sports Steal the Show"
 date: 2026-05-09T08:02:38Z
 category: reading
+author: "Kevin Palmer"
 description: "体育直播已经变成媒体财报里的“季度杠杆”：它能把广告预算、流量和订阅拉进一个窗口期，但权利金会优先吞噬利润，所以真正受益者往往不是买下赛事的人，而是把赛事流量货币化的平台与分发入口。"
 source: "https://www.appeconomyinsights.com/p/live-sports-steal-the-show"
 ---

@@ -2,6 +2,7 @@
 title: "Circle S-1 Breakdown"
 date: 2025-06-18T21:49:53Z
 category: reading
+author: "Tanay Jaipuria"
 description: "结论先说：这是一次对 Circle S-1 的结构性拆解，本质在回答三个问题——USDC 是什么资产？Circle 怎么赚钱？市场为什么愿意给它高估值？"
 source: "https://www.tanayj.com/p/circle-s-1-breakdown"
 ---

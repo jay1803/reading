@@ -2,6 +2,7 @@
 title: "The Rot Economy"
 date: 2023-06-21T10:12:49Z
 category: reading
+author: "Ed Zitron"
 description: "文章定义并批判了“腐朽经济”（Rot Economy），指出当代商业（尤其是科技行业）被对“增长”（定义为更多的收入、更高的估值和市场份额，而非更好的产品或可持续性）的病态追求所驱动，这种痴迷由投资者和市场奖励，导致了创新扼杀、产品质量下降、资本错配以及破坏性的雇佣和解雇循环。"
 source: "https://wheresyoured.at/p/the-rot-economy"
 ---

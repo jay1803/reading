@@ -2,6 +2,7 @@
 title: "Superlinear Returns"
 date: 2023-10-23T19:27:25Z
 category: reading
+author: "Paul Graham"
 description: "显然，商业中的绩效回报是超线性的。一些人认为这是资本主义的缺陷，如果我们改变规则，它就不再是真实的。但超线性绩效回报是世界的一个特征，而不是我们发明的规则的产物。我们在名誉、权力、军事胜利、知识甚至人类利益方面都看到了同样的模式。在所有这些方面，富人变得更富。"
 source: "http://paulgraham.com/superlinear.html"
 ---

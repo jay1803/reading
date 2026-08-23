@@ -2,6 +2,7 @@
 title: "Is AI Just Software?"
 date: 2025-07-03T12:26:58Z
 category: reading
+author: "Brad Feld"
 description: "作者向三个主流 AI 模型（Claude、ChatGPT、Gemini）提出了一系列个人问题，以探究它们如何看待自身的存在，特别是关于“AI 是否仅仅是软件”这一核心问题。三个模型的回答各不相同：Claude 直截了当地承认自己是软件；ChatGPT 则给出了一个模棱两可的答案，认为自己既是软件又与传统软件有所不..."
 source: "https://feld.com/archives/2025/06/is-ai-just-software/"
 ---

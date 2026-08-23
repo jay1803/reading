@@ -2,6 +2,7 @@
 title: "💥 The AI Boom vs. The Bond Market's Biggest Warning Since 2007"
 date: 2026-05-29T08:01:14Z
 category: reading
+author: "Andrew Lokenauth"
 description: "AI 牛市不是单纯被估值泡沫支撑，而是被真实 capex、真实盈利和真实基础设施需求支撑；但同一轮 AI 投资也在争夺长期资本、推高或维持长端利率，使通胀、债券收益率和股权估值折现率同时变成压力源。文章最关键的判断是：AI 叙事和债券警报不是互相否定，而是在同一个系统里互相强化，市场风险来自这两股力量共存太久后的..."
 source: "https://www.thefinancenewsletter.com/p/bond-market-warning"
 ---

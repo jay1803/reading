@@ -2,6 +2,7 @@
 title: "SaaS Churn Rate Improvement: Monitor and Drive Engagement"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章最重要的观点是：所谓 engagement，不是“用户登录了几次、点了几个按钮”，而是客户是否正在真正获得他们想要的价值。 一旦你用这个角度去看 churn，很多常见的留存指标都会显得过于表面，因为它们记录的是动作，不一定记录的是成功。"
 source: "http://sixteenventures.com/improve-saas-churn-rate-engagement?utm_source=rss&utm_medium=rss&utm_campaign=improve-saas-churn-rate-engagement"
 ---

@@ -2,6 +2,7 @@
 title: "Men With No Sexual Discipline Are Dangerous — A Warning For Everyone"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Ed Latimore"
 description: "这篇文章的核心其实不复杂：一个人如果无法约束自己最强烈的冲动，最终受伤的往往不只是他自己，而是他周围的所有关系。 作者把“性冲动失控”当成一个极端例子，借此讨论更大的主题——自制力缺失如何放大风险、破坏信任，并让人做出短视甚至危险的决定。"
 source: "https://edlatimore.com/cant-trust-men-without-sexual-discipline/"
 ---

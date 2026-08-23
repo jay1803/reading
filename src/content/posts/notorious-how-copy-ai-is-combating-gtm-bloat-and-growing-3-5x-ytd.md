@@ -2,6 +2,7 @@
 title: "Notorious: How Copy.ai is Combating GTM Bloat (and Growing 3.5x+ ytd)"
 date: 2024-11-25T18:14:04Z
 category: reading
+author: "Zachary DeWitt"
 description: "Copy.ai 首席营销官Kyle Coleman分享了 Copy 在 8 个月内增长 3.5 倍的公式："
 source: "https://www.notoriousplg.ai/p/notorious-how-copyai-is-combating"
 ---

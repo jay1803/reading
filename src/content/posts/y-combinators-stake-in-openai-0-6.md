@@ -2,6 +2,7 @@
 title: "Y Combinator's Stake in OpenAI (0.6%?)"
 date: 2026-05-06T08:02:42Z
 category: reading
+author: "John Gruber"
 description: "YC 对 OpenAI 的潜在 0.6% 持股，把 Paul Graham 对 Sam Altman 的“人格背书”从单纯的创始人旧识评价，变成必须披露的重大利益相关：按 OpenAI 8520 亿美元估值，YC 持仓约 51 亿美元；Graham/Livingston 作为 YC 创始合伙人，个人经济暴露可能达..."
 source: "https://daringfireball.net/2026/05/y_combinators_stake_in_openai"
 ---

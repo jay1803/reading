@@ -2,6 +2,7 @@
 title: "What The Freemium!?"
 date: 2025-05-26T17:42:58Z
 category: reading
+author: "Elena Verna"
 description: "Freemium 是一种商业策略，通过提供产品的有限免费版本来吸引大量用户，并逐步将其转化为付费用户，而非快速解决方案。它在软件行业尤为普遍，如 Spotify、Dropbox 和 Miro 均采用此模式。"
 source: "https://www.elenaverna.com/p/what-the-freemium"
 ---

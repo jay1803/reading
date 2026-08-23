@@ -2,6 +2,7 @@
 title: "Clouded Judgement 3.14.25 - Authentication in the Age of AI Agents"
 date: 2025-03-17T19:34:39Z
 category: reading
+author: "Jamin Ball"
 description: "本文主要讨论了在人工智能代理时代，身份验证（Authentication）面临的挑战和机遇，特别是在 Web-based 和 Desktop-based AI 代理的背景下。此外，文章还提供了二月份的通货膨胀数据、第四季度云软件收益报告的总结，以及对 SaaS 公司估值的分析。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-31425-authentication"
 ---

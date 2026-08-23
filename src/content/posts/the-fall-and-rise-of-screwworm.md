@@ -2,6 +2,7 @@
 title: "The Fall and Rise of Screwworm"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Brian Potter"
 description: "螺旋蛆（Cochliomyia hominivorax）曾是美国畜牧业最惨烈的灾害之一。1935年德克萨斯州单年超过120万头牲畜感染、18万头死亡；1930-40年代估计有60%-80%的白尾鹿死于螺旋蛆感染。经过几十年的努力，美国将其彻底根除，并把屏障一路推进到巴拿马的达里恩地峡——这道宽仅60英里的不育雄蝇..."
 source: "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm"
 ---

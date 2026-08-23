@@ -2,6 +2,7 @@
 title: "The modern formatting addiction in writing"
 date: 2026-03-18T08:01:19Z
 category: reading
+author: "dynomight"
 description: "大量 bullet points 和标题的写作风格本质上是一种伪装：它让作者（和读者）误以为碎片背后藏着一套连贯的思想体系，实际上可能只是尚未综合的关联碎片。人和 AI 都上瘾，原因相同——格式化的烂文章比叙事的烂文章更难被识破。"
 source: "https://dynomight.net/formatting/"
 ---

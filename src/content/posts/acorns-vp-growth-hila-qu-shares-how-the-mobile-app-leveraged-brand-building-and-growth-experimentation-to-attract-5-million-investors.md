@@ -2,6 +2,7 @@
 title: "Acorns VP Growth, Hila Qu, shares how the mobile app leveraged brand building and growth experimentation to attract 5 million investors"
 date: 2024-06-16T14:21:17Z
 category: podcast
+author: "Sean Ellis"
 description: "The podcast episode features Hila Qu, VP of Growth at Acorns, discussing how the mobile app successfully leveraged brand building and growth experimentation..."
 source: "https://seanellis.substack.com/p/acorns-vp-growth-hila-qu-shares-how-6dd"
 ---

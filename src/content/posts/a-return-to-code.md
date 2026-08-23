@@ -2,6 +2,7 @@
 title: "A Return to Code"
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Naval Ravikant"
 description: "Nivi 主持 Naval Podcast，本期围绕 vibe coding 展开；Naval 以自己重新写代码、搭建私人 app store、重建 Airchat 类产品的经历，讨论 AI coding agents 对软件生产、个人创造、Apple 护城河和创业投资的影响。"
 source: "https://nav.al/code"
 ---

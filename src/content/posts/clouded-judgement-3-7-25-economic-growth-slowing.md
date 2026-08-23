@@ -2,6 +2,7 @@
 title: "Clouded Judgement 3.7.25 - Economic Growth Slowing?"
 date: 2025-03-13T13:19:18Z
 category: reading
+author: "Jamin Ball"
 description: "本文是 Clouded Judgement 的周报，主要关注云软件公司的最新趋势。本周经济预测显示第一季度 GDP 将萎缩近 3%，经济前景的不确定性增加。同时，2024 年第四季度财报季过半，云软件公司业绩表现不佳，对 2025 年的业绩指引也并不乐观。文章还提供了云软件公司的一些关键运营指标和估值倍数。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-3725"
 ---

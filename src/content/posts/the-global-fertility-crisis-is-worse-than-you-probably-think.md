@@ -2,6 +2,7 @@
 title: "The Global Fertility Crisis Is Worse Than You Probably Think"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Derek Thompson"
 description: "Jesús Fernández-Villaverde 是宾夕法尼亚大学经济学家，内容中提到他所在学校有很强的人口研究群体；他在 2001 年的博士论文已经研究过生育率随技术、经济、社会机制下降的问题。访谈由 Derek Thompson 主持，主题是全球生育率为何比主流预测更快跌破替代水平，以及这件事如何改变经济..."
 source: "https://www.derekthompson.org/p/why-the-whole-world-stopped-having"
 ---

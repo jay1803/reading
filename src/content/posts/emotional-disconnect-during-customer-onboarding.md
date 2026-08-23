@@ -2,6 +2,7 @@
 title: "Emotional Disconnect During Customer Onboarding"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户购买时情感投入已完成；Onboarding 不是建立情感连接的机会，而是大多数公司主动切断它的时刻。"
 source: "https://sixteenventures.com/emotional-disconnect-onboarding"
 ---

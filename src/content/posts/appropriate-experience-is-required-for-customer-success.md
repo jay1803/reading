@@ -2,6 +2,7 @@
 title: "Appropriate Experience is Required for Customer Success"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户成功不能只看客户有没有拿到结果，还要看他们是否以自己能接受、信任、愿意续约的方式拿到结果。作者把这个完整目标定义为 Desired Outcome：Required Outcome 解决“要达成什么”，Appropriate Experience 解决“以什么样的方式达成”；后者一旦缺位，表面健康的客户也会变..."
 source: "https://sixteenventures.com/appropriate-experience-required"
 ---

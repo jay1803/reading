@@ -2,6 +2,7 @@
 title: "Converting Coal Plants to Natural Gas"
 date: 2026-06-20T08:03:54Z
 category: reading
+author: "Brian Potter"
 description: "2008 年后美国约 140 座煤电厂转换为天然气，根本原因是两件事碰头：EPA 汞与空气毒性标准（MATS）只约束煤电厂，天然气厂豁免在外；同期页岩气革命使天然气价格在 2008 年断崖式下跌并预期长期低廉。两者叠加给老旧煤电厂制造了一个特定方向的激励：改烧气，而不是加装减排设备或关停。"
 source: "https://www.construction-physics.com/p/converting-coal-plants-to-natural"
 ---

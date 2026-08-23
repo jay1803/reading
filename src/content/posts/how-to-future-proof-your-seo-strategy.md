@@ -2,6 +2,7 @@
 title: "How to future-proof your SEO strategy"
 date: 2023-10-13T15:28:52Z
 category: reading
+author: "Kate Syuma"
 description: "Gen AI 绝对会改变 SEO 的含义。 Gen AI 将使去年的许多 SEO 最佳实践变得过时。 gen AI 将把未来 SEO 工作的重点转移到用户旅程中完全不同的地方。"
 source: "https://www.growthunhinged.com/p/how-to-future-proof-your-seo-strategy"
 ---

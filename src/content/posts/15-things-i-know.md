@@ -2,6 +2,7 @@
 title: "15 Things I Know"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Nick M"
 description: "十五本书的核心教训有一个共同脊柱：人类系统性地只看\"可见的\"第一层结果，而忽视真正塑造现实的力量——不可见的经济代价、量子物理的所有路径叠加、婴儿期大脑的静默重写、随机小决定积累成的命运。"
 source: "https://photonlines.substack.com/p/15-things-i-know"
 ---

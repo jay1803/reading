@@ -2,6 +2,7 @@
 title: "The worthlessness of vitamin D is mildly exaggerated"
 date: 2026-06-24T08:01:36Z
 category: reading
+author: "dynomight"
 description: "观察性研究曾暗示维生素D能降低全因死亡率约30%——换算下来相当于多活3-4年。RCT的贡献是把这个数字戳穿了。但怀疑派从「奇迹是假的」跳到「什么都没有」，跳过了中间地带：如果真实效应只是HR≈0.96，需要约57万名受试者才有80%把握检测出来。现有全部试验加起来约11万人，且大多数受试者入组时血清水平已经偏高。"
 source: "https://dynomight.net/vitamin-d/"
 ---

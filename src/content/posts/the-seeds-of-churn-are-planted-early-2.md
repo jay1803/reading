@@ -2,6 +2,7 @@
 title: "The Seeds of Churn are Planted Early"
 date: 2026-03-12T01:00:53Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户流失的判决往往在签约那一刻就已宣读，只是需要时间执行——销售过程中种下的预期错位，比产品缺陷更难修复，因为它让客户带着合理的失望离开。"
 source: "http://sixteenventures.com/seeds-of-churn"
 ---

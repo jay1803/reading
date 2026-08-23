@@ -2,6 +2,7 @@
 title: "2026 Growth Memo research summary"
 date: 2026-07-02T08:03:15Z
 category: reading
+author: "Kevin Indig"
 description: "2026年Growth Memo汇总13篇数据研究，核心结论是：AI搜索与传统Google的分化不是渐进的，而是在用户行为、引用机制、内容策略、测量体系四个层面同时断裂。"
 source: "https://www.growth-memo.com/p/2026-growth-memo-research-summary"
 ---

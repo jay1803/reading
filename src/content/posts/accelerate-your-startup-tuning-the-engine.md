@@ -2,6 +2,7 @@
 title: "Accelerate Your Startup: Tuning the Engine"
 date: 2021-08-10T13:12:36Z
 category: business
+author: "David Skok"
 description: "two common mistakes being made by startups:"
 source: "https://www.forentrepreneurs.com/part-1-accelerate-your-startup-get-the-right-productmarket-fit/"
 ---

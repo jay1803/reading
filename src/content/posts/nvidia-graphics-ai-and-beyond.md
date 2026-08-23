@@ -2,6 +2,7 @@
 title: "NVIDIA: Graphics, AI and beyond"
 date: 2023-04-10T14:15:22Z
 category: reading
+author: "Kevin Palmer"
 description: "Nvidia"
 source: "https://www.appeconomyinsights.com/p/nvidia-graphics-ai-and-beyond"
 ---

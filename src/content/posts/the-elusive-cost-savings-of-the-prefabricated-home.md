@@ -2,6 +2,7 @@
 title: "The Elusive Cost Savings of the Prefabricated Home"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Brian Potter"
 description: "预制住宅一个世纪的历史反复证明同一件事：工厂化生产能把汽车成本压低 80%，却几乎无法把房屋建造成本压低超过 20%；而且即便这 20% 的节省也往往无法实现。"
 source: "https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated"
 ---

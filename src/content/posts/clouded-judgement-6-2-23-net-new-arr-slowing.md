@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.2.23 - Net New ARR Slowing"
 date: 2023-06-12T16:05:07Z
 category: reading
+author: "Jamin Ball"
 description: "Net ARR Added vs Trailing Average."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-6223"
 ---

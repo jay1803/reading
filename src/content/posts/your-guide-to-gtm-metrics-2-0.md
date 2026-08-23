@@ -2,6 +2,7 @@
 title: "Your guide to GTM metrics 2.0"
 date: 2024-09-02T16:16:52Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章探讨了现代营销对传统销售线索指标（如MQLs和SQLs）的局限性，并提倡采用统一的GTM指标以更有效地管理和优化市场营销活动。核心观点是通过不同团队的协作和新一代工具的运用，形成一个贯穿整体客户旅程的方法，以提高销售效率。"
 source: "https://www.growthunhinged.com/p/your-guide-to-gtm-metrics-20"
 ---

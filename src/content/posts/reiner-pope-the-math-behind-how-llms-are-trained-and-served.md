@@ -2,6 +2,7 @@
 title: "Reiner Pope – The math behind how LLMs are trained and served"
 date: 2026-04-30T08:02:48Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Reiner Pope 是 MatX CEO，之前在 Google 做过 TPU 架构、编译器与软件效率，也参与过 scaling book 相关工作；这场内容是 Dwarkesh 的黑板课式访谈，主题不是新闻评论，而是用少量公式反推前沿 LLM 训练、推理与定价的系统约束。Dwarkesh 在开头披露自己是 M..."
 source: "https://www.dwarkesh.com/p/reiner-pope"
 ---

@@ -2,6 +2,7 @@
 title: "To a Trillion(s) Dollars and beyond: A SpaceX IPO Odyssey!"
 date: 2026-04-24T08:01:56Z
 category: reading
+author: "Aswath Damodaran"
 description: "SpaceX 的 IPO 难点不是“能不能讲出万亿美元故事”，而是这个故事已经把 launch、Starlink、xAI 和未来扩张期权几乎全部资本化了；Damodaran 的基准内在价值是 1.22 万亿美元，接近私募定价但低于传闻 1.75 万亿美元 IPO 定价，意味着买点更可能来自大幅回调，而不是上市首日热度。"
 source: "https://aswathdamodaran.blogspot.com/2026/04/to-trillion-dollars-and-beyond-spacex.html"
 ---

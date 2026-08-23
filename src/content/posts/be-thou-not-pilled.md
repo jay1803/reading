@@ -2,6 +2,7 @@
 title: "Be thou not pilled"
 date: 2026-06-02T08:01:20Z
 category: reading
+author: "Joan Westenberg"
 description: "真正危险的「被 pilled」不是观点激进，而是把判断权外包给一个能提供归属感、敌人、词汇表和确定性的世界观；一旦框架开始替你回答新事实，你拥有的就不再是信念，而是一套自运行的认知程序。"
 source: "https://www.joanwestenberg.com/be-thou-not-pilled/"
 ---

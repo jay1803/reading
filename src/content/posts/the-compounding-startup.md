@@ -2,6 +2,7 @@
 title: "The compounding startup"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Kate Syuma"
 description: "SaaS 能活到 $20M ARR 的公司，起点数据和失败者几乎没有区别；决定性差距来自从 $1M 到 $20M 的过程中，能否系统性地改善 ARPA、NRR、留存与扩展收入——四项同步提升后产生复利效应，而不是某一项单点突破。"
 source: "https://www.growthunhinged.com/p/the-compounding-startup"
 ---

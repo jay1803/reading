@@ -2,6 +2,7 @@
 title: "A definitive guide to marketing attribution"
 date: 2025-05-06T16:41:58Z
 category: reading
+author: "Kate Syuma"
 description: "大多数 SaaS 公司的营销归因断在\"活动层（campaign level）\"——他们知道流量来自 Google 或 Meta，但不知道是哪条广告系列带来了付费客户。缺这一层，营销预算的 15–25% 是系统性浪费，而且会随规模扩大等比放大。"
 source: "https://www.growthunhinged.com/p/guide-to-marketing-attribution"
 ---

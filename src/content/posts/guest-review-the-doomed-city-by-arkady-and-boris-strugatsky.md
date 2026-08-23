@@ -2,6 +2,7 @@
 title: "GUEST REVIEW: The Doomed City, by Arkady and Boris Strugatsky"
 date: 2025-03-13T13:07:38Z
 category: reading
+author: "John Psmith"
 description: "这篇文章是对斯特鲁加茨基兄弟的小说《注定之城》的评论。《注定之城》讲述了一个神秘的“城市”中的“实验”，人们来自不同的时代和地点，被分配不同的工作，面对各种奇怪的现象和挑战。评论认为，这个“城市”象征着一个脱离了根基的文明，无论如何调整都无法挽救，并暗示了西方城市也可能面临同样的命运。"
 source: "https://www.thepsmiths.com/p/guest-review-the-doomed-city-by-arkady"
 ---

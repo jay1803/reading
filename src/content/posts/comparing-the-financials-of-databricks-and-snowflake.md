@@ -2,6 +2,7 @@
 title: "Comparing the Financials of Databricks and Snowflake"
 date: 2025-01-02T11:02:18Z
 category: reading
+author: "Tanay Jaipuria"
 description: "Snowflake 的收入规模稍大（收入运行率高出 26%），利润也更高，但 Databricks 的增长速度明显更快，估值也更高（尽管与公开市场的 Snowflake 相比，是在私人市场）。"
 source: "https://www.tanayj.com/p/comparing-the-financials-of-databricks"
 ---

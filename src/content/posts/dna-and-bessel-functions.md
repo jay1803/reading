@@ -2,6 +2,7 @@
 title: "DNA and Bessel functions"
 date: 2026-08-22T04:17:27Z
 category: reading
+author: "John D. Cook"
 description: "X 射线衍射揭示 DNA 双螺旋结构时，Bessel 函数扮演了关键数学角色：第 n 条层线的衍射振幅正比于 n 阶第一类 Bessel 函数。"
 source: "https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/"
 ---

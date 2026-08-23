@@ -2,6 +2,7 @@
 title: "Reality Check"
 date: 2025-05-06T13:31:48Z
 category: reading
+author: "Ed Zitron"
 description: "这篇文章激烈地批评了当前围绕生成式 AI (Generative AI) 的狂热，尤其是针对 OpenAI。作者认为，关于 AI 革命和 OpenAI 惊人收入预测的说法是脱离现实的、不可持续的泡沫，其建立在有缺陷的商业模式、被夸大的技术能力、误导性的用户数据以及媒体不加批判的报道之上。作者系统性地驳斥了支持 A..."
 source: "https://www.wheresyoured.at/reality-check/"
 ---

@@ -2,6 +2,7 @@
 title: "Would Rand Fishkin Hire Your Managers?"
 date: 2026-04-22T08:01:51Z
 category: reading
+author: "Nick LeRoy"
 description: "这篇文章真正的重点不是“好经理有八项能力”，而是公司把管理当成对优秀个体贡献者的默认奖励，本身就是组织设计错误。作者重读 Rand Fishkin 的管理标准后发现，自己当年最大的问题不是不努力，而是把高标准、强控制、对少数高潜员工的偏爱，误认成了管理能力。坏经理往往不是坏人，而是被放进了不适合的角色。"
 source: "https://www.seoforlunch.com/p/would-rand-fishkin-hire-your-managers"
 ---

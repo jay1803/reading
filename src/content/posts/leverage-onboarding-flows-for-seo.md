@@ -2,6 +2,7 @@
 title: "Leverage onboarding flows for SEO"
 date: 2026-03-16T07:45:11Z
 category: reading
+author: "Eli Schwartz"
 description: "已购用户搜索\"你的产品名 + 功能操作词\"时，你可能输给竞品——因为竞品有公开的操作指南，而你的 onboarding 锁在登录墙后面。品牌词不是护城河，onboarding 步骤公开可索引才是。"
 source: "https://www.productledseo.com/p/leverage-onboarding-flows-for-seo"
 ---

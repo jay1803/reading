@@ -2,6 +2,7 @@
 title: "Why your life feels fake: an antidote to the life you were sold"
 date: 2026-04-21T08:01:04Z
 category: reading
+author: "Dan Koe"
 description: "作者真正的主张不是“追求热爱”，而是：多数人的痛苦来自“身份-生活方式失配”，即一个由童年环境和生存条件预装的信念系统，仍在替你决定今天的目标、节奏和评价标准，所以你不是缺自律，而是在替旧脚本卖命。"
 source: "https://letters.thedankoe.com/p/why-your-life-feels-fake-an-antidote"
 ---

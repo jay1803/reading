@@ -2,6 +2,7 @@
 title: "Harry’s CTO Explains How Their “Go-To-Market” Disrupts Traditional Brands"
 date: 2024-06-15T18:05:01Z
 category: reading
+author: "Sean Ellis"
 description: "This document is a comprehensive transcript from the Breakout Growth podcast, featuring Sandeep Choksey, the Chief Technical Officer at Harry's. The discussi..."
 source: "https://seanellis.substack.com/p/harrys-cto-explains-how-their-go-e10"
 ---

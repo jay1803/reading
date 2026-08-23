@@ -2,6 +2,7 @@
 title: "Sam Altman's Startup Advice (Part 2)"
 date: 2025-11-04T10:50:02Z
 category: reading
+author: "Nick M"
 description: "创业失败只有一个根本原因：没做出用户真正想要的东西。其余——文化、招聘、销售、资金管理——都是这个前提不满足时才显露危险的二阶问题。"
 source: "https://photonlines.substack.com/p/sam-altmans-startup-advice-part-2"
 ---

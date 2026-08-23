@@ -2,6 +2,7 @@
 title: "The evolution of Miro's user onboarding"
 date: 2025-05-21T19:54:02Z
 category: reading
+author: "Kate Syuma"
 description: "Miro 的增长设计负责人回顾了公司自2017年以来用户引导 (user onboarding) 和激活 (activation) 策略的演变过程。文章通过初创期、高速增长期和规模化增长三个阶段，分享了 Miro 在不同发展时期的尝试、失败、学习以及最终形成以数据和用户反馈驱动的“智能迭代”文化，从而不断优化用户..."
 source: "https://www.growthunhinged.com/p/the-evolution-of-miros-user-onboarding"
 ---

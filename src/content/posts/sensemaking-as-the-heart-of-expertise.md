@@ -2,6 +2,7 @@
 title: "Sensemaking as the Heart of Expertise"
 date: 2026-06-13T08:01:51Z
 category: reading
+author: "Cedric Chin"
 description: "专业技能的核心不是技巧积累，而是「框架构建」（frame construction）——专家能看到新手看不到的东西，根本原因在于他们拥有更好的认知框架。数据-框架理论（Data-Frame Theory）表明：「数据」不是独立存在于世界中的，它是框架化过程中被赋予的标签。因此，专业技能加速训练的关键问题只有一个：..."
 source: "https://commoncog.com/sensemaking-heart-of-expertise/"
 ---

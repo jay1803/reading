@@ -2,6 +2,7 @@
 title: "“A model that produces code which compiles and passes the tests it was given is not the same as a model that produces correct, secure, maintainable, well-architected software”"
 date: 2026-05-02T08:02:52Z
 category: reading
+author: "Gary Marcus"
 description: "这篇短文的核心不是反 AI coding，而是提醒“可运行 / 通过测试”与“正确、安全、可维护、架构良好”之间有系统性缺口；LLM 的 next-token prediction 能显著扩展写代码速度，但它天然不等于软件工程质量保证，尤其会放大缺经验 vibe coder 的误判。"
 source: "https://garymarcus.substack.com/p/a-model-that-produces-code-which"
 ---

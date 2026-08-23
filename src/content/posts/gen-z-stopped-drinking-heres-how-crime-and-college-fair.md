@@ -2,6 +2,7 @@
 title: "Gen-Z stopped drinking. Here's how crime and college fair"
 date: 2026-04-18T08:02:51Z
 category: reading
+author: "Ed Latimore"
 description: "这篇文章最核心的判断是，Gen Z 的少喝酒不只是一个健康习惯变化，而是在同时削弱三套旧结构：酒精行业的估值叙事、以醉酒社交为底层燃料的暴力与性侵风险、以及大学把“派对体验”当商品出售的盈利模式。作者真正想说的不是年轻人变乖了，而是一个长期依赖酒精放大器的社会系统，正在被一代人从需求侧拆掉。"
 source: "https://edlatimore.com/gen-z-stopped-drinking"
 ---

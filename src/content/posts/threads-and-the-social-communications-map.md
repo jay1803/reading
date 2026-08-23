@@ -2,6 +2,7 @@
 title: "Threads and the Social/Communications Map"
 date: 2023-07-28T14:35:58Z
 category: reading
+author: "Ben Thompson"
 description: "Meta 新推出的 Threads 与 Twitter 极为相似，但其背后代表的是社交网络发展的不同阶段和策略。Threads 基于算法推荐和全网内容，定位于更广阔的用户群体和商业潜力，而 Twitter 则更侧重于实时信息和特定用户网络。这场竞争的核心在于，哪种模式更能吸引并留住用户，以及文本社交网络的未来形态。"
 source: "https://stratechery.com/2023/threads-and-the-social-communications-map/"
 ---

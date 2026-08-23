@@ -2,6 +2,7 @@
 title: "🇺🇸 How America Spends Money"
 date: 2024-10-08T18:31:16Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章探讨了美国政府的财政状况，包括收入和支出的来源以及未来财政稳定面临的挑战。作者讨论了国家债务对经济的影响，并探讨了可能的财政政策选择。"
 source: "https://www.appeconomyinsights.com/p/how-america-spends-money"
 ---

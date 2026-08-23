@@ -2,6 +2,7 @@
 title: "Beyond Touch Levels: Scaling Customer Success through Appropriate Experience (AX)"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "文章的核心判断是：Customer Success 不该再用“高触达 / 低触达 / tech-touch”这类接触强度标签来定义客户，而该用 Appropriate Experience（AX）来定义每个客户真正需要什么样的体验。问题的关键不在于谁付的钱更多，而在于这个客户要实现成功，实际需要怎样的互动频率、支..."
 source: "https://sixteenventures.com/customer-success-touch-levels"
 ---

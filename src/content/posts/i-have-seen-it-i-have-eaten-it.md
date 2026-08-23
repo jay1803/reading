@@ -2,6 +2,7 @@
 title: "I have seen it. I have eaten it!"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Rebecca Darley"
 description: "Cosmas 的动物叙述最有价值处，不是证明“古人普遍相信地平”，而是展示一个六世纪罗马人如何把基督教字面主义、个人旅行经验、帝国知识传统和异域动物，压进同一套关于世界秩序的解释系统：动物既是证据，也是权威、娱乐和帝国想象的边界标记。"
 source: "https://coffeewithclio.substack.com/p/i-have-seen-it-i-have-eaten-it"
 ---

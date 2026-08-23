@@ -2,6 +2,7 @@
 title: "TTFV as a Sales KPI to Drive Engagement and Expansion"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "把 TTFV 变成销售 KPI，不是为了衡量 onboarding 效率，而是用销售最熟悉的激励结构（奖金 / 淘汰）倒逼他们停止引入坏客户——不需要直接告诉 Sales \"别接坏单\"，激励会替你说。"
 source: "https://sixteenventures.com/ttfv-sales-kpi"
 ---

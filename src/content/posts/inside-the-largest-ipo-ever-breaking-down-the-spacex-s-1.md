@@ -2,6 +2,7 @@
 title: "Inside the Largest IPO Ever: Breaking Down the SpaceX S-1"
 date: 2026-05-28T08:01:27Z
 category: reading
+author: "Tanay Jaipuria"
 description: "这篇文章的核心判断是：SpaceX 的 IPO 叙事不是“火箭公司 + Starlink + xAI”的拼盘，而是把低成本入轨、全球卫星网络、AI 算力需求和未来轨道数据中心包装成同一个物理基础设施平台。当前财务还撑不起 1.75T 美元估值，真正被定价的是 Starship 成功后对 AI compute、太空..."
 source: "https://www.tanayj.com/p/the-spacex-s-1-building-the-infrastructure"
 ---

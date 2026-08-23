@@ -2,6 +2,7 @@
 title: "The Quittr App will help you quit porn"
 date: 2025-05-06T14:09:38Z
 category: reading
+author: "Ed Latimore"
 description: "作者的核心判断是：戒色情内容不能只靠封锁访问，因为成瘾的真正难点不在“看不看得到”，而在当欲望、无聊、孤独和自动化习惯同时出现时，你有没有一套能把自己拉回来的系统。Quittr 值得推荐，不是因为它比别的拦截器更会封网站，而是因为它把承诺、问责、游戏化、同伴支持、教育内容、正念工具和紧急干预整合成了一套恢复机制，..."
 source: "https://edlatimore.com/quit-porn-quittr-app-review/"
 ---

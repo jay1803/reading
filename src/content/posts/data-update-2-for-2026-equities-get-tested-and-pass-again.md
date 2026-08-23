@@ -2,6 +2,7 @@
 title: "Data Update 2 for 2026: Equities get tested, and pass again!"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Aswath Damodaran"
 description: "PE 接近历史高点，但当用内含股权风险溢价（ERP）衡量时，当前 4.23% 恰好等于 1960 年以来均值——框架给出的信号是\"合理定价\"，而非泡沫；高 PE 本身并不足以支撑减仓结论。"
 source: "https://aswathdamodaran.blogspot.com/2026/01/data-update-2-for-2026-equities-get.html"
 ---

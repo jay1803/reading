@@ -2,6 +2,7 @@
 title: "Why proprietary data is your most defensible AI citation asset"
 date: 2026-06-30T08:04:46Z
 category: reading
+author: "Kevin Indig"
 description: "你拥有独家数据，但引用可能被别人拿走。LLM 的引用逻辑不是\"谁发布了这个数字\"，而是\"谁把它结构化得最容易提取\"。一个把你研究重新包装成干净答案页面的聚合者，会拿走你赚来的引用，因为他们已经在 AI 的可信来源集合里，而你没有。发布独家数据是必要条件，不是充分条件。"
 source: "https://www.growth-memo.com/p/why-proprietary-data-is-your-most"
 ---

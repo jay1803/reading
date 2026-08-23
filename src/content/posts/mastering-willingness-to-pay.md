@@ -2,6 +2,7 @@
 title: "Mastering Willingness to Pay"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Gaurav Vohra"
 description: "定价失败的根本原因不是数学算错了，而是创始人不相信自己的产品值那个价——WTP 访谈的本质是让创始人（和客户）练习用语言建立对价格的信念，而不是收集统计数据。"
 source: "https://substack.gauravvohra.com/p/mastering-willingness-to-pay"
 ---

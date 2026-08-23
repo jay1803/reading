@@ -2,6 +2,7 @@
 title: "SaaS Churn Rate Reduction Starts with Attracting the Right Customers"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "高 churn 不是客服末端问题，而是获客端筛错人、销售端说错话的结果。真正的降 churn 要从 ICP 和期望管理入手：把会成功、会盈利、会长期留下的客户吸进来，把低利润、高抱怨、低匹配的人挡在外面，并在销售阶段就把结果边界说清。这样很多“留存问题”会在签约前被消灭，也能同时改善增长质量、估值和融资叙事。"
 source: "http://sixteenventures.com/saas-churn-rate-attract-right-customers?utm_source=rss&utm_medium=rss&utm_campaign=saas-churn-rate-attract-right-customers"
 ---

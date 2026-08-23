@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.24.25 - The Year of Enterprise AI"
 date: 2025-02-14T18:24:16Z
 category: reading
+author: "Jamin Ball"
 description: "在文章中，“最后一公里”问题指的是AI系统在企业应用中如何保证可靠性和准确性这一挑战。尽管尖端的语言模型展现了出色的能力，但由于大多数模型主要在开放的互联网数据上进行训练，它们在处理涉及企业特定的高度专业化或特殊查询时常常显得力不从心。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-12425-the-year"
 ---

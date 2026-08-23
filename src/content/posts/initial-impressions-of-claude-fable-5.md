@@ -2,6 +2,7 @@
 title: "Initial impressions of Claude Fable 5"
 date: 2026-06-12T08:01:14Z
 category: reading
+author: "Simon Willison"
 description: "Fable 5 的核心差异不是安全过滤器，而是模型\"知道更多\"——更密集的参数知识库让它在没有工具辅助的情况下就能解决 Opus 4.8 需要搜索才能处理的工程问题，数小时内产出相当于数天工作量的代码。"
 source: "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything"
 ---

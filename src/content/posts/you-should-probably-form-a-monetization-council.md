@@ -2,6 +2,7 @@
 title: "You should probably form a monetization council."
 date: 2025-05-06T11:56:50Z
 category: reading
+author: "Elena Verna"
 description: "定价问题的核心障碍不是策略（花 $50 万请顾问没用），而是内部所有权的真空——Product、Sales、Finance 各自触碰但都不完整负责，导致定价年复一年冻结。解法是成立 Monetization Council：一个有实权的跨职能小组，专门负责审批和推进结构性定价变更。"
 source: "https://www.elenaverna.com/p/you-should-probably-form-a-monetization"
 ---

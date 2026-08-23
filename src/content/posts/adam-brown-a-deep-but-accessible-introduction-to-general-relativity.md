@@ -2,6 +2,7 @@
 title: "Adam Brown – A deep but accessible introduction to general relativity"
 date: 2026-07-11T08:05:07Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Adam Brown，物理学家，曾在斯坦福教授广义相对论，现任 Google DeepMind BlueShift 团队负责人，研究 AI 在科学推理上的突破。Dwarkesh Patel 邀请他做一场「普通人能听懂的广义相对论讲座」。"
 source: "https://www.dwarkesh.com/p/adam-brown-gr"
 ---

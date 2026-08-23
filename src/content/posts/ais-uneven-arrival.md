@@ -2,6 +2,7 @@
 title: "AI’s Uneven Arrival"
 date: 2025-01-17T19:04:42Z
 category: reading
+author: "Ben Thompson"
 description: "Box’s route to its IPO, ten years ago this month, was a difficult one: the company first released an S-1 in March 2014, and potential investors were aghast a..."
 source: "https://stratechery.com/2025/ais-uneven-arrival/"
 ---

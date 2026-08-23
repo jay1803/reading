@@ -2,6 +2,7 @@
 title: "Q4 2024 Letter - infuse partners"
 date: 2025-07-03T12:26:26Z
 category: reading
+author: "Ryan Reeves"
 description: "这封信是 Infuse Asset Management 的 Ryan Reeves 写给合作伙伴的2024年第四季度信。信中重申了基金的长期目标，即通过持有高增长、高质量公司的集中投资组合，成为未来50年表现最佳的股票基金。信中详细回顾了 Axon、Nu Holdings、MercadoLibre 等主要持仓公..."
 source: "https://www.investing-city.com/p/q4-2024-letter"
 ---

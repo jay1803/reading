@@ -2,6 +2,7 @@
 title: "F1 The Business"
 date: 2025-07-07T13:36:29Z
 category: reading
+author: "Kevin Palmer"
 description: "Netflix 的纪录片《Drive to Survive》成功地将 F1 从一项欧洲精英运动转变为全球娱乐现象，吸引了大量年轻粉丝。如今，苹果公司正试图复制这一成功，通过投资超过 3.5 亿美元制作 F1 电影，不仅是为了电影本身的票房，更是为了在即将到来的美国转播权竞标中占据有利地位，与 Netflix、Am..."
 source: "https://www.appeconomyinsights.com/p/f1-the-business"
 ---

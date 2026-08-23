@@ -2,6 +2,7 @@
 title: "The Great Blue Frontier"
 date: 2026-04-24T08:01:56Z
 category: reading
+author: "Packy McCormick"
 description: "海洋的核心机会不是“探索更多未知”，而是把海洋从一次性、昂贵、靠人和船的 expedition model，变成可持续驻留、可观测、可行动的基础设施平台；如果 Ulysses 的判断成立，海洋会重演“铁路之于美国西部、SpaceX 之于太空”的成本坍缩。"
 source: "https://www.notboring.co/p/the-great-blue-frontier"
 ---

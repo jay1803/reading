@@ -2,6 +2,7 @@
 title: "Biological Evolution and Information Acquisition"
 date: 2026-06-12T08:01:58Z
 category: reading
+author: "Brian Potter"
 description: "有性生殖的本质是信息获取加速机制——它不靠提升基因平均质量，而是通过基因重组，把\"搜索最优200基因组\"压缩成200个并行的单基因搜索，信息积累速率与基因组长度的平方根成正比（无性生殖则随适应度差而趋近0.25/代）。"
 source: "https://www.construction-physics.com/p/biological-evolution-and-information"
 ---

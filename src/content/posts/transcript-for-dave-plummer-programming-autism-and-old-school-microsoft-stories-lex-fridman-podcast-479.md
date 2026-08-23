@@ -2,6 +2,7 @@
 title: "Transcript for Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Lex Fridman"
 description: "Dave Plummer 以亲历讲述“老派微软”的工程实践：从 TRS-80 自学入门、以 HyperCache 打开微软之门，到在 Windows 95/NT 时代打造 Zip Folders 与 Task Manager；他强调长期“所有权”与细节打磨的工匠精神，同时分享作为自闭症人士（ASD）的沟通与情绪调..."
 source: "https://lexfridman.com/dave-plummer-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=dave-plummer-transcript"
 ---

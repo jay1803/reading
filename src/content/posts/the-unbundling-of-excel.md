@@ -2,6 +2,7 @@
 title: "The Unbundling of Excel"
 date: 2025-04-07T13:28:41Z
 category: reading
+author: "Tomasz Tunguz"
 description: "Excel 正像 Craigslist 一样经历着“拆分”（unbundling）的过程。随着企业规模扩大和需求变化，原本由 Excel 处理的各种通用任务（如轻量级 CRM、项目管理、财务建模等）正被专门的、针对特定工作流程优化的初创公司软件所取代，尤其是在中型企业市场。"
 source: "https://tomtunguz.com/unbundling-of-excel/"
 ---

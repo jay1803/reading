@@ -2,6 +2,7 @@
 title: "Where Are All The Data Centers?"
 date: 2026-05-13T08:01:53Z
 category: reading
+author: "Ed Zitron"
 description: "AI 数据中心建设的真实瓶颈可能不是“需求太强所以供给紧”，而是市场把“规划、签约、破土、局部投产、实际可营收容量”混成了同一种容量；如果真实投产速度只有每年几百 MW 到约 1GW，而不是每季度数 GW，那么 NVIDIA、hyperscaler、Oracle、OpenAI、Anthropic 这条 AI 资本..."
 source: "https://www.wheresyoured.at/where-are-all-the-data-centers/"
 ---

@@ -2,6 +2,7 @@
 title: "Pluralistic: The difference between \"today's task\" and \"accretive work\" (02 Jul 2026)"
 date: 2026-07-03T08:02:22Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 的核心论点：AI 编程悖论——有人用 AI 写出职业生涯最好的代码，有人签出一堆航空业级别的技术债——消解方式不是\"结果不同\"，而是\"他们在做不同的事\"。"
 source: "https://pluralistic.net/2026/07/02/canonization/"
 ---

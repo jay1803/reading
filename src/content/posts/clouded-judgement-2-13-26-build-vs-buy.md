@@ -2,6 +2,7 @@
 title: "Clouded Judgement 2.13.26 - Build vs Buy"
 date: 2026-02-24T10:55:40Z
 category: reading
+author: "Jamin Ball"
 description: "AI 对软件行业的主冲击来自软件供给成本坍塌：新公司能更快、更便宜地为 agent 时代重做一遍 CRM、客服、协作等系统，并把大量存量品类推向商品化。企业内部用 vibe coding 大规模替代成熟 SaaS 仍受维护、安全、合规和长期责任约束，短期被高估；真正被低估的是供给爆炸带来的增长降速与估值重定价。多..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-21326-build-vs"
 ---

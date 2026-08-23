@@ -2,6 +2,7 @@
 title: "CoreWeave IPO, Wolfspeed Reorg, and Alphawave Bid"
 date: 2025-04-17T14:42:08Z
 category: reading
+author: "Doug O'Laughlin"
 description: "CoreWeave IPO 的核心论点不是\"基本面好不好\"，而是\"做空结构本身就是陷阱\"：借贷成本年化 150%+、流通盘极低、市场共识集中单边看空——这是 ARM / ALAB 式轧空的经典前置条件，而大多数投资者正陷入关于 GPU 租赁终端价值的哲学辩论而忽略了这一点。"
 source: "https://www.fabricatedknowledge.com/p/coreweave-ipo-wolfspeed-reorg-and"
 ---

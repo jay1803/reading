@@ -2,6 +2,7 @@
 title: "How AI Could Help Cure Pancreatic Cancer"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Derek Thompson"
 description: "KILL — 未生成摘要。"
 source: "https://www.derekthompson.org/p/how-ai-could-help-cure-pancreatic"
 ---

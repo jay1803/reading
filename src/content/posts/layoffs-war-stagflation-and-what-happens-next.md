@@ -2,6 +2,7 @@
 title: "💥 Layoffs, War, Stagflation, and What Happens Next"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Andrew Lokenauth"
 description: "作者的核心判断是，美国市场正在从“AI成长+宽松预期”的旧框架切换到“战争供给冲击+高油价+高通胀+弱就业”的滞胀框架。真正要调整的不是情绪，而是仓位逻辑：先按冲突延续与停火修复两套情景配置资产。"
 source: "https://www.thefinancenewsletter.com/p/iran-war-stock-market-impact-2026-stagflation"
 ---

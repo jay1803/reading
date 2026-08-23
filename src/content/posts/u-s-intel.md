@@ -2,6 +2,7 @@
 title: "U.S. Intel"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Ben Thompson"
 description: "Intel 的晶圆代工困局不是\"能不能被新创公司替代\"的问题——而是根本不会有人来替代；美国政府持股 10% 的核心价值不是钱，是让 Intel Foundry 的存续变得可信，而这是任何商业信号都无法单独提供的。"
 source: "https://stratechery.com/2025/u-s-intel/"
 ---

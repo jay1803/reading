@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.17.26 - Rising Tide, Hidden Risk"
 date: 2026-04-18T08:02:51Z
 category: reading
+author: "Jamin Ball"
 description: "AI 应用公司眼下同时吃到两种顺风：企业对 AI 支出仍处在“先扩张后算账”的狂热期，且顶层模型仍可被所有人平等租用；这两项条件都不会永久存在。一旦 CFO 开始系统性优化 AI 预算、顶级实验室又把最强模型更多留给自家产品，今天看似一起暴涨的 AI 公司会迅速分化，只有真正差异化的应用层公司和能掌控模型层的公司..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-41726-rising-tide"
 ---

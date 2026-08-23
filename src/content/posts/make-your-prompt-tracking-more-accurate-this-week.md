@@ -2,6 +2,7 @@
 title: "Make your prompt tracking more accurate this week"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Kevin Indig"
 description: "单次运行的 prompt 追踪等同于问卦：同一 prompt 运行 3 次后，仅有 2.2% 的引用保持稳定；LLM 内部采样方差本身就在 10–34% 之间。但\"概率性 ≠ 不可测量\"——天气预报和信用评分同样概率性，照样被系统性追踪。关键字追踪也有个人化和位置差异，行业靠标准化采样解决了。Prompt tra..."
 source: "https://www.growth-memo.com/p/how-to-make-prompt-tracking-much"
 ---

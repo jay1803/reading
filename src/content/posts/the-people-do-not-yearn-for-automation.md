@@ -2,6 +2,7 @@
 title: "The people do not yearn for automation"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Simon Willison"
 description: "公众反 AI 的核心不是“教育不够”或“营销太差”，而是 AI 产业正试图把人、制度与社会都压平成可被数据库和代码操控的对象；普通人感受到的不是赋能，而是被监控、被规训、被替代。"
 source: "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything"
 ---

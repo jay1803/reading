@@ -2,6 +2,7 @@
 title: "MongoDB goes Mobile"
 date: 2023-12-28T16:12:08Z
 category: reading
+author: "muji"
 description: "MDB just had an acquisition, their third. Their prior one, mLab in Oct 2018"
 source: "https://hhhypergrowth.com/mongodb-goes-mobile/"
 ---

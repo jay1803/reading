@@ -2,6 +2,7 @@
 title: "TBM 406: Seeing Everything, Understanding Nothing (The Context Trap)"
 date: 2026-02-24T10:13:42Z
 category: reading
+author: "John Cutler"
 description: "这篇文章批评 AI 圈把“上下文”神化成一种可打包、可传递、灌得越多越好的万能介质。真正的理解来自人在具体情境中的互动、校准与共同建构，所以无论是 context engineering 还是组织领导，在高互动场景里都更接近 interaction design。LLM 可以放大检索、压缩和回忆能力，却不能替代对..."
 source: "https://cutlefish.substack.com/p/tbm-406-seeing-everything-understanding"
 ---

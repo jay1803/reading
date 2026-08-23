@@ -2,6 +2,7 @@
 title: "ServiceTitan S-1 Breakdown"
 date: 2024-12-05T17:01:40Z
 category: reading
+author: "Tanay Jaipuria"
 description: "ServiceTitan 是一家领先的 SaaS 提供商，适用于 HVAC 技术人员、管道工、电工等行业。"
 source: "https://www.tanayj.com/p/servicetitan-s-1-breakdown"
 ---

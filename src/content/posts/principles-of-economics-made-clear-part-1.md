@@ -2,6 +2,7 @@
 title: "Principles of Economics Made Clear (Part 1)"
 date: 2025-11-04T10:50:02Z
 category: reading
+author: "Nick M"
 description: "比较优势（而非绝对优势）才是贸易收益的真正来源：即使一方在所有商品上均更高效，双方仍可因专业化与贸易共同获益；且无论税收名义上向买方还是卖方征收，税负分担比例完全相同——市场价格机制会自动调整。"
 source: "https://photonlines.substack.com/p/principles-of-economics-made-clear"
 ---

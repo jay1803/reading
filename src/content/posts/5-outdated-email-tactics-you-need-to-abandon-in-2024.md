@@ -2,6 +2,7 @@
 title: "5 Outdated Email Tactics You Need to Abandon in 2024"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "邮件没有失效——是还在被\"邮件专家\"持续推荐的那批技巧让邮件失效了。[Fname] 个性化、套用个人爱好搭关系、\"I hope this email finds you well\"——这些曾被视为最佳实践的动作，信号意义已经反转：它们现在直接宣告\"这是批量模板\"。"
 source: "https://sixteenventures.com/email-tactics"
 ---

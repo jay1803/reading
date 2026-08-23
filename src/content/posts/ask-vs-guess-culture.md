@@ -2,6 +2,7 @@
 title: "Ask vs guess culture"
 date: 2023-09-08T16:54:10Z
 category: reading
+author: "Jean Hsu"
 description: "本文探讨了“Ask culture”和“Guess culture”之间的差异及其在家庭和工作中的冲突。Ask culture 鼓励人们直接提出请求，即使这些请求看起来不合理，而被拒绝也没关系。Guess culture 则倾向于通过间接线索和暗示来揣测对方的需求，避免直接提出请求，以免让对方陷入不得不拒绝的窘境..."
 source: "https://jeanhsu.substack.com/p/ask-vs-guess-culture"
 ---

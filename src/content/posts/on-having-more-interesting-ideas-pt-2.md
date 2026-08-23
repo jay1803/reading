@@ -2,6 +2,7 @@
 title: "On having more interesting ideas, pt. 2"
 date: 2026-08-14T13:49:00Z
 category: reading
+author: "Henrik Karlsson"
 description: "有趣的想法是被逼出来的，而非想出来的：六条建议背后是同一逻辑——把自己逼入别人不会去的处境，在那里积累的解法才是别人拿不到的。"
 source: "https://www.henrikkarlsson.xyz/p/interest-ideas-2"
 ---

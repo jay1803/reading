@@ -2,6 +2,7 @@
 title: "Cardlytics $CDLX Stock Pitch"
 date: 2025-03-14T19:57:43Z
 category: reading
+author: "Eric Flaningam"
 description: "Cardlytics (CDLX) 是一家数字广告公司，通过与美国主要银行合作，为超过 1.68 亿月活跃用户提供现金返还优惠。新任 CEO 通过改善财务状况和加强与银行的合作关系，使公司扭亏为盈。最近与 Amex 的合作预计将推动公司在 2025 年实现显著的增长和盈利。尽管目前股价低迷，但该合作的潜力尚未完全..."
 source: "https://blog.publiccomps.com/cardlytics-cdlx-stock-pitch/"
 ---

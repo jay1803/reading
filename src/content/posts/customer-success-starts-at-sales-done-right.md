@@ -2,6 +2,7 @@
 title: "Customer Success Starts at Sales Done Right"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "企业级 SaaS 潜在客户池极其有限（1000 家 → 5 个成交），每一次被\"烧掉\"的线索几乎不可能挽回——客户成功与失败，从销售的第一封邮件就已经决定。"
 source: "http://sixteenventures.com/customer-success-sales-done-right"
 ---

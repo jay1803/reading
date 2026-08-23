@@ -2,6 +2,7 @@
 title: "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)"
 date: 2026-07-01T08:03:03Z
 category: reading
+author: "Cory Doctorow"
 description: "Jo Walton 的新作《Everybody's Perfect》把认识论问题直接写进了物理法则：在幻象威尼斯 Serenissima，足够多居民相信某件事它就成真；一旦无人注目，岛屿、建筑、乃至神祇都会消融入雾中。见面的问候语是\"我看见你\"——不是礼节，是字面意义上的存续确认。把船拴好还不够，还得雇个流浪儿守..."
 source: "https://pluralistic.net/2026/06/30/serenissima/"
 ---

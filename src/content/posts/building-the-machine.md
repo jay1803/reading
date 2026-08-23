@@ -2,6 +2,7 @@
 title: "Building the Machine"
 date: 2021-11-04T13:12:43Z
 category: marketing
+author: "David Skok"
 description: "Building the machine involves the following steps:"
 source: "https://www.forentrepreneurs.com/building-the-machine/"
 ---

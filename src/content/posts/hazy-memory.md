@@ -2,6 +2,7 @@
 title: "Hazy Memory"
 date: 2026-06-28T08:02:48Z
 category: reading
+author: "Ernie Smith"
 description: "苹果的商业模式本质上是一次 50 年的赌注——通过掌控尽量多的生产环节最大化利润。它已拥有自研 SoC（委托台积电制造），但 RAM 和闪存至今是两个例外。更讽刺的是，当前这次 RAM 危机有苹果自己的因果：Micron 首席商务官 Sumit Sadana 直接指出，2023 年内存市场低谷期，某些客户（暗指苹..."
 source: "https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration"
 ---

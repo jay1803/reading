@@ -2,6 +2,7 @@
 title: "AI-SEO is a change management problem"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Kevin Indig"
 description: "很多团队把 AI-SEO 当成“新工具 + 新战术”的升级，但文章认为失败通常发生在更早一层：组织没有达成共同定义、共同目标和共同责任，导致战术在落地前就被内耗掉。"
 source: "https://www.growth-memo.com/p/ai-seo-is-a-change-management-problem"
 ---

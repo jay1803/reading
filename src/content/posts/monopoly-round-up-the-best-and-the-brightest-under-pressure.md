@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: The Best and the Brightest Under Pressure"
 date: 2025-06-18T21:51:42Z
 category: reading
+author: "Matt Stoller"
 description: "本期“Monopoly Round-Up”一方面梳理三条重要动态（Musk 与 Trump 的权力冲突可能引发人事变化、Copyright Office 给出 McDonald’s 冰淇淋机“修复”路径、上诉法院驳回 Apple 要求恢复 App Store 垄断地位的紧急请求），另一方面以哈佛校友返校为切口，反..."
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-best-and-the"
 ---

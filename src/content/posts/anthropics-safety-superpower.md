@@ -2,6 +2,7 @@
 title: "Anthropic’s Safety Superpower"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Ben Thompson"
 description: "Anthropic 的安全叙事之所以奏效，不是因为它是营销话术，而是公司上下真正相信它——使命、人才与商业利益的完美对齐，才是 Anthropic 真正的护城河，也是最值得警惕之处。"
 source: "https://stratechery.com/2026/anthropics-safety-superpower/"
 ---

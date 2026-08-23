@@ -2,6 +2,7 @@
 title: "Your path to a leadership role doesn’t start with you."
 date: 2025-05-26T17:44:55Z
 category: reading
+author: "Elena Verna"
 description: "通往领导力之路并非孤军奋战，而是一项集体项目。为了成功晋升，你需要战略性地让他人参与到你的职业规划中，这包括学习榜样、争取上司支持、建立个人顾问团、培养接班人，并对自己真正想要的东西保持清醒的认识。"
 source: "https://www.elenaverna.com/p/your-path-to-a-leadership-role-doesnt"
 ---

@@ -2,6 +2,7 @@
 title: "Alteryx is not SaaS"
 date: 2023-12-28T16:10:37Z
 category: reading
+author: "muji"
 description: "Software-as-a-Service is TYPICALLY defined as both a licensing model (subscription) AND a delivery method (they host the service, so there is no installation..."
 source: "https://hhhypergrowth.com/alteryx-is-not-saas/"
 ---

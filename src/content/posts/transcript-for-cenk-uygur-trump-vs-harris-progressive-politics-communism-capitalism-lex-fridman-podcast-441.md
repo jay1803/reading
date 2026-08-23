@@ -2,6 +2,7 @@
 title: "Transcript for Cenk Uygur: Trump vs Harris, Progressive Politics, Communism & Capitalism | Lex Fridman Podcast #441"
 date: 2024-09-02T14:19:09Z
 category: reading
+author: "Lex Fridman"
 description: "这是一篇 Cenk Uygur 和 Lex Fridman 的访谈记录，访谈中 Cenk Uygur 讨论了进步主义、共产主义、资本主义和社团主义之间的区别，并认为金钱是目前美国政治中最主要的影响因素。Cenk Uygur 是一位进步派政治评论员，《青年土耳其人》(The Young Turks) 的主持人。"
 source: "https://lexfridman.com/cenk-uygur-transcript/"
 ---

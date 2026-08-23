@@ -2,6 +2,7 @@
 title: "Transcript for State of AI in 2026: LLMs, Scaling Laws, China, Coding, Agents, GPUs, AGI | Lex Fridman Podcast #490"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Lex Fridman"
 description: "RLVR（可验证奖励强化学习）已成为后训练的核心驱动力，其关键特性是\"可无限加码\"——RLHF 存在信号饱和上限，而 RLVR 遵循对数-线性 scaling law，多投入10×算力仍有线性收益；这一差异正在重塑 AI 研究的资源分配逻辑。"
 source: "https://lexfridman.com/ai-sota-2026-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026-transcript"
 ---

@@ -2,6 +2,7 @@
 title: "Build agents, not pipelines"
 date: 2026-06-01T08:01:18Z
 category: reading
+author: "Sean Goedecke"
 description: "当任务难点在“事前不知道该收集哪些上下文”或“必须根据中间结果继续行动”时，pipeline 的可控性会变成认知天花板；agent 的不确定成本是它购买额外智能的价格，coding agent 已经证明这笔价格在高难任务上常常划算。"
 source: "https://seangoedecke.com/build-agents-not-pipelines/"
 ---

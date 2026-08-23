@@ -2,6 +2,7 @@
 title: "Differentiation - by Kevin Indig - Growth Memo"
 date: 2024-10-21T18:21:10Z
 category: reading
+author: "Kevin Indig"
 description: "这篇文章探讨了过度依赖SEO可能导致缺乏差异化的问题。作者主张采用差异化策略作为一种更有效的竞争方式，在纷争激烈且资源吃紧的市场环境中，依靠改进产品和品牌独特性来获得竞争优势。"
 source: "https://www.growth-memo.com/p/differentiation"
 ---

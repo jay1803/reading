@@ -2,6 +2,7 @@
 title: "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "John Gruber"
 description: "这篇文章真正想下刀的不是苹果接班，而是“谁的苹果爆料值得信”。结论是：FT 在 Cook→Ternus 交班时间窗、公告方式、Ternus 人选上几乎全中，因为它拿到的是经过准许的高层预期管理式泄露；Gurman 虽然更早押中 Ternus，但在关键时间判断上公开把 FT 说成“simply false”，结果把..."
 source: "https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition"
 ---

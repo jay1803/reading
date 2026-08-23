@@ -2,6 +2,7 @@
 title: "What is a Tech Bubble Anyway?"
 date: 2025-11-19T08:43:10Z
 category: reading
+author: "Cedric Chin"
 description: "\"这是不是泡沫\"是错误的问题框架。与其把 AI 时代对标点 com 泡沫，不如校准一个更基础的模式：新技术出现 → 行业急速扩张、大量玩家涌入 → 整合洗牌。这个模式比\"泡沫\"标签本身更有预测力，而且无论结论是泡沫还是不是，对你应该怎么做的影响都极为有限。"
 source: "https://commoncog.com/what-is-a-tech-bubble/"
 ---

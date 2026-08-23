@@ -2,6 +2,7 @@
 title: "Bad Sales Handoffs Cause Customers to Ghost During Onboarding"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "Onboarding 期间客户消失（ghost），100% 是销售交接流程设计失败的结果——\"把问题踢回给 Sales\"的操作，恰好揭示了真正的根源：Sales 从未真正完成交接，关系的主导权从未转出去。"
 source: "https://sixteenventures.com/ghosting-during-onboarding"
 ---

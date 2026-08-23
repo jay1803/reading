@@ -2,6 +2,7 @@
 title: "An Interview with Meta CEO Mark Zuckerberg About AI and the Evolution of Social Media"
 date: 2025-05-06T16:09:55Z
 category: reading
+author: "Ben Thompson"
 description: "Mark Zuckerberg，Meta CEO 兼联合创始人。本次采访由 Ben Thompson（Stratechery 主理人）于 2025 年 4 月 LlamaCon 前夕在 Meta 总部面对面进行，时间节点紧接 Meta 一季度财报与 Llama 4 发布。"
 source: "https://stratechery.com/2025/an-interview-with-meta-ceo-mark-zuckerberg-about-ai-and-the-evolution-of-social-media/"
 ---

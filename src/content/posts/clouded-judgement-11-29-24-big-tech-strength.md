@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.29.24 - Big Tech Strength"
 date: 2024-12-02T14:52:48Z
 category: reading
+author: "Jamin Ball"
 description: "上周我写了一篇文章，介绍了软件行业可能开始的轮换（软件行业上涨，而大型科技公司/mag7 表现不佳）。一星期后我们在哪里？ WCLD指数自上周五以来基本持平（小幅下跌），而Mag7则大幅上涨（微软上涨1%，Meta上涨2%，亚马逊上涨4%，谷歌上涨3%，苹果上涨2%，英伟达下跌5%） %，特斯拉下跌 6%）。所以..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-112924-big-tech"
 ---

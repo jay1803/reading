@@ -2,6 +2,7 @@
 title: "Spot checking polynomial identities"
 date: 2026-05-31T08:00:59Z
 category: reading
+author: "John D. Cook"
 description: "Schwartz-Zippel 给多项式恒等式提供了一种概率验真方式：不用完整展开或逐项证明，只要在足够大的有限域里随机代入少量点，非零差多项式“刚好等于 0”的概率就被总次数与域大小的比例压住。"
 source: "https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/"
 ---

@@ -2,6 +2,7 @@
 title: "Personal context search is the real SEO apocalypse"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Eli Schwartz"
 description: "搜索个性化的真正终局不是让结果更准确，而是让\"主动搜索\"这个行为本身消失——当 Google 把\"最好的车\"扩写成\"适合每天通勤 40 英里、开着租约本田 Civic、有环保倾向的你的最好的车\"时，SEO 的底层逻辑（关键词流量）就失去了作用对象。"
 source: "https://www.productledseo.com/p/personal-context-search-is-the-real"
 ---

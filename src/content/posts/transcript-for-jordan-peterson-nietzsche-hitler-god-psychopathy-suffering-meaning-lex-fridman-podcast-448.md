@@ -2,6 +2,7 @@
 title: "Transcript for Jordan Peterson: Nietzsche, Hitler, God, Psychopathy, Suffering & Meaning | Lex Fridman Podcast #448"
 date: 2024-10-12T14:52:01Z
 category: reading
+author: "Lex Fridman"
 description: "Nietzsche is very succinct partly he was so ill because he would think all day he couldn’t spend a lot of time writing. And he condenses writings into very s..."
 source: "https://lexfridman.com/jordan-peterson-2-transcript/"
 ---

@@ -2,6 +2,7 @@
 title: "Apple Retreats"
 date: 2025-06-18T21:51:02Z
 category: reading
+author: "Ben Thompson"
 description: "WWDC 之后，Apple 公开承认去年的 Siri/Apple Intelligence 夸口与交付脱节，选择“撤退与重置”：在 AI 叙事上收回承诺、回到可落地功能与系统一致性（Liquid Glass），并在监管高压下收敛 App Store 的过度控制，以免伤及其最核心的差异化——跨设备与系统层的“集成”。"
 source: "https://stratechery.com/2025/apple-retreats/"
 ---

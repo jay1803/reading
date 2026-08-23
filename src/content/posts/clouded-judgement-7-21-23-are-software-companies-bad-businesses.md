@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.21.23 - Are Software Companies Bad Businesses?"
 date: 2023-07-28T14:56:58Z
 category: reading
+author: "Jamin Ball"
 description: "本文探讨了软件公司是否是“糟糕的商业模式”，针对 Chamath Palihapitiya 在 All-In 播客中的批评——“软件公司运营成本高，无法产生自由现金流”——进行了数据反驳。文章分析了 80 家软件公司的财务数据，并提出软件公司可分为“增长模式”和“成熟模式”两个阶段，不应仅以短期盈利能力来评判其价值。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-72123-are-software"
 ---

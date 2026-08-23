@@ -2,6 +2,7 @@
 title: "Two AI Lab IPOs: S-1 Breakdowns"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Tanay Jaipuria"
 description: "智谱专注企业侧部署（on-prem 占营收 84.5%，仅 95 家客户），MiniMax 靠 4 款 C 端应用撬动 2.12 亿用户——两条路殊途同归：2024 年均亏损 4 亿美元以上，IPO 首日分别涨 80% 和翻倍，现以 200x+ 年化收入交易。"
 source: "https://www.tanayj.com/p/two-ai-lab-ipos-s-1-breakdowns"
 ---

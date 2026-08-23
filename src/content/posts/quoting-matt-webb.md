@@ -2,6 +2,7 @@
 title: "Quoting Matt Webb"
 date: 2026-03-29T17:23:59Z
 category: reading
+author: "Simon Willison"
 description: "Agent 把编程变成了一个\"无限算力暴力求解\"的问题——而这反而让架构变得比以往任何时候都重要。"
 source: "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything"
 ---

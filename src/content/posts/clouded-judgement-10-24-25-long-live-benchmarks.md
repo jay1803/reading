@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.24.25 - Long Live Benchmarks"
 date: 2025-10-30T14:50:53Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章的核心判断是：通用大模型的公开 benchmark 正在失去区分度，因为主流模型在常见榜单上的分差已经小到不足以指导用户选择；但 benchmark 本身并没有消失，而是从“赛后记分牌”变成了“训练时的教师”。真正新的稀缺资源，不再只是更多通用标注数据，而是能把医学、法律、金融这类具体场景里的“什么算好答..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-102425-long-live"
 ---

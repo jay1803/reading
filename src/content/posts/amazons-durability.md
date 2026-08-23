@@ -2,6 +2,7 @@
 title: "Amazon’s Durability"
 date: 2026-05-06T08:02:42Z
 category: reading
+author: "Ben Thompson"
 description: "Amazon 的耐久性来自一种反复复用的资本配置模式：先为自己建设高固定成本基础设施，把原本的边际成本资本化，再把这些“内部 primitives”开放给外部客户，用规模扩大回报、降低单位成本，并在十年尺度上形成护城河。ASCS、AWS、Trainium、Bedrock、Leo 卫星网络都属于同一个母题。"
 source: "https://stratechery.com/2026/amazons-durability/"
 ---

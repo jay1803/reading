@@ -2,6 +2,7 @@
 title: "Is your international growth strategy a hot mess?"
 date: 2025-05-26T17:45:54Z
 category: reading
+author: "Elena Verna"
 description: "许多公司在进行国际扩张时，实际上只是在上演“国际化剧场 (Internationalization Theater)”，即表面上投入资源，却没有进行深入的本地化工作，导致收效甚微。要实现真正的全球增长，公司必须将国际化视为一项整体战略而非短期战术，需要转变思维、组建合适的跨职能团队、将全球市场分层并设定切合实际的..."
 source: "https://www.elenaverna.com/p/is-your-international-growth-strategy"
 ---

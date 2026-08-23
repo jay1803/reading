@@ -2,6 +2,7 @@
 title: "Offline Is Just Online With Extreme Latency"
 date: 2023-04-20T13:01:04Z
 category: reading
+author: "Jim Nielsen"
 description: "文章主要介绍了 Peter Van Hardenberg 在“Local-first Software”演讲中提出的观点，即重新定义“离线”和“在线”的概念，将“离线”视为“在线”状态下具有极端延迟的一种形式。这种新的思维方式鼓励开发者构建以本地数据同步为中心的应用，而不是依赖于持续的网络连接和 API 调用。"
 source: "https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/"
 ---

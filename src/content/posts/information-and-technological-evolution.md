@@ -2,6 +2,7 @@
 title: "Information and Technological Evolution"
 date: 2026-04-11T08:02:45Z
 category: reading
+author: "Brian Potter"
 description: "这篇文章真正推进的，不只是“复杂技术要靠简单技术当垫脚石”，而是更关键的一层：发明本质上是一个信息获取问题。复杂技术之所以难，不主要因为零件多，而是可行解埋在荒谬巨大的搜索空间里。模块化、分层结构、阶段性目标之所以重要，是因为它们让每次试错都能排除掉一大片错误空间，而不是把一次失败白白浪费掉。"
 source: "https://www.construction-physics.com/p/information-and-technological-evolution"
 ---

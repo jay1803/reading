@@ -2,6 +2,7 @@
 title: "When ARR is not ARR"
 date: 2025-10-30T14:52:28Z
 category: reading
+author: "Tanay Jaipuria"
 description: "作者在拆解一个被滥用的 SaaS 指标：很多公司嘴里的 ARR，既不 annual，也不 recurring，有时甚至不算 revenue。把可随时取消的月费、一次性项目、短期用量尖峰、试点收入、尚未发生的扩容，甚至 GMV 全都年化进 ARR，会把“未来也许会发生的收入”伪装成“已经被合同和留存支撑的可预测收入..."
 source: "https://www.tanayj.com/p/when-arr-is-not-arr"
 ---

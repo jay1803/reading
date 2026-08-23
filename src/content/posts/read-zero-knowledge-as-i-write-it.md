@@ -2,6 +2,7 @@
 title: "Read Zero Knowledge As I Write It"
 date: 2026-06-21T08:01:16Z
 category: reading
+author: "Brad Feld"
 description: "Brad Feld 用 AI 写作伙伴 Phin 写小说，关键不是\"AI 辅助\"，而是这个循环本身会自我改进：Phin 依据 beat 和 canon 起草一章 → Feld 大幅改写 → Phin 读改写产生的 diff，将学到的内容折回 canon 和声音档案，下一章从\"更少错误\"的起点出发。这是一个逐章校准..."
 source: "https://feld.com/archives/2026/06/read-zero-knowledge-as-i-write-it/"
 ---

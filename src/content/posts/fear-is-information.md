@@ -2,6 +2,7 @@
 title: "Fear is information."
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Joan Westenberg"
 description: "恐惧最有价值的部分不是行动指令，而是暴露真实筹码：人会用理性叙事掩盖自己在乎什么，但身体的退缩、拖延和防御会更诚实地标出“我害怕失去什么”。"
 source: "https://www.joanwestenberg.com/fear-is-information/"
 ---

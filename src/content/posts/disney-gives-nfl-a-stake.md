@@ -2,6 +2,7 @@
 title: "🏈 Disney Gives NFL a Stake"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Kevin Palmer"
 description: "Disney 以 ESPN 10% 股权（约 $30 亿）换取 NFL 全内容分发权，零现金交易。把最有价值的内容方变成自家股东，这不是采购，是战略套锁。"
 source: "https://www.appeconomyinsights.com/p/disney-gives-nfl-a-stake"
 ---

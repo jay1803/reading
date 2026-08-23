@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.1.25 - The AI Operating Model"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Jamin Ball"
 description: "AI 的真正竞争优势不在于用了更好的模型，而在于整个公司的运作方式因 AI 而重构——这一次，和 SaaS 时代的剧本几乎一模一样。率先改变\"打法\"的公司，会把沿用旧打法的公司远远甩开。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-8125-the-ai-operating"
 ---

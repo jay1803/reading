@@ -2,6 +2,7 @@
 title: "Transcript for Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | Lex Fridman Podcast #467"
 date: 2025-05-06T13:39:45Z
 category: reading
+author: "Lex Fridman"
 description: "Tim Sweeney，Epic Games 创始人兼 CEO，1971 年生，少年时靠在父母地址邮寄软件起家，1991 年发布第一款商业游戏 ZZT，此后构建了 Unreal Engine 并开创 Fortnite。[补充：Epic 总部位于北卡罗来纳州卡里，Sweeney 持有超过 50% 投票权，是独立于大..."
 source: "https://lexfridman.com/tim-sweeney-transcript/"
 ---

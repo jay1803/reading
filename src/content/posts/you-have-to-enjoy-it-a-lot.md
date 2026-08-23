@@ -2,6 +2,7 @@
 title: "You Have to Enjoy It a Lot"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Naval Ravikant"
 description: "营销渠道的正确选择标准是\"你能不能病态地享受它\"，而不是\"哪个渠道转化率最高\"。低于\"病态享受\"这个门槛的热情，受众一眼看穿。"
 source: "https://nav.al/enjoy"
 ---

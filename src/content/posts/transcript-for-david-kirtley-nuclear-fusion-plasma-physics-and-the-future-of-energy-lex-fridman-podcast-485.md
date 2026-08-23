@@ -2,6 +2,7 @@
 title: "Transcript for David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485"
 date: 2025-11-19T08:43:10Z
 category: reading
+author: "Lex Fridman"
 description: "David Kirtley，核工程师，Helion Energy CEO。Helion 是目前最接近商业核聚变的私人公司，已完成七代原型机迭代，并在 2023 年与微软签订协议——目标 2028 年为数据中心供电。[补充：Helion 于 2021 年完成 5 亿美元 B 轮融资，投资方包括 Sam Altman..."
 source: "https://lexfridman.com/david-kirtley-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=david-kirtley-transcript"
 ---

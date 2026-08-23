@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.21.24 - What it Takes to Be Valued at >10x Rev"
 date: 2024-07-29T16:04:15Z
 category: reading
+author: "Jamin Ball"
 description: "When looking at the top 20 software companies with the highest NTM revenue multiples, the range spans ~8x (Mongo) to 21x (Crowdstrike). A couple interesting..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-62124-what-it-takes"
 ---

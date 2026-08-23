@@ -2,6 +2,7 @@
 title: "❄️ Snowflake: AI Consumption Wins"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Kevin Palmer"
 description: "AI 对企业软件的分化不在“谁讲了更多 agent 故事”，而在谁能把 agent 工作量直接转成收入。Salesforce 已经证明 Agentforce 有真实使用量，但还没证明这种使用会弥补核心 SaaS 增长放缓；Snowflake 的消费模型则把 AI 查询、治理和计算需求直接计入产品收入，所以同一个..."
 source: "https://www.appeconomyinsights.com/p/snowflake-ai-consumption-wins"
 ---

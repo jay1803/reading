@@ -2,6 +2,7 @@
 title: "Pluralistic: Tools vs uses (16 Mar 2026)"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Cory Doctorow"
 description: "DMCA 1201 的\"豁免\"在设计上是\"使用豁免\"而非\"工具豁免\"——你在法律上有权自己越狱设备，但没有人被允许为你制造那个工具，也没有人能发布方法或分享代码。这不是立法疏漏，是刻意设计的无效条款。"
 source: "https://pluralistic.net/2026/03/16/whittle-a-webserver/"
 ---

@@ -2,6 +2,7 @@
 title: "How I read"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Henrik Karlsson"
 description: "读完一本书感到清晰，几乎可以确定是假清晰。真正的理解始于你同时读五本相互矛盾的书，头痛到不得不自己重建论证的那一刻。"
 source: "https://www.henrikkarlsson.xyz/p/how-i-read"
 ---

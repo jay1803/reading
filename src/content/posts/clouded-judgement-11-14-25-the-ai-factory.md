@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.14.25 - The AI Factory"
 date: 2025-11-19T08:34:44Z
 category: reading
+author: "Jamin Ball"
 description: "能赢得\"AI 工厂\"赛道的，不是做出最好模型的公司，而是拥有整条闭环平台——从选模型、蒸馏、微调、部署到监控再训练——的那个人；这个平台将成为现代企业 AI 的操作系统。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-111425-the-ai-factory"
 ---

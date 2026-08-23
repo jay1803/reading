@@ -2,6 +2,7 @@
 title: "Reflections on the Software Dark Factory Q&A"
 date: 2026-06-08T08:01:29Z
 category: reading
+author: "Cedric Chin"
 description: "这篇短文最关键的信息是：Software Dark Factory 尚未被证明可行，但一个严肃的技术观察者在亲眼看完演示后，已经被迫把自己的旧软件工程框架放进“暂停审判”状态。哪怕他仍不完全接受“无人写代码、无人读代码也能高质量交付”的设想，现场证据已经足以让旧信念产生身份层面的震动。"
 source: "https://commoncog.com/reflections-on-the-software-dark-factory-q-a/"
 ---

@@ -2,6 +2,7 @@
 title: "Costless Sacrifice"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Packy McCormick"
 description: "\"无代价的牺牲\"不是牺牲——这不只是道德论断，而是一个信号机制的崩溃：当 AI 让任何人都能零成本产出高质量简历、文章、代码，所有这些输出就同时失去了区分信号的价值，你仍然必须产出它们，只是它们不再代表任何东西。"
 source: "https://www.notboring.co/p/costless-sacrifice"
 ---

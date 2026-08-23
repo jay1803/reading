@@ -2,6 +2,7 @@
 title: "Pluralistic: Corrupt anticorruption (14 Mar 2026)"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Cory Doctorow"
 description: "即便每次起诉都指向真实罪行，选择性执法本身仍是腐败——在\"人人有罪\"的体制里，只打政敌、放过盟友，合法性不能漂白这个模式本身。"
 source: "https://pluralistic.net/2026/03/14/ill-have-what-xis-having/"
 ---

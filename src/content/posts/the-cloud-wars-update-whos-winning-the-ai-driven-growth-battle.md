@@ -2,6 +2,7 @@
 title: "The Cloud Wars Update: Who’s Winning the AI-Driven Growth Battle"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Tanay Jaipuria"
 description: "Azure 以 43% 的新增份额占比赢得云战争的增量之争——绝对体量仍落后 AWS 约 40%，但在过去一年全行业新增的约 550 亿美元年化收入中，Azure 独吞 236 亿，超过 AWS 的 184 亿。"
 source: "https://www.tanayj.com/p/the-cloud-wars-update-whos-winning"
 ---

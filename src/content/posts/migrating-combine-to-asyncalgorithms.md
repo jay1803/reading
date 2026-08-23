@@ -2,6 +2,7 @@
 title: "Migrating Combine to AsyncAlgorithms"
 date: 2025-05-12T13:48:58Z
 category: reading
+author: "Jacob Bartlett"
 description: "这篇文章的核心判断是：如果你还在用 Combine，最值得迁移的不是一次性清空实现细节，而是先把公开接口换成 Swift Concurrency / AsyncAlgorithms 能直接消费的 AsyncSequence 语义。这样既能保留存量 Combine 代码作为仓库内部实现，又能让上层 view mod..."
 source: "https://blog.jacobstechtavern.com/p/migrating-combine-to-asyncalgorithms"
 ---

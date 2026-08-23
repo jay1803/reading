@@ -2,6 +2,7 @@
 title: "Creating Customer Success Playbooks with ChatGPT"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "用 ChatGPT 写 CS Playbook 的核心陷阱：它的生成能力会把垃圾输入包装成看起来专业的输出——旧规则\"垃圾进垃圾出\"在这里失效，因为\"垃圾出\"被掩盖了。"
 source: "https://sixteenventures.com/creating-customer-success-playbooks-with-chatgpt"
 ---

@@ -2,6 +2,7 @@
 title: "Accenture: Then and now, and how it may signify things to come"
 date: 2026-06-19T08:02:21Z
 category: reading
+author: "Gary Marcus"
 description: "Accenture 去年 9 月还在大力鼓吹 30 亿美元 AI 豪赌将彻底转型业务；2026 年 6 月 18 日财报后，股价单日跌约 18%、单周跌近 23%，距 52 周高点跌超 50%。这不是孤例：MIT、麦肯锡、贝恩等机构的多项研究一再证明，生成式 AI 没有给企业带来显著效益增量。"
 source: "https://garymarcus.substack.com/p/accenture-then-and-now-and-how-it"
 ---

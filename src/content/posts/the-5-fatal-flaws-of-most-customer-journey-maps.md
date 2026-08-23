@@ -2,6 +2,7 @@
 title: "The 5 Fatal Flaws of most Customer Journey Maps"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "大多数 customer journey map 失败，因为它画的是厂商希望客户走的产品路径，而不是客户通向 Desired Outcome 的真实路径。真实路径会随客户状态、时间跨度、推进节奏和客户分层持续变化，所以静态地图天然会把体验设计成内向、短视、同质化，结果是客户离成功更远，供应商离 churn 更近。"
 source: "http://sixteenventures.com/customer-journey-maps"
 ---

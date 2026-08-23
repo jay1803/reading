@@ -2,6 +2,7 @@
 title: "How Long Do We Wait for New Inventions?"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Brian Potter"
 description: "技术发明通常不是“早就能做却没人做”的长期悬案；一旦关键前置条件真正到位，多数重要发明会在几十年内出现，而且 1900 年后这个等待窗口明显收窄。更重要的结论是：限制发明的常常不是新科学，而是材料、工艺、系统集成、需求场景与跨领域知识连接。"
 source: "https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions"
 ---

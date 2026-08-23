@@ -2,6 +2,7 @@
 title: "The Success Gap: A HUGE Opportunity You Haven’t Considered"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章提出了一个很有用的概念：Success Gap。它指的是，客户已经在功能上“完成了产品使用动作”，但仍然没有真正到达他们想要的业务结果。也就是说，客户可能已经发送了邮件、投放了广告、收集了线索、完成了 onboarding，看上去很活跃、很成功，但实际上并没有实现“多卖货、拿到更多客户、提升效率、完成关键..."
 source: "http://sixteenventures.com/success-gap"
 ---

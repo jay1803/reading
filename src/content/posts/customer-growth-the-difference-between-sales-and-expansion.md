@@ -2,6 +2,7 @@
 title: "Customer Growth: The Difference between Sales and Expansion"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "给 Expansion 配 quota 会主动压缩增长天花板——对现有客户推销的核心优势（了解其旅程、已有关系、已知目标）恰恰被 New Business 那套打法（配额驱动、广撒网、close 率逻辑）彻底摧毁。"
 source: "https://sixteenventures.com/customer-growth-expansion"
 ---

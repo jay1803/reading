@@ -2,6 +2,7 @@
 title: "NPLG 9.23.23: Great Companies Are Built in the First Year"
 date: 2023-10-11T17:27:59Z
 category: reading
+author: "Zachary DeWitt"
 description: "本文探讨了初创公司第一年的重要性，强调成功企业往往在最初阶段奠定坚实基础，而非盲目追求速度。文章引用多位创业者的经验，指出在产品开发前进行充分的用户研究、验证需求，并持续迭代，是提高长期成功率的关键。此外，文章还提供了一些知名 PLG（产品驱动增长）公司的市场数据和最新融资动态。"
 source: "https://notoriousplg.substack.com/p/nplg-92323-great-companies-are-built"
 ---

@@ -2,6 +2,7 @@
 title: "Reverse Trials: Examples"
 date: 2025-05-07T10:23:01Z
 category: reading
+author: "Elena Verna"
 description: "Reverse Trial 的核心竞争力不是\"试用结束后还能免费用\"，而是把最大化转化的时机（付费功能体验期）和最大化留存的安全网（Freemium 兜底）叠在一起——让用户在付费倒计时结束前就觉得\"降级才是损失\"。"
 source: "https://www.elenaverna.com/p/reverse-trials-examples"
 ---

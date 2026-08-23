@@ -2,6 +2,7 @@
 title: "LLM Seeding: A New SEO Strategy to Get Mentioned by LLMs"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Brian Dean"
 description: "优化目标已不再是 Google 排名——90% 的 ChatGPT 引用来自排名第 21 位以后的页面，第 4 页的内容完全可以压过搜索前五。"
 source: "https://backlinko.com/llm-seeding"
 ---

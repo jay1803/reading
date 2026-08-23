@@ -2,6 +2,7 @@
 title: "Softcore Debugging"
 date: 2025-05-12T13:46:39Z
 category: reading
+author: "Jacob Bartlett"
 description: "~po~ 慢的根本原因是它内嵌了整个 Swift 编译器：每次调用都在编译表达式、注入运行进程、执行——换用 ~v~ 可直接读栈帧内存，绕过所有编译，速度\"戏剧性地\"更快。"
 source: "https://blog.jacobstechtavern.com/p/softcore-debugging"
 ---

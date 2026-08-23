@@ -2,6 +2,7 @@
 title: "Does the Rule of 40 Work for Hardware?"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Brad Feld"
 description: "硬件公司的 Rule of 40 要读曲线斜率，而非单季度快照——这不是软化指标，而是一条不同的阅读协议。"
 source: "https://feld.com/archives/2026/06/does-the-rule-of-40-work-for-hardware/"
 ---

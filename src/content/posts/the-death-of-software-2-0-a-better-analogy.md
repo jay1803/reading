@@ -2,6 +2,7 @@
 title: "The Death of Software 2.0 (A Better Analogy!)"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Doug O'Laughlin"
 description: "Claude Code 是 AI 时代的第一个\"真正的网站\"；软件公司面临的不是被 AI 增强，而是被 AI 替换——UI 层即将灭绝，能活下来的只有充当\"NAND\"的数据/API 层。"
 source: "https://www.fabricatedknowledge.com/p/the-death-of-software-20-a-better"
 ---

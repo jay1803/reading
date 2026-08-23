@@ -2,6 +2,7 @@
 title: "LLMs as Social Companions"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "现代孤独的根不是\"连接机会太少\"，而是竞争文化把每个人都变成了需要管理形象的竞争者——连分享真实自我都成了风险。Zuckerberg 提出用 LLM 做社交伴侣，是用同一批科技公司制造的系统来治疗该系统造成的症状。"
 source: "https://photonlines.substack.com/p/llms-as-social-companions"
 ---

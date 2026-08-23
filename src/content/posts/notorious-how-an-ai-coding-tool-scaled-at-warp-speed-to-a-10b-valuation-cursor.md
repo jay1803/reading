@@ -2,6 +2,7 @@
 title: "Notorious: How an AI Coding Tool Scaled at Warp Speed to a $10B Valuation (Cursor)"
 date: 2025-05-06T16:44:21Z
 category: reading
+author: "Zachary DeWitt"
 description: "Cursor约12个月内从零升至$200M ARR（据报超越ChatGPT成史上最快SaaS），团队仅数人；$10B估值对应66倍ARR，投资人押注的是AI IDE赢得开发者工作流基础设施卡位，并非对现有营收的线性定价。"
 source: "https://www.notoriousplg.ai/p/notorious-how-an-ai-coding-tool-scaled"
 ---

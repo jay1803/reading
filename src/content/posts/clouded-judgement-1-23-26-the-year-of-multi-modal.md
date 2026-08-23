@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.23.26 - The Year of Multi-Modal"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Jamin Ball"
 description: "多模态 AI 的瓶颈从未是模型能力，而是推理成本——2026 年这个瓶颈正在消失，AI 将第一次真正离开文本框。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-12326-the-year"
 ---

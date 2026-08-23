@@ -2,6 +2,7 @@
 title: "Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)"
 date: 2026-07-08T08:04:03Z
 category: reading
+author: "Cory Doctorow"
 description: "特朗普政府与大科技公司实质合并：科技CEO以每人100万美元买到就职典礼台上的座位，微软提供ICE行政软件，谷歌提供定位数据，苹果屏蔽移民预警应用。联邦反垄断已是摆设——FTC被收买，DoJ放行腐败并购。常规路径失效。"
 source: "https://pluralistic.net/2026/07/07/going-global/"
 ---

@@ -2,6 +2,7 @@
 title: "Data Update 7 for 2025: The End Game in Business!"
 date: 2025-02-13T20:11:30Z
 category: reading
+author: "Aswath Damodaran"
 description: "该文章讨论了企业盈利能力及其在全球范围内的表现，重点分析了不同行业的盈利指标差异，并探讨了影响企业净利润率的多种因素。作者强调了财务报表中各个利润指标的重要性，以及如何通过这些指标理解企业的经济模式。文章还提出了企业在分配资源和创造价值方面的挑战。"
 source: "https://aswathdamodaran.blogspot.com/2025/02/data-update-7-for-2025-end-game-in.html"
 ---

@@ -2,6 +2,7 @@
 title: "Here is how I approach starting a new job"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Elena Verna"
 description: "入职第一件事不是出成绩，而是找到什么东西正在运转然后不要碰它——错误的顺序（先改变再理解）是大多数新人失败的根本原因。"
 source: "https://www.elenaverna.com/p/here-is-how-i-approach-starting-a"
 ---

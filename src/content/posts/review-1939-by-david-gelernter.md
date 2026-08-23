@@ -2,6 +2,7 @@
 title: "REVIEW: 1939, by David Gelernter"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "John Psmith"
 description: "Gelernter 的核心论点不是\"1939年更美好\"，而是：当一个社会真正抵达它许诺的乌托邦时，维系信仰运转的推进力必然死亡。美国战后的精神真空是\"兑现承诺\"的后果，而非背叛承诺的结果——乌托邦实现了，宗教也就消亡了。"
 source: "https://www.thepsmiths.com/p/review-1939-by-david-gelernter"
 ---

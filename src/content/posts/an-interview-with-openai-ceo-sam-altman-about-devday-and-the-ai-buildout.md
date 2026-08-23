@@ -2,6 +2,7 @@
 title: "An Interview with OpenAI CEO Sam Altman About DevDay and the AI Buildout"
 date: 2025-10-09T16:09:00Z
 category: reading
+author: "Ben Thompson"
 description: "Sam Altman，OpenAI 联合创始人兼 CEO。[补充：原 YC 总裁，此访谈发生在 2025 年 10 月 DevDay 发布后，距上次接受同一主持人采访仅七个月，期间 OpenAI 推出了 GPT-5、Sora，并宣布了一系列价值超万亿美元的基础设施合作协议。] 主持人 Ben Thompson，S..."
 source: "https://stratechery.com/2025/an-interview-with-openai-ceo-sam-altman-about-devday-and-the-ai-buildout/"
 ---

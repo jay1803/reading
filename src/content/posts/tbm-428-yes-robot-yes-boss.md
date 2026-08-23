@@ -2,6 +2,7 @@
 title: "TBM 428: Yes, Robot. Yes, Boss?"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "John Cutler"
 description: "如果团队的阻力来自信号不透明、流程摩擦、缺乏脚手架——AI 能扫清这些。如果阻力来自心理安全低、激励错配、恐惧或习得性无助——AI 不会修复，只会让已有的回避、政治表演更容易自动化。"
 source: "https://cutlefish.substack.com/p/tbm-428-yes-robot-yes-boss"
 ---

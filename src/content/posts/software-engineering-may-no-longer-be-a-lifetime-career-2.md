@@ -2,6 +2,7 @@
 title: "Software engineering may no longer be a lifetime career"
 date: 2026-05-12T08:01:56Z
 category: reading
+author: "Sean Goedecke"
 description: "如果 AI 编程真的会让工程师长期技术退化，这也未必能阻止它进入职业核心；市场买的是短期产出，不是工程师一生的能力保值，软件工程可能从“越做越值钱的终身职业”变成更像职业运动员的高收益、有限窗口期职业。"
 source: "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/"
 ---

@@ -2,6 +2,7 @@
 title: "Pork & Puppetry"
 date: 2026-04-09T08:03:18Z
 category: reading
+author: "Ernie Smith"
 description: "这篇稿子的核心，是 Dustin Grissom 把低配工具、木偶表演和低流量创作视为同一种训练机制：限制越多，越能逼出手艺、角色感和朋友协作网络。Pork Johnson 看似只是恶搞角色，实际是他重新找回创作欲望、顺手学习 puppetry 的载体。"
 source: "https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview"
 ---

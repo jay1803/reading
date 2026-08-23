@@ -2,6 +2,7 @@
 title: "Transcript for Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486"
 date: 2025-12-08T16:51:23Z
 category: reading
+author: "Lex Fridman"
 description: "Michael Levin，塔夫茨大学发育生物学家，专注生物电（bioelectrics）、再生医学与认知科学的交叉地带。Lex Fridman 主持。[补充：Levin 实验室以 Xenobot（蛙细胞人工生命体）和 Anthrobot（人体细胞生命体）研究著称，近年向\"多尺度认知\"与\"柏拉图空间\"等哲学-实验..."
 source: "https://lexfridman.com/michael-levin-2-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=michael-levin-2-transcript"
 ---

@@ -2,6 +2,7 @@
 title: "Expanding the Radius of Daily Life"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Packy McCormick"
 description: "飞行汽车的核心价值不是\"更快通勤\"，而是打破地点垄断：Marchetti 常数证明人总会用节省的时间扩大活动半径，飞行汽车能把 30 分钟可达圈从约 30 英里扩展到 120–300+ 英里，让山区/岛屿/牧场从\"太远\"变为日常生活的组成部分。"
 source: "https://www.notboring.co/p/expanding-the-radius-of-daily-life"
 ---

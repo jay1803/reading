@@ -2,6 +2,7 @@
 title: "I got an email about resistance"
 date: 2026-08-19T02:10:05Z
 category: reading
+author: "Sean Goedecke"
 description: "有触达力的抵制呼吁用别人的职业命运做炮灰——有安全垫的人高喊「冲上去」，初级工程师才是承担后果的人。"
 source: "https://seangoedecke.com/i-got-an-email-about-resistance/"
 ---

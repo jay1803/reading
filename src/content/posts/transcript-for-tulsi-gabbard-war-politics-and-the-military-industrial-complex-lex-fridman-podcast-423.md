@@ -2,6 +2,7 @@
 title: "Transcript for Tulsi Gabbard: War, Politics, and the Military Industrial Complex | Lex Fridman Podcast #423"
 date: 2024-04-08T12:02:14Z
 category: reading
+author: "Lex Fridman"
 description: "这是一篇关于 Tulsi Gabbard 与 Lex Fridman 的访谈记录，访谈内容涉及战争、政治和军工复合体。Tulsi Gabbard 讨论了她在伊拉克和科威特的军事部署经历，以及这些经历如何影响了她对战争和外交政策的看法。她还批评了美国的军工复合体，并表达了对美国政治中两党制和“战争贩子”的担忧。"
 source: "https://lexfridman.com/tulsi-gabbard-transcript/"
 ---

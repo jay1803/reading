@@ -2,6 +2,7 @@
 title: "Framing the Future of the Internet"
 date: 2024-02-01T18:41:10Z
 category: reading
+author: "Packy McCormick"
 description: "本文主要介绍了 Farcaster 推出的新功能 Frames，它允许开发者在 casts（Farcaster 的推文）中嵌入小型应用程序。Frames 具有去中心化、可组合性和无需许可的特性，为开发者提供了新的构建和分发方式，也为用户带来了更丰富的互动体验。作者认为，Frames 是区块链网络颠覆传统企业网络的..."
 source: "https://www.notboring.co/p/framing-the-future-of-the-internet"
 ---

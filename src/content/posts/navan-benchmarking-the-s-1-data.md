@@ -2,6 +2,7 @@
 title: "Navan: Benchmarking the S-1 Data"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Jamin Ball"
 description: "旅行管理本质是代理业务，历史毛利 15–30%；Navan 做到 71% 毛利的方法是同时从三方收钱：企业客户付订阅/按次费、供应商付佣金、支付网络付返点。这一结构让它在 IPO 叙事上能用 SaaS 估值逻辑，而不是 OTA 估值逻辑。"
 source: "https://cloudedjudgement.substack.com/p/navan-benchmarking-the-s-1-data"
 ---

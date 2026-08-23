@@ -2,6 +2,7 @@
 title: "The optimized self and the life that got away"
 date: 2026-03-24T08:01:26Z
 category: reading
+author: "Joan Westenberg"
 description: "优化文化的根本悖论：它打着\"成为更好的自己\"的旗帜，实际上在系统性地消除那些唯一能真正塑造自我的经历——目的不明的午后、走向未知的阅读、一段谈不好的爱情。优化出来的自我是\"完成品\"，但只有那个在无目的中摸索的自我才是开放的、充满可能性的。"
 source: "https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/"
 ---

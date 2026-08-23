@@ -2,6 +2,7 @@
 title: "The AI Steering Layer"
 date: 2026-06-25T08:02:23Z
 category: reading
+author: "Luke Wroblewski"
 description: "大模型输出能力几乎无限，但团队需要的是品牌一致、设计对齐、代码规范化的输出。LukeW 提出的解法是在工具层和代码库之间插入一个持久化的\"steering layer\"——本质是系统化的 context 注入，而不是依赖每个人自己写好 prompt。"
 source: "https://www.lukew.com/ff/entry.asp?2155"
 ---

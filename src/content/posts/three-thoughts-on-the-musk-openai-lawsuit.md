@@ -2,6 +2,7 @@
 title: "Three thoughts on the Musk-OpenAI lawsuit"
 date: 2026-04-30T08:02:48Z
 category: reading
+author: "Gary Marcus"
 description: "Marcus 的核心判断是：即使 Musk 本人动机不干净，他对 OpenAI “非营利、服务全人类”承诺被背离的指控仍然成立；诉讼成败的关键不该是 Musk 是否可信，而是 OpenAI 是否利用非营利叙事获得人才、资金、声誉与税务优势后改变了制度承诺。"
 source: "https://garymarcus.substack.com/p/three-thoughts-on-the-musk-openai"
 ---

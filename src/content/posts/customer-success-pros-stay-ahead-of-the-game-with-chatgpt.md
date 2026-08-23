@@ -2,6 +2,7 @@
 title: "Customer Success Pros: Stay Ahead of the Game with ChatGPT"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "ChatGPT 对 CS 职能的真实价值不在工具本身，而在提示工程（Prompt Engineering）这个可迁移的元技能——相同的工具，差劲的 Prompt 只产出噪音，好的 Prompt 能把 NRR 计算、客户健康评估、大规模个性化邮件压缩进秒级操作。"
 source: "https://sixteenventures.com/customer-success-chatgpt"
 ---

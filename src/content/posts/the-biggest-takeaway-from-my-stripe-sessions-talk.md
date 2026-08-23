@@ -2,6 +2,7 @@
 title: "The biggest takeaway from my Stripe Sessions talk"
 date: 2026-05-06T08:02:42Z
 category: reading
+author: "Elena Verna"
 description: "定价和包装不该被当成三年一动的财务政策，而应像产品一样高频迭代：在 AI 与用量波动更强的市场里，静态订阅制会同时损失收入、学习速度和用户体验。"
 source: "https://www.elenaverna.com/p/the-biggest-takeaway-from-my-stripe"
 ---

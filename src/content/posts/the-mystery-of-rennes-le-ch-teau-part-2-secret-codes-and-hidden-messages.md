@@ -2,6 +2,7 @@
 title: "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages"
 date: 2026-03-24T08:01:59Z
 category: reading
+author: "Jimmy Maher"
 description: "《雷讷堡》故事的核心\"古代密文\"几乎可以确定是1889年后伪造的（拉丁文来源精确匹配牛津大学1889年出版的 Vulgate 版本，即声称被发现时间的两年前），而那份号称动用军方计算机才能破解的三重密码，从数学上根本无法正向求解——有人在幕后把答案提前喂给了作者，他自己连 Altar Document 2 里最表..."
 source: "https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/"
 ---

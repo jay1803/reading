@@ -2,6 +2,7 @@
 title: "👟 Nike: Topsy Turvy Turnaround"
 date: 2026-04-09T08:01:35Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇真正的判断不是“耐克这个季度差”，而是耐克正用更差的渠道结构换表面稳定。收入看似持平，按固定汇率其实下滑；DTC 退、批发进，意味着库存和品牌问题只是被低利润渠道暂时遮住，所以现在更像盈利质量恶化中的缓慢出清，不像已经站稳的反转。"
 source: "https://www.appeconomyinsights.com/p/nike-topsy-turvy-turnaround"
 ---

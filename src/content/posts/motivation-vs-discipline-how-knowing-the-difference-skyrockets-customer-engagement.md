@@ -2,6 +2,7 @@
 title: "Motivation vs. Discipline: How Knowing the Difference Skyrockets Customer Engagement"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "\"你不需要动力，只需要纪律\"——这句话本身就是一种内在动力（塑造强硬形象的驱动力）；内在动力永远存在，只是常常未被本人知晓，CSM 的核心工作是帮客户把它显现出来，而不是用自己的激情填补客户的空洞。"
 source: "https://sixteenventures.com/motivation-vs-discipline-how-knowing-the-difference-skyrockets-customer-engagement"
 ---

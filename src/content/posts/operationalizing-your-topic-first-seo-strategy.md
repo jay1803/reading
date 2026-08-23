@@ -2,6 +2,7 @@
 title: "Operationalizing your topic-first SEO strategy"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Kevin Indig"
 description: "关键词策略在 SEO 的终局里是执行层，不是方向层——真正决定长期可见度的是话题权威（topical authority）：搜索引擎和 LLM 是否把你的品牌认定为某个话题领域的参考来源。"
 source: "https://www.growth-memo.com/p/operationalizing-your-topic-first"
 ---

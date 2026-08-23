@@ -2,6 +2,7 @@
 title: "AI Scenarios: From Doomsday Destruction to Do-Nothing Bots!"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Aswath Damodaran"
 description: "这篇文章在做一件很有 Damodaran 风格的事：不直接站队某一个 AI 结局，而是先把讨论拆成可判断的变量。 他关注的重点不是技术细节，而是 AI 对经济、市场、行业和个人的影响会怎么展开。文章的核心判断是：最极端的 AI 末日场景和“AI 基本没用”的场景都只是 possible，不太 plausible。..."
 source: "https://aswathdamodaran.blogspot.com/2026/03/ai-scenarios-from-economic-doomsday-to.html"
 ---

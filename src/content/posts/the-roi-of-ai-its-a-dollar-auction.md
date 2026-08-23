@@ -2,6 +2,7 @@
 title: "The ROI of AI (It's a Dollar Auction)"
 date: 2024-09-02T15:55:33Z
 category: reading
+author: "Doug O'Laughlin"
 description: "这篇文章探讨了 AI 投资回报率(ROI)的问题，并将当前的 AI 发展阶段比作1990年代早期的互联网\"信息高速公路\"时期。文章认为尽管目前 AI 的具体 ROI 难以衡量，但大型科技公司出于不想错过下一代平台的考虑而持续投资，这种现象可以用\"美元拍卖\"理论来解释。"
 source: "https://www.fabricatedknowledge.com/p/the-roi-of-ai-its-a-dollar-auction"
 ---

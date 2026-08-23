@@ -2,6 +2,7 @@
 title: "What to do now that AIOs turned search into reading sessions"
 date: 2026-06-02T08:01:20Z
 category: reading
+author: "Kevin Indig"
 description: "AIO 消除了搜索意图对用户 SERP 行为的预测能力——5 种意图下用户停留时长趋同，平均会话延长约 4 倍；竞争由此从\"写对内容\"转移到\"第二印象\"：用户读完 AIO 后向上滚动二次扫描 listing 的那一瞬间。"
 source: "https://www.growth-memo.com/p/traditional-intents-can-no-longer"
 ---

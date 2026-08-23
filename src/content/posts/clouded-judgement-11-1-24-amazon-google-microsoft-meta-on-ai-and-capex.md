@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.1.24 - Amazon, Google, Microsoft & Meta on AI and CapEx"
 date: 2024-11-25T16:08:18Z
 category: reading
+author: "Jamin Ball"
 description: "10 年期国债已从 10 月初的 3.7% 跃升至今天的 4.3%。一个月内上涨约 15%！"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-11124-amazon-google"
 ---

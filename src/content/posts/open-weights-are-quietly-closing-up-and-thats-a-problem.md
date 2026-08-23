@@ -2,6 +2,7 @@
 title: "Open weights are quietly closing up - and that's a problem"
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Martin Alderson"
 description: "开放权重模型真正重要的不是“人人可本地运行”的浪漫叙事，而是它们给闭源前沿实验室设置了价格地板；如果这个地板消失，AI 推理市场可能从“技术快速降价”滑向“少数实验室捕获巨大消费者剩余”的寡头结构。"
 source: "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

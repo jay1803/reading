@@ -2,6 +2,7 @@
 title: "The iPhone’s Last Stand"
 date: 2026-06-10T08:01:08Z
 category: reading
+author: "Ben Thompson"
 description: "消费者根本不想变得更高效——这才是 Apple 落后于 Agentic AI 前沿却仍能安全存活的真正原因。iPhone 的\"最后阵地\"是 Apple 主动押注\"以设备为中心的个人上下文\"胜过\"以云端为中心的 Agent 代劳\"。"
 source: "https://stratechery.com/2026/the-iphones-last-stand/"
 ---

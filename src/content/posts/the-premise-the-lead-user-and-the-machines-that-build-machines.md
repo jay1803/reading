@@ -2,6 +2,7 @@
 title: "The Premise: The Lead User and the Machines That Build Machines"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Brad Feld"
 description: "Feld 的真正判断不是“AI 会让编程更快”，而是“终端用户的软件创新会全部从用户侧发生，因为用户掌握需求现场的 sticky information，而机器会承担制造商职能”。这把 von Hippel 的 Lead User 理论推进到 AI 软件时代：用户不再只是先行需求者，也不必再跨越成为厂商的组织门槛..."
 source: "https://feld.com/archives/2026/05/the-premise-lead-user-machines-that-build-machines/"
 ---

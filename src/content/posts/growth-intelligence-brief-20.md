@@ -2,6 +2,7 @@
 title: "Growth Intelligence Brief #20"
 date: 2026-06-13T08:01:51Z
 category: reading
+author: "Kevin Indig"
 description: "Google 正在类目内部集中流量——需求没变，份额在重新分配。Yelp 创历史新高、Yellow Pages 逆袭的背后，是 Google 把本地流量押注到最大评测聚合器；Angi 同期 AI 提及量增 31.1%，可见度却跌 18.5%，说明 AI 曝光保不住 Google 有机排名。"
 source: "https://www.growth-memo.com/p/growth-intelligence-brief-20"
 ---

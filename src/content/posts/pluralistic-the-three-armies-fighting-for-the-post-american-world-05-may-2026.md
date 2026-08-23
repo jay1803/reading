@@ -2,6 +2,7 @@
 title: "Pluralistic: The three armies fighting for the post-American world (05 May 2026)"
 date: 2026-05-06T08:02:42Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 的核心判断是：特朗普正在把“后美国世界”从抽象愿景变成跨阵营共同利益。数字权利活动者、想抢夺美国科技巨头利润的企业/投资者、担心被美国云服务和平台基础设施勒索的国家安全鹰派，虽然价值观不同，却都被同一个风险拉到一起：必须建设不依赖美国科技栈、可互操作、抗 enshittification 的国际..."
 source: "https://pluralistic.net/2026/05/05/three-is-a-magic-number/"
 ---

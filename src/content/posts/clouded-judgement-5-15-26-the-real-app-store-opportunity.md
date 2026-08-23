@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.15.26 - The Real App Store Opportunity"
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Jamin Ball"
 description: "真正的 AI “App Store”机会更可能先发生在企业内部：Claude Skills 这种低门槛、可复制、可治理的工作流封装，正在把“集成列表”改写成“代理能否直接调用你”。市场侧信号同样清楚：公共 SaaS 估值仍高度分层，整体 EV/NTM 收入中位数只有 3.1x，但高增长组达到 14.7x，增长稀缺..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-51426-the-real"
 ---

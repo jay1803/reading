@@ -2,6 +2,7 @@
 title: "My more-hardcore theanine self-experiment"
 date: 2025-05-06T13:56:45Z
 category: reading
+author: "dynomight"
 description: "在刻意优化的\"最佳条件\"下（400mg + 空腹咖啡），茶氨酸对焦虑仍无可测量到的实质效果——而最有资格感受到差异的那个人，区分茶氨酸和安慰剂的准确率仅略高于随机猜测。"
 source: "https://dynomight.net/theanine-2/"
 ---

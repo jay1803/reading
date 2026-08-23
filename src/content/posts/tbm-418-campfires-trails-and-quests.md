@@ -2,6 +2,7 @@
 title: "TBM 418: Campfires, Trails, and Quests"
 date: 2026-04-23T08:02:20Z
 category: reading
+author: "John Cutler"
 description: "作者真正反对的不是 AI 提效，而是把 AI 塞进旧式瀑布化、文档崇拜、单人闭门的产品流程里；那只会把原本错误的心智模型放大成一场更高产的幻觉。AI 的高价值用法，是把它变成多人共同操作的“协作表面”，让团队在 trails、quests、campfires 之间持续更新共享理解。"
 source: "https://cutlefish.substack.com/p/tbm-418-campfires-trails-and-quests"
 ---

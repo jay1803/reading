@@ -2,6 +2,7 @@
 title: "The Greatest Word of Mouth Follow-up Question… ever!"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "\"口碑\"本身不可用——可用的是别人用来说服他人的那句话。当新用户说\"朋友推荐的\"，追问一句\"他们怎么说的？\"，你拿到的不是反馈，是你最有效营销文案的原材料。"
 source: "http://sixteenventures.com/word-of-mouth-follow-up?utm_source=rss&utm_medium=rss&utm_campaign=word-of-mouth-follow-up"
 ---

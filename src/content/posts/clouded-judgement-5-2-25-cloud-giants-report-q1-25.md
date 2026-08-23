@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.2.25 - Cloud Giants Report Q1 '25"
 date: 2025-05-06T15:59:21Z
 category: reading
+author: "Jamin Ball"
 description: "三大云巨头 Q1 '25 的一致信号不是\"增长还在\"，而是\"需求跑得比供给快\"——供给约束再次成为营收的真实上限，而非需求本身。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-5225-cloud-giants"
 ---

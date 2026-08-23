@@ -2,6 +2,7 @@
 title: "The Man Who Killed Google Search"
 date: 2024-04-25T14:46:16Z
 category: reading
+author: "Ed Zitron"
 description: "The story begins on February 5th 2019, when Ben Gomes, Google’s head of search, had a problem. <<<Jerry Dischler>>>, then the VP and General Manager of Ads a..."
 source: "https://www.wheresyoured.at/the-men-who-killed-google/"
 ---

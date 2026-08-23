@@ -2,6 +2,7 @@
 title: "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Cory Doctorow"
 description: "人手不足不是运营失误，而是一种蓄意的价值转移机制——拥有垄断地位的企业把本该自己承担的成本（等待时间、自助结账劳动、药品差错风险、治安开支）系统性地转嫁给员工、顾客和纳税人，换取股东利润。"
 source: "https://pluralistic.net/2026/03/22/nobodys-home/"
 ---

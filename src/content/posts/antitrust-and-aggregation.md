@@ -2,6 +2,7 @@
 title: "Antitrust and Aggregation"
 date: 2024-06-26T19:15:53Z
 category: reading
+author: "Ben Thompson"
 description: "many Microsoft partisans argue that the antitrust-related restrictions caused the company to miss mobile, the truth is Apple’s iPhone succeeded by being a ve..."
 source: "https://stratechery.com/2016/antitrust-and-aggregation/"
 ---

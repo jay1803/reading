@@ -2,6 +2,7 @@
 title: "MongoDB is getting into Search"
 date: 2023-12-28T16:09:52Z
 category: reading
+author: "muji"
 description: "As an on-demand service available in MongoDB's Atlas cloud data platform, there's no deployment process. All you need to begin your data exploration is to pr..."
 source: "https://hhhypergrowth.com/mongodb-is-getting-into-search/"
 ---

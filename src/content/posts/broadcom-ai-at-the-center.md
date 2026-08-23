@@ -2,6 +2,7 @@
 title: "Broadcom: AI at the Center"
 date: 2025-06-18T22:05:06Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章本质上在回答一个问题："
 source: "https://www.appeconomyinsights.com/p/broadcom-ai-at-the-center"
 ---

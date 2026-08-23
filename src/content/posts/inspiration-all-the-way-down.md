@@ -2,6 +2,7 @@
 title: "Inspiration All the Way Down"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Naval Ravikant"
 description: "真正有用的启发很少来自可复制的步骤，更多来自别人身上那种独立判断、强烈行动感和对速度、迭代、执行的执念。细节总是依附于具体人、具体公司、具体约束，所以能迁移的是原则和精神张力，不是操作说明书。"
 source: "https://nav.al/inspiration"
 ---

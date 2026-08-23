@@ -2,6 +2,7 @@
 title: "☁️ Micron Rides the AI Boom"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Kevin Palmer"
 description: "HBM（高带宽内存）让 Micron 在一个季度内把云内存业务做到 214% 同比增长，毛利率触及 50%——而整个内存行业以前的宿命是永恒的繁荣-萧条周期。这次不一样的地方在于：AI 公司提前一年以上锁定供应，Micron 的 HBM3E 已几乎售罄至 2026 年底，客户数从 4 个扩到 6 个。"
 source: "https://www.appeconomyinsights.com/p/micron-rides-the-ai-boom"
 ---

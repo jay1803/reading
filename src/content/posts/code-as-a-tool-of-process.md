@@ -2,6 +2,7 @@
 title: "Code as a Tool of Process"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Jim Nielsen"
 description: "写代码的价值不只在产出代码本身，而在于书写过程强迫你对每个细节做出精确表态——用 AI 生成代码之所以感觉快，恰恰是因为它跳过了这个让你发现问题的过程，而你感觉不到失去了什么。"
 source: "https://blog.jim-nielsen.com/2026/code-as-process/"
 ---

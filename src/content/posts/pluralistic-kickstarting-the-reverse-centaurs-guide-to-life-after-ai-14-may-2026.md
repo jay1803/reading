@@ -2,6 +2,7 @@
 title: "Pluralistic: Kickstarting \"The Reverse Centaur's Guide to Life After AI\" (14 May 2026)"
 date: 2026-05-15T08:01:24Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 把 AI 批判、劳工政治和反 DRM 出版绑在同一个判断上：技术本身不是核心变量，真正决定后果的是它服务谁、伤害谁；AI 泡沫破裂后，留下来的低价 GPU、开源模型和脱离炒作任务的技术工人，反而可能让 AI 回到“有用插件”的正常位置。"
 source: "https://pluralistic.net/2026/05/14/who-it-does-it-for/"
 ---

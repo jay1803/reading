@@ -2,6 +2,7 @@
 title: "Building a World Map with only 500 bytes"
 date: 2026-07-06T08:01:44Z
 category: reading
+author: "Simon Willison"
 description: "8,523 字节的 ASCII 地图经 deflate-raw 压缩后降至 445 字节。核心跳跃：选择大陆内部填满 ~~ 字符的\"填充版\"，而非只保留海岸线轮廓的\"轮廓版\"。填充版产生大量连续重复字符，deflate 对长段重复序列压缩效率极高；轮廓版虽然视觉上更稀疏，但字符间隔多、规律弱，压缩比反而更差。结论..."
 source: "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything"
 ---

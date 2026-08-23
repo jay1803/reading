@@ -2,6 +2,7 @@
 title: "Bayes is not a phase"
 date: 2025-03-14T19:30:13Z
 category: reading
+author: "dynomight"
 description: "Bayesian reasoning 是结合“不可避免的随机性（Aleatoric uncertainty）”和“知识上的不确定性（Epistemic uncertainty）”的一种思维方式。每个人都在无意识地使用它，因为它符合人类的直觉。尽管在实践中，由于建立形式化概率模型既困难又危险，完全依赖 Bayesi..."
 source: "https://dynomight.net/bayes/"
 ---

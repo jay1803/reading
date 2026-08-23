@@ -2,6 +2,7 @@
 title: "🏈 Disney vs. YouTube TV"
 date: 2025-11-19T08:34:44Z
 category: reading
+author: "Kevin Palmer"
 description: "Disney 正在向 YouTube TV 低头——每天损失 400 万美元版权费，周一晚间橄榄球收视率下滑 21%，而 YouTube TV 只需发放 20 美元抵扣券就能稳住订户。分发渠道已取代内容版权，成为直播电视的真正守门人。"
 source: "https://www.appeconomyinsights.com/p/disney-vs-youtube-tv"
 ---

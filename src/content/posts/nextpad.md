@@ -2,6 +2,7 @@
 title: "★ Nextpad++"
 date: 2026-05-14T08:01:36Z
 category: reading
+author: "John Gruber"
 description: "AI 让单人几周内把大型 Windows 编辑器移植到 Mac 变得可行，但 Nextpad++ 暴露的核心问题不是“能不能跑”，而是代码代理没有内化平台文化：它技术上是原生 Mac app，产品气质上却像 Windows 软件穿上了 Cocoa 外壳。"
 source: "https://daringfireball.net/2026/05/nextpad"
 ---

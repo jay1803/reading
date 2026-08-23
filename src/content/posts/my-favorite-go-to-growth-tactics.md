@@ -2,6 +2,7 @@
 title: "My favorite go-to growth tactics."
 date: 2023-12-24T18:25:18Z
 category: reading
+author: "Elena Verna"
 description: "本文介绍了四种作者认为行之有效的增长策略，旨在帮助企业提升用户激活、转化率和营收。这些策略包括在用户引导流程中进行用户画像分析、在免费增值模式中实施反向试用、提升用户对付费功能的认知以及优化产品加载时间。"
 source: "https://elenaverna.substack.com/p/my-favorite-go-to-growth-tactics"
 ---

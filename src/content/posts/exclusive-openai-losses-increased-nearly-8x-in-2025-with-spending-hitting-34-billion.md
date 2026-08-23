@@ -2,6 +2,7 @@
 title: "Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion"
 date: 2026-06-17T08:03:38Z
 category: reading
+author: "Ed Zitron"
 description: "OpenAI 2025 年归属净亏损 385 亿美元，是 2024 年（50.9 亿）的 7.6 倍；而 OpenAI 当年付给微软的金额（172 亿）比自身全年营收（130.7 亿）还多 41 亿——这家公司每卖出 1 美元，都要额外倒贴微软约 0.3 美元，商业模式实质是用融资补贴向微软购买算力。"
 source: "https://www.wheresyoured.at/exclusive-openai-financials/"
 ---

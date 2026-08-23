@@ -2,6 +2,7 @@
 title: "Discovering Prince, Ten Years Later"
 date: 2026-04-22T08:01:29Z
 category: reading
+author: "Anil Dash"
 description: "这篇文章表面上是在纪念 Prince 去世十周年，真正更重要的主张是：Prince 的遗产之所以还在扩张，不是因为“经典作品不会过时”，而是因为他留下的是一整套关于创作主权、数字自我归档、技术想象力与文化独立性的行动模板，所以十年后人们仍能不断从他身上发现新的入口。"
 source: "https://anildash.com/2026/04/20/prince-ten-years/"
 ---

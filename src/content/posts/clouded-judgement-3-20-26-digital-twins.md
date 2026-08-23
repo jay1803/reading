@@ -2,6 +2,7 @@
 title: "Clouded Judgement 3.20.26 - Digital Twins"
 date: 2026-03-21T08:01:46Z
 category: reading
+author: "Jamin Ball"
 description: "Agent 时代的核心瓶颈不是模型能力——模型已经够用了。瓶颈是绝大多数有价值的知识根本没有被数字化：藏在某个员工脑袋里、散在十几个孤立系统里、从未成文。Digital twin 是把这些知识喂给 Agent 的唯一入口，也因此正在成为 Agentic 基础设施的关键层。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-32026-digital-twins"
 ---

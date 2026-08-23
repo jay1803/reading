@@ -2,6 +2,7 @@
 title: "A Look Back at Q3 '23 Public Cloud Software Earnings"
 date: 2023-12-24T18:22:00Z
 category: reading
+author: "Jamin Ball"
 description: "在3个月前的第二季度财报回顾中，主题是“没有变得更糟，绿芽开始出现”。3个月后，那些绿芽怎么了？不幸的是，我不认为那些绿芽真的发芽了，但它们已经变得更强壮了"
 source: "https://cloudedjudgement.substack.com/p/a-look-back-at-q3-23-public-cloud"
 ---

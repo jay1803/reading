@@ -2,6 +2,7 @@
 title: "An Interview with Joanna Stern About Living With AI"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Ben Thompson"
 description: "KILL — 未生成摘要。"
 source: "https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/"
 ---

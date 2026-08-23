@@ -2,6 +2,7 @@
 title: "A new framework for AI agent pricing"
 date: 2025-05-06T16:43:43Z
 category: reading
+author: "Kate Syuma"
 description: "AI agent 定价目前存在四种模型，但作者认为只有\"按结果收费\"能在 LLM 成本持续下降的未来活下来。现实中 75% 的 AI 创始人连该选哪种都没想清楚——这篇框架文的价值就在这里。"
 source: "https://www.growthunhinged.com/p/ai-agent-pricing-framework"
 ---

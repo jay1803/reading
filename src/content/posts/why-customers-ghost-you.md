@@ -2,6 +2,7 @@
 title: "Why Customers Ghost you"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户\"消失\"不是因为不感兴趣，而是五种具体的情绪状态之一——失望、羞耻、不堪重负、期望落差、单纯太忙；解除幽灵状态的前提是先诊断原因，而非群发唤醒邮件。"
 source: "https://sixteenventures.com/why-customers-ghost"
 ---

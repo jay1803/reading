@@ -2,6 +2,7 @@
 title: "Advanced Swift Actors: Re-entrancy & Interleaving"
 date: 2025-05-12T13:49:57Z
 category: reading
+author: "Jacob Bartlett"
 description: "Actor 的\"可重入性\"（re-entrancy）不是 bug，而是可以主动利用的机制：在 ~await~ 挂起点期间，其他调用可以插入同一 actor，从而让多个并发调用共享同一个底层任务结果，而无需任何锁。"
 source: "https://blog.jacobstechtavern.com/p/advanced-swift-actors-re-entrancy"
 ---

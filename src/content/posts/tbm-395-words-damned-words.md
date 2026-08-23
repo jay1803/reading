@@ -2,6 +2,7 @@
 title: "TBM 395: Words! Damned Words!"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "John Cutler"
 description: "组织里的语义混乱不只是沟通失灵，而是权力运作的副产品——\"保持人们对词语的困惑\"本身就是一种控制叙事的手段。更危险的是\"具象化\"（reification）：当\"BAU\"与\"战略项目\"的边界被当成现实而非模型，财务决策会直接触发裁员。试图通过\"澄清定义\"改变现实是幼稚的，有效应对只有两种：hack 实践层，或 ha..."
 source: "https://cutlefish.substack.com/p/tbm-395-words-damned-words"
 ---

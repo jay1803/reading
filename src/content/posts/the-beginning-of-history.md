@@ -2,6 +2,7 @@
 title: "The Beginning Of History"
 date: 2026-03-12T08:14:12Z
 category: reading
+author: "Ed Zitron"
 description: "Anthropic CFO 在联邦诉讼申报文件中确认「终生营收截至 2026/3/9 仅超过 $5B」，而将媒体引用的历次年化营收快照累加已达 $66.6 亿——公司 2025 年实际营收远低于对外宣称的 $45 亿。与此同时，伊朗封锁霍尔木兹海峡触发油价单日暴涨 30%、天然气涨约 50%，对 AI 泡沫的融资..."
 source: "https://www.wheresyoured.at/the-beginning-of-history/"
 ---

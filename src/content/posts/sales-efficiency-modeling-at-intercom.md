@@ -2,6 +2,7 @@
 title: "Sales Efficiency Modeling at Intercom"
 date: 2025-01-10T14:43:42Z
 category: reading
+author: "Ben McRedmond"
 description: "Here's a concise summary of the main points:"
 source: "https://wrap-text.equals.com/p/sales-efficiency-modeling-at-intercom"
 ---

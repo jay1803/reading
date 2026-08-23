@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.25.25 - TAMs Lie"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Jamin Ball"
 description: "这篇文章最重要的提醒是：在平台迁移早期，用静态 TAM 去理解新公司，往往会系统性低估机会。 因为真正大的机会，不是去切一块既有市场蛋糕，而是平台变化本身会创造新需求、新用户和新的支出路径。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-72525-tams-lie"
 ---

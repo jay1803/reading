@@ -2,6 +2,7 @@
 title: "What's really going on in software"
 date: 2025-11-19T08:33:54Z
 category: reading
+author: "Kate Syuma"
 description: "2025 年软件业的主线是增长结构两极化、效率逻辑重写，以及 AI 把原本已经存在的分化进一步放大。最强公司借 AI 重新加速，同时承受更低毛利；真正决定长期质量的，仍是 NRR 与 CAC 回收期这两个老变量的组合。"
 source: "https://www.growthunhinged.com/p/2025-saas-benchmarks-report"
 ---

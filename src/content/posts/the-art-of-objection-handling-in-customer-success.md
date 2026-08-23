@@ -2,6 +2,7 @@
 title: "The Art of Objection Handling in Customer Success"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户拒绝会议，往往不是态度问题，而是定位问题——CSM 若被视为\"打扰\"而非战略资源，异议会在接触前就产生。修复定位比临场化解异议更根本。"
 source: "https://sixteenventures.com/objection-handling"
 ---

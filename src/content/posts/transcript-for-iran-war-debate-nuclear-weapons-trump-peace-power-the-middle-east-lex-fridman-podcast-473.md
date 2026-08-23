@@ -2,6 +2,7 @@
 title: "Transcript for Iran War Debate: Nuclear Weapons, Trump, Peace, Power & the Middle East | Lex Fridman Podcast #473"
 date: 2025-06-30T14:57:11Z
 category: reading
+author: "Lex Fridman"
 description: "一场围绕伊朗核计划与地区安全的长时辩论：一方主张“以强求和、零浓缩、完全拆解+IAEA监督”，并以威慑与选择性打击作为谈判杠杆；另一方强调“阈值威慑+外交协议”更能避免战争，批判退约与秘密行动导致升级与核扩散激励。焦点集中在JCPOA日落条款、60%浓缩铀的意义、“伊朗核档案”的可信度、阿曼谈判与“Operati..."
 source: "https://lexfridman.com/iran-israel-debate-transcript"
 ---

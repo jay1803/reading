@@ -2,6 +2,7 @@
 title: "Michael Nielsen – How science actually progresses"
 date: 2026-04-09T08:03:17Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Michael Nielsen 是量子计算早期推动者之一，写过这个领域的核心教材，也长期参与开放科学讨论。近年他在 Astera Institute 做研究，并在写一本关于宗教、科学与技术的书。"
 source: "https://www.dwarkesh.com/p/michael-nielsen"
 ---

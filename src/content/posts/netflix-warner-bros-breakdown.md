@@ -2,6 +2,7 @@
 title: "🍿 Netflix + Warner Bros. Breakdown"
 date: 2026-02-14T20:34:04Z
 category: reading
+author: "Kevin Palmer"
 description: "Netflix 用史上比例最高的终止费（$58亿，占股权价值 8%，行业惯例 2-3%）对赌监管放行——理由是：与 Paramount/Comcast 的横向合并相比，这笔垂直并购对竞争格局的损害实际更小。"
 source: "https://www.appeconomyinsights.com/p/netflix-acquires-warner-bros"
 ---

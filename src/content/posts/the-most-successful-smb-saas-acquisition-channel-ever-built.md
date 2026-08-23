@@ -2,6 +2,7 @@
 title: "The Most Successful SMB SaaS Acquisition Channel Ever Built"
 date: 2022-07-07T18:43:51Z
 category: reading
+author: "Tomasz Tunguz"
 description: "As many of these channel partners move to newer distribution models, the [brokerage channel model](http://tomtunguz.com/3-type-of-channel-strategies/) in par..."
 source: "https://tomtunguz.com/most-successful-smb-saas-acquisition-channel/"
 ---

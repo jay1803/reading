@@ -2,6 +2,7 @@
 title: "A Philosopher’s One-Word Theory to Explain Why the World Feels So Weird"
 date: 2026-07-15T08:01:49Z
 category: reading
+author: "Derek Thompson"
 description: "Agnes Callard 的「单一情境」（uni-context）理论：当跨越所有情境的行为规范收敛为同一套时，现代世界的多数怪异现象就有了统一解释。"
 source: "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to"
 ---

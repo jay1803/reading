@@ -2,6 +2,7 @@
 title: "Making SEO Personas Actionable Across Teams"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Kevin Indig"
 description: "SEO 用户画像真正的价值不在 SEO 本身——它是全公司最廉价、最真实的市场情报，但只有当它被嵌入每一个内容 brief、销售话术、客服文档和产品定位时，才开始产生回报；停留在 Google Drive 的画像等于没有。"
 source: "https://www.growth-memo.com/p/making-seo-personas-actionable-across"
 ---

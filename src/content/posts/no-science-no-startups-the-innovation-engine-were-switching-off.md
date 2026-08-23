@@ -2,6 +2,7 @@
 title: "No Science, No Startups: The Innovation Engine We’re Switching Off"
 date: 2025-10-15T16:21:13Z
 category: reading
+author: "Steve Blank"
 description: "这篇文章的核心论点很硬：科学不是创新链条里可有可无的前置装饰，而是整个创业、工程、国防和国家竞争力系统的最上游燃料。如果一个国家切断基础科学和应用科学的供给，短期也许还能靠现有工程能力和资本市场继续运转，但长期会发现：没有新科学，就不会有新的深科技创业浪潮。"
 source: "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/"
 ---

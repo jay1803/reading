@@ -2,6 +2,7 @@
 title: "TBM 391: You’re Not Misaligned. You’re Thinking Differently."
 date: 2025-11-30T20:20:18Z
 category: reading
+author: "John Cutler"
 description: "作者认为，很多团队里看似关于“授权不足”“不够 problem-first”“领导不信任”的冲突，底层其实更常见的是认知风格错位：有人先抓抽象目的、系统关系和学习路径，有人先抓具体方案、可见产物和可执行线索。问题不在谁更先进，而在双方都把自己的思维语言当成默认语言，结果把本来可以互补的差异打成了风格之争。"
 source: "https://cutlefish.substack.com/p/tbm-391-youre-not-misaligned-youre"
 ---

@@ -2,6 +2,7 @@
 title: "Determining the Number of Accounts per Customer Success Manager"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "\"1 CSM per $2M ARR\" 从未正确过——CSM 覆盖比不存在通用答案，它完全由每个客户细分所需的体验决定，与客户付了多少钱无关。"
 source: "http://sixteenventures.com/account-coverage-ratio"
 ---

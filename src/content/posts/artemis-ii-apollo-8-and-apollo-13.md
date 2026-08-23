@@ -2,6 +2,7 @@
 title: "Artemis II, Apollo 8, and Apollo 13"
 date: 2026-04-11T08:02:45Z
 category: reading
+author: "John D. Cook"
 description: "Artemis II 不是阿波罗计划的重现，而是有意用工程手段把两次历史任务的轨道设计拼成一条新路：Apollo 8 的绕月目标 + Apollo 13 的自由返回轨道，同时大幅拉高近月点距离，打破人类离地最远纪录。"
 source: "https://www.johndcook.com/blog/2026/04/02/artemis-apollo/"
 ---

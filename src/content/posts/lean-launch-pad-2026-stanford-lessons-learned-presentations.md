@@ -2,6 +2,7 @@
 title: "Lean Launch Pad 2026 @ Stanford – Lessons Learned Presentations"
 date: 2026-06-17T08:03:38Z
 category: reading
+author: "Steve Blank"
 description: "AI 让团队在数小时内造出光鲜原型，但正因如此，MVP 从「验证假设的工具」退化为「完成任务的错觉」——本届课堂里幻觉的主体不是 AI，而是拿着精美产品误以为找到 product/market fit 的学生。"
 source: "https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/"
 ---

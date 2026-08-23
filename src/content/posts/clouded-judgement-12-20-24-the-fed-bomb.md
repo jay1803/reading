@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.20.24 - The Fed Bomb"
 date: 2025-01-02T11:00:56Z
 category: reading
+author: "Jamin Ball"
 description: "直到本周三美联储决定进行彻底改变！纳斯达克指数下跌 >3.5%，我认为这是自新冠疫情爆发以来美联储会议之后的最大跌幅。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-122024-the-fed"
 ---

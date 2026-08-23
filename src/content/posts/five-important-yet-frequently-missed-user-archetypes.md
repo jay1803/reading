@@ -2,6 +2,7 @@
 title: "Five Important Yet Frequently Missed User Archetypes"
 date: 2025-05-26T18:00:49Z
 category: reading
+author: "Elena Verna"
 description: "增长策略的真正杠杆不在于把核心用户服务得更好——而在于识别那些\"不像核心用户\"却能驱动增长的五类边缘用户，且对其中任何一类的忽视都会留下实质性的商业缺口。"
 source: "https://www.elenaverna.com/p/five-important-yet-frequently-missed"
 ---

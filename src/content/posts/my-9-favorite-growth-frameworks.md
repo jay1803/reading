@@ -2,6 +2,7 @@
 title: "My 9 Favorite Growth Frameworks"
 date: 2025-05-20T13:44:19Z
 category: reading
+author: "Elena Verna"
 description: "增长不是某个漏斗技巧的总和，而是由一组系统约束决定：增长引擎是否能自我强化，渠道、商业模式与市场是否彼此匹配，团队是否在正确阶段做正确的事。作者列出的 9 个框架共同把增长从“找技巧”改成“看系统”：先找复利回路，再管组合平衡，再识别饱和点、市场顺风和产品阶段切换，最后用实验与默认设置放大结果。重要之处在于，它把..."
 source: "https://www.elenaverna.com/p/my-9-favorite-growth-frameworks"
 ---

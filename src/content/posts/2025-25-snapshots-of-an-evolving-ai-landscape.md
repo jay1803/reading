@@ -2,6 +2,7 @@
 title: "2025.25: Snapshots of an Evolving AI Landscape"
 date: 2025-06-23T10:36:25Z
 category: reading
+author: "Ben Thompson"
 description: "本期围绕三件事形成互相印证的“快照”：OpenAI 与 Microsoft 的合作张力与 xAI 的高成本低收入，使头部公司在合同、治理与算力账上继续拉扯；中国新能源车企在内卷与外部关税博弈中遭遇现金流“减速带”；Meta 以极高成本网罗顶级 AI 人才，传递出对“超级智能”（superintelligence）..."
 source: "https://stratechery.com/2025/snapshots-of-an-evolving-ai-landscape/"
 ---

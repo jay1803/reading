@@ -2,6 +2,7 @@
 title: "Paradigm Shifts and the Winner’s Curse"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章的核心观点是：在技术范式转换里，上一轮的赢家往往反而最容易犯错，因为他们会误以为自己旧时代的优势能够自然迁移到新时代。Ben Thompson 用智能手机时代举例，认为真正定义那个时代的不是大家通常想到的 Apple + Google，而是 Apple + AWS；而真正的失败者，则是 Microsoft..."
 source: "https://stratechery.com/2025/paradigm-shifts-and-the-winners-curse/"
 ---

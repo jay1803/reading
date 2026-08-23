@@ -2,6 +2,7 @@
 title: "An Interview with Asana Founder Dustin Moskovitz about AI, SaaS, and Safety"
 date: 2025-10-21T13:37:09Z
 category: reading
+author: "Ben Thompson"
 description: "Dustin Moskovitz，Facebook 联合创始人（哈佛与 Zuckerberg 同住一寝室，后出任 Facebook 首任 CTO 兼工程 VP），2008 年离开 Facebook 与 Justin Rosenstein 共同创立 Asana。Asana 于 2020 年直接上市，Moskovit..."
 source: "https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/"
 ---

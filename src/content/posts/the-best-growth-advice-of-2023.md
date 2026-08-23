@@ -2,6 +2,7 @@
 title: "The best growth advice of 2023"
 date: 2023-12-24T18:00:11Z
 category: reading
+author: "Kate Syuma"
 description: "1. 摒弃传统的产品管理。恩佐·阿维戈 （Enzo Avigo） 在 6 月的 PMF 之路上扔掉了 10 个精心制作的路线图。[他的建议](https://www.growthunhinged.com/p/the-pre-pmf-guide-to-product-management)是：摒弃传统做法，以疯狂的..."
 source: "https://www.growthunhinged.com/p/the-best-growth-advice-of-2023"
 ---

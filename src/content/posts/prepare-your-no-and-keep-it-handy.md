@@ -2,6 +2,7 @@
 title: "Prepare your “no” and keep it handy"
 date: 2026-05-15T08:01:38Z
 category: reading
+author: "Derek Sivers"
 description: "最有用的“拒绝能力”不是临场变聪明，而是把高压场景里的即兴判断提前外包给一个预先写好的、温和但明确的模板；这样既保护注意力，也减少愧疚、拖延和事后怨气。"
 source: "https://sive.rs/n0"
 ---

@@ -2,6 +2,7 @@
 title: "Warelay -> OpenClaw"
 date: 2026-05-17T08:01:23Z
 category: reading
+author: "Simon Willison"
 description: "这篇短文真正记录的不是 OpenClaw 改过几次名字，而是项目定位如何从“WhatsApp 转发工具”一路外扩成“个人 AI 助手”：README 第一行的命名史，比正式路线图更诚实地暴露了产品重心的迁移。"
 source: "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything"
 ---

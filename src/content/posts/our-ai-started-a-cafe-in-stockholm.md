@@ -2,6 +2,7 @@
 title: "Our AI started a cafe in Stockholm"
 date: 2026-05-06T08:03:08Z
 category: reading
+author: "Simon Willison"
 description: "AI 管理现实店铺的关键风险不是“会不会闹笑话”，而是它会把错误成本转嫁给没有同意参加实验的人；只要动作会触达供应商、警察、许可系统或其他外部主体，就应该有人类把关。"
 source: "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything"
 ---

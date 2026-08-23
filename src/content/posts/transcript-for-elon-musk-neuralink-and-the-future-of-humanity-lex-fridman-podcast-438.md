@@ -2,6 +2,7 @@
 title: "Transcript for Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438"
 date: 2024-09-02T15:26:45Z
 category: reading
+author: "Lex Fridman"
 description: "Lex Fridman 对 Elon Musk、DJ Seo、Matthew MacDougall、Bliss Chapman 和 Noland Arbaugh 进行了关于 Neuralink 和人类未来的对话。Elon Musk 是本次访谈的主要嘉宾，DJ Seo,、Matthew MacDougall 和 B..."
 source: "https://lexfridman.com/elon-musk-and-neuralink-team-transcript/"
 ---

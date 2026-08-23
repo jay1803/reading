@@ -2,6 +2,7 @@
 title: "Hello to the Hittites!"
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Rebecca Darley"
 description: "这篇不是“赫梯入门百科”，核心是：赫梯世界提醒我们，古代社会留给后人的往往是权力阶层想被看见的部分；真正理解一个消失文明，要把宏大帝国、宫廷图像、战争技术，和植物残留、陶器微观结构、可回收材料消失造成的沉默一起读。越往前的历史越需要主动补全“技术彩色度”：他们不是朴素灰色的前现代人，而是有木器、皮革、织物、香味、..."
 source: "https://coffeewithclio.substack.com/p/hello-to-the-hittites"
 ---

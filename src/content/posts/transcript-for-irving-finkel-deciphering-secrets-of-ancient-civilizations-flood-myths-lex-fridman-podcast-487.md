@@ -2,6 +2,7 @@
 title: "Transcript for Irving Finkel: Deciphering Secrets of Ancient Civilizations & Flood Myths | Lex Fridman Podcast #487"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Lex Fridman"
 description: "这期对话主要在讲三件事：写作是怎么出现的，楔形文字是怎么被读懂的，以及我们今天手里关于古代文明的材料其实只是极小的一部分。 Irving Finkel 一边讲标准学术叙述，一边穿插了不少自己的判断：他怀疑“先有纯图画、后有声音记录”这套线性故事并不完整；他觉得更早时期很可能已经存在跨语言交流用的图像式书写，甚至..."
 source: "https://lexfridman.com/irving-finkel-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=irving-finkel-transcript"
 ---

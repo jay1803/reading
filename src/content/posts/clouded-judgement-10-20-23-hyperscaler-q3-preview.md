@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.20.23 - Hyperscaler Q3 Preview"
 date: 2023-10-22T21:28:46Z
 category: reading
+author: "Jamin Ball"
 description: "10 年期国债本周触及 5%，创下新高水位。总体而言，经济数据继续强劲（数据点表明通胀可能保持粘性，经济可以吸收利率在更长时间内保持较高水平）。就 10 年期利率为 5% 而言，从 2010 年到 2020 年，10 年期利率平均约为 2.5%。换句话说，今天的 10 年期利率是 2010 年至 2020 年平均..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-102023"
 ---

@@ -2,6 +2,7 @@
 title: "You're Interviewing Your SEOs Wrong"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Nick LeRoy"
 description: "AI 对 SEO 人才市场的真实冲击，不在于直接消灭岗位，而在于把审计、brief、关键词聚类、schema、metadata 建议、竞品分析这类“产出建议”的工作快速商品化；雇主愿意付溢价的能力转向判断哪些建议值得做、推动跨团队实施、并把搜索知识转化成业务结果。"
 source: "https://www.seoforlunch.com/p/interviewing"
 ---

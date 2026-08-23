@@ -2,6 +2,7 @@
 title: "Customer Success: The Lost Art of Churn Reason Analysis"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户给出的流失理由几乎都是谎言——不是因为他们在撒谎，而是因为你问的时机让他们只能撒谎。真正有效的 Churn Reason 分析需要同时记录三个版本的理由：客户说的、内部数据显示的、行为上透露的，然后对齐它们之间的差距。"
 source: "https://sixteenventures.com/churn-reason-analysis"
 ---

@@ -2,6 +2,7 @@
 title: "The best growth tactics of 2025"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章最有价值的结论其实很朴素：2025 年最有效的增长手段，并不是某个全新的 AI 黑科技，而是传统增长动作在新数据、新信号和新分发环境下被重新做了一遍。 读者反馈里最强的几类仍然是 outbound/ABM、伙伴生态、活动/社群，其次才是内容与 AI discovery、PLG 和产品发布。"
 source: "https://www.growthunhinged.com/p/the-best-growth-tactics-of-2025"
 ---

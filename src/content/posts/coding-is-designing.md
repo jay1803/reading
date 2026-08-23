@@ -2,6 +2,7 @@
 title: "Coding Is Designing"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Jim Nielsen"
 description: "代码的价值不只是把设计稿变成可运行界面，而是在运行、触摸、反馈、再调整的过程中发现设计本身。作者把 code 定义为一种设计媒介：它让“元素之间如何互相反应”从抽象想象变成可感知的关系系统。"
 source: "https://blog.jim-nielsen.com/2026/code-is-design/"
 ---

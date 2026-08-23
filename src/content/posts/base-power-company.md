@@ -2,6 +2,7 @@
 title: "Base Power Company"
 date: 2025-05-06T16:22:24Z
 category: reading
+author: "Packy McCormick"
 description: "电力输配成本十年上涨65%、发电成本下降33%，问题不在发电而在电网。Base Power Company 把住宅电池部署在负荷端——\"Electric Slide\"——是唯一能同时消解供给侧和需求侧波动的位置；通过拥有电池（而非出售）、充当REP，Base 把德克萨斯电价的极端波动（$0 到 $5,000/MW..."
 source: "https://www.notboring.co/p/94450403-49b1-4952-b35a-fe74f8638b0f"
 ---

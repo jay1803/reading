@@ -2,6 +2,7 @@
 title: "Flavors of Security"
 date: 2023-12-28T16:04:17Z
 category: reading
+author: "muji"
 description: "Every company in today's world MUST have the technical skills to setup, secure, and monitor their day-to-day business operations and company secrets (aka pro..."
 source: "https://hhhypergrowth.com/flavors-of-security/"
 ---

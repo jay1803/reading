@@ -2,6 +2,7 @@
 title: "Ten of the best SaaS growth charts"
 date: 2024-09-02T16:16:32Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章主要讨论了SaaS（软件即服务）公司的增长趋势和效能指标，阐述了不同的增长策略和成功因素。作者通过提供实际数据，探讨了如何优化资源以实现更高的增长和效益。"
 source: "https://www.growthunhinged.com/p/ten-of-the-best-saas-growth-charts"
 ---

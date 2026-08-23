@@ -2,6 +2,7 @@
 title: "Q3 2025 Letter"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Ryan Reeves"
 description: "这封 Q3 2025 letter 最有价值的地方，不是讲“我们为什么看多”，而是反过来做了一件很少有基金经理愿意认真做的事：在市场顺风、情绪高涨的时候，主动 steelman 自己前三大持仓的 bear case。 作者的核心态度是：真正该警惕的时候，不是在市场恐慌时，而是在一切都看起来很顺的时候。于是整封信围..."
 source: "https://www.investing-city.com/p/q3-2025-letter"
 ---

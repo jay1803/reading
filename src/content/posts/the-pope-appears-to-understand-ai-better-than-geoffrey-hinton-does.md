@@ -2,6 +2,7 @@
 title: "The Pope appears to understand AI better than Geoffrey Hinton does."
 date: 2026-06-01T08:01:18Z
 category: reading
+author: "Gary Marcus"
 description: "Marcus 的核心判断是：LLM 的流畅输出不能证明理解、意识或内部状态，因为它们本质上是在预测和模仿有经验的主体所产生的语言。真正的分界线不是“能否说得像人”，而是系统是否通过经验形成了关于世界的内部模型。"
 source: "https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai"
 ---

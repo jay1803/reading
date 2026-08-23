@@ -2,6 +2,7 @@
 title: "Small Teams Win, Again"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Luke Wroblewski"
 description: "AI 的效率增益只在小团队里才能完整释放——大团队的决策拖延与对齐内耗会把 AI 带来的生产力直接抵消掉。"
 source: "https://www.lukew.com/ff/entry.asp?2143"
 ---

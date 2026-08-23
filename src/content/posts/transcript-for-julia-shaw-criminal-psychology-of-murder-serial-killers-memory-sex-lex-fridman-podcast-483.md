@@ -2,6 +2,7 @@
 title: "Transcript for Julia Shaw: Criminal Psychology of Murder, Serial Killers, Memory & Sex | Lex Fridman Podcast #483"
 date: 2025-10-15T16:21:13Z
 category: reading
+author: "Lex Fridman"
 description: "\"邪恶\"是一个让思考停止的词——而正是这个停止，让下一次暴力得以发生。Shaw 的反直觉核心：70% 的男性有杀人幻想（正常且适应性的），大多数谋杀是争吵失控而非预谋，谋杀犯再犯率只有 1-3% 而欺诈犯和性暴力犯远高于此——我们的刑事系统在用最长的刑期惩罚最不危险的人。"
 source: "https://lexfridman.com/julia-shaw-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=julia-shaw-transcript"
 ---

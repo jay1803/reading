@@ -2,6 +2,7 @@
 title: "Transcript for Vejas Liulevicius: Communism, Marxism, Nazism, Stalin, Mao, and Hitler | Lex Fridman Podcast #444"
 date: 2024-10-08T17:35:09Z
 category: reading
+author: "Lex Fridman"
 description: "这是一篇关于共产主义思想、马克思主义理论及其在历史上的实践影响的访谈记录。受访者 Vejas Liulevicius 是一位专门研究德国和东欧历史的学者，他与主持人 Lex Fridman 讨论了马克思的核心思想、苏联的共产主义实践，以及共产主义与其他意识形态（如无政府主义、民族主义、法西斯主义）的关系。本访谈特..."
 source: "https://lexfridman.com/vejas-liulevicius-transcript/"
 ---

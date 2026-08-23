@@ -2,6 +2,7 @@
 title: "How Trump's Antitrust Enforcer Andrew Ferguson May Be Pushing Up Oil Prices"
 date: 2026-03-07T17:40:36Z
 category: reading
+author: "Matt Stoller"
 description: "这篇文章在讲一个具体链条：FTC 在 Lina Khan 任内对 Scott Sheffield 和 Exxon/Pioneer 并购案加了一道限制，Andrew Ferguson 上任后把这道限制撤掉；接着中东冲突推高油价，美国页岩油行业却没有明显增产，Sheffield 也重新公开站出来影响行业预期。作者要说..."
 source: "https://www.thebignewsletter.com/p/how-trumps-antitrust-enforcer-andrew"
 ---

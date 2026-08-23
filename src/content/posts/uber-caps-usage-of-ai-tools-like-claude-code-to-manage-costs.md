@@ -2,6 +2,7 @@
 title: "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs"
 date: 2026-06-04T08:02:07Z
 category: reading
+author: "Simon Willison"
 description: "Uber 将每位员工每个 AI 编程工具的月花费上限设为 $1,500，这个数字事实上是在公开为 AI coding agent 定价：假设每人同时使用两个工具，全年上限 $36,000，约为美国 Uber 工程师中位薪酬包（$330,000）的 11%。"
 source: "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything"
 ---

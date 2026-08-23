@@ -2,6 +2,7 @@
 title: "Motivating Action: The Hard Truth of Driving Customer Engagement"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户抵制产品不是能力问题，而是「所有权归属」问题——决策者购买、执行团队被迫承接，阻力从结构上就已注定，不是激励问题。"
 source: "https://sixteenventures.com/motivating-action"
 ---

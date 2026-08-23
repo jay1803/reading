@@ -2,6 +2,7 @@
 title: "How to Get Rich"
 date: 2026-06-18T08:02:39Z
 category: reading
+author: "Naval Ravikant"
 description: "Naval Ravikant 是 AngelList 联合创始人、连续创业者，早期投资过 Twitter、Uber 等公司，同时是广受关注的哲学与投资思想分享者。Nivi（Babak Nivi）是 Naval 在 AngelList 和 Venture Hacks 的长期合作人，本次系列访谈由 Nivi 主持，围..."
 source: "https://nav.al/rich"
 ---

@@ -2,6 +2,7 @@
 title: "Time to Move On – The Reason Relationships End"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Steve Blank"
 description: "关系不因某次争吵结束，而因一次\"清醒时刻\"结束——你突然意识到，那份支撑关系运转的隐性合约已经单方面失效，只是你一直没注意到。"
 source: "https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/"
 ---

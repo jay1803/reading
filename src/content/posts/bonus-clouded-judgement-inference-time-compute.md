@@ -2,6 +2,7 @@
 title: "Bonus Clouded Judgement - Inference Time Compute"
 date: 2025-02-14T18:07:09Z
 category: reading
+author: "Jamin Ball"
 description: "That scaling laws debate is still ongoing today, but I think it’s forcing people to take their eye off the ball on the real question: what are the implicatio..."
 source: "https://cloudedjudgement.substack.com/p/bonus-clouded-judgement-inference"
 ---

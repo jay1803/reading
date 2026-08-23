@@ -2,6 +2,7 @@
 title: "The Noble Path"
 date: 2026-03-27T08:01:05Z
 category: reading
+author: "Joan Westenberg"
 description: "开源倦怠的核心不是钱不够，而是礼物被强征入了义务经济——你主动给出去的东西一旦积累了用户期待，就从赠予变成了没人雇你却辞不掉的工作。这不是资金模型问题，是文化权限问题。"
 source: "https://www.joanwestenberg.com/the-noble-path/"
 ---

@@ -2,6 +2,7 @@
 title: "Is the US military actually afraid of Claude? A new theory of why Anthropic was labeled a supply chain risk."
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Gary Marcus"
 description: "国防部将 Anthropic 列为\"供应链风险\"的官方理由——Claude 有\"灵魂\"、有宪法、会\"焦虑\"、Anthropic 认为它有 20% 概率有意识——每一条都经不起逻辑检验，且全部同样适用于所有 LLM，包括 OpenAI。"
 source: "https://garymarcus.substack.com/p/is-the-us-military-actually-afraid"
 ---

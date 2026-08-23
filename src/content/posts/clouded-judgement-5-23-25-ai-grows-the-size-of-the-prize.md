@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.23.25 - AI Grows the Size of the Prize"
 date: 2025-06-18T21:53:34Z
 category: reading
+author: "Jamin Ball"
 description: "围绕“AI 是否让 VC 的可扩展性成立”的讨论，核心在退出市场的“奖池”是否变大：2005–2009 年头部 1% 退出约 14 亿美元，2020–2024 年头部 1% 约 102 亿美元，呈 5 年一倍的跃迁趋势；若 10 年后头部 1% 达 400–600 亿美元级，超大基金依然可通过少量“幂律样本”获得..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-52325-ai-grows"
 ---

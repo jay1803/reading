@@ -2,6 +2,7 @@
 title: "⚖️ Google Saved by ChatGPT?"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Kevin Palmer"
 description: "法官以 ChatGPT 等 AI 竞争者的崛起为由，拒绝拆分 Google——即 Google 历史上最严重的反垄断违规行为，反而被新威胁的存在\"赦免\"了。"
 source: "https://www.appeconomyinsights.com/p/google-saved-by-chatgpt"
 ---

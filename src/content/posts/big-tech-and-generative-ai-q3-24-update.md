@@ -2,6 +2,7 @@
 title: "Big Tech and Generative AI Q3 '24 Update"
 date: 2024-11-25T18:12:36Z
 category: reading
+author: "Tanay Jaipuria"
 description: "亚马逊的 AWS 人工智能业务无论在产品速度还是早期收入规模和增长方面都执行良好。"
 source: "https://www.tanayj.com/p/big-tech-and-generative-ai-q3-24"
 ---

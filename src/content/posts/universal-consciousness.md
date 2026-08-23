@@ -2,6 +2,7 @@
 title: "Universal Consciousness"
 date: 2026-04-01T08:00:34Z
 category: reading
+author: "Jeremy Keith"
 description: "这组笔记最有力的地方，在于它把“意识问题”从“大脑怎样产出主观体验”改写成“主观体验是否本来就沿着生命组织层级广泛分布”。一旦意识的起点被下压到感觉、稳态维持与生物电协调，植物、细胞，甚至宇宙级心灵都从异端猜想变成同一连续谱上的不同位置。"
 source: "https://intertwingled.org/universal-consciousness/"
 ---

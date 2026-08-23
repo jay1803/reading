@@ -2,6 +2,7 @@
 title: "The Pentagon’s bombshell deal with OpenAI, explained"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Timothy B. Lee"
 description: "作者的核心判断是：OpenAI并没有真正让五角大楼接受 Anthropic 试图坚持的红线，而是用几乎不具约束力的措辞达成了交易，并在过程中削弱了 Anthropic 的谈判位置。更深一层的问题是，靠公司合同约束国家监控和自主武器本来就靠不住；真正缺的是面向所有政府 AI 使用的一般性监督与立法。"
 source: "https://www.understandingai.org/p/the-pentagons-bombshell-deal-with"
 ---

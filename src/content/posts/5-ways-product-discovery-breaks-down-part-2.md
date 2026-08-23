@@ -2,6 +2,7 @@
 title: "5 Ways Product Discovery Breaks Down (Part 2)"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Itamar Gilad"
 description: "产品 discovery 崩坏的根因通常不是“还没配齐工具链”，而是组织没有把 discovery 当成必须持续投资的生产系统。只要管理逻辑仍然奖励发版和产出，团队就会在低证据条件下硬交付，然后把“没法测、没人研、没平台”当成借口。"
 source: "https://itamargilad.com/discovery-problems2/"
 ---

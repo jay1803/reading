@@ -2,6 +2,7 @@
 title: "Pluralistic: Refining humanity (05 Jun 2026)"
 date: 2026-06-06T08:04:42Z
 category: reading
+author: "Cory Doctorow"
 description: "每当机器复现人类专属能力，我们该收窄对\"那项能力\"的定义，而非把机器纳入\"人\"的范畴——AI只是让我们从\"唯一能创造\"变成\"也能创造\"的东西之一。"
 source: "https://pluralistic.net/2026/06/05/defining-humanity/"
 ---

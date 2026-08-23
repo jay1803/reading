@@ -2,6 +2,7 @@
 title: "🎨 Adobe: AI Scare Trade"
 date: 2026-03-16T01:01:01Z
 category: reading
+author: "Kevin Palmer"
 description: "Adobe 用一份漂亮的季报验证了 AI 变现初见成效——Firefly ARR 翻三倍、850M 活跃用户、47% 非 GAAP 利润率——但股价年内跌 30%，被重新定价到 <12x 远期市盈率。市场赌的是 AI-native 工具最终会把 Adobe 的核心业务淘空，而不是被 Adobe 收编。"
 source: "https://www.appeconomyinsights.com/p/adobe-ai-scare-trade"
 ---

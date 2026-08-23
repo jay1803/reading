@@ -2,6 +2,7 @@
 title: "What Not To Do"
 date: 2026-07-11T08:05:07Z
 category: reading
+author: "Ryan Reeves"
 description: "等到第一美元正向经营现金流再买，风险调整后收益往往优于在烧钱阶段入场——即使你因此错过前 2–4 倍涨幅。"
 source: "https://www.investing-city.com/p/what-not-to-do"
 ---

@@ -2,6 +2,7 @@
 title: "AI datacenters in space do not have a cooling problem"
 date: 2026-05-14T08:01:36Z
 category: reading
+author: "Sean Goedecke"
 description: "太空 AI 数据中心的关键反驳点不该是“真空中无法散热”：通过遮阴辐射板，散热在物理上可行，规模也未必荒谬；真正让它不现实的是要把散热板、太阳能板、GPU 和维护能力整套工业基础设施发射到轨道上。"
 source: "https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/"
 ---

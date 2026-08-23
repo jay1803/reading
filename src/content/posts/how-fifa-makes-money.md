@@ -2,6 +2,7 @@
 title: "⚽️ How FIFA Makes Money"
 date: 2026-06-13T08:01:51Z
 category: reading
+author: "Kevin Palmer"
 description: "FIFA 的非营利身份是一个设计精良的政治护城河：把奖金与转播分成分发给各成员协会，换取他们对因凡蒂诺的连任选票，同时将 $130 亿的营收循环呈现为\"回馈足球\"——这架机器一旦运转，监督它的人正是从它这里拿钱的人。"
 source: "https://www.appeconomyinsights.com/p/how-fifa-makes-money"
 ---

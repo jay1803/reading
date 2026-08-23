@@ -2,6 +2,7 @@
 title: "How to become so creative it feels illegal"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Dan Koe"
 description: "创造力不是天赋，是会被掩埋的意识状态——掩埋它的不是懒惰，而是过度刺激、效率焦虑和无休止的信息摄入。恢复它的方式是系统性让大脑\"挨饿\"，直到它重新开始饥渴。"
 source: "https://letters.thedankoe.com/p/how-to-become-so-creative-it-feels"
 ---

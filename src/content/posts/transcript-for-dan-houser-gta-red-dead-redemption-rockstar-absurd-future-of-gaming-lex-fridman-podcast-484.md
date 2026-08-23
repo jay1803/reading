@@ -2,6 +2,7 @@
 title: "Transcript for Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | Lex Fridman Podcast #484"
 date: 2025-11-04T11:14:00Z
 category: reading
+author: "Lex Fridman"
 description: "这场对谈最有价值的不是“GTA/Red Dead 幕后八卦”，而是 Dan Houser 把顶级叙事游戏的方法论讲透了：伟大作品来自长期打磨的团队系统、对角色人性的持续推演、以及在商业压力下依然坚持“创新而非复制”。"
 source: "https://lexfridman.com/dan-houser-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=dan-houser-transcript"
 ---

@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.5.25 - Monopoly Money"
 date: 2025-12-08T16:56:29Z
 category: reading
+author: "Jamin Ball"
 description: "作者批评早期创业公司和候选人把期权包按“当前纸面美元数”而不是“入场估值后的真实上行”来定价。候选人越迷信高估值带来的大额股权包，创始人越被迫不断抬高融资估值吸引人才；结果是行权价抬升、真正可兑现的上行被压缩、公司更容易重演 2021 年那种纸面繁荣后大面积 underwater 的离职潮。后半部分的 SaaS..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-12525-monopoly"
 ---

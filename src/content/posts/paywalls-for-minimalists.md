@@ -2,6 +2,7 @@
 title: "Paywalls For Minimalists"
 date: 2026-03-27T08:01:05Z
 category: reading
+author: "Ernie Smith"
 description: "任何静态网站都能用一天时间搭出可用的付费墙：Ko-Fi 收款 + Activepieces 自动化 + Listmonk 邮件 + HMAC 验证码，总计不超过 $12/月，绝大多数环节可自托管，完全无需 CMS 或复杂的登录系统。"
 source: "https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea"
 ---

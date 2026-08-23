@@ -2,6 +2,7 @@
 title: "Netflix Is Trying to Buy Warner Bros Discovery. That Would Be a Disaster for America."
 date: 2025-12-08T16:56:29Z
 category: reading
+author: "Matt Stoller"
 description: "这篇文章把 Netflix 收购华纳兄弟探索视为一场以“流媒体规模化”为名推进的垄断交易：它会同时削弱影院发行、锁死重要内容库、抬高流媒体价格，并进一步压低编剧、导演、演员的议价权。作者判断这笔交易在反垄断上高度脆弱，因为它把头号流媒体与第三大流媒体及五大制片厂之一合并，和当年 Penguin Random Ho..."
 source: "https://www.thebignewsletter.com/p/netflix-is-trying-to-buy-warner-bros"
 ---

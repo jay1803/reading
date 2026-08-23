@@ -2,6 +2,7 @@
 title: "I’m worried about women in tech."
 date: 2025-10-22T11:09:17Z
 category: reading
+author: "Elena Verna"
 description: "AI 热潮正把职场“AI-native”红利迅速集中到男性，女性在技能、采用率与岗位暴露面上处于劣势；关键在于立刻从“使用 AI”转向“用 AI 构建”，通过同伴互助与低门槛工具抓住早期窗口。"
 source: "https://www.elenaverna.com/p/im-worried-about-women-in-tech"
 ---

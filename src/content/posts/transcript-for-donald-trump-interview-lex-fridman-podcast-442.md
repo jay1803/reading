@@ -2,6 +2,7 @@
 title: "Transcript for Donald Trump Interview | Lex Fridman Podcast #442"
 date: 2024-09-15T15:16:30Z
 category: reading
+author: "Lex Fridman"
 description: "这是一场 Lex Fridman 对前美国总统唐纳德·特朗普的长时间访谈，涵盖了政治、商业、国际事务、社交媒体、选举、战争等多个话题。特朗普在访谈中表达了对政治体系的不满，并重申了自己的观点，包括他对 2020 年总统选举的看法、对乌克兰战争的解决方案、对移民政策的主张以及对当前美国政府的批评。"
 source: "https://lexfridman.com/donald-trump-transcript/"
 ---

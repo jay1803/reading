@@ -2,6 +2,7 @@
 title: "AI's Economics Don't Make Sense"
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Ed Zitron"
 description: "AI 订阅制的核心问题不是“暂时亏钱换增长”，而是把按 token 急剧波动的边际成本伪装成固定月费产品；一旦补贴退潮、账单回到真实成本，用户行为、企业 ROI、数据中心债务和 OpenAI/Anthropic 的融资叙事会同时被迫重定价。"
 source: "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
 ---

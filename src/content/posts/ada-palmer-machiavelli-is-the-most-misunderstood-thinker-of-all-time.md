@@ -2,6 +2,7 @@
 title: "Ada Palmer – Machiavelli is the most misunderstood thinker of all time"
 date: 2026-06-17T08:03:38Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Ada Palmer，芝加哥大学历史系教授，研究文艺复兴与早期现代欧洲史，亦是科幻小说作家及作曲家。主播 Dwarkesh Patel 对她的第二次访谈，聚焦马基雅维利其人与《君主论》的真实含义。"
 source: "https://www.dwarkesh.com/p/ada-palmer-2"
 ---

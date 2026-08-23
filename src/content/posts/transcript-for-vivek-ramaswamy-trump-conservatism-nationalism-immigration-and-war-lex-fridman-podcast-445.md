@@ -2,6 +2,7 @@
 title: "Transcript for Vivek Ramaswamy: Trump, Conservatism, Nationalism, Immigration, and War | Lex Fridman Podcast #445"
 date: 2024-10-08T17:55:04Z
 category: reading
+author: "Lex Fridman"
 description: "这个页面是 Lex Fridman 对 Vivek Ramaswamy 的访谈记录，讨论了保守主义、官僚机构、移民、以及俄乌战争等话题。Ramaswamy 提出了他对美国现状的看法，包括他对官僚机构的批评、对移民政策的建议、以及对俄乌战争的解决方案，核心观点是削减官僚机构、实施大规模驱逐非法移民、以及通过谈判解决..."
 source: "https://lexfridman.com/vivek-ramaswamy-transcript/"
 ---

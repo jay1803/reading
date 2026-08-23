@@ -2,6 +2,7 @@
 title: "Country Risk 2025: The Story behind the Numbers!"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Aswath Damodaran"
 description: "这篇文章的核心不是单纯给出一张“各国风险溢价表”，而是提醒你：country risk 不是一个神秘数字，而是由政治结构、暴力暴露、腐败程度、法律与产权执行等多层风险压缩出来的估值输入。Damodaran 想强调的是，很多人会机械地把国家风险溢价塞进 DCF，却不理解它背后的判断链条。真正重要的不是记住哪个国家今..."
 source: "https://aswathdamodaran.blogspot.com/2025/07/country-risk-2025-story-behind-numbers.html"
 ---

@@ -2,6 +2,7 @@
 title: "“This One Can Make Money Or Not?”"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Cedric Chin"
 description: "这篇文章的核心观点可以压缩成一句非常新加坡式的话：“这个能赚钱吗，还是不能？” 作者把它叫做“being commercial”——真正想长期赚钱、并且愿意围绕这个目标来排序注意力、判断合作、约束 ego、减少无关动作的能力。整篇作为 Asian Conglomerate 系列的收官，不是在讲新的 tycoon..."
 source: "https://commoncog.com/this-one-can-make-money-or-not/"
 ---

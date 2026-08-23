@@ -2,6 +2,7 @@
 title: "I quit drinking for a year"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "dynomight"
 description: "真正让人轻松戒酒的，不是更强自制力，而是把酒是可选项这件事从脑内菜单里彻底删除。对作者这种轻度饮酒者来说，零比少量更容易，因为它消灭了反复协商的心理摩擦，降低了认知负荷。"
 source: "https://dynomight.net/drinking/"
 ---

@@ -2,6 +2,7 @@
 title: "The shape of a guitar pick"
 date: 2026-05-04T08:02:01Z
 category: reading
+author: "John D. Cook"
 description: "把圆的方程搬到对数空间后，普通圆会被指数映射扭成一种非直观的封闭曲线；再经过坐标旋转与纵横比调参，一个很短的公式就能逼近吉他拨片的轮廓。"
 source: "https://www.johndcook.com/blog/2026/05/03/guitar-pick/"
 ---

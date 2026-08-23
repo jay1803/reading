@@ -2,6 +2,7 @@
 title: "I Am Retiring from Tech to Live Offline"
 date: 2026-05-31T08:00:59Z
 category: reading
+author: "Simon Willison"
 description: "Chad Whitacre 的“退休”不是论坛式反 AI 宣言，而是一次真实退出：他要离开科技行业和开源公共角色，把个人生活退回到无手机、无互联网、纸媒、邮政和面对面交流构成的“1980 式”离线社会。"
 source: "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything"
 ---

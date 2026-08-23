@@ -2,6 +2,7 @@
 title: "What do coders do after AI?"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Anil Dash"
 description: "程序员对 AI 的反应之所以不同于艺术家，根本原因是 LLM 替掉的是编程的\"苦差事\"而留下了创造判断——但这个说法在文章内部自我矛盾：对身份认同型程序员来说，写代码本身就是灵魂所在，而 AI 正在把这部分也拿走。"
 source: "https://anildash.com/2026/03/13/coders-after-ai/"
 ---

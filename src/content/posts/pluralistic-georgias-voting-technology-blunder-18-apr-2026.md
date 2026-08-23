@@ -2,6 +2,7 @@
 title: "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)"
 date: 2026-04-19T08:00:44Z
 category: reading
+author: "Cory Doctorow"
 description: "这篇文章最重要的判断不是“投票机一直很烂”这件旧闻，而是美国自由派在 2020 年后为了反对 Stop the Steal，连原本合理的投票机批评也一起防御化了，结果反而给了官员继续采购和包装糟糕系统的空间。Georgia 现在把“禁用 QR 码直接计票”的修法，又偷偷绕回成 OCR 复核方案，就是这种认知错位的..."
 source: "https://pluralistic.net/2026/04/18/dominion-sucks-actually/"
 ---

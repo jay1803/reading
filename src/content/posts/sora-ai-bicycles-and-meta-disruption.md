@@ -2,6 +2,7 @@
 title: "Sora, AI Bicycles, and Meta Disruption"
 date: 2025-10-10T00:42:08Z
 category: reading
+author: "Ben Thompson"
 description: "90/9/1 规则从来不是人性定律，而是创作门槛的产物。Sora 的爆发证明：当生成视频的门槛降为零，那 90% 的\"被动消费者\"根本就想创作，他们只是之前没有工具。"
 source: "https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/"
 ---

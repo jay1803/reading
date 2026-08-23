@@ -2,6 +2,7 @@
 title: "This War's Economic Crisis Could Get Much Worse—For the U.S. and the Whole World"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Derek Thompson"
 description: "Rachel Ziemba，全球能源市场与经济制裁领域分析师，追踪中东能源市场及地缘政治经济逾 20 年。采访者 Derek Thompson，The Atlantic 科技与经济专栏作者，主理 Plain English 播客。"
 source: "https://www.derekthompson.org/p/the-global-economic-crisis-of-the"
 ---

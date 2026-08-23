@@ -2,6 +2,7 @@
 title: "Robinhood - Investing City"
 date: 2025-07-03T12:28:53Z
 category: reading
+author: "Ryan Reeves"
 description: "Robinhood 以极致简洁的产品和“等候名单+邀请”机制打开增长，但其盈利核心是通过支付订单流（Payment for Order Flow, PFOF）在买卖价差中抽取收益；这一模式在“普惠参与/学习”与“博弈化/短期投机”之间形成张力。"
 source: "https://www.investing-city.com/p/robinhood"
 ---

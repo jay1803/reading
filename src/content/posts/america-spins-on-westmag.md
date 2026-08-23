@@ -2,6 +2,7 @@
 title: "America Spins on Westmag"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Packy McCormick"
 description: "Westmag 的赌注不是“美国制造更爱国”，而是电气化时代的关键组件会重新决定创新速度：如果美国无人机和机器人公司继续把电机、执行器、磁体加工、定子制造等过程知识外包给中国，它们会在下一轮物理 AI 产业里失去迭代权。Westmag 试图用国防需求和监管冲击拿到第一批规模，再把规模转化为成本、目录、交付速度和工..."
 source: "https://www.notboring.co/p/westmag"
 ---

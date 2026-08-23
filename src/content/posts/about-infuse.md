@@ -2,6 +2,7 @@
 title: "About Infuse"
 date: 2025-07-03T12:20:55Z
 category: reading
+author: "Ryan Reeves"
 description: "Infuse 是一家以击败 S&P 500 指数为目标的 long-biased 公共股权对冲基金。该基金通过一套名为 INFUSE 的核心价值观来指导其运营，并专注于投资世界上增长最快、质量最高且回报周期最短的公司，旨在实现未来50年世界级的长期回报。"
 source: "https://www.investing-city.com/p/about-infuse"
 ---

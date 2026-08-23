@@ -2,6 +2,7 @@
 title: "REVIEW: 50 Years of Text Games, by Aaron Reed"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "John Psmith"
 description: "文本游戏的真正机会是把 AI 放进有硬规则、有历史、有物理、有可追责状态的模拟世界。旧 IF 的魔法来自作者预先穷尽玩家意图，LLM 的魔法来自语言理解和补缝；真正的“好玩”需要玩家撞上一个不迁就他的世界，并从规则摩擦里生出意外。"
 source: "https://www.thepsmiths.com/p/review-50-years-of-text-games-by"
 ---

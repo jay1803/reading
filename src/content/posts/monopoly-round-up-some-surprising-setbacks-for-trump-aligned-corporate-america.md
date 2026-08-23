@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Some Surprising Setbacks for Trump-Aligned Corporate America"
 date: 2026-04-22T08:01:29Z
 category: reading
+author: "Matt Stoller"
 description: "这篇真正重要的判断，不是“特朗普阵营第一次吃瘪”，而是：当联邦层面越来越像为寡头服务的交易平台时，真正还能打断垄断扩张的力量，开始更多来自州检察长、地方法院、州议会和行业内部联合反对。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-week-the-oligarchs"
 ---

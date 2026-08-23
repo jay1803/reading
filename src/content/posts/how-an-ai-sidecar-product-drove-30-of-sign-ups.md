@@ -2,6 +2,7 @@
 title: "How an AI sidecar product drove 30% of sign-ups"
 date: 2024-03-18T16:13:21Z
 category: reading
+author: "Kate Syuma"
 description: "本文分享了 Eraser 创始人 Shin Kim 构建和发展 AI sidecar 产品 DiagramGPT 的经验。DiagramGPT 作为一个无需注册即可使用的 AI 工具，已经成为 Eraser 最大的增长动力，并改变了 Shin Kim 对 AI 功能产品开发的看法. DiagramGPT 目前占..."
 source: "https://www.growthunhinged.com/p/how-an-ai-sidecar-product-drove-30"
 ---

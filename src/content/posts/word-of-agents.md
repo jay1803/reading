@@ -2,6 +2,7 @@
 title: "Word of Agents"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Gaurav Vohra"
 description: "增长的下一个战场不是社交推荐，而是让 AI agent 推荐你——一个人只需对 agent 说一次\"用 Vercel\"，这条指令可能驱动数千次自动交易，超过传统百次口碑推荐。"
 source: "https://substack.gauravvohra.com/p/word-of-agents"
 ---

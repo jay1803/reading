@@ -2,6 +2,7 @@
 title: "No-One Escapes the Permanent Underclass"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Fernando Borretti"
 description: "作者核心论点：如果AI真的取代了一切劳动，没有任何人类资产——工资、股权、国家权力——能提供庇护。\"持有Anthropic/OpenAI股份就能保住席位\"是最短视的幻觉，因为这条逻辑链在倒数第二步就断了。"
 source: "https://borretti.me/article/no-one-escapes-the-permanent-underclass"
 ---

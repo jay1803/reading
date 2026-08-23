@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Will the Iran Price Shock Break the World?"
 date: 2026-03-11T01:01:07Z
 category: reading
+author: "Matt Stoller"
 description: "美国打击伊朗触发的油价冲击，将在一个被垄断与去管制刻意削薄的供应链体系中逐层传导：航空、农业、芯片、金融——每一环都是为\"资本效率\"而去掉缓冲的结果。这次危机的真正风险，是把隐藏二十年的系统性脆性同时引爆。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-will-the-iran-price"
 ---

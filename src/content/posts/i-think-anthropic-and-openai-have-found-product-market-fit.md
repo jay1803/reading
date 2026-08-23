@@ -2,6 +2,7 @@
 title: "I think Anthropic and OpenAI have found product-market fit"
 date: 2026-05-28T08:01:27Z
 category: reading
+author: "Simon Willison"
 description: "OpenAI 和 Anthropic 的真正产品市场契合点，正在从大众聊天订阅转向高消耗、高付费意愿的企业级编码/通用代理；价格上调、按 API token 计费、企业销售扩张和推理算力支出，都指向同一个事实：代理产品已经开始把模型能力转换成可观收入。"
 source: "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything"
 ---

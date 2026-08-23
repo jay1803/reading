@@ -2,6 +2,7 @@
 title: "Broaden what \"SEO\" means"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Eli Schwartz"
 description: "\"SEO 已死\"是因为把 SEO 定义得太窄——仅限于 Google 文字搜索。一旦把 SEO 还原为本质（帮助内容在用户寻求信息时出现，无论以何种方式），它不但没死，还在随每一种新交互界面继续扩张。"
 source: "https://www.productledseo.com/p/seo-is-too-big-to-fail"
 ---

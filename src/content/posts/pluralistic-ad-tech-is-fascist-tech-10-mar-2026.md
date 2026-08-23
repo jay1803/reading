@@ -2,6 +2,7 @@
 title: "Pluralistic: Ad-tech is fascist tech (10 Mar 2026)"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Cory Doctorow"
 description: "广告监控的根本赌注从来不是\"广告商会多付钱吗\"，而是\"立法者会惩罚我们吗\"——警察和情报机构早已确保答案是\"不会\"，因为他们自己就是这套数据库的最大受益者。"
 source: "https://pluralistic.net/2026/03/10/ice-tech/"
 ---

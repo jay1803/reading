@@ -2,6 +2,7 @@
 title: "Dirty dozen of PLG B2B SaaS health metrics with benchmarks"
 date: 2025-05-26T17:49:11Z
 category: reading
+author: "Elena Verna"
 description: "收入是一个结果，而不是一个有效的衡量指标，因为它评估的是过去而非预测未来。对于采用产品导向增长 (PLG) 模式的 B2B 公司，应当关注分布在四个增长杠杆（获客、激活、参与、变现）下的 12 个关键量化指标，这些指标能更好地预测未来的收入潜力。"
 source: "https://www.elenaverna.com/p/dirty-dozen-of-plg-b2b-saas-health"
 ---

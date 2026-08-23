@@ -2,6 +2,7 @@
 title: "How To Find Your Next Big Marketing Idea"
 date: 2025-05-26T17:47:59Z
 category: reading
+author: "Elena Verna"
 description: "这篇文章由 Wiz 的增长营销负责人 Tom Orbach 撰写，旨在解决营销人员在寻找新创意时遇到的普遍难题。文章的核心论点是，世界上没有全新的创意，所有创意都只是对旧有元素的重新组合。为了系统性地、可持续地产生营销创意，文章提出了一个名为 I.D.E.A. 的四步框架：识别 (Identify) 其他公司的成..."
 source: "https://www.elenaverna.com/p/how-to-find-your-next-big-marketing"
 ---

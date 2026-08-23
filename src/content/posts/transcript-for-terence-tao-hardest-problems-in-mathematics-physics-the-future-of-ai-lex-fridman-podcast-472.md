@@ -2,6 +2,7 @@
 title: "Transcript for Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472"
 date: 2025-06-17T12:23:46Z
 category: reading
+author: "Lex Fridman"
 description: "围绕“边界难题—数学方法—工具演进”展开：以 Kakeya 与 Navier–Stokes 为切口解释何为“已知技术能做到 90%，剩余 10% 最难”的问题；讨论无穷与“有限化”的直觉与陷阱；区分数学、物理与工程在“现实—观测—模型”三角中的角色；系统梳理计算机辅助证明与 Lean 的价值及其与 AI 的协同；..."
 source: "https://lexfridman.com/terence-tao-transcript"
 ---

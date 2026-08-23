@@ -2,6 +2,7 @@
 title: "Brand… a Product job now?"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Elena Verna"
 description: "软件开发成本趋近于零，任何产品都可以被迅速复制——唯一护城河是用户对产品的情感依附，而这只能在产品体验内部建立，营销无法代劳。因此 brand 已成为产品团队的核心责任，而非市场部的附属品。"
 source: "https://www.elenaverna.com/p/brand-a-product-job-now"
 ---

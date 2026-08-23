@@ -2,6 +2,7 @@
 title: "Why Are Men So Bad at Making—and Keeping—Friends?"
 date: 2026-06-04T08:02:07Z
 category: reading
+author: "Derek Thompson"
 description: "Laurie Santos 是耶鲁大学幸福研究教授，也是播客 /The Happiness Lab/ 主持人；她在访谈中主要从心理学、幸福研究和孤独研究视角回应 Derek Thompson 关于男性友谊、独处、脆弱表达与现代幸福观的问题。"
 source: "https://www.derekthompson.org/p/americas-real-social-crisis-is-the"
 ---

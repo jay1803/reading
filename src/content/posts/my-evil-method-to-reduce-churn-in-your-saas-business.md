@@ -2,6 +2,7 @@
 title: "My EVIL Method to Reduce Churn in Your SaaS Business"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "取消流程不应设退出壁垒，而应设\"价值重述\"——在一键取消之前让用户回忆为什么开始用、会失去什么。GetResponse 用这套方法几乎立即减少了约 15% 的取消率。"
 source: "http://sixteenventures.com/how-to-reduce-churn-saas?utm_source=rss&utm_medium=rss&utm_campaign=how-to-reduce-churn-saas"
 ---

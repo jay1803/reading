@@ -2,6 +2,7 @@
 title: "Elon Dreams and Bitter Lessons"
 date: 2024-10-22T15:39:50Z
 category: reading
+author: "Ben Thompson"
 description: "To review the levels of automation:"
 source: "https://stratechery.com/2024/elon-dreams-and-bitter-lessons/"
 ---

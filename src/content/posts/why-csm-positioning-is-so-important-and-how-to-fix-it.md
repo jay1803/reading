@@ -2,6 +2,7 @@
 title: "Why CSM Positioning is so Important (and How to Fix it)"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "CSM 的\"定位\"在第一次见面前就已被客户设好——客户基于过往经验或偏见预写了一个\"CSM 是什么人\"的版本，CSM 要么主动介入重写，要么默默承受别人写好的剧本。"
 source: "https://sixteenventures.com/why-csm-positioning-is-so-important-and-how-to-fix-it"
 ---

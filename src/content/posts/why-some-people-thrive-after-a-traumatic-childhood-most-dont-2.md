@@ -2,6 +2,7 @@
 title: "Why Some People Thrive After a Traumatic Childhood (Most Don’t)"
 date: 2026-03-24T08:01:59Z
 category: reading
+author: "Ed Latimore"
 description: "创伤性童年摧毁大多数人（监狱人口中97%有至少一次逆境童年经历），但极少数幸存者被迫发展出的五种特质——韧性、共情力、冒险意愿、无路径依赖、真实的感恩——是普通人在稳定环境中很难主动培养出来的。"
 source: "https://edlatimore.com/benefits-of-traumatic-childhood"
 ---

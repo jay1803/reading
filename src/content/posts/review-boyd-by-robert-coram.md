@@ -2,6 +2,7 @@
 title: "REVIEW: Boyd, by Robert Coram"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "John Psmith"
 description: "Boyd 真正重要的遗产不是 OODA 环（传记第 350 页才出现，仅占 10 页），而是 E-M 理论——第一套把战斗机性能量化为物理学方程的框架，在此之前航空工程靠的是\"感觉\"。他用这个工具改写了 F-15/F-16 的设计方向，并催生了 A-10。但 Coram 这本书真正的命题是：让他实现这些的偏执与不..."
 source: "https://www.thepsmiths.com/p/review-boyd-by-robert-coram"
 ---

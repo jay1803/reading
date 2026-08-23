@@ -2,6 +2,7 @@
 title: "Copping My Style"
 date: 2026-06-08T08:01:29Z
 category: reading
+author: "Ernie Smith"
 description: "无论是 Fender 试图用吉他外观设计封锁竞争对手，还是 Adobe 推动 CREATOR Act 给视觉风格立法保护，本质都是用\"保护创作者\"做包装来固化企业授权垄断——而历史证明，风格版权化之后最先受害的是下一代创作者，不是 AI 公司。"
 source: "https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary"
 ---

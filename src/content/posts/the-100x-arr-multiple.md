@@ -2,6 +2,7 @@
 title: "The 100x ARR Multiple"
 date: 2021-11-14T14:00:23Z
 category: saas
+author: "Tomasz Tunguz"
 description: "most investors used forward ARR multiples to value companies, but recently, the"
 source: "https://tomtunguz.com/100x-arr/"
 ---

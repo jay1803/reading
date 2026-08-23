@@ -2,6 +2,7 @@
 title: "🍿 Netflix: Peak Attention?"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Kevin Palmer"
 description: "Netflix Q2 FY25 财务数据亮眼——收入+16%、运营利润率34%、EPS+47%——但美国用户观看时长占电视总时长的比例已连续两年停在8%，没有移动。钱在增长，注意力没有。"
 source: "https://www.appeconomyinsights.com/p/netflix-peak-attention"
 ---

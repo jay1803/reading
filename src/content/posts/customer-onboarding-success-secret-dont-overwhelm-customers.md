@@ -2,6 +2,7 @@
 title: "Customer Onboarding Success Secret: Don’t Overwhelm Customers"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "作者的核心判断是，很多 onboarding 失败并不是因为公司冷落客户，而是因为一上来给了太多功能、太多选择、太多“帮助”，把客户直接压垮了。客户刚开始使用产品时，注意力并不围着你转；如果团队误以为自己已经占据了客户世界的中心，就会把 onboarding 设计成信息倾倒，结果客户既不知道先做什么，也更难尽快体..."
 source: "http://sixteenventures.com/customer-success-onboarding-overwhelm"
 ---

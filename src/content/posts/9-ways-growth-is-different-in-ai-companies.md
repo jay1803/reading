@@ -2,6 +2,7 @@
 title: "9 ways growth is different in AI companies"
 date: 2025-10-15T13:27:09Z
 category: reading
+author: "Elena Verna"
 description: "AI 原生公司的增长规律与传统软件显著不同：PMF 需要高频“复赢”，激活被压缩到单一的 prompt 交互，增长更偏向押注型项目与产品内循环，品牌从市场部延伸为产品职责，创始人主导的社媒成为关键分发；增长团队不再只“分发”，而是直接“造功能”。"
 source: "https://www.elenaverna.com/p/9-ways-growth-is-different-in-ai"
 ---

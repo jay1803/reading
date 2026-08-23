@@ -2,6 +2,7 @@
 title: "I truly hate mostpeopleslop"
 date: 2026-04-17T08:02:24Z
 category: reading
+author: "Joan Westenberg"
 description: "作者真正攻击的不是一句“most people...”句式本身，而是平台激励把“制造身份优越感的包装”变成了内容生产的主产品，导致 tech Twitter 和 LinkedIn 的信息市场从“交换判断”滑向“贩卖轻度优越感”。"
 source: "https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/"
 ---

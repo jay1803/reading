@@ -2,6 +2,7 @@
 title: "The Generative AI Con"
 date: 2025-03-19T10:22:32Z
 category: reading
+author: "Ed Zitron"
 description: "这篇文章主要讨论了生成式人工智能（Generative AI）的现状和未来。作者认为，尽管 Large Language Models (LLMs) 有一些应用场景，但当前的生成式 AI 行业是一个由 OpenAI 首席执行官 Sam Altman 等人推动的、不切实际的泡沫。这个泡沫建立在夸大的宣传、对未来的虚..."
 source: "https://www.wheresyoured.at/longcon/"
 ---

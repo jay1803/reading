@@ -2,6 +2,7 @@
 title: "TBM 411: Messy Docs As Helpful Pattern"
 date: 2026-03-18T08:02:09Z
 category: reading
+author: "John Cutler"
 description: "高绩效团队依赖的并非\"整洁的系统\"，而是一种有意识地保持混乱的迁移习惯——反复手动复制快照、在文档中制造冗余——这本身就是他们真正的工作方式，而不是工作效率差的症状。"
 source: "https://cutlefish.substack.com/p/tbm-411-messy-docs-as-helpful-pattern"
 ---

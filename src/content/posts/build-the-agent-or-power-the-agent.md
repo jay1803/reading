@@ -2,6 +2,7 @@
 title: "Build the Agent or Power the Agent?"
 date: 2026-06-25T08:02:23Z
 category: reading
+author: "Tanay Jaipuria"
 description: "水平 Agent（Claude Code、Codex、ChatGPT）已成为越来越多知识工作者的默认工作界面。对创业者而言，这制造了一个结构性选择：要成为某类用户每天打开的核心 Agent，还是接受他们活在水平 Agent 里、把自己的能力以 MCP/API 的形式暴露给它？"
 source: "https://www.tanayj.com/p/build-the-agent-or-power-the-agent"
 ---

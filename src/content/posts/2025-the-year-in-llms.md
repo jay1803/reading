@@ -2,6 +2,7 @@
 title: "2025: The Year in LLMs"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Simon Willison"
 description: "2025 最反常识的事实：Claude Code 以\"博客第二条子弹点\"的方式发布，最终做到 10 亿美元年化营收；而开源模型排行榜前五，全是中国实验室的模型（GLM-4.7、Kimi K2、DeepSeek V3.2 等），最高排名的非中国模型来自 OpenAI，位列第六。这两件事都没被任何人预测到。"
 source: "https://simonwillison.net/2025/Dec/31/the-year-in-llms/"
 ---

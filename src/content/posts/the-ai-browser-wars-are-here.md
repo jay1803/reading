@@ -2,6 +2,7 @@
 title: "The AI Browser Wars Are Here"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Tanay Jaipuria"
 description: "浏览器重新成为 AI 竞争的核心，因为它同时掌握默认入口、页面上下文、身份状态和执行动作的权限。谁把 AI 嵌进浏览器，谁就更接近日常工作的“操作系统”；眼下 Chrome 守着分发高地，Dia 在知识工作场景里最原生，Comet 在代理能力上领先，OpenAI 则可能凭 ChatGPT 的用户基础后来居上。"
 source: "https://www.tanayj.com/p/the-ai-browser-wars"
 ---

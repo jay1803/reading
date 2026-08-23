@@ -2,6 +2,7 @@
 title: "Transcript for Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454"
 date: 2024-12-09T18:50:18Z
 category: reading
+author: "Lex Fridman"
 description: "以下是莱克斯·弗里德曼（Lex Fridman）与萨加尔·恩杰蒂（Saagar Enjeti）的播客剧集文字记录中涵盖的主要主题的总结："
 source: "https://lexfridman.com/saagar-enjeti-2-transcript/"
 ---

@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.21.23"
 date: 2023-04-25T20:06:22Z
 category: reading
+author: "Jamin Ball"
 description: "Morgan Stanley released a report yesterday suggesting “cloud optimizations [were] an intensifying headwind in Q1.”"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-42123"
 ---

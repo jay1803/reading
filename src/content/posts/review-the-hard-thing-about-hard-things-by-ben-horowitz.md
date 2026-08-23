@@ -2,6 +2,7 @@
 title: "REVIEW: The Hard Thing About Hard Things, by Ben Horowitz"
 date: 2025-05-06T16:30:57Z
 category: reading
+author: "John Psmith"
 description: "这本书不是管理学教材，而是一本关于荣誉文化的书——Horowitz 认为，硅谷创业者真正继承的是苏格兰-爱尔兰荣誉伦理（通过黑人说唱文化传入），而这套古老的人格代码，比任何\"领导力框架\"都更能解释创业成功的底层逻辑。"
 source: "https://www.thepsmiths.com/p/review-the-hard-thing-about-hard"
 ---

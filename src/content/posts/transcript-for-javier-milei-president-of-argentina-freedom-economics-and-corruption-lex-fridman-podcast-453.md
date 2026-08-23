@@ -2,6 +2,7 @@
 title: "Transcript for Javier Milei: President of Argentina – Freedom, Economics, and Corruption | Lex Fridman Podcast #453"
 date: 2024-11-25T14:29:19Z
 category: reading
+author: "Lex Fridman"
 description: "以下是莱克斯·弗里德曼（Lex Fridman）的播客中关于哈维尔·米莱（Javier Milei）的内容总结："
 source: "https://lexfridman.com/javier-milei-transcript/"
 ---

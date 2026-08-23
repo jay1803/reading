@@ -2,6 +2,7 @@
 title: "What’s with all the slide decks?"
 date: 2026-05-14T08:01:36Z
 category: reading
+author: "dynomight"
 description: "幻灯片文档不是集体智力退化的证据，而是一个“小收益 + 低成本 + 顾问业扩散”的文化均衡：它足够方便、足够好看、足够容易被转发，所以在最适合它进化的咨询行业先胜出，再被企业世界复制。"
 source: "https://dynomight.net/slides/"
 ---

@@ -2,6 +2,7 @@
 title: "The AI Industrial Revolution"
 date: 2026-06-02T08:01:20Z
 category: reading
+author: "Naval Ravikant"
 description: "Nivi 主持 Naval Podcast 这期圆桌，Naval 与三位“前沿创始人”讨论 AI 改变生产方式：Guillermo Rauch 正在把 Vercel 做成面向 agents 的 AI cloud；Blake Scholl 在 Boom Supersonic 垂直整合超音速飞机、工厂和喷气发动机；M..."
 source: "https://nav.al/industrial"
 ---

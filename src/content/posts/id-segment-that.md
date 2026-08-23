@@ -2,6 +2,7 @@
 title: "I'd Segment That..."
 date: 2025-05-26T18:01:09Z
 category: reading
+author: "Elena Verna"
 description: "在 B2B PLG 里，注册后的 onboarding 不该只追求“少一步、快一点”，而应该趁用户动机最强的时候完成必要的 profiling：弄清他们是谁、为什么来、想完成什么。文章的核心判断是，这类问题如果问得有节制、和后续动作强相关，不但不会明显伤害激活，反而能增强用户的推进感，并为后续分群、个性化和商业化..."
 source: "https://www.elenaverna.com/p/id-segment-that"
 ---

@@ -2,6 +2,7 @@
 title: "Churn Classification for Customer Success Management"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "流失分类的价值不在于区分\"好流失\"和\"坏流失\"（两者都不存在），而在于区分\"有没有预见\"和\"本可避免\"这两个维度，从而把事后的责任归属和系统改进分配到正确的位置。"
 source: "https://sixteenventures.com/churn-classification"
 ---

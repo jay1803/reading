@@ -2,6 +2,7 @@
 title: "Grant Sanderson – AI and the future of math"
 date: 2026-07-01T08:03:04Z
 category: reading
+author: "Dwarkesh Patel"
 description: "AI 在数学的进展是尖峰状的——几何题 19 秒秒杀，排列组合题却败北。数学内部的这种锯齿形，是所有领域 AI 能力分布的预告片。"
 source: "https://www.dwarkesh.com/p/grant-sanderson-2"
 ---

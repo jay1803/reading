@@ -2,6 +2,7 @@
 title: "The Pancake Discussion"
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Ernie Smith"
 description: "社交媒体上的煎饼讨论——热评同质、AI/政治观点两极化、细腻判断必被淹没——根源不是平台算法，而是\"快速生产、批量消费\"的内在逻辑：煎饼人人会做，但形状永远一样。"
 source: "https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion"
 ---

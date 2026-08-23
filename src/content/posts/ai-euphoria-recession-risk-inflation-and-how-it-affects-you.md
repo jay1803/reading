@@ -2,6 +2,7 @@
 title: "💥 AI Euphoria, Recession Risk, Inflation, And How It Affects You"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Andrew Lokenauth"
 description: "文章的核心判断是：美股正在被两套经济同时拉扯。AI 基础设施周期继续推高估值、风险偏好和少数科技资产；战争、油价、通胀、高利率、商业地产和消费者压力则在削弱实体经济。对应策略不是清仓，也不是追高，而是保留高质量 AI 基础设施敞口，同时配置通胀对冲、短债/现金和回撤时可用的 dry powder。"
 source: "https://www.thefinancenewsletter.com/p/stock-market-recession-warning-2026"
 ---

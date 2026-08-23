@@ -2,6 +2,7 @@
 title: "10 SEO, marketing, and tech predictions for 2026"
 date: 2025-12-08T16:51:23Z
 category: reading
+author: "Kevin Indig"
 description: "作者判断 2026 是互联网从“生成式时代”进入“代理时代”的拐点：AI 不再主要负责读网页和总结网页，而会越来越多地直接执行任务、写入系统、截走交易入口。由此带来的核心后果不是某个产品功能升级，而是数字经济分层：开放网络继续承接低价值、可抓取、可自动化的内容，真正稀缺的人类经验、可信身份与交易数据则被封装进付费..."
 source: "https://www.growth-memo.com/p/10-seo-marketing-and-tech-predictions"
 ---

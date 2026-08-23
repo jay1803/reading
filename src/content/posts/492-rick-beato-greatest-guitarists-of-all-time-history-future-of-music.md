@@ -2,6 +2,7 @@
 title: "#492 – Rick Beato: Greatest Guitarists of All Time, History & Future of Music"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Lex Fridman"
 description: "Rick Beato，音乐教育者、制作人、多乐器演奏家（吉他、贝斯、大提琴、钢琴），拥有古典贝斯本科学位与新英格兰音乐学院爵士吉他硕士学位。在 YouTube 拥有超过 400 万订阅者的频道，以曲目解析、乐手访谈和个人化排行榜闻名。曾任大学爵士乐讲师五年，后转型为唱片制作人，YouTube 频道因儿子 Dyla..."
 source: "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato"
 ---

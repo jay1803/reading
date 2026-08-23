@@ -2,6 +2,7 @@
 title: "Waste Tokens, Save Time"
 date: 2026-05-28T08:01:44Z
 category: reading
+author: "Naval Ravikant"
 description: "这是一场 Naval Podcast 对话。主持人 Nivi 和 Naval 与三位创始人讨论 AI agent 正在如何改变工程、公司组织和创业护城河："
 source: "https://nav.al/tokens"
 ---

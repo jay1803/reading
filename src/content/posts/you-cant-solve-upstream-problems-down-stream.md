@@ -2,6 +2,7 @@
 title: "You Can’t Solve Upstream Problems Down Stream"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户成功“做不起来”的根因，往往不在下游执行，而在上游把没有成功潜力的客户也签了进来。坏匹配客户会同时推高流失、拖慢增长、侵蚀单位经济，并通过负面口碑反噬下一轮获客，所以这本质上是公司级的增长、LTV、CAC 效率与估值问题，不是 Customer Success 部门自己的问题。"
 source: "https://sixteenventures.com/upstream-problems"
 ---

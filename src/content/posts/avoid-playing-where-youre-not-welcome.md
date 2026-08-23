@@ -2,6 +2,7 @@
 title: "Avoid Playing Where You're Not Welcome"
 date: 2025-12-08T16:53:57Z
 category: reading
+author: "Nick LeRoy"
 description: "在某些渠道，你做的越对，越浪费。\"技术上被允许\"≠\"欢迎你\"。识别这个差异的时机，比执行力本身更值钱。"
 source: "https://www.seoforlunch.com/p/avoid-playing-where-youre-not-welcome"
 ---

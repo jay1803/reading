@@ -2,6 +2,7 @@
 title: "Your guide to PLG benchmarks"
 date: 2022-06-29T13:14:09Z
 category: growth
+author: "Kyle Poyar"
 description: "It mainly reflects the last mile of the buying process, which feels short-sighted considering that just 5-6% of buying activity is spent meeting with sales r..."
 source: "https://kylepoyar.substack.com/p/your-guide-to-plg-benchmarks"
 ---

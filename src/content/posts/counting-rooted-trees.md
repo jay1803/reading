@@ -2,6 +2,7 @@
 title: "Counting rooted trees"
 date: 2026-08-02T13:36:19Z
 category: reading
+author: "John D. Cook"
 description: "设计 s 阶显式 Runge-Kutta 方法所需的约束方程数 c(s) = t(1) + t(2) + … + t(s)，其中 t(n) 是 n 个节点的无标签有根树的数量。这不是巧合：RK 方法对第 n 阶导数的每一条约束，都与一棵有根树一一对应。"
 source: "https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/"
 ---

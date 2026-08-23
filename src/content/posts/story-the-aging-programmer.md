@@ -2,6 +2,7 @@
 title: "Story: The Aging Programmer"
 date: 2026-04-11T08:02:45Z
 category: reading
+author: "Adam Gordon Bell"
 description: "Kate Gregory 是资深 C++ 开发者、长期顾问与演讲者，也是 Carbon 编程语言三位 lead 之一。她经历过四期黑色素瘤并存活下来，之后围绕“程序员如何变老”做了问卷、访谈与公开演讲；这场对谈基本是在讲她把个人生存经验、行业观察和一份非严格学术的程序员调查拼成的判断。"
 source: "https://corecursive.com/the-aging-programmer/"
 ---

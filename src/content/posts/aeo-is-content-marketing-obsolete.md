@@ -2,6 +2,7 @@
 title: "AEO: Is content marketing obsolete?"
 date: 2026-03-20T08:00:45Z
 category: reading
+author: "Eli Schwartz"
 description: "内容营销的问题不是\"需要调整策略\"，而是支撑它运转的经济机制已经断裂——LLM 把自己变成了内容平台，\"点击\"作为基础价值单元就此瓦解。"
 source: "https://www.productledseo.com/p/aeo-is-content-marketing-obsolete"
 ---

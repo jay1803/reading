@@ -2,6 +2,7 @@
 title: "Sam Altman's Startup Advice (Part 1)"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "竞争市场里打赢对手不是创业目标——目标是找到一个没人服务的小市场，把它变成垄断，然后扩张。彼得·蒂尔的论点：竞争是毁灭力量，创意性垄断才是对世界最大的贡献。"
 source: "https://photonlines.substack.com/p/sam-altmans-startup-advice-part-1"
 ---

@@ -2,6 +2,7 @@
 title: "Amazon BUSTED for Widespread Scheme to Inflate Prices Across the Economy"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Matt Stoller"
 description: "亚马逊被指控的问题不只是平台抽成高，而是它把 Prime、Buy Box 和 FBA 绑成一套价格治理系统：卖家若想触达海量 Prime 用户，就得接受亚马逊对站内外价格的约束，结果是更高价格从亚马逊扩散到整个线上零售。加州总检察长这次要求法院在正式审判前先行禁制，等于在说证据已经强到足以让法官相信亚马逊大概率会..."
 source: "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price"
 ---

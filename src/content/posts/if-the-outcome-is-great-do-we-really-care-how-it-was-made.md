@@ -2,6 +2,7 @@
 title: "If The Outcome Is Great, Do We Really Care How It Was Made?"
 date: 2026-06-24T08:01:36Z
 category: reading
+author: "Nick LeRoy"
 description: "客户收到两份交付物，结果一样好，然后发现一份用了20分钟（另一份20小时），立刻开始质问。作者的核心论点：这种不适感来自\"可见努力\"与\"价值\"之间几十年来被错误绑定的等式——快速完成的工作感觉\"可疑\"，慢工出来的才像是专业。"
 source: "https://www.seoforlunch.com/p/ai-vs-human"
 ---

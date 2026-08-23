@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.3.24 - Hyperscalers Report Q1 + Early Look at Software Reports"
 date: 2024-05-07T17:37:23Z
 category: reading
+author: "Jamin Ball"
 description: "Q1 earnings seasons has officially kicked off! We now have results from the three hypersclaers (AWS / Azure / GCP). Summary of results below:"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-5324-hyperscalers"
 ---

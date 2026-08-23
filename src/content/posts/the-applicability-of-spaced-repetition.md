@@ -2,6 +2,7 @@
 title: "The Applicability of Spaced Repetition"
 date: 2026-05-18T08:01:22Z
 category: reading
+author: "Fernando Borretti"
 description: "间隔重复最适合短小、明确、系统化的键值映射；一旦知识需要先形成私人化的概念模型，再把抽象关系切成不歧义的问题，闪卡制作就从“记忆工具”变成高难度的知识编码工作。AI 在这里的价值被高估，因为它能生成题卡，却无法知道你脑中哪些概念薄弱、哪些事实对你的模型真正关键。"
 source: "https://borretti.me/article/the-applicability-of-spaced-repetition"
 ---

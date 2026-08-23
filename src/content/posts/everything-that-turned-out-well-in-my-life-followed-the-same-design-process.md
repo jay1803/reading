@@ -2,6 +2,7 @@
 title: "Everything that turned out well in my life followed the same design process"
 date: 2026-03-09T22:36:51Z
 category: reading
+author: "Henrik Karlsson"
 description: "好设计从不从愿景出发，而是从上下文出发：你在环境中迭代，让形式逐渐与上下文拟合。人生里凡是真正运转起来的事（婚姻、职业、好文章），走的都是这条路，而非\"先有愿景再去实现\"。上下文比你聪明——它藏的信息比你脑子装得下的多，所以形式藏在上下文里，不在你头脑里。"
 source: "https://www.henrikkarlsson.xyz/p/unfolding"
 ---

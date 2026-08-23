@@ -2,6 +2,7 @@
 title: "Clarity from Elastic"
 date: 2023-12-28T16:00:28Z
 category: reading
+author: "muji"
 description: "I really really like how they have boiled down what they do into very clear paths. It always seems like Elastic is moving in a lot of directions, but this bo..."
 source: "https://hhhypergrowth.com/clarity-from-elastic/"
 ---

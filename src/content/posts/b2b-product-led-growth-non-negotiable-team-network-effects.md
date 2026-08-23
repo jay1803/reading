@@ -2,6 +2,7 @@
 title: "B2B Product-Led Growth Non-Negotiable: TEAM Network Effects"
 date: 2024-02-18T17:59:01Z
 category: reading
+author: "Elena Verna"
 description: "B2B 领域正借鉴 B2C 策略，但其核心区别在于 B2B 需专注于培育健康、活跃的团队，而非仅仅服务于个体用户。实现这一目标的关键是解锁团队网络效应 (team network effects)，即团队中每增加一个成员都能提升整个团队的集体价值。"
 source: "https://elenaverna.substack.com/p/b2b-product-led-growth-non-negotiable"
 ---

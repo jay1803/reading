@@ -2,6 +2,7 @@
 title: "☁️ Amazon: Betting The Farm"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章的核心判断是，Amazon 这季真正重要的点不是单季业绩超预期，而是它把 FY25 资本开支抬到 1200 亿美元，几乎把现金流重新压回 AI 基础设施、Agent 平台、广告分发和 Kuiper 卫星。短期结果是 AWS 利润率受压、自由现金流大幅下滑；长期押注是，只要云迁移和 agent 需求继续扩张..."
 source: "https://www.appeconomyinsights.com/p/amazon-betting-the-farm"
 ---

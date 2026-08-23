@@ -2,6 +2,7 @@
 title: "Bring Back Crappy Forums"
 date: 2026-07-03T08:02:22Z
 category: reading
+author: "Ernie Smith"
 description: "用户从论坛迁移到 Web 2.0 平台，不是因为社交媒体做了更好的社群，而是因为\"不同\"本身就足够了。论坛的技术负担（服务器宕机、被黑、Slashdot 效应）全压在单个社区主身上；Reddit/Twitter 把这些痛点接管，代价是把所有人塞进同一个广场，摧毁了论坛时代的核心价值——只对少数真正同类的人说话。"
 source: "https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective"
 ---

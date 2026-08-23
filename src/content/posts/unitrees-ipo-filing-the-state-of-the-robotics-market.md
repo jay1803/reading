@@ -2,6 +2,7 @@
 title: "Unitree's IPO Filing: The State of the Robotics Market"
 date: 2026-05-21T05:49:55Z
 category: reading
+author: "Tanay Jaipuria"
 description: "宇树的 IPO 材料说明，当前人形机器人市场已经出现真实出货和高毛利硬件公司，但需求仍主要来自科研、教育和展示场景；真正的长期胜负不在“能不能卖机器人”，而在硬件制造优势能否过渡成具身模型层优势。"
 source: "https://www.tanayj.com/p/unitrees-ipo-filing-the-state-of"
 ---

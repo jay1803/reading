@@ -2,6 +2,7 @@
 title: "Doing nothing at work"
 date: 2026-06-08T08:01:30Z
 category: reading
+author: "Sean Goedecke"
 description: "持续满负荷工作的工程师会系统性地错过高影响力机会，因为软件工程的真实回报由时间敏感的异常事件决定，而非稳定的代码产出量——\"空着\"本身就是一种战略资产。"
 source: "https://seangoedecke.com/doing-nothing-at-work/"
 ---

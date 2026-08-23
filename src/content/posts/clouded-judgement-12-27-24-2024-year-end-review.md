@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.27.24 - 2024 Year End Review"
 date: 2025-01-02T10:59:45Z
 category: reading
+author: "Jamin Ball"
 description: "This year the median software multiple ended at 6.1x. At the start of the year it was 6.3x. Throughout the entire year there was very little multiple expansi..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-122724-2024-year"
 ---

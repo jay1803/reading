@@ -2,6 +2,7 @@
 title: "A Retrospective on Goldratt’s Thinking Tools"
 date: 2026-06-30T08:04:46Z
 category: reading
+author: "Cedric Chin"
 description: "五个工具——Current Reality Tree、Evaporating Cloud、Future Reality Tree、Prerequisite Tree、Transition Tree——描述的都是你在状态好、情绪稳时本来就会自发完成的思维动作：跳出来审视现状（出门旅行、换个角度）、让旁观者帮你点破某..."
 source: "https://commoncog.com/retrospective-on-goldratts-thinking-tools/"
 ---

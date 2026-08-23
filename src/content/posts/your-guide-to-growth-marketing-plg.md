@@ -2,6 +2,7 @@
 title: "Your guide to growth marketing & PLG"
 date: 2023-06-01T15:30:50Z
 category: reading
+author: "Kyle Poyar"
 description: "Webflow, the web design and hosting platform, has quickly become one of today’s most iconic PLG brands. The company joined the $100 million ARR club last yea..."
 source: "https://kylepoyar.substack.com/p/growth-marketing-and-plg"
 ---

@@ -2,6 +2,7 @@
 title: "Transcript for Jeffrey Wasserstrom: China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao | Lex Fridman Podcast #466"
 date: 2025-05-06T13:40:44Z
 category: reading
+author: "Lex Fridman"
 description: "Wasserstrom把当代中国解释为几条长期历史的叠加：帝制等级秩序、列宁式一党国家、毛的革命遗产、后天安门时代以消费换服从的社会契约，以及习近平把这些互相冲突的资源重新缝合成“民族复兴”叙事。理解今天的中国，关键是看到党如何同时追求秩序、控制和强国合法性，并持续压缩那些证明“中国可以有别的活法”的空间。"
 source: "https://lexfridman.com/jeffrey-wasserstrom-transcript/"
 ---

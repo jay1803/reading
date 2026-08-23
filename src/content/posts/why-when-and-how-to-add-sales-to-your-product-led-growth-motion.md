@@ -2,6 +2,7 @@
 title: "Why, When, and How to add Sales to your Product-Led Growth motion."
 date: 2025-05-26T17:45:31Z
 category: reading
+author: "Elena Verna"
 description: "对于产品驱动增长（Product-led Growth, PLG）的B2B公司而言，为了实现可持续的增长并占领企业市场，增加销售团队是必然的一步。然而，过早或错误地引入销售团队会破坏公司赖以成功的PLG基础。正确的做法是在出现明确的市场信号（如客户主动寻求企业级合同）时，将销售作为PLG之上的一个层次进行叠加，并..."
 source: "https://www.elenaverna.com/p/why-when-and-how-to-add-sales-to"
 ---

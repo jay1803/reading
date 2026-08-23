@@ -2,6 +2,7 @@
 title: "How to keep thinking"
 date: 2026-08-19T03:21:00Z
 category: reading
+author: "Sean Goedecke"
 description: "LLM 把工作变成快速裁判游戏，磨损慢速深度思考能力。唯一有效的反制：亲手写作（写是构建想法的过程）和慢速阅读厚实的非虚构书。"
 source: "https://seangoedecke.com/how-to-keep-thinking/"
 ---

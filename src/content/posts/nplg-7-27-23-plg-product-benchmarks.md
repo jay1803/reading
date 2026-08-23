@@ -2,6 +2,7 @@
 title: "NPLG 7.27.23: PLG Product Benchmarks"
 date: 2023-07-28T14:56:18Z
 category: reading
+author: "Zachary DeWitt"
 description: "本文总结了 OpenView 发布的年度 PLG（产品驱动增长）产品基准报告，分析了近 1000 家 PLG 公司的市场表现、增长趋势及关键指标。近年来，PLG 公司的增长速度整体放缓，只有 20% 的公司年增长率超过 75%。报告强调了产品合格线索（PQL）和产品合格账户（PQA）对快速增长的重要性，并提供了不..."
 source: "https://notoriousplg.substack.com/p/nplg-72723-plg-product-benchmarks"
 ---

@@ -2,6 +2,7 @@
 title: "Why I quit \"The Strive\""
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Joan Westenberg"
 description: "作者要退出的不是努力本身，而是把人生价值交给“下一次放大”的创业增长程序。它靠多巴胺奖励追逐、不给完成感留下太久空间，把 follower、融资、估值、媒体曝光和个人 worth 绑在一起，让人把每个里程碑都体验成 4 小时到 2 天的短暂止痛片，然后立刻回到更大的焦虑里。"
 source: "https://www.joanwestenberg.com/why-i-quit-the-strive/"
 ---

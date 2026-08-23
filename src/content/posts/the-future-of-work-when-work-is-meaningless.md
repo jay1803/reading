@@ -2,6 +2,7 @@
 title: "The future of work when work is meaningless"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Dan Koe"
 description: "AI 威胁的不是创意劳动本身，而是暴露了一个早已存在的真相：大多数工作从来就不需要你这个个体——只需要一个会执行的身体。真正不可替代的，是那个在 AI 生成之前就已存在、且不断演进的\"你的视角\"——而不是你会写字、会画画这件事。"
 source: "https://letters.thedankoe.com/p/the-future-of-work-when-work-is-meaningless"
 ---

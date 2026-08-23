@@ -2,6 +2,7 @@
 title: "Lessons from History: The 1980s Semiconductor Cycle(s)"
 date: 2023-10-17T18:17:08Z
 category: reading
+author: "Doug O'Laughlin"
 description: "本系列试图描述所发生的事情并为当今的投资者提供背景信息。将其视为半导体投资者的年鉴。我希望我能回到 20 世纪 70 年代，但这超出了我现有的资料来源。相反，我应该从 1980 年开始，走过该行业历史上最关键的十年之一。这十年以一个国家为中心：日本。"
 source: "https://www.fabricatedknowledge.com/p/history-lesson-the-1980s-semiconductor"
 ---

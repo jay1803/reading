@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.15.25 - The Return of Software"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Jamin Ball"
 description: "AI 会迫使软件形态、定价和组织方式改变，但不会把软件这个品类消灭。真正长期值钱的不是单点功能，而是占据记录系统、串起关键流程、接满组织内部“触手”的产品；市场也在用估值把这种分化定量化：整体云软件中位数只有 4.7x NTM revenue，但高增长公司仍有 30.5x，中增长 6.7x，低增长 3.8x。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-81525-the-return"
 ---

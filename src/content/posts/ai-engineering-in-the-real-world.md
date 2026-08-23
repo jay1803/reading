@@ -2,6 +2,7 @@
 title: "AI Engineering in the real world"
 date: 2025-03-26T12:44:45Z
 category: reading
+author: "Gergely Orosz"
 description: "这篇文章最有价值的地方，是把“AI engineering”从一个热词拉回到了工程现实：真正的 AI 工程并不是炫酷 demo，而是把 LLM 接进现有产品、现有组织和现有成本结构之后，如何让它在真实世界里稳定工作。"
 source: "https://newsletter.pragmaticengineer.com/p/ai-engineering-in-the-real-world"
 ---

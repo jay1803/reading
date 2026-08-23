@@ -2,6 +2,7 @@
 title: "What If You Were Held Accountable For Your AI Slop?"
 date: 2026-06-17T08:03:38Z
 category: reading
+author: "Nick LeRoy"
 description: "德国法院裁定 Google AI Overview 属于 Google 自身发布的内容，\"AI 写的、用户自查\"的免责逻辑被明确驳回。部署 AI 生成主张 = 为该主张的作者——这条原则一旦扩散，当前几乎所有企业的 AI 使用方式都面临责任重构。"
 source: "https://www.seoforlunch.com/p/what-if-you-were-held-accountable"
 ---

@@ -2,6 +2,7 @@
 title: "What's new in Claude Sonnet 5"
 date: 2026-07-01T08:03:04Z
 category: reading
+author: "Simon Willison"
 description: "Sonnet 5 标价与 Sonnet 4.6 完全一致（$3/$15 per million tokens，折扣期至 8 月 31 日降至 $2/$10），但新 tokenizer 对同一文本产生的 token 数比 4.6 多约 30%。Simon Willison 的实测数据：英文 ×1.42、西班牙文 ×..."
 source: "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything"
 ---

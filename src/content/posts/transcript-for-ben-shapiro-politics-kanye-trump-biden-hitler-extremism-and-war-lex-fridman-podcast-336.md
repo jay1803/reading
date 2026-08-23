@@ -2,6 +2,7 @@
 title: "Transcript for Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast #336"
 date: 2024-10-08T17:54:43Z
 category: reading
+author: "Lex Fridman"
 description: "这是一篇关于 Ben Shapiro 和 Lex Fridman 对话的文字稿，讨论了政治、极端主义、战争等多个话题。Ben Shapiro 是一位保守派政治评论员，他在对话中表达了对一系列问题的看法，包括 Kanye West 的反犹言论、社交媒体的作用、堕胎、部落主义以及如何做一个好人。"
 source: "https://lexfridman.com/ben-shapiro-transcript/"
 ---

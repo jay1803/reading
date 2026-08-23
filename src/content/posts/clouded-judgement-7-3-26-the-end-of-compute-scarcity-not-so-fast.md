@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.3.26 - The End of Compute Scarcity? Not So Fast"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Jamin Ball"
 description: "SpaceX（xAI）和 Meta 的出售算力行为，表面上像是\"算力开始过剩\"的信号，实际指向相反方向。xAI 团队几乎解散，自家模型使用量断崖，既没有 inference 需求，100% 计算资源压在训练上又不经济，于是短期出租套现。SpaceX 所有合同含 90 天双向退出条款——卖方随时可以收回算力，买方随..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of"
 ---

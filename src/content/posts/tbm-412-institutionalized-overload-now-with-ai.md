@@ -2,6 +2,7 @@
 title: "TBM 412: Institutionalized Overload (Now With AI)"
 date: 2026-03-29T17:23:59Z
 category: reading
+author: "John Cutler"
 description: "AI 没有在打破\"组织性超载\"的范式——它正在成为人们内化、维系这种超载的新工具，同时制造出一种\"终于在驾驭混乱\"的幻觉。"
 source: "https://cutlefish.substack.com/p/tbm-412-institutionalized-overload"
 ---

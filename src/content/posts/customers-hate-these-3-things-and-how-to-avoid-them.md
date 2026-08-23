@@ -2,6 +2,7 @@
 title: "Customers Hate These 3 Things (and How to Avoid Them)"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "让客户深层厌恶的三件事——Surprises、Unknowns、Repeating Themselves——本质都是信息对齐失败；其中最棘手的\"重复\"，根因不是缺工具，是团队不在乎。"
 source: "https://sixteenventures.com/customers-hate-three-things"
 ---

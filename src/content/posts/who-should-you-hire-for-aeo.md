@@ -2,6 +2,7 @@
 title: "Who should you hire for AEO?"
 date: 2026-06-06T08:04:03Z
 category: reading
+author: "Eli Schwartz"
 description: "AEO/SEO 的关键岗位不该继续按“营销渠道管理员”招聘，而应该按“懂搜索系统的产品经理”招聘。真正能带来增长的人，不是负责把 Google 最佳实践翻译成 Jira ticket、汇报排名或 prompt visibility，而是能理解用户意图、产品架构、数据信号和组织协作，并把这些判断转化成可被产品和工程..."
 source: "https://www.productledseo.com/p/who-should-you-hire-for-aeo"
 ---

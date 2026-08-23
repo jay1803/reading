@@ -2,6 +2,7 @@
 title: "The Tech Monopolies Go Vertical"
 date: 2023-12-20T15:58:11Z
 category: reading
+author: "Doug O'Laughlin"
 description: "我想谈谈一些好的老式垄断。这就是通过技术堆栈向下延伸到硬件的垂直整合。我想讨论为什么现在，为什么它很重要，以及每个大型平台是如何定位的。"
 source: "https://www.fabricatedknowledge.com/p/the-tech-monopolies-go-vertical"
 ---

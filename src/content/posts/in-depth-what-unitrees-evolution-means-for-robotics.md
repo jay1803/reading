@@ -2,6 +2,7 @@
 title: "IN-DEPTH: What Unitree's Evolution Means For Robotics"
 date: 2026-06-25T08:02:23Z
 category: reading
+author: "Doug O'Laughlin"
 description: "宇树的策略不是做最好的机器人，而是把硬件做到足够便宜、足够量产，让整个生态系统跟着成长。三位嘉宾把这叫做\"中国缩放定律\"：先靠过剩产能压价、占市场，再靠量产改良迭代。宇树的执行版本：从四足机器人起步，把促动器（关节驱动单元）成本砍到对手无法匹敌的价位，再把这条供应链迁移到人形机器人——H1本质上是一台站起来的四足..."
 source: "https://www.fabricatedknowledge.com/p/in-depth-what-unitrees-evolution"
 ---

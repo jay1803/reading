@@ -2,6 +2,7 @@
 title: "Wander: Deeper Dive"
 date: 2025-06-18T21:55:53Z
 category: reading
+author: "Packy McCormick"
 description: "结论先说：这篇《Wander: Deeper Dive》的核心，是一次关于“垂直整合是否必要”的自我推翻。Packy 原本认为，Wander 要想打败 Airbnb，必须拥有房产、深度垂直整合；结果事实证明，资产轻模式 + 软件编排，同样能做到更高质量、更多规模、甚至更高 NPS。"
 source: "https://www.notboring.co/p/wander-deeper-dive"
 ---

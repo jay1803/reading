@@ -2,6 +2,7 @@
 title: "How To Measure Developer Productivity?"
 date: 2026-06-22T08:02:04Z
 category: reading
+author: "Itamar Gilad"
 description: "开发者效率的正确度量不是产出速度，而是团队对业务与用户价值目标的实现程度。专门为开发者设立的产出指标（代码行数、commits、PR、AI token 消耗）不仅无法预测价值，还会系统性地制造浪费和组织错位。"
 source: "https://itamargilad.com/how-dev-productivity/"
 ---

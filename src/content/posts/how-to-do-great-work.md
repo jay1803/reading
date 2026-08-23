@@ -2,6 +2,7 @@
 title: "How to Do Great Work"
 date: 2023-07-28T13:41:08Z
 category: reading
+author: "Paul Graham"
 description: "如果要汇总在任何领域做出伟大成就所需要的技能，它们的重合点会有哪些呢？我决定在实践过程中寻找这一问题的答案。"
 source: "http://www.paulgraham.com/greatwork.html"
 ---

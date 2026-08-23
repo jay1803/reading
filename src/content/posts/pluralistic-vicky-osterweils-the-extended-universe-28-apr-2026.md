@@ -2,6 +2,7 @@
 title: "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)"
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 借 Osterweil 的《The Extended Universe》强调：伟大的批评会揭开你所热爱作品里的价值系统；Disney 的问题不只在公司垄断或版权扩张，而在它把知识产权、殖民想象、种族压迫、反工会逻辑压成同一种支配叙事。"
 source: "https://pluralistic.net/2026/04/27/mouseketeers/"
 ---

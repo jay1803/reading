@@ -2,6 +2,7 @@
 title: "An essay in which my friend feels stuck and I suggest relaxing some constraints"
 date: 2025-03-18T10:22:01Z
 category: reading
+author: "Henrik Karlsson"
 description: "这篇文章讲述了作者与一位音乐家朋友的对话。这位音乐家朋友在追求音乐事业的过程中感到困惑和受限，作者建议他放松一些不必要的约束，从更实际的角度出发，重新设计自己的生活，以实现创作和表演的目标。"
 source: "https://www.henrikkarlsson.xyz/p/constraints"
 ---

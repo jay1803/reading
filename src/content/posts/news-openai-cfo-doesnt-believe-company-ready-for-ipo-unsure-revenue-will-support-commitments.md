@@ -2,6 +2,7 @@
 title: "News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Ed Zitron"
 description: "这篇短讯最关键的点，不是 OpenAI 可能推迟 IPO，而是连最该为上市背书的 CFO 都在质疑“收入增长是否足以覆盖算力承诺”。这说明问题已经不是资本市场窗口，而是商业模型能否承受继续扩张。"
 source: "https://www.wheresyoured.at/openai-cfo-news/"
 ---

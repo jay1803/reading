@@ -2,6 +2,7 @@
 title: "My advice on (internet) writing, for what it's worth"
 date: 2025-06-18T12:02:22Z
 category: reading
+author: "dynomight"
 description: "结论先说：这篇文章的核心主张只有一句话——写你自己真的会喜欢的东西，并且站在读者一边。其余所有建议，都是围绕这两个原则展开的。"
 source: "https://dynomight.net/writing-advice/"
 ---

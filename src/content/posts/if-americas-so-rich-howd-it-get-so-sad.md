@@ -2,6 +2,7 @@
 title: "If America's So Rich, How'd It Get So Sad?"
 date: 2026-04-24T08:01:56Z
 category: reading
+author: "Derek Thompson"
 description: "美国的“悲伤”不是经济硬数据差出来的，而是疫情后形成了一种持续性危机体感：累积通胀和房价把“可负担性”击穿，负面新闻与社交媒体把威胁感放大，制度信任与陌生人信任同时下滑，孤独生活又削弱了社会缓冲垫。结果是一个很富的国家，可以在就业、收入、增长都不错时，仍然集体感觉生活变坏了。"
 source: "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so"
 ---

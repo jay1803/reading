@@ -2,6 +2,7 @@
 title: "Airbnb Goes Beyond B&B"
 date: 2025-06-18T21:52:43Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇《Airbnb Goes Beyond B&B》的核心结论很清晰：Airbnb 正在从“住宿平台”转向“生活方式聚合器”，试图提升钱包份额，而不仅仅是提高房源数量。"
 source: "https://www.appeconomyinsights.com/p/airbnb-goes-beyond-b-and-b"
 ---

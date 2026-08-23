@@ -2,6 +2,7 @@
 title: "Your guide to outbound automation"
 date: 2023-10-30T20:05:22Z
 category: reading
+author: "Kate Syuma"
 description: "A fully manual outbound approach simply won’t cut it anymore."
 source: "https://www.growthunhinged.com/p/your-guide-to-outbound-automation"
 ---

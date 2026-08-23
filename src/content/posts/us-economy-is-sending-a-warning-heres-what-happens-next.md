@@ -2,6 +2,7 @@
 title: "💥 US Economy Is Sending A Warning (Here's What Happens Next)"
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "Andrew Lokenauth"
 description: "这篇 newsletter 的核心判断是：美国经济进入了一个“高债务 + 高能源成本 + 高利率约束 + AI 资本开支狂潮 + 消费者分裂”的结构性压力区间；它的投资结论不是等待经济“回归正常”，而是按新常态配置——能源/基础设施、可直接变现的 AI 基础设施、现金与防御资产优先，纯靠远期叙事的 AI 与消费..."
 source: "https://www.thefinancenewsletter.com/p/market-update-debt-oil-ai"
 ---

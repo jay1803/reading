@@ -2,6 +2,7 @@
 title: "Intel's One True Stakeholder is Here"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Doug O'Laughlin"
 description: "Intel CPU 已成夕阳业务，真正不可替代的只有 IFS（英特尔晶圆代工）——美国唯一的先进制程本土晶圆厂；政府入股的逻辑，本质上是\"重置成本超过 2000 亿美元，花钱维持比重建便宜\"。"
 source: "https://www.fabricatedknowledge.com/p/intels-one-true-stakeholder-is-here"
 ---

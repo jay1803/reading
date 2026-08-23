@@ -2,6 +2,7 @@
 title: "3 excuses enterprise sales-led companies make when their self-serve motion fails...🙄"
 date: 2025-05-26T17:48:20Z
 category: reading
+author: "Elena Verna"
 description: "B2B企业在为其销售主导的模式增加自服务 (self-serve) 渠道时常常失败。失败的原因并非自服务渠道本身有问题，而是企业未能正确处理转型过程中的内部矛盾，特别是销售和产品团队的抵触。为了成功，企业需要调整激励机制使销售团队与自服务渠道目标一致，正确认识自服务渠道的战略价值，并为产品团队提供必要的工具和指标..."
 source: "https://www.elenaverna.com/p/3-excuses-enterprise-sales-led-companies"
 ---

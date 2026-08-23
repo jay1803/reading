@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.4.25 - Economic Uncertainty"
 date: 2025-04-17T14:38:22Z
 category: reading
+author: "Jamin Ball"
 description: "Q1 财报本身不是市场风险所在——真正的风险是：CFO 们会借宏观不确定性主动压低 Q2 指引，哪怕基本面不算太坏，这轮主动降预期本身就可能成为下一波下跌的导火索。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-4425-economic-uncertainty"
 ---

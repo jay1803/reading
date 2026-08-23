@@ -2,6 +2,7 @@
 title: "AI Is Slowing Down"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Ed Zitron"
 description: "AI行业的整个财务逻辑要求到2030年产生逾2万亿美元的年收入，而Anthropic与OpenAI的2026年合计预测收入约600亿美元——这意味着需要在4年内增长496%。token计费实施仅两三个月，企业已大规模设置支出上限、公开质疑ROI，增速放缓已在发生，而增速在任何情况下都不能放缓。"
 source: "https://www.wheresyoured.at/ai-is-slowing-down/"
 ---

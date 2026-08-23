@@ -2,6 +2,7 @@
 title: "Collaborative Steering"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Luke Wroblewski"
 description: "AI agent 真正的团队问题不是“每个人能不能更快地产出”，而是个人化 agent 会把团队共识拆成多套隐形上下文；未来高价值工具会把 prompt、skills、memory、MCP、项目约束等 steering layer 变成团队共同维护的协作界面。"
 source: "https://www.lukew.com/ff/entry.asp?2153"
 ---

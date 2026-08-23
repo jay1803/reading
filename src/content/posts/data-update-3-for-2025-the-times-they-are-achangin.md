@@ -2,6 +2,7 @@
 title: "Data Update 3 for 2025: The times they are a'changin'!"
 date: 2025-02-14T18:34:29Z
 category: reading
+author: "Aswath Damodaran"
 description: "这篇文章围绕2024年美国股票市场的表现，探讨了不同股票分类（如行业、市场资本化、价格/账面比、价格动量）的回报差异，分析多年来市场力量的变化对投资策略的影响。作者对常见的投资效应的持续性表示怀疑，核心观点在于过去赖以获利的小盘股和价值股溢价已不再显著。"
 source: "https://aswathdamodaran.blogspot.com/2025/01/data-update-3-for-2025-slicing-and.html"
 ---

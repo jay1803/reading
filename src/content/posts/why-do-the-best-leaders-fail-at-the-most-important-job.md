@@ -2,6 +2,7 @@
 title: "Why Do the Best Leaders Fail at the Most Important Job?"
 date: 2026-06-12T08:01:58Z
 category: reading
+author: "Derek Thompson"
 description: "最优秀的领导者往往在最关键的事上失败：选择继任者。强人领导力与制度性接班准备之间存在结构性张力——越是不可替代的人，越有动机（有意或无意地）让组织无法在没有自己的情况下正常运转。"
 source: "https://www.derekthompson.org/p/why-do-the-best-leaders-fail-at-the"
 ---

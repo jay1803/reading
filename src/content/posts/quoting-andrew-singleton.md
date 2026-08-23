@@ -2,6 +2,7 @@
 title: "Quoting Andrew Singleton"
 date: 2026-06-13T08:01:52Z
 category: reading
+author: "Simon Willison"
 description: "AI 的\"营收\"大量来自投资人之间的循环消费——同一笔钱在关联公司之间流转，既充当收入，又撑起估值，而媒体因深陷叙事而无暇追究财务细节。"
 source: "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything"
 ---

@@ -2,6 +2,7 @@
 title: "When the crisis comes"
 date: 2026-04-09T08:03:18Z
 category: reading
+author: "Anil Dash"
 description: "危机处理中最稀缺的能力，是把危机当成可被方法化、演练、工程化处理的常规事件。作者借《Crisis Engineering》强调，组织在系统失灵、数据泄漏、商业模式崩塌或领导失序时，仍能依靠一套成熟实践恢复秩序，并顺势重建设计更有韧性的系统。"
 source: "https://anildash.com/2026/04/08/when-the-crisis-comes/"
 ---

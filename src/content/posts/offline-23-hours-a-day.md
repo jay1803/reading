@@ -2,6 +2,7 @@
 title: "Offline 23 hours a day"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Derek Sivers"
 description: "作者把“长期离线”写成一种认知训练：切断持续输入后，注意力、判断和问题解决会重新回到自己手里，生产力提升的根源不是更高效地消费信息，而是给自己的思考制造真空。有限度地上网依然有用，但应该像去仓库取补给，而不是把整天活成信息流的附庸。"
 source: "https://sive.rs/off23"
 ---

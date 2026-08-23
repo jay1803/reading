@@ -2,6 +2,7 @@
 title: "★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope"
 date: 2026-07-10T08:03:18Z
 category: reading
+author: "John Gruber"
 description: "Apple在技术层面的隐私实践是可信的：从未保留可识别位置数据，连执法部门的地理围栏令都无法执行，即将上线的Maps广告在工程上也承诺不追踪。问题是：多数成年人相信手机会偷听对话来精准投广——这是错的，Apple为防止此事做了大量工程——但没有人知道，也没人能理解这种区分。感知层的铁律是：见到广告 → 我被追踪了。"
 source: "https://daringfireball.net/2026/07/ternus_apple_slippery_slope"
 ---

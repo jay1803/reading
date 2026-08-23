@@ -2,6 +2,7 @@
 title: "💻 Microsoft + OpenAI's Wild Ride"
 date: 2025-11-04T10:54:15Z
 category: reading
+author: "Kevin Palmer"
 description: "OpenAI 单季亏损约 150 亿美元，超过其全年预期营收（130 亿）——微软重组协议的真实逻辑是：用 Azure 的 2500 亿美元消费承诺买下 OpenAI 的自由，同时换取 2032 年前的模型商业权（含 AGI 突破后的成果），但 AGI 一旦被独立专家组认定，收益分成就终止、研究访问也收窄。"
 source: "https://www.appeconomyinsights.com/p/microsoft-openais-wild-ride"
 ---

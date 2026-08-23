@@ -2,6 +2,7 @@
 title: "Mental Models - by Interwingled"
 date: 2025-06-17T12:31:44Z
 category: reading
+author: "Jeremy Keith"
 description: "这篇文章把 Jeff Hawkins 的“千脑理论”转成一个更可操作的判断：理解世界、形成洞察、成为某个领域的专家，关键不在于记住更多事实，而在于是否建立了一个足够好的参考系。知识本体不是词句、规则或单点存储，而是分布在大量皮层柱中的模型网络；思考本身，就是沿着这些参考系移动。作者进一步把这个框架引到信息架构与..."
 source: "https://intertwingled.org/mental-models/"
 ---

@@ -2,6 +2,7 @@
 title: "Five Laws of Growth"
 date: 2025-05-26T17:59:03Z
 category: reading
+author: "Elena Verna"
 description: "为了实现可持续和可预测的增长，任何增长职能都应遵循五个不可动摇的法则：先实现产品市场契合度（PMF）再关注增长、用框架而非技巧来规模化、构建增长循环而非线性漏斗、追求渐进式演变而非革命性变革，以及将失败视为学习的机会。"
 source: "https://www.elenaverna.com/p/five-laws-of-growth"
 ---

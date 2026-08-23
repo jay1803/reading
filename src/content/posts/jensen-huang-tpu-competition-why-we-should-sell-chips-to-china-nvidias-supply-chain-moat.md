@@ -2,6 +2,7 @@
 title: "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat"
 date: 2026-04-16T08:01:43Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Jensen Huang 是 Nvidia 创始人兼 CEO，这场对话由 Dwarkesh Patel 主持，主题横跨 AI 芯片竞争、供应链、云生态、对华出口与下一代架构路线。"
 source: "https://www.dwarkesh.com/p/jensen-huang"
 ---

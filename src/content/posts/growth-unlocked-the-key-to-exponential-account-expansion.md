@@ -2,6 +2,7 @@
 title: "Growth Unlocked: The Key to Exponential Account Expansion"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "扩展收入（Expansion）做不好，根源不是销售策略不够复杂，而是把\"扩展\"当成一个销售动作——真正指数级的账户增长（2x / 5x / 10x ARR）只发生在扩展行为由客户的成功进展触发、而非配额驱动的时候。"
 source: "https://sixteenventures.com/account-expansion"
 ---

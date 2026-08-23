@@ -2,6 +2,7 @@
 title: "Quoting Andy Masley"
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "Simon Willison"
 description: "数据中心占地争议的核心问题不是土地稀缺，而是叙事比例失真：美国农业体系过去二十多年已经吸收了远大得多的农地流出，同时产量仍增长，几英亩低产草场被高价卖给 hyperscaler 很难构成粮食安全风险。"
 source: "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything"
 ---

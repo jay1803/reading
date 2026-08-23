@@ -2,6 +2,7 @@
 title: "Mythos, Muse, and the Opportunity Cost of Compute"
 date: 2026-04-14T08:01:12Z
 category: reading
+author: "Ben Thompson"
 description: "Ben Thompson 这篇真正想修正的，不是“AI 重新带回了边际成本”这个说法本身，而是分析坐标系：眼下最关键的约束不是每多服务一个用户会多花多少钱，而是稀缺 compute 该分给谁。谁能把有限算力投向回报最高的需求，谁就更可能在这一轮 AI 竞争里赢下利润、定价权和用户。"
 source: "https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/"
 ---

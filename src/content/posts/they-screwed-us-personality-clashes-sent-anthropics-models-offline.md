@@ -2,6 +2,7 @@
 title: "\"They screwed us\": Personality clashes sent Anthropic's models offline"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Simon Willison"
 description: "Fable/Mythos 下线的真实原因：技术是借口，关系破裂才是核心"
 source: "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything"
 ---

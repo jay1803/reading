@@ -2,6 +2,7 @@
 title: "Failing, FTW!: Why you should fail 50% of your experiments"
 date: 2025-05-26T17:49:41Z
 category: reading
+author: "Elena Verna"
 description: "社会普遍教导我们要畏惧失败，但实际上，个人和企业最深刻的成长往往源于失败。文章主张，特别是对于高增长公司而言，应当摒弃对短期“胜利”的执着，转而拥抱一种以学习为核心的实验文化。通过借鉴科学方法，并设定一个较高的实验失败率目标（例如 50%），公司可以发现隐藏的洞见，从而实现可预测且可持续的长期增长。"
 source: "https://www.elenaverna.com/p/failing-ftw-why-you-should-fail-50"
 ---

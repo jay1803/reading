@@ -2,6 +2,7 @@
 title: "Mastering Cold Email"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Adam Fishman"
 description: "冷邮件失效的根因是发送成本趋近于零，行业把注意力都押在发送量、渠道堆叠和自动化上，收件箱因此被低质量触达淹没；但渠道本身并没有失效，真正稀缺的是 message-market fit、可信的前置价值和可持续的节奏控制。作者给出的修复路径很明确：先做扎实用户研究，再设计能让对方立刻获益的 offer，用多触点和具体..."
 source: "https://www.fishmanafnewsletter.com/p/mastering-cold-email-a-step-by-step-guide-to-fixing-this-channel-kellen-casebeer-noah-adelstein"
 ---

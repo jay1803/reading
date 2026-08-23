@@ -2,6 +2,7 @@
 title: "Scaling Platforms Through Use Cases"
 date: 2024-10-08T13:51:15Z
 category: reading
+author: "Luke Wroblewski"
 description: "该文章探讨新科技公司在构建平台时面临的战略选择问题，指出将抽象愿景转化为具体行动的关键在于聚焦特定使用场景。核心观点认为企业应在明确的大方向下，通过解决具体痛点的小场景逐步扩展能力，最终实现平台化发展。"
 source: "https://www.lukew.com/ff/entry.asp?2078"
 ---

@@ -2,6 +2,7 @@
 title: "Stop ignoring this growth problem"
 date: 2024-05-09T17:33:20Z
 category: reading
+author: "Kate Syuma"
 description: "Up to half of your free trial signups may actually be fake accounts. They distract your sales team, deflate your conversion metrics, and inflate hosting cost..."
 source: "https://www.growthunhinged.com/p/stop-fake-accounts"
 ---

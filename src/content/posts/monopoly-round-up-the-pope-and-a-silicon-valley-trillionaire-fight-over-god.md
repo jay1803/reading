@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: The Pope and a Silicon Valley Trillionaire Fight Over God"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Matt Stoller"
 description: "SpaceX IPO 定价 2 万亿，马斯克个人净资产超 1 万亿。但公司年收入不足 200 亿、仍在亏损。IPO 前，谷歌签约每月付 9.2 亿给 SpaceX 算力容量，折合年入 110 亿——这不是正常商业交易，是利益互换。谷歌持有 SpaceX 约 5% 股权；以 94 倍市销率计算，这笔收入让 Spac..."
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-pope-and-a"
 ---

@@ -2,6 +2,7 @@
 title: "Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search"
 date: 2025-05-06T11:16:04Z
 category: reading
+author: "John Gruber"
 description: "即便用上 Google 自己的去垃圾化参数 =&udm=14=，Kagi 的结果仍然更好——而在找几年前的内容这件事上，Google 已经实质性失效，Kagi 没有。这是质量层级上的差距，不是隐私偏好或反 Google 情绪。"
 source: "https://daringfireball.net/2025/04/try_switching_to_kagi"
 ---

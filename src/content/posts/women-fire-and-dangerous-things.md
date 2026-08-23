@@ -2,6 +2,7 @@
 title: "Women, Fire, and Dangerous Things"
 date: 2025-10-23T09:17:36Z
 category: reading
+author: "Jeremy Keith"
 description: "本书摘展示 George Lakoff 如何借《Women, Fire, and Dangerous Things》说明分类与推理源自具身经验，并围绕原型效应、认知模型与对 Objectivism 的批判连接到信息架构实践与当代对话。"
 source: "https://intertwingled.org/women-fire-and-dangerous-things/"
 ---

@@ -2,6 +2,7 @@
 title: "AI agents make SEO MORE important than ever"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Eli Schwartz"
 description: "AI agent 不会杀死 SEO，反而把它升级成“能否被机器世界看见”的准入层。因为多数 agent 并不自己全面爬网，而是站在 Google、Bing、Amazon、各类 API 和聚合页之上做二次决策，所以搜索排名、结构化数据、实体清晰度和品牌可信度，决定你是否能进入 agent 的候选集，而不只是决定你能..."
 source: "https://www.productledseo.com/p/ai-agents-make-seo-more-important"
 ---

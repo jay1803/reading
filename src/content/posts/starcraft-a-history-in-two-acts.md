@@ -2,6 +2,7 @@
 title: "Starcraft (A History in Two Acts)"
 date: 2024-07-30T13:24:24Z
 category: reading
+author: "Jimmy Maher"
 description: "这篇文章讲述了《星际争霸》这款游戏的开发历史及其在韩国发展成电子竞技项目的历程。文章核心观点是《星际争霸》凭借其卓越的游戏平衡性和策略深度，不仅取得了商业上的巨大成功，还推动了电子竞技的兴起，尤其是在韩国成为了一种文化现象。"
 source: "https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/"
 ---

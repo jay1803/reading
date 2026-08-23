@@ -2,6 +2,7 @@
 title: "Customer Success: How to Reset Mismanaged Expectations"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章讲的是一个很多 Customer Success 团队都会踩到的坑：早期为了成交、留住客户，团队往往给了太多本不该长期提供的服务，结果后面发现成本太高、不可扩展、团队也开始 resent 客户。作者的核心建议是：如果你已经把客户惯坏了，不能粗暴“收回福利”去惩罚他们；正确做法是先为新客户建立清晰、可规模化..."
 source: "http://sixteenventures.com/customer-success-reset-mismanaged-expectations"
 ---

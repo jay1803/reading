@@ -2,6 +2,7 @@
 title: "The Winning Essays for the Big Questions About AI"
 date: 2026-07-02T08:03:15Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Dwarkesh 向全球征集 AI 大问题的答案，600 篇投稿，三篇胜出。共同倾向：拒绝\"星际迷航式方案\"，选择已经存在但被低估的制度或技术工具。"
 source: "https://www.dwarkesh.com/p/blog-prize-winners"
 ---

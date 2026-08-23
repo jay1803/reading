@@ -2,6 +2,7 @@
 title: "Weekly Dose of Optimism #188"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Packy McCormick"
 description: "这期最重要的信号不是“AI 又更聪明了”，而是 AI 正在嵌进现实世界最硬的反馈回路：阿尔茨海默病实验、芯片光刻仿真、家务机器人感知。模型价值开始体现在把原本慢、贵、靠经验试错的系统，压缩成更快的搜索与迭代机器。"
 source: "https://www.notboring.co/p/weekly-dose-of-optimism-188"
 ---

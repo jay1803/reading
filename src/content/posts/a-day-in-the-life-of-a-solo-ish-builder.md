@@ -2,6 +2,7 @@
 title: "A Day in the Life of a Solo-ish Builder"
 date: 2026-03-16T01:01:01Z
 category: reading
+author: "Jean Hsu"
 description: "\"solo-ish\" 的核心不是一个人单干，而是多线 AI 辅助协作——她和跨时区的 Cate 一起用 Claude 快速迭代课程平台，代价是系统性工作永远在 overdue 列表里，而她完全知道这一点。"
 source: "https://jeanhsu.substack.com/p/a-day-in-the-life-of-a-solo-ish-builder"
 ---

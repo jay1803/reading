@@ -2,6 +2,7 @@
 title: "How to turn ChatGPT into your best pipeline source"
 date: 2025-10-10T00:42:08Z
 category: reading
+author: "Kate Syuma"
 description: "Docebo 用一人团队把 AI discovery 做到高意图线索占比 12.7%（同比 +429%）。方法不玄：晚漏斗 SEO 打底，内容格式系统对齐 LLM 引用偏好。"
 source: "https://www.growthunhinged.com/p/ai-discovery-playbook"
 ---

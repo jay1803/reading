@@ -2,6 +2,7 @@
 title: "Could generative AI turn out to be the tech industry’s Vietnam? And could public backlash lead AI to a better place?"
 date: 2026-05-21T05:50:12Z
 category: reading
+author: "Gary Marcus"
 description: "生成式AI的反弹不只是舆论情绪，而是一场可能真正终结天文级资本赌注的政治重组——特朗普正在滑向监管立场，而Marcus三年前提出的\"FDA式AI预审\"方案或将成为政策现实。"
 source: "https://garymarcus.substack.com/p/could-generative-ai-could-turn-out"
 ---

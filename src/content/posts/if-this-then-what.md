@@ -2,6 +2,7 @@
 title: "If this, then what?"
 date: 2026-08-16T15:19:54Z
 category: reading
+author: "Rebecca Darley"
 description: "历史解释一旦追问因果，就已经依赖“若此，则彼”的假设；理论的职责是公开其成立条件，让这些前提接受史料检验。"
 source: "https://coffeewithclio.substack.com/p/if-this-then-what"
 ---

@@ -2,6 +2,7 @@
 title: "⚡️ TSMC: AI Arsenal Builder"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Kevin Palmer"
 description: "TSMC 将 2026 年资本支出提高至 560 亿美元，不是基于猜测，而是客户已下单——C.C. Wei 说\"如果做错了，将是大灾难\"，但仍义无反顾地签了支票，这比任何 IR 演讲都更能证明 AI 基础设施需求的真实性。"
 source: "https://www.appeconomyinsights.com/p/tsmc-ai-arsenal-builder"
 ---

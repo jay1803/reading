@@ -2,6 +2,7 @@
 title: "From selling access to selling work (and what it means for you)"
 date: 2024-11-25T18:12:54Z
 category: reading
+author: "Kate Syuma"
 description: "New AI pricing approaches include:"
 source: "https://www.growthunhinged.com/p/from-selling-access-to-selling-work"
 ---

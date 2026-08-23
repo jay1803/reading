@@ -2,6 +2,7 @@
 title: "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’"
 date: 2026-04-19T08:00:44Z
 category: reading
+author: "John Gruber"
 description: "这篇小文真正有意思的，不是“又发现了几张早年 Kubrick 照片”，而是它把 Kubrick 后来最强的能力提前暴露出来了：他最早擅长的不是构图炫技，而是用极低控制度去抓住人放松警惕后的社会纹理。纽约地铁在他镜头里不是交通工具，而是一节压缩过的城市剖面，读书、调情、醉倒、窥视，都在同一节车厢里并存。"
 source: "https://daringfireball.net/2026/04/kubrick_new_york_subway"
 ---

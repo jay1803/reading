@@ -2,6 +2,7 @@
 title: "I was raised by a single mom—the problems I had to fix when I grew up"
 date: 2026-03-07T17:40:36Z
 category: reading
+author: "Ed Latimore"
 description: "父亲缺席几乎从不是\"制度逼的\"——90% 的监护安排由父母自行协商完成，51% 是双方同意母亲做主监护人，法官裁决中主动争取监护的父亲 70% 能拿到。更隐秘的破坏在成年后：一个从没见过健康关系的人，会把\"被喜欢\"和\"被尊重\"混淆，直到发现自己只是别人的酒友，从来不被邀进家庭聚会。"
 source: "https://edlatimore.com/raised-by-single-mom/"
 ---

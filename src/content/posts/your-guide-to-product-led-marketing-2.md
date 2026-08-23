@@ -2,6 +2,7 @@
 title: "Your guide to product-led marketing"
 date: 2022-06-30T22:31:29Z
 category: growth
+author: "Kyle Poyar"
 description: "Look at HubSpot , the CRM platform with a $22 billion market cap, for inspiration. HubSpot’s top three ways of attracting new users are word of mouth (33%),..."
 source: "https://kylepoyar.substack.com/p/your-guide-to-product-led-marketing?s=w"
 ---

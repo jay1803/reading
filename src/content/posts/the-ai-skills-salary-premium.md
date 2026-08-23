@@ -2,6 +2,7 @@
 title: "The AI skills salary premium"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Kevin Indig"
 description: "SEO 岗位市场已经开始给 AI 能力重新定价，但真正的信号藏在职位描述里，而不在职位标题里；溢价主要奖励中高阶候选人把 AI 变成系统、判断和业务结果的能力，初级“会用工具”几乎拿不到额外薪水。"
 source: "https://www.growth-memo.com/p/the-ai-skills-salary-premium"
 ---

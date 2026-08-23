@@ -2,6 +2,7 @@
 title: "What’s Your Monetization Color?"
 date: 2025-05-26T17:02:13Z
 category: reading
+author: "Elena Verna"
 description: "SaaS产品应为引导用户付费的行动召唤（CTA）按钮（如升级、查看定价）设置专门的“变现颜色”，并推荐使用金色，以区别于产品核心功能操作的颜色，从而提升用户付费转化。"
 source: "https://www.elenaverna.com/p/whats-your-monetization-color"
 ---

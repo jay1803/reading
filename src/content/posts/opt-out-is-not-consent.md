@@ -2,6 +2,7 @@
 title: "Opt-Out Is Not Consent"
 date: 2026-03-28T08:01:59Z
 category: reading
+author: "Brad Feld"
 description: "GitHub 把 Copilot 个人用户的交互数据默认纳入训练、却给企业客户合同豁免，不是设计失误——这是 Microsoft 清楚区分了谁的同意值得购买之后，做出的精算决策。"
 source: "https://feld.com/archives/2026/03/opt-out-is-not-consent/"
 ---

@@ -2,6 +2,7 @@
 title: "Quoting Florian Herrengt"
 date: 2026-08-15T15:47:00Z
 category: reading
+author: "Simon Willison"
 description: "AI 让团队能在没人理解系统的情况下持续交付，最终 bug 出现第四次还无法定位——最危险的不是 AI 写出的 bug，而是 AI 让 bug 无法被定位，因为理解它所需的上下文从来没有被任何人建立过。"
 source: "https://simonwillison.net/2026/Aug/12/florian-herrengt/"
 ---

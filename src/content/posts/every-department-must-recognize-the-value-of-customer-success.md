@@ -2,6 +2,7 @@
 title: "Every Department Must Recognize the Value of Customer Success"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "CS 的内部地位困境根源不是贡献不足，是没有像销售那样主动定义自己的价值叙事。销售从不等人理解他们的重要性——他们主动设目标、量化路线图、向其他部门施压。CS 只需复制这套机制。"
 source: "https://sixteenventures.com/value-of-customer-success"
 ---

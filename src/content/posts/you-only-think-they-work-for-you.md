@@ -2,6 +2,7 @@
 title: "You Only Think They Work For You"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Steve Blank"
 description: "作者的核心提醒是：外部服务商并不围着你转，他们首先维护的是自己在另一侧市场里的长期关系，所以把他们当成可完全指挥的外包手脚，会误判激励结构并做错决策。更大的损失还不是服务费，而是你如果只买结果、不买认知，就会把关键能力永久外包；AI 代理会把这种依赖进一步放大，因为结果更强、过程更黑箱。"
 source: "https://steveblank.com/2026/02/18/you-only-think-they-work-for-you/"
 ---

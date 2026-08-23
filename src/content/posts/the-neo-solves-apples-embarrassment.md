@@ -2,6 +2,7 @@
 title: "The Neo solves Apple’s embarrassment"
 date: 2026-03-27T08:01:05Z
 category: reading
+author: "Anil Dash"
 description: "MacBook Neo 并非新品——它几乎和 Apple 在 Walmart 卖了多年的 M1 MacBook Air 规格一致（同尺寸、同重量、同 RAM、同价格）；Neo 的真正作用是为这个令 Apple 难堪的低端产品重新包装，使它可以体面地出现在 Apple Store 里。"
 source: "https://anildash.com/2026/03/08/neo-apple-embarassment/"
 ---

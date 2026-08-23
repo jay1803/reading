@@ -2,6 +2,7 @@
 title: "Shorter, Focused Content Wins in ChatGPT"
 date: 2026-04-14T08:01:12Z
 category: reading
+author: "Kevin Indig"
 description: "在 ChatGPT 里，内容胜负不取决于“覆盖更多子话题”，而取决于页面是否像一个针对单一问题的直接答案。检索排位和标题/小标题对原始 query 的贴合度，远比篇幅、域名权重、章节数量更重要；传统 ultimate guide 往往因为太散，反而从最优答案退化成“还行但不够尖”的混合页。"
 source: "https://www.growth-memo.com/p/shorter-focused-content-wins-in-chatgpt"
 ---

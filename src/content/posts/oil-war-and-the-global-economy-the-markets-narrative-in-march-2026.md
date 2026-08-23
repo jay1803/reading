@@ -2,6 +2,7 @@
 title: "Oil, War and the Global Economy: The Market's Narrative in March 2026"
 date: 2026-04-02T08:01:38Z
 category: reading
+author: "Aswath Damodaran"
 description: "三月伊朗战争让油价单月暴涨约 50%，但市场的整体反应远比预期冷静——股权风险溢价仅上升 0.40%、高收益债券利差仅扩大 0.60%、VIX 从 19.86 升至 25.25，幅度远低于 2020 年 COVID 或 2025 年关税周。市场在给持续通胀定价，但拒绝恐慌。"
 source: "https://aswathdamodaran.blogspot.com/2026/04/oil-war-and-global-economy-markets.html"
 ---

@@ -2,6 +2,7 @@
 title: "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
 date: 2026-06-06T08:04:03Z
 category: reading
+author: "Simon Willison"
 description: "AI 热情派和怀疑派各自对应一种真实的存亡威胁。热情派的危险：已经出现团队因深度拥抱 AI 实现了非线性能力跳跃；这不是可以等尘埃落定的普通技术周期，先观望的竞争者可能等不到尘埃落定就出局。怀疑派的危险：代码发布速度超过工程师阅读速度，可靠性在下降，机构知识在蒸发，没有人完整理解自己负责的系统，值班轮换在榨干人。"
 source: "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything"
 ---

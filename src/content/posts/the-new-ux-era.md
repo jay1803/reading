@@ -2,6 +2,7 @@
 title: "The new UX era"
 date: 2025-11-20T13:54:34Z
 category: reading
+author: "Kate Syuma"
 description: "Prompt bar 已成新 SaaS 标配，但界面同质化后激活反而更难——真正的分水岭在于谁能把空白输入框变成可重复的价值时刻，而不只是一次 wow。"
 source: "https://www.growthunhinged.com/p/the-new-ux-era"
 ---

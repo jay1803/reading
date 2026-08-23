@@ -2,6 +2,7 @@
 title: "Anthropic and Alignment"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章的主线不是 AI ethics 本身，而是“谁拥有最终决策权”：当 AI 被视为接近战略级能力时，美国政府几乎不可能接受由一家私营公司对军用边界拥有实质否决权。"
 source: "https://stratechery.com/2026/anthropic-and-alignment/"
 ---

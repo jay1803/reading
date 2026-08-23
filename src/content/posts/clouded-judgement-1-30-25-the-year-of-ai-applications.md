@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.30.25 - The Year of AI Applications"
 date: 2025-02-14T17:40:11Z
 category: reading
+author: "Jamin Ball"
 description: "What’s happened over the last 12 months is the cost per API call (ie the cost for inference) for these models has plummeted. Open source models like Llama, R..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-13025-the-year"
 ---

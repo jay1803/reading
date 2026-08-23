@@ -2,6 +2,7 @@
 title: "Intel Honesty"
 date: 2024-09-15T15:10:59Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章讨论了英特尔公司（Intel）的历史、现状和未来发展方向，特别是其在芯片设计和制造方面的挑战。文章的核心问题是英特尔是否应该将其芯片设计和制造业务分拆，以及美国政府是否应该介入支持其国内的芯片制造业。作者的观点是，为了拯救英特尔并确保美国在尖端芯片制造领域的领先地位，分拆是必要的，且美国政府需要通过采购担..."
 source: "https://stratechery.com/2024/intel-honesty/"
 ---

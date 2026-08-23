@@ -2,6 +2,7 @@
 title: "The Only 3 Acceptable Pricing Page Discount Tactics"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "定价页折扣的真正问题不是\"便宜了多少\"，而是信息损失：折扣一旦公开挂出，你就再也无法知道价格是否真的是转化障碍——因为你把本来愿意付全价的人也喂进了折扣漏斗。"
 source: "http://sixteenventures.com/pricing-page-discount"
 ---

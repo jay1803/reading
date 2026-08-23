@@ -2,6 +2,7 @@
 title: "AI-indecision is a recursive trap. Don't get stuck."
 date: 2026-06-06T08:04:42Z
 category: reading
+author: "Joan Westenberg"
 description: "AI 会放大决策瘫痪，因为它把原本有限的人类反思扩展成无限可续写的推理循环：每一次追问都会生成新的权衡、例外、假设翻转条件与自我辩护材料，最后你得到的不是更清晰的选择，而是更精致的犹豫。"
 source: "https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/"
 ---

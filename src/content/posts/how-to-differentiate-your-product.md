@@ -2,6 +2,7 @@
 title: "How to differentiate your product"
 date: 2025-01-02T11:02:33Z
 category: reading
+author: "Kate Syuma"
 description: "For example, Slack focused on the target use case-based segment of those doing internal company communication. Their chosen competitive alternative? Email."
 source: "https://www.growthunhinged.com/p/how-to-differentiate-your-product"
 ---

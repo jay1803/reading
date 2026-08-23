@@ -2,6 +2,7 @@
 title: "Scaling Uber with Thuan Pham (Uber’s first CTO)"
 date: 2026-04-11T08:02:45Z
 category: reading
+author: "Gergely Orosz"
 description: "Uber 真正被扩张逼爆的，先不是代码，而是组织形状。Thuan Pham 在 Uber 最关键的动作，是先把团队从职能制改造成能独立交付的 program / platform 结构，再用“所有新东西都长在单体之外”的规则，把架构拆分变成组织提速的副产品。微服务、重写、内部平台，本质上都不是审美选择，而是在 h..."
 source: "https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers"
 ---

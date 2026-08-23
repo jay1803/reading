@@ -2,6 +2,7 @@
 title: "How to Improve at Sensemaking AI?"
 date: 2026-05-04T08:02:01Z
 category: reading
+author: "Cedric Chin"
 description: "AI 时代的高质量 sensemaking，关键能力是先把一个自己尚未相信、但影响巨大的替代 frame 搭起来；在软件工程里，“代码生成已经很便宜”这个锚点足以重排 SDLC、测试、规范、架构与团队分工，也解释了为什么“软件暗工厂”阵营和传统务实工程师会彼此听不懂。"
 source: "https://commoncog.com/how-to-improve-at-sensemaking-ai/"
 ---

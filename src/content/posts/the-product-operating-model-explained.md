@@ -2,6 +2,7 @@
 title: "The Product Operating Model Explained"
 date: 2025-06-18T22:10:14Z
 category: reading
+author: "Itamar Gilad"
 description: "传统科技公司的核心病灶不是执行力不够，而是\"执行\"占用了几乎全部资源，而观察现实与思考的能力几乎为零——Gilad 把这称为\"有强壮四肢但软件残缺的机器人\"。"
 source: "https://itamargilad.com/product-operating-model/"
 ---

@@ -2,6 +2,7 @@
 title: "TBM 429: How To Thrive At Work When You Think Too Much"
 date: 2026-07-07T08:02:31Z
 category: reading
+author: "John Cutler"
 description: "职场说「你想太多」时，直觉把它当人身攻击——根源在于混淆了两种根本不同的社会结构。Max Weber 指出公司围绕角色而非整人建造；Ferdinand Tönnies 区分了有机社区（Gemeinschaft）和工具性结合（Gesellschaft）。职场是 Gesellschaft：契约性、可替换、随组织重组随..."
 source: "https://cutlefish.substack.com/p/tbm-429-how-to-thrive-at-work-when"
 ---

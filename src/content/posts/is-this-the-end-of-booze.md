@@ -2,6 +2,7 @@
 title: "Is This the End of Booze?"
 date: 2026-07-10T08:03:18Z
 category: reading
+author: "Derek Thompson"
 description: "J 曲线（适度饮酒有益）是垃圾科学：早期观察性研究把阶级、教育、运动等混淆变量全都算在红酒头上，\"戒酒者\"类别还塞满了因病戒酒的人（sick quitters）。研究者 Tim Stockwell 花了数千小时复盘这些研究，结论明确：J 曲线几乎肯定是假的。"
 source: "https://www.derekthompson.org/p/the-full-truth-about-the-risks-of"
 ---

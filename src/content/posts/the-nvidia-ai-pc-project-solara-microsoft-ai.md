@@ -2,6 +2,7 @@
 title: "The Nvidia AI PC, Project Solara, Microsoft AI"
 date: 2026-06-04T08:02:07Z
 category: reading
+author: "Ben Thompson"
 description: "AI PC 的时机问题：Nvidia 的 RTX Spark 针对 2023 年的 AI，而 2026 年真正的 AI 运行在云端；微软反而因为没有手机而具备了主导\"代理时代\"设备生态的独特优势。"
 source: "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/"
 ---

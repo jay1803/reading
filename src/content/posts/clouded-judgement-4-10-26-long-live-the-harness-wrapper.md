@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.10.26 - Long Live the Harness (Wrapper?) !"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Jamin Ball"
 description: "Meta-Harness 这类结果说明，AI 应用里最容易被低估的资产是 harness。它决定模型看见什么、记住什么、何时检索、怎样恢复，同一底模只改这一层就能拉出 6x 的 benchmark 差距，垂直应用因此有机会先靠编排赢，再靠数据走向自有模型。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-41026-long-live"
 ---

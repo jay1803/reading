@@ -2,6 +2,7 @@
 title: "Identity moves"
 date: 2025-10-09T15:39:32Z
 category: reading
+author: "muji"
 description: "身份安全市场已经从 IAM / IGA / PAM 的分散点工具，演化成围绕权限授予、治理、监控与即时收回的整个平台战；竞争焦点是能否把认证、治理、检测和基础设施访问收拢进同一控制面。作者判断 CyberArk 的机会来自三次连续转型：订阅化、云化、平台化；而 Okta 把最关键的几年消耗在 Auth0 整合与组..."
 source: "https://hhhypergrowth.com/identity-moves/"
 ---

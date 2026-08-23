@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: UnitedHealth Group Is Hated, Now It's Falling Apart"
 date: 2025-05-19T17:37:10Z
 category: reading
+author: "Matt Stoller"
 description: "本文深入分析了美国联合健康集团 (UnitedHealth Group, UHG) 近期面临的危机，包括CEO辞职、业绩不佳和刑事调查。尽管UHG规模庞大，涉嫌垄断且享受巨额政府补贴，但其利润率相对较低，文章推测这可能是由于内部腐败、利益冲突和管理层中饱私囊，导致财富并未完全流向投资者，使其更像一个“纸牌屋”而非..."
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-unitedhealth-group"
 ---

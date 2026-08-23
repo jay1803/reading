@@ -2,6 +2,7 @@
 title: "There are no heroes in commercial AI"
 date: 2026-03-27T08:01:05Z
 category: reading
+author: "Gary Marcus"
 description: "Dario Amodei 的\"安全优先\"形象是层薄皮：在 Claude 被用于五角大楼伊朗打击目标规划、安全承诺悄悄撤回之后，他与 Altman 跑的是同一套剧本，区别仅在于尚未被媒体完全拆穿。"
 source: "https://garymarcus.substack.com/p/there-are-no-heroes-in-commercial"
 ---

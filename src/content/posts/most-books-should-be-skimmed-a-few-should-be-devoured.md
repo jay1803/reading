@@ -2,6 +2,7 @@
 title: "Most Books Should Be Skimmed, A Few Should Be Devoured"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Naval Ravikant"
 description: "Naval Ravikant，AngelList 联合创始人，知名天使投资人，以哲学与认知方法论的分享著称。Nivi（Babak Nivi）为 AngelList 联合创始人，本期以主持人身份引导对话。[补充：这段对话来自 Naval Podcast 系列，主题围绕知识获取与书单策略。]"
 source: "https://nav.al/get"
 ---

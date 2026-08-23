@@ -2,6 +2,7 @@
 title: "How American Dads Became the Parents Their Fathers Never Were"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "Derek Thompson"
 description: "美国父职的剧变，不只是女性进入劳动力市场后男性“补位”，而是父亲角色从供养者扩展成陪伴者、教育投资者和身份表演者；结果是父亲更深地参与家庭、更常感到幸福，也更累，但最重、最焦虑、最不可见的育儿负担仍主要压在母亲身上。"
 source: "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time"
 ---

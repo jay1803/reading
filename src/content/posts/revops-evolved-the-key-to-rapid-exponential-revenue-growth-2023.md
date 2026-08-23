@@ -2,6 +2,7 @@
 title: "RevOps Evolved: The Key to Rapid, Exponential Revenue Growth (2023)"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "RevOps 最反直觉的主张：给现有客户设定配额会主动抑制增长。新业务销售需要配额（没有客户上下文，只能靠外力驱动）；但 CS 面对的是已有完整客户信息的场景——配额让 CS 变成更小版的销售团队，而\"上下文\"本身才能驱动指数级扩展收入。"
 source: "https://sixteenventures.com/revops-evolved"
 ---

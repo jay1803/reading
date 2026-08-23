@@ -2,6 +2,7 @@
 title: "An Interview with Google Cloud CEO Thomas Kurian About the Agentic Moment"
 date: 2026-04-24T08:01:56Z
 category: reading
+author: "Ben Thompson"
 description: "Thomas Kurian 是 Google Cloud CEO，2018 年加入 Google；此前在 Oracle 工作 22 年，曾任产品开发总裁。本次访谈由 Stratechery 的 Ben Thompson 主持，发生在 Google Cloud Next 2026 keynote 前，核心讨论 Go..."
 source: "https://stratechery.com/2026/an-interview-with-google-cloud-ceo-thomas-kurian-about-the-agentic-moment/"
 ---

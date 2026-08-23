@@ -2,6 +2,7 @@
 title: "A Motorcycle for the Mind"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Naval Ravikant"
 description: "AI 让编程的瓶颈从“手写代码”转向“提出什么、如何拆解、怎样判断结果是否对”，所以产品感、结构化表达、架构理解和模型能力一起上位。结果不会是软件被平均化，而是供给暴增、长尾细分被填满、头部产品更强、聚合分发平台拿走更大价值。程序员没有被替代；懂底层、能处理抽象泄漏、能在分布外问题上动手的人，反而因为 AI 获得..."
 source: "https://nav.al/ai"
 ---

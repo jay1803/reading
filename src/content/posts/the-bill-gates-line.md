@@ -2,6 +2,7 @@
 title: "The Bill Gates Line"
 date: 2023-08-31T14:22:48Z
 category: reading
+author: "Ben Thompson"
 description: "The Bill Gates Line is definition of Platform by Bill Gates."
 source: "https://stratechery.com/2018/the-bill-gates-line/"
 ---

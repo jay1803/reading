@@ -2,6 +2,7 @@
 title: "The Entire Internet Is a UGC Reaction Video Now"
 date: 2026-04-02T08:01:08Z
 category: reading
+author: "Joan Westenberg"
 description: "\"100% Real Humans. Zero AI.\" 能作为溢价卖点出现，意味着内容制造化本身已不再是耻辱——只有 AI 制造才算劣质；整个网络的\"真实性\"已退化为一种产品标签。"
 source: "https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/"
 ---

@@ -2,6 +2,7 @@
 title: "Object-Centric Image Editing in Reve"
 date: 2026-07-02T08:03:15Z
 category: reading
+author: "Luke Wroblewski"
 description: "Reve 的 layout model 把 object-centric 图像编辑从概念演示变成了可用产品。核心突破：图像不再是像素集合，而是结构化的元素树，每个元素有位置、尺寸、描述、颜色等属性——layout 之于图像，等同于 HTML 之于网页。"
 source: "https://www.lukew.com/ff/entry.asp?2156"
 ---

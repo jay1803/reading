@@ -2,6 +2,7 @@
 title: "When The Bill Comes Due"
 date: 2026-04-30T08:02:48Z
 category: reading
+author: "Ernie Smith"
 description: "这篇文章最有价值的判断是：AI 的主流定价还没有反映真实成本，用户和企业正在被补贴养成依赖；当补贴退潮，真正的优势会从“谁功能最炫”转向“谁能用更低成本交付足够好的能力”。"
 source: "https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives"
 ---

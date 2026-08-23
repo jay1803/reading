@@ -2,6 +2,7 @@
 title: "Klarna S-1 Breakdown"
 date: 2025-03-20T19:58:22Z
 category: reading
+author: "Tanay Jaipuria"
 description: "Klarna 是一家全球领先的金融科技公司，最初以其“先买后付”（BNPL）解决方案而闻名，现已发展成为一个全面的金融服务生态系统。该公司最近提交了 F-1 文件准备上市，其业务遍及 26 个国家，拥有超过 9300 万活跃消费者和超过 67.5 万个商家合作伙伴。Klarna 不仅提供灵活的支付方式，还通过其应..."
 source: "https://www.tanayj.com/p/klarna-s-1-breakdown"
 ---

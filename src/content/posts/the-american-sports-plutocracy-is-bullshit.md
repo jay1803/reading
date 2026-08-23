@@ -2,6 +2,7 @@
 title: "The American Sports Plutocracy Is Bullshit"
 date: 2026-08-20T03:14:00Z
 category: reading
+author: "Derek Thompson"
 description: "美国职业体育产权通过五层法律护城河（反垄断豁免、转播权卡特尔化、劳动法例外、场馆补贴、税务摊销）人为制造稀缺，让亿万富翁无需创造价值即可持续暴富。"
 source: "https://www.derekthompson.org/p/the-american-sports-plutocracy-is"
 ---

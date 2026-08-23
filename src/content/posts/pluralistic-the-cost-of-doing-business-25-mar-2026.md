@@ -2,6 +2,7 @@
 title: "Pluralistic: The cost of doing business (25 Mar 2026)"
 date: 2026-03-26T08:01:39Z
 category: reading
+author: "Cory Doctorow"
 description: "法律的可执行性取决于\"事实密集度\"：当数字化让某类行为从每年数次暴增到每天数百万次时，任何依赖逐案事实认定的规则都会自动失效——不是因为规则坏，而是频率把它压垮了。"
 source: "https://pluralistic.net/2026/03/25/fact-intensive/"
 ---

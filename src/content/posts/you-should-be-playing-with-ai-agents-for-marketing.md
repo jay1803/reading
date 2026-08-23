@@ -2,6 +2,7 @@
 title: "You should be playing with AI agents for marketing"
 date: 2025-07-03T12:22:52Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章介绍了 Relay.app 的创始人兼 CEO Jacob Bank 如何仅依靠自己和 40 多个 AI agents 组成一个等同于五人团队的营销部门。他认为，雇佣和管理 AI agents 将成为一项基础技能，营销人员应该开始构建专为自己目标和工作风格定制的 AI agent 栈。"
 source: "https://www.growthunhinged.com/p/marketing-ai-agents"
 ---

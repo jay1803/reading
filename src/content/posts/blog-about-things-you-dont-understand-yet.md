@@ -2,6 +2,7 @@
 title: "Blog about things you don't understand yet"
 date: 2026-07-08T08:04:03Z
 category: reading
+author: "Sean Goedecke"
 description: "写作强迫你把模糊认知收敛成具体文字；这个收敛过程本身就是思考。在脑子里\"理解\"某件事，和能把它写清楚，是两回事。"
 source: "https://seangoedecke.com/blog-about-things-you-dont-understand-yet/"
 ---

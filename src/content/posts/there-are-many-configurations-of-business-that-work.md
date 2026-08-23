@@ -2,6 +2,7 @@
 title: "There are Many Configurations of Business That Work"
 date: 2026-05-21T05:49:55Z
 category: reading
+author: "Cedric Chin"
 description: "经营公司不是单一路径题；真正的约束来自资本结构、所有权、增长目标和创始人生活偏好的组合。VC 式高增长只是带有特定资金模型和社会激励的配置，创业者可以反向设计一种与自身目标匹配的商业形态，代价是估值、融资、退出和可复制性会更差。"
 source: "https://commoncog.com/there-are-many-configurations-of-business-that-work/"
 ---

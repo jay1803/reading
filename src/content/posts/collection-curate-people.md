@@ -2,6 +2,7 @@
 title: "Collection: Curate People"
 date: 2025-11-08T10:15:45Z
 category: reading
+author: "Naval Ravikant"
 description: "创业公司真正不可外包的，是招人、融资、战略和产品愿景，其中招人最关键，因为早期团队就是公司的 DNA。Naval 的标准很苛刻：只和自驱、低 ego、有审美、能持续产生新知识的人合作；为了找到这种人，创始人必须亲自识别、说服、破例、淘汰，并把组织刻意维持在一个有利于深度创造而非规模化协同的状态。"
 source: "https://nav.al/curate-people"
 ---

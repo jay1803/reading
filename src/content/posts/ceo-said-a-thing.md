@@ -2,6 +2,7 @@
 title: "“CEO said a thing!”"
 date: 2026-03-31T08:00:31Z
 category: reading
+author: "Gary Marcus"
 description: "「CEO 说了什么」式新闻的问题不在懒，而在功能性：它的作用是为权力和财富积累生产意识形态护盾，而非传递事实。"
 source: "https://garymarcus.substack.com/p/ceo-said-a-thing"
 ---

@@ -2,6 +2,7 @@
 title: "🕵️‍♂️ Palantir: 'Once in a Generation'"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Kevin Palmer"
 description: "Palantir Q2 首次单季破 $10 亿营收；但更反直觉的是，这家以政府合同起家的公司，商业端增速（+93% YoY）已远超政府端（+53%）——AIP 正在同时驱动两条腿高速奔跑。"
 source: "https://www.appeconomyinsights.com/p/palantir-once-in-a-generation"
 ---

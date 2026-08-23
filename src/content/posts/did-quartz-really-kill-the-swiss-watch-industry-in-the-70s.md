@@ -2,6 +2,7 @@
 title: "Did Quartz Really Kill the Swiss Watch Industry in the 70s?"
 date: 2026-06-30T08:04:46Z
 category: reading
+author: "Cedric Chin"
 description: "通行版本：Seiko 用石英冲垮瑞士 → 银行请来 Hayek → Swatch 打低端 → 现金流支撑收购大业 → 瑞士表业复苏。"
 source: "https://commoncog.com/did-quartz-really-kill-the-swiss-watch-industry-70s/"
 ---

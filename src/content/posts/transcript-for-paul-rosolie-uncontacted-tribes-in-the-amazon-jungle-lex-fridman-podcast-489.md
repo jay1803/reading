@@ -2,6 +2,7 @@
 title: "Transcript for Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Lex Fridman"
 description: "Paul Rosolie，野生动物保育人、探险家、作家，著有《Mother of God》与《Jungle Keeper》，是秘鲁亚马逊 Jungle Keepers 组织联合创始人，带领团队在 Las Piedras 河流域购买并保护超过 13 万英亩原始雨林。在亚马逊工作逾 20 年，以研究森蚺和保护未接触部..."
 source: "https://lexfridman.com/paul-rosolie-3-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=paul-rosolie-3-transcript"
 ---

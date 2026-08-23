@@ -2,6 +2,7 @@
 title: "Trust Before It's Earned"
 date: 2026-06-29T08:03:19Z
 category: reading
+author: "Leah Tharin"
 description: "授权失败的根因不是员工滥用自由，而是向上信息流断裂。作者把这个条件称为\"可操作的向上透明度\"（actionable transparency）：管理者需要知道的最低限度信息，即\"无惊喜\"。"
 source: "https://www.leahtharin.com/p/trust-before-its-earned"
 ---

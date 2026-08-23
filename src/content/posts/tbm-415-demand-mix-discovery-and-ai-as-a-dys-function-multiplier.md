@@ -2,6 +2,7 @@
 title: "TBM 415: Demand Mix, Discovery, and AI as a (Dys)function Multiplier"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "John Cutler"
 description: "真正决定团队运行方式的，不是有没有 discovery、Scrum 对不对，甚至也不是“产品是否被授权”，而是需求漏斗的输入结构，以及团队能在多大程度上前置塑造这些输入。AI 也不是自动提效剂，它只会把现有漏斗逻辑放大。如果组织本质上仍在争抢工程产能，AI 会把伪确定性、预制需求、跨团队博弈一起加速。只有把漏斗改..."
 source: "https://cutlefish.substack.com/p/tbm-415-demand-mix-shaping-and-ai"
 ---

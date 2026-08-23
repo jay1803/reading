@@ -2,6 +2,7 @@
 title: "Transcript for FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496"
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Lex Fridman"
 description: "Jean-Baptiste Kempf 是 VideoLAN/VLC 的核心人物与主席，也是 FFmpeg、x264、dav1d 等开源多媒体生态的重要组织者；Kieran Kunhya 是长期 codec 工程师、FFmpeg 贡献者，也是 FFmpeg 在 X/Twitter 上高强度发声的人之一。两人的共同..."
 source: "https://lexfridman.com/ffmpeg-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=ffmpeg-transcript"
 ---

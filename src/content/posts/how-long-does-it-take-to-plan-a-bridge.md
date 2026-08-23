@@ -2,6 +2,7 @@
 title: "How Long Does It Take to Plan a Bridge?"
 date: 2026-06-06T08:04:03Z
 category: reading
+author: "Brian Potter"
 description: "美国桥梁规划时间并没有明显变长——但建造时间确实变长了；近代规划速度看起来更快，主要是因为数据里全是替换旧桥的项目，这类项目天然有紧迫性。真正的决定因素是组织层面的紧迫感文化，而非单纯的法规负担。"
 source: "https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge"
 ---

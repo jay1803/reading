@@ -2,6 +2,7 @@
 title: "Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)"
 date: 2026-05-14T08:01:36Z
 category: reading
+author: "Cory Doctorow"
 description: "AI 政府和 AI 公司幻想的危险不在于“模型终于能替人工作”，而在于它给掌权者提供了一种更顺手的独裁想象：把员工、用户、公民和官僚都降维成可优化变量，让领袖或老板的意志绕开所有会反驳、拖延、改写、协商的人类中介。"
 source: "https://pluralistic.net/2026/05/13/vibe-governance/"
 ---

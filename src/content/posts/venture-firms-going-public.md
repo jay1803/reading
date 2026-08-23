@@ -2,6 +2,7 @@
 title: "Venture Firms Going Public"
 date: 2025-03-14T19:11:47Z
 category: reading
+author: "Tanay Jaipuria"
 description: "本文探讨了风险投资（Venture Capital, VC）公司上市的可能性及其对市场的影响。文章主要分析了 VC 公司上市的动因、结构、优势与挑战，以及公开市场如何对它们进行估值，并预测未来几年可能会有少数大型 VC 公司选择上市。"
 source: "https://www.tanayj.com/p/venture-firms-going-public"
 ---

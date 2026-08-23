@@ -2,6 +2,7 @@
 title: "Lessons Learned Running Our First DRI Your Career Cohort"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Jean Hsu"
 description: "这篇复盘真正验证的，不是“异步职业课程也能有帮助”，而是高质量职业教练最稀缺的部分并不一定是同步陪伴，而是一套能逼出自我澄清的 prompts，加上轻量但可信的反馈机制；一旦成立，这门产品就能从“按教练精力线性扩张”变成“按文档吞吐扩张”。"
 source: "https://jeanhsu.substack.com/p/lessons-learned-running-our-first"
 ---

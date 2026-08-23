@@ -2,6 +2,7 @@
 title: "How to Disagree"
 date: 2023-10-25T17:30:45Z
 category: reading
+author: "Paul Graham"
 description: "Paul Graham 提出了一个“争议层次结构”（Disagreement Hierarchy, DH），将人们在网络上表达不同意见的方式从低到高分为七个层次：谩骂（Name-calling）、人身攻击（Ad Hominem）、回应语气（Responding to Tone）、矛盾（Contradiction）..."
 source: "http://www.paulgraham.com/disagree.html"
 ---

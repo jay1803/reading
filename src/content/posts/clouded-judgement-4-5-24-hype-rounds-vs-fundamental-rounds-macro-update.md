@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.5.24 - Hype Rounds vs Fundamental Rounds + Macro Update"
 date: 2024-04-08T16:17:58Z
 category: reading
+author: "Jamin Ball"
 description: "The show Silicon Valley is one of my favorites - just so many nuggets of humor in that show. A favorite clip of mine is when Russ Hanneman is talking about h..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-4524-hype-rounds"
 ---

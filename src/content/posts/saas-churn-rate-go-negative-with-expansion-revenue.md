@@ -2,6 +2,7 @@
 title: "SaaS Churn Rate: Go Negative with Expansion Revenue"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "作者要讲清一件事：SaaS 真正对冲流失的核心，不是继续堆新客，而是系统性地从现有客户中做出 expansion revenue。只要同一批客户带来的扩张收入超过流失和降级损失，哪怕 logo 在掉，净收入仍然会上升，这就是所谓的负流失。它的前提不是容忍高流失，而是在低 gross churn 的基础上，把定价、..."
 source: "http://sixteenventures.com/negative-saas-churn-rate?utm_source=rss&utm_medium=rss&utm_campaign=negative-saas-churn-rate"
 ---

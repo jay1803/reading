@@ -2,6 +2,7 @@
 title: "TBM 424: Why We Help (And How To Stay Helpful)"
 date: 2026-06-01T08:01:18Z
 category: reading
+author: "John Cutler"
 description: "真正的自我照顾，是管理自己“想帮忙”的冲动：识别它来自方法信念、系统痛感、使命感还是赋能欲望，再判断它是否已经被身份认同和权力关系放大到失真。帮助本身会改变关系位置；如果对方感到被审判、被纠正、被拯救或被控制，再真诚的帮助也会变成压力源。"
 source: "https://cutlefish.substack.com/p/tbm-424-why-we-help-and-how-to-stay"
 ---

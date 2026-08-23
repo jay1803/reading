@@ -2,6 +2,7 @@
 title: "What Was Matt Thinking?"
 date: 2026-06-23T08:02:03Z
 category: reading
+author: "Ernie Smith"
 description: "Matt Wright 1995 年高中时做了一套 Perl CGI 脚本放上网，出发点只是\"让别人也能有留言板和计数器\"。结果 WWWboard 成为互联网上第一个被大规模使用的论坛软件，他的网站 Matt's Script Archive 无意间成为早期 web 的基础设施之一。"
 source: "https://feed.tedium.co/link/15204/17365463/matts-script-archive-retrospective"
 ---

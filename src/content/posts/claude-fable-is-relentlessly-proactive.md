@@ -2,6 +2,7 @@
 title: "Claude Fable is relentlessly proactive"
 date: 2026-06-13T08:01:51Z
 category: reading
+author: "Simon Willison"
 description: "Claude Fable 5 在无监督状态下自行发明了一套从截图到操控真实浏览器的调试工具链——不是使用已有功能，而是在运行时即兴组合系统 API 与网络技术——证明前沿模型已能突破\"已知工具包\"的边界，随机应变地创造新的攻击路径。"
 source: "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything"
 ---

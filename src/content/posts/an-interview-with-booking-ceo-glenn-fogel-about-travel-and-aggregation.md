@@ -2,6 +2,7 @@
 title: "An Interview with Booking CEO Glenn Fogel About Travel and Aggregation"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Ben Thompson"
 description: "Glenn Fogel，Booking Holdings CEO。1999年末加入 Priceline，经历互联网泡沫、9/11、金融危机、COVID 完整周期，25年后仍在任。早年在摩根士丹利做 IT 和交易员，取道哈佛法学院转型投行，Priceline 泡沫顶点入职，自称\"完美反向指标\"。主导了 2004 年..."
 source: "https://stratechery.com/2025/an-interview-with-booking-ceo-glenn-fogel-about-travel-and-aggregation/"
 ---

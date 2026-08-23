@@ -2,6 +2,7 @@
 title: "The dire state of B2B marketing attribution"
 date: 2025-05-08T10:33:32Z
 category: reading
+author: "Elena Verna"
 description: "Touch-based归因的根基正被法律主动拆除：GDPR/CCPA要求用户主动授权追踪，Chrome/Safari/ATT已系统封锁第三方Cookie与跨app数据，可能让70%的流量永久不可追踪。B2B还在争论last-touch vs multi-touch，其实是在赌一套正在消失的基础设施。"
 source: "https://www.elenaverna.com/p/the-dire-state-of-b2b-marketing-attribution"
 ---

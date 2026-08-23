@@ -2,6 +2,7 @@
 title: "The SaaS CAC Myth and Misguided Optimization"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "降低 CAC 本身是个陷阱：同样花 $1000 获客，一家把 LTV 从 $3600 做到 $6000，另一家还在想怎么把 $1000 压到 $900——后者在玩错游戏。真正的目标是 CAC 效率：单位获客投入能撬动多少终生价值。"
 source: "http://sixteenventures.com/saas-cac-efficiency?utm_source=rss&utm_medium=rss&utm_campaign=saas-cac-efficiency"
 ---

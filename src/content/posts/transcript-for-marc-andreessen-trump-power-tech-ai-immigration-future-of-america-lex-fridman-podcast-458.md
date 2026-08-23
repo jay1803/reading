@@ -2,6 +2,7 @@
 title: "Transcript for Marc Andreessen: Trump, Power, Tech, AI, Immigration & Future of America | Lex Fridman Podcast #458"
 date: 2025-02-12T18:23:07Z
 category: reading
+author: "Lex Fridman"
 description: "Here is a summary of the main topics discussed in the transcript of Lex Fridman's podcast with Marc Andreessen:"
 source: "https://lexfridman.com/marc-andreessen-2-transcript/"
 ---

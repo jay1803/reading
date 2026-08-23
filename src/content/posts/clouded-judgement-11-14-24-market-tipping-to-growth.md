@@ -2,6 +2,7 @@
 title: "Clouded Judgement 11.14.24 - Market Tipping to Growth"
 date: 2024-11-25T16:06:35Z
 category: reading
+author: "Jamin Ball"
 description: "在过去的两年里，软件公司评估增长与盈利能力的方式发生了巨大转变。增长是 ZIRP 时期的唯一关注点，当我们走出那个时期时，我们重新关注盈利能力。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-111424-market-tipping"
 ---

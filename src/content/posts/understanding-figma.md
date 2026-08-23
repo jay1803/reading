@@ -2,6 +2,7 @@
 title: "Understanding Figma"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "muji"
 description: "Figma 的护城河不是产品功能，而是它在 2016 年把\"设计\"从孤立工作流变成了云端团队协作平台——这一架构选择锁死了所有桌面竞争对手；Adobe 试图用 $20B 收购它，监管阻挠 15 个月后并购告吹，反而给 Figma 送去 $1B 分手费，令其以净现金 $1.5B 上市。"
 source: "https://hhhypergrowth.com/understanding-figma/"
 ---

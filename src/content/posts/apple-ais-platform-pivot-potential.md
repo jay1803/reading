@@ -2,6 +2,7 @@
 title: "Apple AI’s Platform Pivot Potential"
 date: 2025-03-13T13:09:42Z
 category: reading
+author: "Ben Thompson"
 description: "Apple 在 AI 领域遭遇了一周的挫折与辉煌。Apple Intelligence 的部分功能因安全问题推迟发布，突显了将 AI 深度集成到设备中的复杂性。但同时，Apple 发布了 M3 Ultra 芯片，凭借其强大的性能和高达 512GB 的统一内存，使其成为目前最强的消费级 AI 硬件。这反映了 App..."
 source: "https://stratechery.com/2025/apple-ais-platform-pivot-potential/"
 ---

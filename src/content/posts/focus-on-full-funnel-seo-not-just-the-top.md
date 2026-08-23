@@ -2,6 +2,7 @@
 title: "Focus on full funnel SEO not just the top"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Eli Schwartz"
 description: "作者的核心判断是，SEO如果只为获客负责，最终会把自己做成一个越来越容易被替代的流量部门；真正有长期价值的SEO，应该覆盖用户从发现、激活、留存到扩张的整个生命周期。衡量SEO的标准也该从点击、排名和首单，转向是否减少摩擦、加快价值实现、降低流失并提升LTV。"
 source: "https://www.productledseo.com/p/focus-on-full-funnel-seo-not-just"
 ---

@@ -2,6 +2,7 @@
 title: "How to use Deep Research for GTM"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Kate Syuma"
 description: "Deep Research 的核心价值不是\"更快的搜索\"，而是首个能端到端完成复杂非工程任务的 AI 功能——从制定计划到汇总来源再到输出可执行报告——但默认输出往往通用而没用，提示词工程仍然决定结果质量的上下限。"
 source: "https://www.growthunhinged.com/p/deep-research-for-gtm"
 ---

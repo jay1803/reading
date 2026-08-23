@@ -2,6 +2,7 @@
 title: "Designing Data-intensive Applications with Martin Kleppmann"
 date: 2026-04-23T08:02:20Z
 category: reading
+author: "Gergely Orosz"
 description: "这篇内容最不显然的一条线，不是再讲一遍《DDIA》第二版更新了什么，而是 Martin Kleppmann 把分布式系统知识重新定位成一种 tradeoff language（权衡语言）：它不是给你“最佳实践清单”，而是让应用工程师在云时代、AI 时代和组织决策里，更早看见风险边界，讲清业务—成本—可靠性的交换，..."
 source: "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications"
 ---

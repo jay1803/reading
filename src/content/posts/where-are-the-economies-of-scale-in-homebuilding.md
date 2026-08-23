@@ -2,6 +2,7 @@
 title: "Where Are the Economies of Scale in Homebuilding?"
 date: 2026-05-29T08:01:14Z
 category: reading
+author: "Brian Potter"
 description: "住宅建造规模经济弱的核心原因：住宅数量足够大，但传统建房已经是“材料成本约 50% + 人工约 50%”的低转换成本过程；规模化能压缩的主要是材料到成品之间的加工差额，而这个差额本来就不大。"
 source: "https://www.construction-physics.com/p/where-are-the-economies-of-scale"
 ---

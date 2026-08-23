@@ -2,6 +2,7 @@
 title: "Transcript for Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447"
 date: 2024-10-08T17:53:41Z
 category: reading
+author: "Lex Fridman"
 description: "这是一篇关于 Cursor 团队讨论 AI 编程未来的播客访谈记录。访谈中，Cursor 团队成员分享了他们对于 AI 如何改变编程、代码编辑器 Cursor 的设计理念和技术细节、以及对未来编程发展的看法。他们认为 AI 将显著提高程序员的生产力，但人类程序员仍将在软件开发中扮演重要角色。"
 source: "https://lexfridman.com/cursor-team-transcript/"
 ---

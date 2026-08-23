@@ -2,6 +2,7 @@
 title: "Tasks vs Threads"
 date: 2025-05-12T13:43:58Z
 category: reading
+author: "Jacob Bartlett"
 description: "Thread 与 Task 的 API 设计高度镜像——sleep / cancel / priority / 本地存储都有对应物——但它们运行在完全不同的抽象层：Thread 是内核级实体，每个占 512kB 调用栈，切换代价高；Task 是 Swift Runtime 管理的轻量执行单元，状态存在 conti..."
 source: "https://blog.jacobstechtavern.com/p/tasks-vs-threads"
 ---

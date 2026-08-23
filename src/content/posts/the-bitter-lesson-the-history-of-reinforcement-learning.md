@@ -2,6 +2,7 @@
 title: "The Bitter Lesson: The history of reinforcement learning"
 date: 2026-06-14T08:02:30Z
 category: reading
+author: "Adam Gordon Bell"
 description: "Sutton的\"苦涩教训\"一句话：过去70年的AI研究反复证明，利用算力的通用方法最终总是大幅击败人工编码的专家知识。你写的8000条规则、你访谈顶尖棋手总结的经验，最终输给一个只知道\"赢了还是输了\"、不停自博弈的程序。"
 source: "https://corecursive.com/the-bitter-lesson/"
 ---

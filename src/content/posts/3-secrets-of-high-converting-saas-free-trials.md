@@ -2,6 +2,7 @@
 title: "3 Secrets of High-Converting SaaS Free Trials"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "免费试用的目标不是让用户“看一看”，而是被设计成把用户尽快推进到“付费是最合理下一步”的状态。高转化试用的关键不在试用时长或跟进邮件这些局部优化，而在于围绕“实现期望结果”设计整条转化路径，并把产品外部阻力与多角色决策都纳入编排。"
 source: "http://sixteenventures.com/effective-free-trials"
 ---

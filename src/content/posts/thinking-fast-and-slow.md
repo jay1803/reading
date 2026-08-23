@@ -2,6 +2,7 @@
 title: "Thinking Fast and Slow"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Jeremy Keith"
 description: "系统1/2框架本身是双重讽刺：它用分类标签解释人类思维，却靠同样的分类标签获得了超出其证据强度的影响力。Kahneman 自己承认这两个\"系统\"不是神经实体，但他也知道标签会重塑行为与信念——这个框架正在对其读者做它声称要揭露的事。"
 source: "https://intertwingled.org/thinking-fast-and-slow/"
 ---

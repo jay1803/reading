@@ -2,6 +2,7 @@
 title: "Content and Community"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Ben Thompson"
 description: "AI 对内容的破坏不是复制，而是解构——它将人类创作蒸馏为统计关系后输出全新内容，版权诉讼因此基本失效。这反而让\"内容围绕社群\"的订阅模式成为出版商唯一可行的出路。"
 source: "https://stratechery.com/2025/content-and-community/"
 ---

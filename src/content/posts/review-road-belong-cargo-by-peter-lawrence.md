@@ -2,6 +2,7 @@
 title: "REVIEW: Road Belong Cargo, by Peter Lawrence"
 date: 2025-05-06T16:42:19Z
 category: reading
+author: "John Psmith"
 description: "这篇书评借 Peter Lawrence 对新几内亚马当地区货物崇拜的研究，重写了 Yali 那个著名问题：关键不只是地理条件如何让欧亚大陆更早积累出“cargo”，也在于人们如何理解财富、技术与因果。马当人的货物崇拜并非愚蠢模仿，而是在一套自洽世界观里对西方物质文明作出的理性解释：财富来自神灵与祖先，技术不是人..."
 source: "https://www.thepsmiths.com/p/review-road-belong-cargo-by-peter"
 ---

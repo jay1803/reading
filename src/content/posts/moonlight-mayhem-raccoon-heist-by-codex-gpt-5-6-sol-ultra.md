@@ -2,6 +2,7 @@
 title: "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)"
 date: 2026-08-16T21:37:26Z
 category: reading
+author: "Simon Willison"
 description: "同一份一次生成提示让 GPT-5.6 Sol Ultra 做出更完整的浣熊盗窃游戏，却仍放过极显眼的视觉故障，说明最终验收不能交给代理自身。"
 source: "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything"
 ---

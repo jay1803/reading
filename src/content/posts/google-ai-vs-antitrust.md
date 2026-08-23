@@ -2,6 +2,7 @@
 title: "Google: AI vs. Antitrust"
 date: 2025-05-06T16:02:40Z
 category: reading
+author: "Kevin Palmer"
 description: "Alphabet 在 AI 大举扩张的同时，正面临有史以来最严峻的反垄断围攻——搜索、广告技术、Play Store 三条战线同时开庭，Chrome 剥离和默认搜索协议禁令已被列为候选方案；但这份 Q1 财报证明，压力尚未在数字上留下任何痕迹。"
 source: "https://www.appeconomyinsights.com/p/google-ai-vs-antitrust"
 ---

@@ -2,6 +2,7 @@
 title: "CrowdStruck"
 date: 2024-07-29T16:12:43Z
 category: reading
+author: "Ed Zitron"
 description: "a complete misalignment in the incentives of most of the major tech companies, which have become less about building new technologies and selling them to peo..."
 source: "https://www.wheresyoured.at/crowdstruck-2/"
 ---

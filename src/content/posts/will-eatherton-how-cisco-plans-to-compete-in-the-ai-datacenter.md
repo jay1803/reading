@@ -2,6 +2,7 @@
 title: "Will Eatherton: How Cisco Plans to Compete in the AI Datacenter"
 date: 2025-10-30T14:52:02Z
 category: reading
+author: "Doug O'Laughlin"
 description: "这篇访谈最重要的结论是：Cisco 在 AI 数据中心里的打法，不是正面复制 NVIDIA/Broadcom 的芯片故事，而是试图用“系统级整合 + 可管理性 + 多样化选择”切入。 换句话说，Cisco 想卖的不是一颗更强的芯片，而是一套对大企业、主权云和部分 hyperscaler 来说更容易部署、管理和扩展..."
 source: "https://www.fabricatedknowledge.com/p/will-eatherton-how-cisco-plans-to"
 ---

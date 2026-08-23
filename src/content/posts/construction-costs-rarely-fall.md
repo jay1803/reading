@@ -2,6 +2,7 @@
 title: "Construction Costs Rarely Fall"
 date: 2026-04-24T08:01:56Z
 category: reading
+author: "Brian Potter"
 description: "这篇文章最重要的结论，不是“建筑成本在涨”，而是建筑业几乎从未像制造业那样，把技术、组织或规模进步稳定传导成更低的实际建造价格。无论看美国 19 世纪末以来的长期指数，还是欧洲、亚洲多国数据，建筑成本大多都与 CPI 同步上涨，甚至更快；这意味着“建筑越来越贵”不是短周期现象，而是一个跨时期、跨国家、跨口径都反复..."
 source: "https://www.construction-physics.com/p/construction-costs-rarely-fall"
 ---

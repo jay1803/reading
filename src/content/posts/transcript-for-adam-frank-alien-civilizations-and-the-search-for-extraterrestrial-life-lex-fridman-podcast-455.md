@@ -2,6 +2,7 @@
 title: "Transcript for Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455"
 date: 2024-12-25T19:06:07Z
 category: reading
+author: "Lex Fridman"
 description: "Here is a summary of the topics discussed in the podcast transcript, \"Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life - Lex Fridman..."
 source: "https://lexfridman.com/adam-frank-transcript/"
 ---

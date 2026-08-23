@@ -2,6 +2,7 @@
 title: "The Cost of Bad Fit Customers: The $1.2M Churn and Burn to Learn Mistake"
 date: 2026-03-12T01:00:53Z
 category: reading
+author: "Lincoln Murphy"
 description: "坏客户不是“交学费”，而是把未来收入、口碑、CAC 效率、估值和融资能力一起拿去烧。文中案例里，3 个明知没有技术适配的客户只带来短暂的 $75k ARR，却在 18 个月内演化成至少 $1.2M 的三年收入损失、约 $2M 的估值损失；若按访谈命中率校正，真实代价可能接近 $4.875M 收入和 $8.125M..."
 source: "http://sixteenventures.com/churn-bad-fit-customer"
 ---

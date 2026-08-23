@@ -2,6 +2,7 @@
 title: "Why Some People Thrive After a Traumatic Childhood (Most Don’t)"
 date: 2026-03-21T08:01:46Z
 category: reading
+author: "Ed Latimore"
 description: "创伤性童年的统计结局是毁灭（97% 的美国囚犯有 ACE，78% 有 4+ 次；普通人群这两个数字是 64% / 15%），但少数幸存者身上出现了稳定成长路径不会自然产生的特质——核心论点不是「苦难让人更强」，而是「一无所有会解除特定的心理锁链」。"
 source: "https://edlatimore.com/benefits-of-traumatic-childhood/"
 ---

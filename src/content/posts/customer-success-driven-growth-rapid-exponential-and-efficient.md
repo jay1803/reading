@@ -2,6 +2,7 @@
 title: "Customer Success-driven Growth: Rapid, Exponential, and Efficient"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "续费（Renewal）和扩购（Expansion）本身是客户成功的组成部分，而不只是\"客户成功之后\"的结果——这个区别让扩购变成客户旅程的内生步骤，而不是靠配额逼出来的销售动作。"
 source: "http://sixteenventures.com/customer-success-driven-growth"
 ---

@@ -2,6 +2,7 @@
 title: "A CrowdStrike deep dive"
 date: 2023-12-28T16:11:03Z
 category: reading
+author: "muji"
 description: "The S-1 in-depth report from Meritech and the latest growth numbers sure got me interested in the upcoming CrowdStrike IPO."
 source: "https://hhhypergrowth.com/a-crowdstrike-deep-dive/"
 ---

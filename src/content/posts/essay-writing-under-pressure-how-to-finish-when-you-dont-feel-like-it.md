@@ -2,6 +2,7 @@
 title: "Essay Writing Under Pressure – How to Finish When You Don't Feel Like It"
 date: 2026-03-03T23:53:57Z
 category: reading
+author: "Ed Latimore"
 description: "意志力对抗不了大脑过载；压力下的写作阻塞本质是计划能力下降，不是懒。唯一有效的对策是把\"开始门槛\"压低到过载大脑也能启动的程度，先有文字再谈质量。"
 source: "https://edlatimore.com/essay-writing-under-pressure/"
 ---

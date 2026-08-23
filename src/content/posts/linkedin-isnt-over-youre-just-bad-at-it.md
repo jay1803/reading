@@ -2,6 +2,7 @@
 title: "LinkedIn isn't over. You're just bad at it."
 date: 2025-07-03T12:28:15Z
 category: reading
+author: "Kate Syuma"
 description: "Kyle Poyar 是 \"Growth Unhinged\" 周刊的作者，他认为 LinkedIn 仍然是当下最好的 B2B 增长渠道。许多人之所以觉得它没有效果，是因为他们没有掌握正确的使用方法。通过分享自己将 LinkedIn 粉丝增长到 9 万以上，并为自己的周刊带来 14,000 名订阅者的经验，他提供了..."
 source: "https://www.growthunhinged.com/p/guide-to-mastering-linkedin"
 ---

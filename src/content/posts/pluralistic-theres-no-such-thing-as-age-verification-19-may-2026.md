@@ -2,6 +2,7 @@
 title: "Pluralistic: There's no such thing as \"age verification\" (19 May 2026)"
 date: 2026-05-21T05:49:55Z
 category: reading
+author: "Cory Doctorow"
 description: "“年龄验证”在开放互联网里并不是一个可独立实现的功能；它实际要求把每次访问、每个数据包、每个用户都绑定到可识别身份，因此必然滑向全网身份基础设施、隐私集中泄露和进一步的规避封锁。"
 source: "https://pluralistic.net/2026/05/19/shes-dead-of-course/"
 ---

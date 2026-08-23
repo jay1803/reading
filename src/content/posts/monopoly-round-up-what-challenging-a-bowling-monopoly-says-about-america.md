@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: What Challenging a Bowling Monopoly Says About America"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Matt Stoller"
 description: "Bowlero 案真正重要的不是“保龄球涨价”，而是私募 roll-up 正在把美国中产社区空间改造成金融化、夜店化、数据化的抽租资产；反垄断诉讼之所以有政治意义，是因为它把“孤独社会”与“市场集中”连接成同一个问题：谁有权控制日常公共生活的基础设施。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-what-challenging"
 ---

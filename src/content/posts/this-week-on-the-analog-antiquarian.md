@@ -2,6 +2,7 @@
 title: "This Week on The Analog Antiquarian"
 date: 2026-06-13T08:01:52Z
 category: reading
+author: "Jimmy Maher"
 description: "莎士比亚写\"亨利六世\"系列四联剧，名义上是历史剧，实质是借都铎王朝崛起的背景向伊丽莎白一世献媚——他选择这一题材绝非偶然，而是1588年西班牙无敌舰队被击败后英国民族主义高涨时的商业嗅觉使然。本文（Jimmy Maher，Analog Antiquarian）通过重建百年战争末期至玫瑰战争起源的真实历史，揭示莎士..."
 source: "https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/"
 ---

@@ -2,6 +2,7 @@
 title: "Prompts are technical debt too"
 date: 2026-05-21T05:49:55Z
 category: reading
+author: "Sean Goedecke"
 description: "精心调教的 agent prompt 不是低成本“配置”，而是一种比代码更容易静默腐烂的技术债：它绑定具体模型版本，升级后可能从增益变成负担，而且退化通常不会报错，只会表现为“模型好像变笨”。"
 source: "https://seangoedecke.com/prompts-are-technical-debt-too/"
 ---

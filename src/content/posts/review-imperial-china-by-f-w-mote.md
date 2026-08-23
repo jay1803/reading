@@ -2,6 +2,7 @@
 title: "REVIEW: Imperial China, by F.W. Mote"
 date: 2025-03-14T19:47:06Z
 category: reading
+author: "John Psmith"
 description: "这篇文章是 John Psmith 对 F.W. Mote 所著的《Imperial China: 900-1800》一书的评论。这本书讲述了从公元 900 年到 1800 年间中国的历史，着重于中国文明与游牧民族之间的冲突与融合。作者通过契丹人和明太祖朱元璋的例子，深入探讨了这一历史时期的复杂性和多样性。"
 source: "https://www.thepsmiths.com/p/review-imperial-china-by-fw-mote"
 ---

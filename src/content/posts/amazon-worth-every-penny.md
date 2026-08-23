@@ -2,6 +2,7 @@
 title: "☁️ Amazon: Worth Every Penny"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Kevin Palmer"
 description: "AWS 本季增速加速至 20%、创近三年新高的同时，Amazon 自由现金流暴跌 69%——这份财报真正的问题不是\"赚多少\"，而是\"资本消耗能否换来未来的垄断位置\"。"
 source: "https://www.appeconomyinsights.com/p/amazon-worth-every-penny"
 ---

@@ -2,6 +2,7 @@
 title: "A Look Back at Q4 '22 Public Cloud Software Earnings"
 date: 2023-04-18T14:50:09Z
 category: reading
+author: "Jamin Ball"
 description: "Author: Clouded Judgement"
 source: "https://cloudedjudgement.substack.com/p/a-look-back-at-q4-22-public-cloud"
 ---

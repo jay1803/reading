@@ -2,6 +2,7 @@
 title: "Prioritize SEO efforts like a pro with THRICE"
 date: 2026-04-17T08:02:24Z
 category: reading
+author: "Eli Schwartz"
 description: "这篇文章真正想解决的不是“SEO 项目怎么排优先级”这类流程问题，而是 SEO 团队如何把有限的工程带宽和组织信任当成政治资本来管理。THRICE 的价值，在于它强迫 SEO 放弃“凡事都重要”的叫卖方式，用时间、协作人数、触达、业务影响、把握度和实施成本，把请求变成可比较的资源分配问题。"
 source: "https://www.productledseo.com/p/prioritize-seo-efforts-like-a-pro"
 ---

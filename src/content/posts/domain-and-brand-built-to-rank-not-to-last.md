@@ -2,6 +2,7 @@
 title: "Domain and Brand: Built to Rank. Not to Last."
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Nick LeRoy"
 description: "AI 搜索把域名与品牌从“流量入口”升级成“可信实体的记忆锚点”：关键词域名仍可能短期获利，但它难以被用户、搜索引擎和 LLM 持续识别、引用、信任；一旦公司迁移域名或改名，损失的不只是排名，还有长期累积的实体信号、历史信任和跨网页一致性。"
 source: "https://www.seoforlunch.com/p/domain-and-brand-built-to-rank-not"
 ---

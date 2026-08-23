@@ -2,6 +2,7 @@
 title: "Tech is Going to Get Much Bigger"
 date: 2023-12-24T17:12:56Z
 category: reading
+author: "Packy McCormick"
 description: "The simple version comes from [Working Harder and Smarter](https://www.notboring.co/p/working-harder-and-smarter), which I wrote last September:"
 source: "https://www.notboring.co/p/tech-is-going-to-get-much-bigger"
 ---

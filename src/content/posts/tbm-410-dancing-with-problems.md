@@ -2,6 +2,7 @@
 title: "TBM 410: Dancing With Problems"
 date: 2026-03-18T08:01:19Z
 category: reading
+author: "John Cutler"
 description: "问题描述在某一层\"说清楚了\"，换一个层次就会重新崩塌——这不是措辞不当，而是问题本身的结构就是多层嵌套的，没有单一层次的表述能同时满足所有维度的诊断需求。"
 source: "https://cutlefish.substack.com/p/tbm-410-dancing-with-problems"
 ---

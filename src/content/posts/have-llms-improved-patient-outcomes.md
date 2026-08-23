@@ -2,6 +2,7 @@
 title: "Have LLMs improved patient outcomes?"
 date: 2026-05-04T08:02:01Z
 category: reading
+author: "Gary Marcus"
 description: "当前通用 LLM 在医疗中的真实临床收益仍未被证明：除行政减负等外围场景外，现有证据还不足以说明它们已经改善患者结局或医生的健康决策质量。"
 source: "https://garymarcus.substack.com/p/have-llms-improved-patient-outcomes"
 ---

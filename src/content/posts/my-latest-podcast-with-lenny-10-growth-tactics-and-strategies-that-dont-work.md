@@ -2,6 +2,7 @@
 title: "My latest podcast with Lenny: 10 Growth Tactics and Strategies That Don’t Work."
 date: 2025-05-26T17:43:57Z
 category: reading
+author: "Elena Verna"
 description: "这篇文章总结了在一次访谈中，Elena Verna 提出的几种常见的、但通常无效的增长策略。核心观点是，增长并非解决所有问题的万能药，它需要建立在坚实的产品基础和正确的时间点上。与其追求快速见效的捷径，如过早组建增长团队、盲目复制竞争对手或依赖付费渠道，公司更应专注于解决根本问题、构建可持续的自有渠道，并明智地运..."
 source: "https://www.elenaverna.com/p/my-latest-podcast-with-lenny-10-growth"
 ---

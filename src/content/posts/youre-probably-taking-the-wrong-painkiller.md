@@ -2,6 +2,7 @@
 title: "You’re probably taking the wrong painkiller"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "dynomight"
 description: "从文章论证看，最反直觉的结论是：对多数人在多数普通场景里，按说明服用的 acetaminophen / paracetamol / Tylenol 往往比 ibuprofen 更安全；“过量更容易致死”和“正常使用总体更安全”可以同时成立，因为前者是阈值型肝毒性风险，后者是常规剂量下的胃、心血管、肾脏系统性风险。"
 source: "https://dynomight.net/painkillers/"
 ---

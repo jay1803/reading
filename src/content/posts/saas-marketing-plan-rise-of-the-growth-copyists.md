@@ -2,6 +2,7 @@
 title: "SaaS Marketing Plan: Rise of the Growth Copyists?"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "复制最成功的那批 SaaS 公司的策略，恰恰是让你永远追不上他们的原因——被广泛模仿本身就证明它们已经移步到下一个打法了。"
 source: "http://sixteenventures.com/saas-marketing-plan-growth-copyists?utm_source=rss&utm_medium=rss&utm_campaign=saas-marketing-plan-growth-copyists"
 ---

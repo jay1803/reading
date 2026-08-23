@@ -2,6 +2,7 @@
 title: "Profiling: The onboarding step that transforms your growth efforts"
 date: 2025-05-26T17:39:18Z
 category: reading
+author: "Elena Verna"
 description: "B2B产品在用户引导流程中加入用户画像问题，不仅不会显著降低激活率，反而能通过个性化体验提升用户激活效果，并为整个用户生命周期和增长策略提供深远价值。"
 source: "https://www.elenaverna.com/p/profiling-the-onboarding-step-that"
 ---

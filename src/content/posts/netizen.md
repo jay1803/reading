@@ -2,6 +2,7 @@
 title: "Netizen"
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "Derek Sivers"
 description: "早期互联网的核心不是内容消费或商业化，而是“公共空间维护”：贡献知识、修补缺口、让陌生人更容易解决问题。Derek Sivers 把自己不急于把一切变现的习惯，解释为被 1993 年互联网文化塑形后的长期身份。"
 source: "https://sive.rs/netizen"
 ---

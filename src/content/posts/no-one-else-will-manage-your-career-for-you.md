@@ -2,6 +2,7 @@
 title: "No one else will manage your career for you."
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Jean Hsu"
 description: "后 ZIRP 时代，EM 的价值无法靠\"努力照顾团队\"来证明——必须可量化地作为 force multiplier 存在，否则默认被视为 overhead。"
 source: "https://jeanhsu.substack.com/p/no-one-else-will-manage-your-career"
 ---

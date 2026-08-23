@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.20.25 - The Dropping Cost of Intelligence"
 date: 2025-06-23T10:27:35Z
 category: reading
+author: "Jamin Ball"
 description: "o‑series 推理价格在数月内下调约 87%，显示“智能的边际成本 → 近零”的趋势；由此带来创作与生产的成本坍缩，会在更短时间尺度内触发更剧烈的“创造性毁灭”，净效应更可能是新增工作与更大经济蛋糕，但过渡期的再培训与分配压力将更集中、更急迫。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-61925-the-dropping"
 ---

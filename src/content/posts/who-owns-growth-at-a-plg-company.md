@@ -2,6 +2,7 @@
 title: "Who owns \"growth\" at a PLG company?"
 date: 2025-05-21T19:56:58Z
 category: reading
+author: "Kate Syuma"
 description: "在 PLG 公司，\"增长\"之所以三个团队都能声称拥有它，恰恰说明它不属于任何人——正确的做法是把增长旅程拆成三段，分别由 Product、Marketing、Growth 各自 own 明确的那一段，而不是争夺\"增长\"这个标签。"
 source: "https://www.growthunhinged.com/p/who-owns-growth-plg"
 ---

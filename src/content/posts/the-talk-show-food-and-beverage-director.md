@@ -2,6 +2,7 @@
 title: "The Talk Show: ‘Food and Beverage Director’"
 date: 2026-05-02T08:02:51Z
 category: reading
+author: "John Gruber"
 description: "John Gruber 是 Daring Fireball 与 The Talk Show 主持人，长期跟踪 Apple 内部文化、产品发布与高管叙事。MG Siegler 是科技写作者，当前写 Spyglass.org，也每月参与 Alex Kantrowitz 的 Big Technology podcast..."
 source: "https://daringfireball.net/thetalkshow/2026/04/30/ep-446"
 ---

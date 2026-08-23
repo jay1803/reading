@@ -2,6 +2,7 @@
 title: "What Loom & Klaviyo Indicate about Exit Valuations"
 date: 2023-10-17T16:03:41Z
 category: reading
+author: "Tomasz Tunguz"
 description: "| Company | Last Round Post, $b | Current Value, $b | Change |"
 source: "https://tomtunguz.com/initial-exits-2023/"
 ---

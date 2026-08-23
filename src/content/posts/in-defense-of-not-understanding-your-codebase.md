@@ -2,6 +2,7 @@
 title: "In defense of not understanding your codebase"
 date: 2026-07-12T08:02:55Z
 category: reading
+author: "Sean Goedecke"
 description: "Naur 1985 年的论文 /Programming as Theory Building/ 主张：程序员最核心的产出不是代码，而是对代码的心智模型（\"theory\"）；团队换血后，心智模型消失，最好推倒重建。在小代码库时代或许成立，但在现代大型系统中是错的。"
 source: "https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/"
 ---

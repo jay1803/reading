@@ -2,6 +2,7 @@
 title: "Tracking the history of the now-deceased OpenAI Microsoft AGI clause"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Simon Willison"
 description: "OpenAI 和 Microsoft 的 AGI 条款之所以“死了”，不是因为 AGI 被重新定义清楚了，而是因为双方把原本依赖 AGI 触发的商业权利，改写成了固定年份、非独家授权、收入分成上限这类普通合同机制；AGI 从合作关系里的“终止开关”，退化成了不再决定核心经济权利的概念。"
 source: "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything"
 ---

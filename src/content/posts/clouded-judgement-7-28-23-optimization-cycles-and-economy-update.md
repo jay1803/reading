@@ -2,6 +2,7 @@
 title: "Clouded Judgement 7.28.23 - Optimization Cycles and Economy Update"
 date: 2023-07-29T00:27:02Z
 category: reading
+author: "Jamin Ball"
 description: "Azure guided to 25-26% growth in constant currency, so they expect even less deceleration in the upcoming quarter (but remember, Q3 ‘22 was when the optimiza..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-72823-optimization"
 ---

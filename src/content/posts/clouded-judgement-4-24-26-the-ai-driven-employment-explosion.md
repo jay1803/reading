@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.24.26 - The AI-Driven Employment Explosion"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Jamin Ball"
 description: "AI 对就业的最大影响，可能先体现在劳动市场的单位经济：把写代码、检索、起草、读片这类高频任务压缩得更便宜，从而释放原本被供给约束的软件、法律、医疗影像等需求。作者的乐观论成立条件很清楚：被自动化的任务必须属于需求弹性很大的工作流；只要新增需求能吸收效率提升，总岗位可能扩张。在公开 SaaS 市场部分，增长稀缺性..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-42426-the-ai-driven"
 ---

@@ -2,6 +2,7 @@
 title: "Principles of Economics Made Clear (Part 2)"
 date: 2025-11-04T11:14:00Z
 category: reading
+author: "Nick M"
 description: "竞争市场的终点是零经济利润——价格等于最低平均总成本，是效率极限；但垄断通过向下倾斜的需求曲线永久维持 P>MC，代价是全社会的死权重损失。同一条 MR=MC 规则，因市场结构不同产生截然不同的结果。"
 source: "https://photonlines.substack.com/p/principles-of-economics-made-clear-18b"
 ---

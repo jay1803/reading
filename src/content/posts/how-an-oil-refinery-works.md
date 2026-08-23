@@ -2,6 +2,7 @@
 title: "How an Oil Refinery Works"
 date: 2026-05-01T08:02:01Z
 category: reading
+author: "Brian Potter"
 description: "炼油厂的真正壁垒不在单个化学过程有多神秘，而在把每天上亿桶、成分极度混杂的石油稳定拆分、改造、储存、调度成现代社会可用产品的工业规模。蒸馏、裂化、重整、加氢等步骤概念上并不难，难的是在城市级设施里以百万加仑储罐和数十万桶/日吞吐量连续运行。"
 source: "https://www.construction-physics.com/p/how-an-oil-refinery-works"
 ---

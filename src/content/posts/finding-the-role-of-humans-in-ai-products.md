@@ -2,6 +2,7 @@
 title: "Finding the Role of Humans in AI Products"
 date: 2026-03-18T08:01:19Z
 category: reading
+author: "Luke Wroblewski"
 description: "随着 AI 从模型、聊天、智能体演进到多层编排，设计问题从「人如何使用 AI」变成了「人坐在哪一层」——而能有效坐在越高层的人，现实中极少存在。"
 source: "https://www.lukew.com/ff/entry.asp?2144"
 ---

@@ -2,6 +2,7 @@
 title: "Schlep Blindness"
 date: 2023-08-14T13:45:34Z
 category: reading
+author: "Paul Graham"
 description: "There are great startup ideas lying around unexploited right under our noses. One reason we don't see them is a phenomenon I call schlep blindness."
 source: "http://www.paulgraham.com/schlep.html"
 ---

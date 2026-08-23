@@ -2,6 +2,7 @@
 title: "Everyone is writing a pricing page for robots 💳"
 date: 2026-06-30T08:04:46Z
 category: reading
+author: "Tom Orbach"
 description: "AI 代理在推荐或采购产品时，会直接读取定价页面。但标准定价页面是给人类设计的——价格藏在 JavaScript 里，机器人读不到，就直接跳过。解法极简：在 =yoursite.com/pricing.md= 放一个机器可读的纯文本版本。"
 source: "https://www.marketingideas.com/p/everyone-is-writing-a-pricing-page"
 ---

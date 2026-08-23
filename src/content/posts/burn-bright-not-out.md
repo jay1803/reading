@@ -2,6 +2,7 @@
 title: "Burn Bright, Not Out"
 date: 2026-05-02T08:02:52Z
 category: reading
+author: "Brad Feld"
 description: "创始人心理健康问题的核心障碍不是缺少道理，而是羞耻感、沉默和低可及性的帮助；Brad Feld 这篇短文把倡议压缩成一个可执行机制：用小额、无复杂流程、可匹配放大的资金，把“应该求助”变成“现在就能获得四次治疗”。"
 source: "https://feld.com/archives/2026/05/burn-bright-not-out/"
 ---

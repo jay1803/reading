@@ -2,6 +2,7 @@
 title: "NVIDIA Surges Despite China"
 date: 2025-06-18T22:06:18Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇的核心不是“NVDA 又超预期”这么简单，而是一个更关键的组合："
 source: "https://www.appeconomyinsights.com/p/nvidia-surges-despite-china"
 ---

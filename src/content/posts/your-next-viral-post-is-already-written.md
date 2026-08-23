@@ -2,6 +2,7 @@
 title: "Your next viral post is already written 🏄"
 date: 2026-07-07T08:02:31Z
 category: reading
+author: "Tom Orbach"
 description: "爆款帖子的底层逻辑是格式复制加事件嫁接：找一个已经引爆的公众愤怒或话题，用现成的段子框架套进自己的品牌，两小时内发出去。本文梳理了当前 feed 里最高频的三种格式。"
 source: "https://www.marketingideas.com/p/your-perfect-viral-post-is-here"
 ---

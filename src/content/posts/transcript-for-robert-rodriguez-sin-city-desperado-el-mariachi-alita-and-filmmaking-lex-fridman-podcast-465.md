@@ -2,6 +2,7 @@
 title: "Transcript for Robert Rodriguez: Sin City, Desperado, El Mariachi, Alita, and Filmmaking | Lex Fridman Podcast #465"
 date: 2025-04-21T11:25:15Z
 category: reading
+author: "Lex Fridman"
 description: "这篇访谈记录了传奇独立电影制作人 Robert Rodriguez 的经历和理念。他分享了自己从 7000 美元制作《El Mariachi》起步的历程，强调了创造力、足智多谋、从失败中学习、拥抱局限性以及积极心态（身份认同、显化、日志记录）的重要性。他还讨论了与 Quentin Tarantino、James..."
 source: "https://lexfridman.com/robert-rodriguez-transcript/"
 ---

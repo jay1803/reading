@@ -2,6 +2,7 @@
 title: "Quoting Julia Evans"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Simon Willison"
 description: "Julia Evans 的写作原则：脑子里不放抽象的\"读者\"，只放一个具体的人。通常是\"三年前的自己\"或一个朋友。"
 source: "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything"
 ---

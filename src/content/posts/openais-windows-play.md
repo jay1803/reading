@@ -2,6 +2,7 @@
 title: "OpenAI’s Windows Play"
 date: 2025-10-09T15:57:55Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章的核心判断很清楚：OpenAI 正在试图成为 AI 时代的 Windows，而不是下一个单点模型公司。 它的目标不是只卖模型能力，而是占据整条 AI 栈里最关键的“用户入口 + 开发者平台 + 生态协调者”位置，让其他公司都围绕它组织起来。"
 source: "https://stratechery.com/2025/openais-windows-play/"
 ---

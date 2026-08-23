@@ -2,6 +2,7 @@
 title: "Pluralistic: Firing the refs doesn't end the game (12 Mar 2025)"
 date: 2025-03-13T09:06:01Z
 category: reading
+author: "Cory Doctorow"
 description: "本文是 Cory Doctorow 的一篇博客文章，主要讨论了在面对复杂且关乎生死的技术问题时，普通人由于缺乏专业知识而无法自行判断，只能依赖专家和监管机构。然而，由于监管机构的失职和腐败（例如阿片类药物危机），以及政治上的阴谋论，导致人们对专家和权威机构的不信任，进而陷入认知空虚。作者认为，要解决这个问题，需要..."
 source: "https://pluralistic.net/2025/03/12/epistemological-void/"
 ---

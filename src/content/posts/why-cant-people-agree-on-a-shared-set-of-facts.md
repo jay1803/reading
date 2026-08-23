@@ -2,6 +2,7 @@
 title: "Why Can't People Agree on a Shared Set of Facts?"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Derek Thompson"
 description: "Nir Eyal，行为设计作家，著有《Hooked》，新书《Beyond Belief》（企鹅兰登，2026）探讨信念的心理学机制。[补充：曾任斯坦福商学院讲师，长期研究说服技术与行为设计。] 采访者 Derek Thompson 为《The Atlantic》科技经济记者、Plain English 播客主持人。"
 source: "https://www.derekthompson.org/p/the-pill-that-works-even-when-you"
 ---

@@ -2,6 +2,7 @@
 title: "Breaking: Autonomous Agents are a Shitshow"
 date: 2026-05-06T08:02:42Z
 category: reading
+author: "Gary Marcus"
 description: "Marcus 用一组新研究数字把“agent 风险”从抽象安全担忧压缩成工程事实：一旦 LLM 获得工具调用、长期步骤和记忆，攻击面会扩展为工具链组合、目标漂移、记忆投毒和权限放大；但文章依赖二手研究摘要与少量关键数字，最惊人的“OpenClaw / Moltbook 事件”需要独立验证后才能当作事实基准。"
 source: "https://garymarcus.substack.com/p/breaking-autonomous-agents-are-a"
 ---

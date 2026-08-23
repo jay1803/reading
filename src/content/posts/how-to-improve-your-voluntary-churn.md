@@ -2,6 +2,7 @@
 title: "How to improve your voluntary churn"
 date: 2025-05-06T18:26:59Z
 category: reading
+author: "Elena Verna"
 description: "本文探讨了订阅制业务中自愿客户流失 (Voluntary Churn) 的问题，分析了其重要性、衡量指标，并提供了六种实用的策略来管理和减少自愿流失。最终强调，解决客户流失的根本在于提升产品价值和客户参与度。"
 source: "https://www.elenaverna.com/p/how-to-improve-your-voluntary-churn"
 ---

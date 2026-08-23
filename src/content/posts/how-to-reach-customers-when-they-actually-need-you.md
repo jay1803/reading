@@ -2,6 +2,7 @@
 title: "How to reach customers when they actually NEED you 🎯"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Tom Orbach"
 description: "最好的曝光时机不是你想要曝光的时刻，而是用户已经卡住、已经在主动找解决方案的那一刻。Anthropic 竞价开发者报错信息，是这个逻辑的极端实现——低竞争、高意图、极精准。"
 source: "https://www.marketingideas.com/p/a-001-google-ads-trick-that-actually"
 ---

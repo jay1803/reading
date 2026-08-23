@@ -2,6 +2,7 @@
 title: "Customer Onboarding: AHA! or WTF?"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "新客户在 onboarding 中靠自己乱逛后才发现关键价值，感受往往不是惊喜，而是“为什么没人早点带我到这里”。这类体验会把浪费时间、方向不明和被放任感绑定到产品上，在关系最脆弱的时候种下流失和扩张放缓的种子。真正有效的 onboarding 要把用户尽快带到与其目标直接相关的价值点；只有当“受控探索”本身就是..."
 source: "https://sixteenventures.com/customer-onboarding-aha-wtf"
 ---

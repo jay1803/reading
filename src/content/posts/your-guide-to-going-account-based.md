@@ -2,6 +2,7 @@
 title: "Your guide to going account-based"
 date: 2024-09-02T16:15:23Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章主要探讨了在资源有限的情况下，使用基于账户的策略（Account-Based Strategy）来提高市场营销和销售效果。文章认为传统的需求生成（Demand Gen）方法存在缺陷，而基于账户的方法能够更有效地专注于有潜力的客户，从而更成功地实现商业目标。"
 source: "https://www.growthunhinged.com/p/your-guide-to-going-account-based"
 ---

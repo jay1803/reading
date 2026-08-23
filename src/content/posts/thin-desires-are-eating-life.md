@@ -2,6 +2,7 @@
 title: "Thin desires are eating life"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Joan Westenberg"
 description: "消费科技的商业模式本质是一台\"欲望稀释机\"：它识别出那些能让人真正成长的厚望，把其中产生神经奖励的部分单独抽出来大规模兜售——你得到了感觉，但失去了被感觉改变的过程。"
 source: "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/"
 ---

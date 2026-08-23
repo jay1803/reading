@@ -2,6 +2,7 @@
 title: "The Goldilocks Principle in Fantasy Strategy"
 date: 2026-06-20T08:03:54Z
 category: reading
+author: "Jimmy Maher"
 description: "作者用金发姑娘框架评测1990年代末三款回合制奇幻策略游戏，以Heroes of Might and Magic II/III为基准。结论：Warlords III战术层太少（无法控制），Age of Wonders战术层太多（破坏流程），Disciples: Sacred Lands恰好——把战术极简化反而把有..."
 source: "https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/"
 ---

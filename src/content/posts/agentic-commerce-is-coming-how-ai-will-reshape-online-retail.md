@@ -2,6 +2,7 @@
 title: "Agentic Commerce is Coming: How AI Will Reshape Online Retail"
 date: 2025-06-18T22:09:26Z
 category: reading
+author: "Tanay Jaipuria"
 description: "AI 接管购物漏斗的每一环（发现→比价→谈判→下单），不只是 UX 升级——它让整套现有基础设施的前提假设（买家是人类）失效，从商品目录格式到支付管道到售后支持，都需要从底层重建。"
 source: "https://www.tanayj.com/p/agentic-commerce-is-coming-how-ai"
 ---

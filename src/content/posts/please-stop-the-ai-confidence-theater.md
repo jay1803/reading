@@ -2,6 +2,7 @@
 title: "Please stop the AI Confidence Theater"
 date: 2026-07-03T08:02:22Z
 category: reading
+author: "Elena Verna"
 description: "AI炒作最直接的损伤不是噪音，是它设定了虚假基准：当周围每个人都宣称AI彻底改变了自己的工作，用AI总结会议记录就变成令人尴尬的基础操作，没人再去庆祝真正节省了15分钟的实际成果。结果：被过度承诺伤害了信任的人停止尝试，而努力尝试AI的人反而觉得自己落后。"
 source: "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
 ---

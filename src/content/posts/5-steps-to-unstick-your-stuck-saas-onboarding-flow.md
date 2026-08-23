@@ -2,6 +2,7 @@
 title: "5 Steps to Unstick Your Stuck SaaS Onboarding Flow"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "一个屏幕导致 90% 的 free trial 用户永久离开——正确的解法不是立刻重构，而是先系统问人，再动代码。跳过情报收集直接改 UI 的团队，大多在精确地解决自己想象中的问题。"
 source: "http://sixteenventures.com/onboarding-flow-unstuck?utm_source=rss&utm_medium=rss&utm_campaign=onboarding-flow-unstuck"
 ---

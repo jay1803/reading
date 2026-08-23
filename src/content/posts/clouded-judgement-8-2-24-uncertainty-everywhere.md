@@ -2,6 +2,7 @@
 title: "Clouded Judgement 8.2.24 - Uncertainty Everywhere"
 date: 2024-09-02T15:54:52Z
 category: reading
+author: "Jamin Ball"
 description: "科技行业面临多重不确定性导致云软件公司估值承压：国债收益率下降与传统估值模型的逆相关失效；消费者在家庭消费品领域开支剧烈收缩；欧洲市场疲软和宏观经济风险加剧。同时头部云服务商持续加大AI基础设施投入布局未来增长点。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-8224-uncertainty"
 ---

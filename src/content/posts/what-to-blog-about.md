@@ -2,6 +2,7 @@
 title: "What to blog about"
 date: 2022-11-11T13:03:02Z
 category: reading
+author: "Simon Willison"
 description: "文章建议大家应该开始写博客。有两种类型的博客内容特别适合开始写作：TIL（Today I Learned）和你所构建的项目。TIL 记录你学到的新东西，而项目描述则记录你构建的内容。这两种形式都能帮助你克服写作的心理障碍，并从你的学习和创造中获得价值。"
 source: "https://simonwillison.net/2022/Nov/6/what-to-blog-about/"
 ---

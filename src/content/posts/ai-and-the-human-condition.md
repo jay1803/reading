@@ -2,6 +2,7 @@
 title: "AI and the Human Condition"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Ben Thompson"
 description: "Patel & Trammell 的不平等论证内嵌了一个自我击败的逻辑：如果你假设人类的嫉妒和相对比较本能在 AI 丰裕时代会保留，那你就必须同时承认人类对人类劳动与连接的偏好也会保留——两者不能只取其一。"
 source: "https://stratechery.com/2026/ai-and-the-human-condition/"
 ---

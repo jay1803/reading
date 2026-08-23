@@ -2,6 +2,7 @@
 title: "Being creative requires taking risks"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Henrik Karlsson"
 description: "避免创意枯竭的代价不是\"多读书、多写作\"，而是反复主动摧毁自己已经成功的模式——即使这意味着放弃真实的收入和声誉。"
 source: "https://www.henrikkarlsson.xyz/p/being-creative-requires-taking-risks"
 ---

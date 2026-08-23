@@ -2,6 +2,7 @@
 title: "Public Comps: Contextualizing SaaS Markets"
 date: 2023-10-16T14:26:00Z
 category: reading
+author: "Eric Flaningam"
 description: "B2B SaaS EV/NTMs Revenue Valuation Multiples (as of 2/27):"
 source: "https://blog.publiccomps.com/saas-quantitative-tightening/"
 ---

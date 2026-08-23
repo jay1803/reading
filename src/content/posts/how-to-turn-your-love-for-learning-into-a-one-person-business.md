@@ -2,6 +2,7 @@
 title: "How to turn your love for learning into a one-person business"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Dan Koe"
 description: "热爱学习可以成为一人业务的原材料：持续研究提供观点差异，内容把观点变成分发，产品把帮助他人完成转变的步骤固化成系统。"
 source: "https://letters.thedankoe.com/p/how-to-turn-your-love-for-learning"
 ---

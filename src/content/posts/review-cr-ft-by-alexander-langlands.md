@@ -2,6 +2,7 @@
 title: "REVIEW: Cræft, by Alexander Langlands"
 date: 2025-03-26T12:56:21Z
 category: reading
+author: "John Psmith"
 description: "这篇书评借 Langlands 的 “cræft” 把“手艺”重新定义为一种在稀缺约束下调动身体、技能、判断与品格去改造世界的能力。文章真正关心的是另一件事：工业化曾让多数人失去物质层面的 cræft，AI 正在以同样方式让人失去认知层面的 cræft；效率收益真实存在，但如果把写作、思考、表达、判断全外包，人会..."
 source: "https://www.thepsmiths.com/p/review-crft-by-alexander-langlands"
 ---

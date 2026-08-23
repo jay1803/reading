@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.16.23 - Growth Adjusted Software Multiples"
 date: 2023-06-20T19:32:24Z
 category: reading
+author: "Jamin Ball"
 description: "本文分析了云软件公司的增长调整估值倍数，并探讨了当前市场环境对软件公司估值的影响。作者对比了过去十年的数据，并指出当前的增长预期处于历史低点，而长期利率则高于过去平均水平。市场预计未来增长和利率可能会成为软件公司估值的有利因素。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-61623-growth-adjusted"
 ---

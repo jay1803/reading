@@ -2,6 +2,7 @@
 title: "Weekly Dose of Optimism #133"
 date: 2025-03-14T19:23:36Z
 category: reading
+author: "Packy McCormick"
 description: "本周的《乐观剂量》充满了各种领域的突破性进展。mRNA 癌症疫苗在胰腺癌治疗中显示出长期疗效；基因疗法 DB-OTO 在儿童中恢复了听力；Loyal 公司的犬类长寿药物 LOY-002 获得了 FDA 的初步有效性认可；Arc Institute 推出了包含超过 3 亿个细胞数据的虚拟细胞图谱；Apple 承诺未..."
 source: "https://www.notboring.co/p/weekly-dose-of-optimism-133"
 ---

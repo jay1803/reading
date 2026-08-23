@@ -2,6 +2,7 @@
 title: "TBM 402: The Real-World Journey to Value and Product-Centricity"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "John Cutler"
 description: "产品化转型的真正瓶颈不是心态，而是架构与组织独立性——在团队无法真正独立交付之前，任何 OKR 或 outcome-oriented 框架都是贴在旧结构上的标签，无法推动真实改变。"
 source: "https://cutlefish.substack.com/p/tbm-402-the-real-world-journey-to"
 ---

@@ -2,6 +2,7 @@
 title: "Tread carefully, because you tread on my fucks."
 date: 2026-03-26T08:01:07Z
 category: reading
+author: "Joan Westenberg"
 description: "道德关注是生物预算，不是意志问题——任何通过社会压力要求你扩容的人，都在用错误的杠杆。"
 source: "https://www.joanwestenberg.com/tread-carefully-because-you-tread-on-my-fucks/"
 ---

@@ -2,6 +2,7 @@
 title: "Inside a high velocity sales-assisted GTM motion"
 date: 2025-05-19T17:53:02Z
 category: reading
+author: "Kate Syuma"
 description: "SMB SaaS 每 AE 每月关单 30 笔 + GRR 95% + NRR 140%，这个组合违反了 SMB 销售的基本直觉。Pylon 做到的方式：把 Slack 频道变成销售流程本身，把所有会议开销转移到异步自动化，让 AE 只做人类判断力不可替代的部分。"
 source: "https://www.growthunhinged.com/p/pylon-growth-story"
 ---

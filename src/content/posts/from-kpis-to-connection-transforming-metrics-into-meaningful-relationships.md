@@ -2,6 +2,7 @@
 title: "From KPIs to Connection: Transforming Metrics Into Meaningful Relationships"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "指标本身没有意义；只有把客户级 KPI 与用户级 KPI 放在客户自身目标的上下文中解读，指标才能驱动决策，而非制造虚假的方向感。"
 source: "https://sixteenventures.com/metrics-to-meaning"
 ---

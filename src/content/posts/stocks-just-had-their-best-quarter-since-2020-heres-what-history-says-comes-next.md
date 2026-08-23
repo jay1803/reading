@@ -2,6 +2,7 @@
 title: "💥 Stocks Just Had Their Best Quarter Since 2020 (Here's What History Says Comes Next)"
 date: 2026-07-09T08:01:56Z
 category: reading
+author: "Andrew Lokenauth"
 description: "标普500年内涨15%、纳指涨21%，费城半导体指数单季涨87.8%（1994年以来最大季度涨幅，超过2000年的67.8%）。但Fear & Greed指数仅32（恐慌区），AAII散户调查中悲观派连续21周高于历史均值，消费者信心指数44.8处于有史以来最低点。"
 source: "https://www.thefinancenewsletter.com/p/ai-stock-bubble-warning-market-crash"
 ---

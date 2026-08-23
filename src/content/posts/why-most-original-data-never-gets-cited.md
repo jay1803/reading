@@ -2,6 +2,7 @@
 title: "Why most original data never gets cited"
 date: 2026-08-15T01:47:00Z
 category: reading
+author: "Kevin Indig"
 description: "AI 引用原创数据的密度是非原创页面的 3.3 倍，但这个优势几乎全部来自一种格式：对买家问题给出可测量比较结果的 benchmark——拥有一手数据不是护城河，包装成 benchmark 才是。"
 source: "https://www.growth-memo.com/p/why-most-original-data-never-gets"
 ---

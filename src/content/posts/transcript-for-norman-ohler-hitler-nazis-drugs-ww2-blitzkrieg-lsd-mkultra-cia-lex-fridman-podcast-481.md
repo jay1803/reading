@@ -2,6 +2,7 @@
 title: "Transcript for Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA | Lex Fridman Podcast #481"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Lex Fridman"
 description: "围绕二战德国的药物使用进行全景式梳理：社会与意识形态背景决定了药物态度；Temmler 将 methamphetamine 商品化为 Pervitin 并通过“兴奋剂令”配给部队，助推法国外战中“昼夜不歇”的机动；但战术突破首先来自阿登路线的作战构想而非药物本身。希特勒个人并非“嗑药上的 Blitzkrieg”，..."
 source: "https://lexfridman.com/norman-ohler-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=norman-ohler-transcript"
 ---

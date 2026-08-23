@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: How Wall Street Tried Replacing the Civil Rights Movement With Human Resources"
 date: 2026-06-23T08:02:03Z
 category: reading
+author: "Matt Stoller"
 description: "民权运动的最大历史失误：它的执法机制被外包给了企业人力资源部门，而不是建立真正的监管机构（像 SEC、EPA 那样）。Frank Dobbin 的研究《发明平等机会》记录了这一过程——1964 年《民权法案》通过后，法官在判案时以\"最权威企业 HR 实践\"为先例，人力资源部门由此成为民权法律的事实诠释者。同期，去..."
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-how-wall-street"
 ---

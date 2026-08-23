@@ -2,6 +2,7 @@
 title: "The Coming Wave: Post-Quantum Cryptography and the Future of Cybersecurity"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Eric Flaningam"
 description: "\"Harvest now, decrypt later\" 攻击让量子威胁已经是当下问题——对手今天收集的加密数据，将在量子计算机成熟后被解密，迟迟不迁移到后量子密码（PQC）等于把现在的数据变成未来的数据泄露。"
 source: "https://blog.publiccomps.com/the-coming-wave-post-quantum-cryptography-and-the-future-of-cybersecurity/"
 ---

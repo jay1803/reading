@@ -2,6 +2,7 @@
 title: "Cerebras S-1 Breakdown"
 date: 2024-10-22T15:40:18Z
 category: reading
+author: "Tanay Jaipuria"
 description: "chip maker Cerebras recently filed their S-1."
 source: "https://www.tanayj.com/p/cerebras-s-1-breakdown"
 ---

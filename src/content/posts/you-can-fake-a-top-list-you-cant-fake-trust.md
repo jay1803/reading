@@ -2,6 +2,7 @@
 title: "You Can Fake a \"Top list\". You Can’t Fake Trust"
 date: 2026-05-06T08:02:42Z
 category: reading
+author: "Nick LeRoy"
 description: "核心判断：AI 搜索时代可以伪造“榜单存在感”，但很难伪造第三方信任。自建榜单能短期向 LLM 输入重复信号；真正会进入 Slack 讨论、采购短名单和内部 deck 的，是别人主动把你放进可信语境里的 earned mention。"
 source: "https://www.seoforlunch.com/p/mom-love"
 ---

@@ -2,6 +2,7 @@
 title: "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452"
 date: 2024-11-25T14:50:40Z
 category: reading
+author: "Lex Fridman"
 description: "以下是Lex Fridman播客与Anthropic首席执行官Dario Amodei访谈记录中讨论的主要主题总结："
 source: "https://lexfridman.com/dario-amodei-transcript/"
 ---

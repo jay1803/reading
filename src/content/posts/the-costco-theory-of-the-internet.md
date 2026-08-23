@@ -2,6 +2,7 @@
 title: "The Costco theory of the internet"
 date: 2026-05-29T08:01:14Z
 category: reading
+author: "Joan Westenberg"
 description: "互联网下一阶段的稀缺品会从“可访问的一切”转向“可信的排除机制”。Westenberg 用 Costco 做类比：真正有价值的数字产品、媒体、社区、软件和市场，不再靠无限供给证明自己，而靠提前替用户拒绝垃圾、吸收筛选成本、维持一个更高的质量底线。用户买的不是理论上的最优选择，而是“我不用再防御性地检查一切”的心理减负。"
 source: "https://www.joanwestenberg.com/the-costco-theory-of-the-internet/"
 ---

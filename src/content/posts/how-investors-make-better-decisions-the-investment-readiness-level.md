@@ -2,6 +2,7 @@
 title: "How Investors Make Better Decisions: The Investment Readiness Level"
 date: 2023-04-17T20:08:27Z
 category: reading
+author: "Steve Blank"
 description: "Author: Steve Blank"
 source: "https://steveblank.com/2014/07/01/how-investors-make-better-decisions-the-investment-readiness-level/"
 ---

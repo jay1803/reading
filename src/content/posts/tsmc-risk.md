@@ -2,6 +2,7 @@
 title: "TSMC Risk"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Ben Thompson"
 description: "TSMC 的风险不是台海，而是它合理的 CapEx 保守主义正在把风险转移给超大规模云商——后者已因芯片短缺损失了数百亿潜在收入，且这个缺口在 2028 年前不会消失。"
 source: "https://stratechery.com/2026/tsmc-risk/"
 ---

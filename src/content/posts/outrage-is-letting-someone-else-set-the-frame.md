@@ -2,6 +2,7 @@
 title: "Outrage is letting someone else set the frame"
 date: 2026-05-06T08:02:42Z
 category: reading
+author: "Joan Westenberg"
 description: "愤怒不是自主判断的开端，而是他人成功设定议程后的结算动作：你以为自己在表达立场，平台却在把你的反应变成留存、训练数据和广告库存。"
 source: "https://www.joanwestenberg.com/outrag/"
 ---

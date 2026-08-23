@@ -2,6 +2,7 @@
 title: "🔎 Google's NVIDIA Moment?"
 date: 2025-10-30T14:52:28Z
 category: reading
+author: "Kevin Palmer"
 description: "Anthropic 与 Google 签下多年 TPU 超大规模算力协议（最多 100 万块 TPU，1 GW 算力，\"数百亿美元\"规模），标志着 Google 自研芯片首次由外部 AI 实验室大规模部署——这是 TPU 从 Google 内部工具变成外部算力平台的转折点，Alphabet 正在复刻 NVIDIA..."
 source: "https://www.appeconomyinsights.com/p/googles-nvidia-moment"
 ---

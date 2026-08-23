@@ -2,6 +2,7 @@
 title: "I went on the Built for Turbulence podcast"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Martin Alderson"
 description: "Martin Alderson 是英国工程负责人、Catchmetrics 联合创始人，做过 20 年企业软件交付，并在 martinalderson.com 写 AI、软件工程与商业经济交叉分析。主持人 Pascal Finette 强调他的稀缺性在于：既实际用 agents 和 LLMs 构建产品，又能把技术..."
 source: "https://martinalderson.com/posts/built-for-turbulence-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

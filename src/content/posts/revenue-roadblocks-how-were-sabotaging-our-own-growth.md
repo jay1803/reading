@@ -2,6 +2,7 @@
 title: "Revenue Roadblocks: How We're Sabotaging Our Own Growth"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "SaaS 公司在客户想扩容时强制他们经过销售团队，客户宁可共享账号、轮换用户许可，也不愿打那个电话——最终你丢的不只是摩擦感，而是六个月的扩张收入。"
 source: "https://sixteenventures.com/revenue-roadblocks"
 ---

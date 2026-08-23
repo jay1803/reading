@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.13.25 - The Battle for Data Ownership"
 date: 2025-06-18T21:47:09Z
 category: reading
+author: "Jamin Ball"
 description: "这期聚焦“数据所有权之战”：没有数据战略就没有 AI 战略。当 Slack 通过条款与 API 节流/权限调整限制数据导出、索引与第三方存储时，企业才发现“以为属于自己的数据”可能被锁在应用里。若更多系统（ServiceNow/Workday/Salesforce/Datadog）效仿，闭环平台或以“自有代理”之..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-61325-the-battle"
 ---

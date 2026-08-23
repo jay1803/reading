@@ -2,6 +2,7 @@
 title: "The Pre-Training Wall and the Treadmill After It"
 date: 2026-05-10T08:01:04Z
 category: reading
+author: "Adam Gordon Bell"
 description: "Adam Gordon Bell 是 CoRecursive: Coding Stories 的主持人；这期以“Stack Trace”形式和 Don 拆解几条 AI 行业引语。Don 的角色更像技术同行/开发者型提问者：他熟悉工程、GPU、开源和软件商业化，但不预设理解 LLM 术语，因此对话用“外行能追问、内..."
 source: "https://corecursive.com/the-pre-training-wall-and-the-treadmill-after-it/"
 ---

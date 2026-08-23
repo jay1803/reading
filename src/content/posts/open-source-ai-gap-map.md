@@ -2,6 +2,7 @@
 title: "Open Source AI Gap Map"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Simon Willison"
 description: "Current AI 发布的 Gap Map，Simon Willison 明确指出：最有价值的是背后那份 MIT 授权的原始数据集，而不是可交互的地图界面。"
 source: "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
 ---

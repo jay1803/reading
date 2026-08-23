@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Manipulating the Stock Market Is Trump's War Strategy"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Matt Stoller"
 description: "特朗普政府把\"稳住股市\"当成伊朗战争策略的一部分——战争开始时间、每周的官方表态，都经过刻意设计以管理市场情绪。真正的问题：操纵言论的半衰期在缩短。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-manipulating-the"
 ---

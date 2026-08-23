@@ -2,6 +2,7 @@
 title: "To Train or Not to Train"
 date: 2026-04-28T08:02:08Z
 category: reading
+author: "Tanay Jaipuria"
 description: "应用层公司不该把“训练模型”当成技术身份，而应把它当成规模化后的经济性与差异化工具：真正可持续的投资不是抢着替代前沿模型，而是把自有用户轨迹、评测环境和工作流数据沉淀成可反复 post-train 的资产。"
 source: "https://www.tanayj.com/p/to-train-or-not-to-train"
 ---

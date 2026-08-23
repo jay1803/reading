@@ -2,6 +2,7 @@
 title: "💥 Recession Odds Rise to 49%, Interest Rates May Rise Again, and This Oil Shock May Last for Years"
 date: 2026-03-29T17:23:59Z
 category: reading
+author: "Andrew Lokenauth"
 description: "伊朗战争封锁霍尔木兹海峡，触发的不只是油价冲击，而是一条完整反馈链：油价→通胀复燃→美联储冻结→私人信贷违约→实体信贷收缩——其结构与2008年前夜高度相似。更反直觉的是：滞胀期最佳资产不是黄金（1973-1982年仅年化跑赢通胀3.4%），而是小盘股（+5.9%/年）和房地产（+5.5%/年）。"
 source: "https://www.thefinancenewsletter.com/p/recession-2026"
 ---

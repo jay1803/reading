@@ -2,6 +2,7 @@
 title: "The Electric Slide"
 date: 2025-10-10T00:35:18Z
 category: reading
+author: "Packy McCormick"
 description: "这篇长文的核心判断是：未来竞争不只是 AI 模型竞争，而是“电力 + 智能 + 行动”三者的系统竞争；其中最难、最有壁垒的是把电变成行动的 Electric Stack。"
 source: "https://www.notboring.co/p/the-electric-slide"
 ---

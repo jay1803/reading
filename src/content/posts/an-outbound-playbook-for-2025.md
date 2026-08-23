@@ -2,6 +2,7 @@
 title: "An outbound playbook for 2025"
 date: 2025-12-08T16:53:57Z
 category: reading
+author: "Kate Syuma"
 description: "最有效的 outbound 信号，不是从数据库买来的，而是自己用内容运营\"制造\"的。Workflows.io 最高回复率的 outbound 活动（25.4%，370 条消息→94 回复）来自创始人 LinkedIn 的私人连接——这是 1.5 年内容积累的直接变现，和任何第三方 intent 工具无关。"
 source: "https://www.growthunhinged.com/p/an-outbound-playbook-for-2025"
 ---

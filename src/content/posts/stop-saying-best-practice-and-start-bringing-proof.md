@@ -2,6 +2,7 @@
 title: "Stop Saying “Best Practice” And Start Bringing Proof"
 date: 2026-07-01T08:03:04Z
 category: reading
+author: "Nick LeRoy"
 description: "SEO 建议在组织内死亡的主因不是技术上的错，而是在开发排期、产品路线图、法务审核等优先级竞争中输掉了。\"最佳实践告诉我们……\"让建议听起来可选；换成\"Google 官方文档记录了这个\"，建议变成外部事实，话语权随之改变。"
 source: "https://www.seoforlunch.com/p/google-seo-documentation"
 ---

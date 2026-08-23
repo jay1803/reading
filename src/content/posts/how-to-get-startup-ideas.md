@@ -2,6 +2,7 @@
 title: "How to Get Startup Ideas"
 date: 2024-04-13T16:06:41Z
 category: reading
+author: "Paul Graham"
 description: "The very best startup ideas tend to have three things in common:"
 source: "https://paulgraham.com/startupideas.html"
 ---

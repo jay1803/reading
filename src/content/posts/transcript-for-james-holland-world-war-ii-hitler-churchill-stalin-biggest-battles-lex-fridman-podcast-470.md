@@ -2,6 +2,7 @@
 title: "Transcript for James Holland: World War II, Hitler, Churchill, Stalin & Biggest Battles | Lex Fridman Podcast #470"
 date: 2025-06-17T12:24:46Z
 category: reading
+author: "Lex Fridman"
 description: "对谈聚焦二战的“全球性 + 层级化”本质：从诺曼底登陆的规模化联合作战，到各参战国基于地理与资源禀赋形成的不同作战范式（“以钢代肉”的海空与工业动员 vs. 大陆型陆军扩张），决定胜负的不仅是战术与名将，更是后勤、工业、航运与作战层级（尤其是“战役/战役级”）的长期配称；所谓“纳粹战争机器”的高度机械化带有神话成..."
 source: "https://lexfridman.com/james-holland-transcript"
 ---

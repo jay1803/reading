@@ -2,6 +2,7 @@
 title: "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Cory Doctorow"
 description: "这篇文章最锋利的一点是，所谓“监控定价”一旦进入劳动力市场，就不只是多赚你一点钱，而是在把“你有多 desperate”直接变成工资函数。AI 在这里的价值并不来自真正理解劳动者，而来自足够粗糙地判断你能被压到多低。"
 source: "https://pluralistic.net/2026/04/06/empiricism-washing/"
 ---

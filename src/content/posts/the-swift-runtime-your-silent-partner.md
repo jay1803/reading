@@ -2,6 +2,7 @@
 title: "The Swift Runtime: Your Silent Partner"
 date: 2025-05-12T13:48:09Z
 category: reading
+author: "Jacob Bartlett"
 description: "这篇文章本质上是在做一件很有工程教育意义的事：把“Swift runtime 在背后帮你处理很多事”这句常识，拆开成具体代码路径，让你真的看到它是怎么工作的。 核心结论是，runtime 并不神秘，它只是一个动态链接进来的 C++ 库，负责替 Swift 语言实现内存管理、类型系统、动态派发、错误处理等底层能力。"
 source: "https://blog.jacobstechtavern.com/p/the-swift-runtime-your-silent-partner"
 ---

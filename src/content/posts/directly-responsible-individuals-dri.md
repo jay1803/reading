@@ -2,6 +2,7 @@
 title: "Directly Responsible Individuals (DRI)"
 date: 2026-07-14T08:02:35Z
 category: reading
+author: "Simon Willison"
 description: "DRI（直接责任人）起源于苹果，指\"对特定项目、计划或活动的成败最终负责的人\"。GitLab handbook 是目前最清晰的书面定义来源。"
 source: "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything"
 ---

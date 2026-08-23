@@ -2,6 +2,7 @@
 title: "Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Dylan Patel，SemiAnalysis 创始人兼 CEO，专注 AI 基础设施与半导体供应链研究，是圈内对算力供应链追踪最深入的分析师之一。主持人 Dwarkesh Patel 主理 Dwarkesh Podcast，本期是他室友教他半导体的一期。"
 source: "https://www.dwarkesh.com/p/dylan-patel"
 ---

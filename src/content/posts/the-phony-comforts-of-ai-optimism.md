@@ -2,6 +2,7 @@
 title: "The Phony Comforts of AI Optimism"
 date: 2025-03-26T12:53:04Z
 category: reading
+author: "Ed Zitron"
 description: "作者认为，媒体对生成式 AI 的“谨慎乐观”之所以盛行，不是因为证据充足，而是因为这是一种几乎不用承担证明责任的舒适姿态：相信实验室高管、投资人和基准分数，顺着市场情绪把“也许会发生”写成“很快就会发生”，就足以占据未来叙事。真正经得起推敲的视角反而更不舒服，因为一旦追问模型到底会什么、产品到底赚不赚钱、资本链条..."
 source: "https://www.wheresyoured.at/optimistic-cowardice/"
 ---

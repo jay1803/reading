@@ -2,6 +2,7 @@
 title: "☁️ Micron: Demand Goes Vertical"
 date: 2026-03-21T08:01:46Z
 category: reading
+author: "Kevin Palmer"
 description: "Micron 下季度单季指引（约 $335 亿美元）已超过公司 2024 年及以前任何完整年份的全年营收，毛利率指引 81% 超过英伟达当前水平；内存短缺周期可能延续 4–5 年，而非市场预期的 2027 年正常化。"
 source: "https://www.appeconomyinsights.com/p/micron-demand-goes-vertical"
 ---

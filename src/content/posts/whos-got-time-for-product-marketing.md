@@ -2,6 +2,7 @@
 title: "Who's got time for Product Marketing?"
 date: 2026-04-29T08:02:23Z
 category: reading
+author: "Elena Verna"
 description: "AI-native PMM 的核心价值从“亲自写完每一次发布材料”转向“搭建让全公司能正确自助发布的基础设施”：实时 ICP、客户语言库、统一消息层、可查询的研究代理、分层 launch 机制。它牺牲一部分中心化话术控制，换取更快的发布速度、更贴近客户的表达，以及更低的信息检索成本。"
 source: "https://www.elenaverna.com/p/whos-got-time-for-product-marketing"
 ---

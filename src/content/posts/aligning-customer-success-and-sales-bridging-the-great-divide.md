@@ -2,6 +2,7 @@
 title: "Aligning Customer Success and Sales: Bridging the Great Divide"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "CS 对\"bad fit\"客户的抱怨本身就是错误的框架——真正的问题是移交质量，而这是 Sales 与 CS 共同拥有的责任，而不是单方的失误。"
 source: "https://sixteenventures.com/customer-success-sales-alignment-2"
 ---

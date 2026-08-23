@@ -2,6 +2,7 @@
 title: "The Ultimate List Of Referral Optimizations 🎁"
 date: 2025-11-04T11:14:22Z
 category: reading
+author: "Gaurav Vohra"
 description: "这篇文章本质上是在说：推荐增长不是一个小功能，而是一整套可以持续优化的增长系统。 作者拿 Superhuman 的经验举例，最初只是很简单地做了一个 MVP referral flow，结果推荐很快就占到了每周新客的 30%；此后靠大量细节优化，周推荐量又翻了三倍。文章想传达的核心不是“做一个 referral..."
 source: "https://substack.gauravvohra.com/p/the-ultimate-referral-playbook"
 ---

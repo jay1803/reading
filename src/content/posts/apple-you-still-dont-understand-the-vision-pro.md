@@ -2,6 +2,7 @@
 title: "Apple: You (Still) Don’t Understand the Vision Pro"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Ben Thompson"
 description: "作者的核心判断是：Vision Pro 真正有价值的，不是把电视节目搬进头显，而是让人获得“我就在现场”的存在感；Apple 却一直按电视制作逻辑来做沉浸内容，于是最该被放大的优势，反而被自己的导播、切镜和包装系统抵消了。对体育直播尤其如此：只要给观众一个稳定、优质、接近场边的机位，Vision Pro 就可能比..."
 source: "https://stratechery.com/2026/apple-you-still-dont-understand-the-vision-pro/"
 ---

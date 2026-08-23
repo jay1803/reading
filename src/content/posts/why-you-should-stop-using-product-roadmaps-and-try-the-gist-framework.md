@@ -2,6 +2,7 @@
 title: "Why you should stop using product roadmaps and try the GIST Framework"
 date: 2022-04-12T14:37:38Z
 category: develop
+author: "Itamar Gilad"
 description: "“If you tell people where to go, but not how to get there, you’ll be amazed at"
 source: "https://itamargilad.com/gist-framework/"
 ---

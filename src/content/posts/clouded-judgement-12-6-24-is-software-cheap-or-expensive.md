@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.6.24 - Is Software Cheap or Expensive?"
 date: 2025-01-02T11:02:01Z
 category: reading
+author: "Jamin Ball"
 description: "自今年夏天的低点以来，WCLD 指数已上涨约 40%！很容易看到收入倍数并说“中位数倍数仍比长期平均水平低约 20%，随着利率下降，倍数应该上升！”然而，最近当我更新所有倍数图表时，有件事对我来说确实很突出——增长调整后的收入倍数处于历史最高水平（不包括 ZIPR 时期）。长期平均增长调整后收入倍数约为 0.28..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-12624-is-software"
 ---

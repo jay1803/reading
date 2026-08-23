@@ -2,6 +2,7 @@
 title: "童年不只是少一点创伤：EDN 如何影响成年后的心理健康与道德功能"
 date: 2026-06-12T08:01:14Z
 category: reading
+author: "Marvix"
 description: "童年心理健康的核心变量不只是\"坏事没发生\"（ACE 视角），而是那些\"本该存在却缺席\"的积极照料条件（EDN）——身体接触、自由玩耍、稳定回应、积极家庭情绪氛围——才是决定成年后安全依恋、情绪调节和道德取向的独立变量。"
 source: "https://www.noesisapient.com/p/edn"
 ---

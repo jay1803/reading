@@ -2,6 +2,7 @@
 title: "Hardcore Debugging"
 date: 2025-05-12T13:46:56Z
 category: reading
+author: "Jacob Bartlett"
 description: "当崩溃栈指向内核内存管理层、调试器拒绝报告真正的责任方时，两个\"极端\"工具——git bisect 二分法定位提交时间轴、atos 手动符号化崩溃日志定位代码空间——可以绕开调试器，直接把几千行代码缩窄到一个函数。"
 source: "https://blog.jacobstechtavern.com/p/hardcore-debugging"
 ---

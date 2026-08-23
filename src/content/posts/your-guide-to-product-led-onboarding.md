@@ -2,6 +2,7 @@
 title: "Your guide to product-led onboarding"
 date: 2025-05-21T19:55:50Z
 category: reading
+author: "Kate Syuma"
 description: "PLG onboarding 最常犯的错不是 onboarding flow 写得不好，而是根本没量化 aha moment——没有可操作的激活指标，后续所有设计都是在猜靶心。"
 source: "https://www.growthunhinged.com/p/your-guide-to-product-led-onboarding"
 ---

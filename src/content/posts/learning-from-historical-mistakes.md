@@ -2,6 +2,7 @@
 title: "Learning from historical mistakes"
 date: 2026-08-22T15:12:00Z
 category: reading
+author: "John D. Cook"
 description: "研究历史上的错误能揭示一套思想在诞生之初真正有多难，即使学科先驱也可能误判概念或高估证据的力量。"
 source: "https://www.johndcook.com/blog/2026/08/10/learning-from-historical-mistakes/"
 ---

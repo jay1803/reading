@@ -2,6 +2,7 @@
 title: "Clouded Judgement 9.19.25 - The AI Shift: Static Software vs. Living AI Systems"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Jamin Ball"
 description: "AI 产品是活系统，管理逻辑必须从\"静态 SaaS 发版\"切换到\"动态系统运营\"——这不是工程优化，而是底层认知的替换。软件行业正在被迫补一门生物科技和金融市场已经上了几十年的课。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-91925-the-ai-shift"
 ---

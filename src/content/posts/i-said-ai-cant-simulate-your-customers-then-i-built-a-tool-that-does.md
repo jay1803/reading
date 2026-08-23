@@ -2,6 +2,7 @@
 title: "I said AI can’t simulate your customers. Then I built a tool that does."
 date: 2026-03-07T17:40:36Z
 category: reading
+author: "Leah Tharin"
 description: "这篇文章最有价值的地方，不是作者做了一个“AI 模拟客户”的小工具，而是她把一个很容易被说糊的边界讲清楚了：AI 不能替代真实客户去预测行为，但它可以很好地扮演“第一眼的启发式评审者”。 Leah Tharin 的核心观点是，她之前反对的并不是 AI 帮助做网站反馈，而是反对那种“LLM 可以直接模拟真实购买意图..."
 source: "https://www.leahtharin.com/p/i-said-ai-cant-simulate-your-customers"
 ---

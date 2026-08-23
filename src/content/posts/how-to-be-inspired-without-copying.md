@@ -2,6 +2,7 @@
 title: "How to be inspired without copying"
 date: 2026-05-18T08:01:22Z
 category: reading
+author: "Joan Westenberg"
 description: "有效借鉴的关键不在“像不像”，而在能否进入作品的决策层：它为什么成立、约束如何工作、哪些选择被拒绝、某种效果靠什么机制产生。LLM 把表层模仿变成廉价能力后，真正稀缺的是判断、输入范围和长期学徒式吸收。"
 source: "https://www.joanwestenberg.com/how-to-be-inspired-without-copying/"
 ---

@@ -2,6 +2,7 @@
 title: "AI's Brokenomics"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Ed Zitron"
 description: "AI 公司的商业模式并非\"尚未成熟\"，而是结构性不可行：它们只能靠大幅补贴 token 来留住用户，一旦收实际成本客户就流失，而降价则直接压垮收入，没有第三条路。"
 source: "https://www.wheresyoured.at/brokenomics/"
 ---

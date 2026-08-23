@@ -2,6 +2,7 @@
 title: "Mobile app Robokiller coinventor, Ethan Garr, shares how his passionate team rapidly grew from product-market fit to an acquisition by IAC."
 date: 2024-06-16T14:23:38Z
 category: podcast
+author: "Sean Ellis"
 description: "Ethan Garr shares insights on the journey of Robokiller, a mobile app designed to eliminate robocalls, which grew rapidly from achieving product-market fit t..."
 source: "https://seanellis.substack.com/p/mobile-app-robokiller-coinventor-f73"
 ---

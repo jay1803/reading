@@ -2,6 +2,7 @@
 title: "Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)"
 date: 2026-06-28T08:02:48Z
 category: reading
+author: "Cory Doctorow"
 description: "Meta 对 Sarah Wynn-Williams 的法律行动看起来像是公关灾难——Zuckerberg 明知 Streisand 效应，仍在持续升级。Doctorow 的解读：这是精确算计，目标受众不是公众，而是 Meta 那几千名被裁的前员工，他们知道 Careless People 之后发生的更大丑闻。"
 source: "https://pluralistic.net/2026/06/27/zuckerstreisand-2/"
 ---

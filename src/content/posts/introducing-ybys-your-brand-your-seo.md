@@ -2,6 +2,7 @@
 title: "Introducing \"YBYS.\" Your Brand = Your SEO"
 date: 2026-05-21T05:49:55Z
 category: reading
+author: "Nick LeRoy"
 description: "SEO 正在从“赢得某次搜索点击”转向“成为跨平台答案生态里会被记住、被推荐、被验证的品牌”；可操纵的流量战术仍会阶段性有效，但它们的半衰期越来越短，品牌记忆才是穿越 Google、AI Overview、ChatGPT、Perplexity、Reddit、LinkedIn、YouTube 和私域讨论的复利资产。"
 source: "https://www.seoforlunch.com/p/ybys"
 ---

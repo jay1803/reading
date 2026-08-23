@@ -2,6 +2,7 @@
 title: "Organic rankings vs. product grids: The new e-commerce divide"
 date: 2026-03-11T01:01:07Z
 category: reading
+author: "Kevin Indig"
 description: "传统自然排名第一，不等于在电商搜索中可见。96% 的 SERP 已被 product grid 覆盖，而传统排名与 product grid 曝光之间几乎无关联——甚至存在负相关。"
 source: "https://www.growth-memo.com/p/organic-rankings-vs-product-grids"
 ---

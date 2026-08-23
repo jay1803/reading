@@ -2,6 +2,7 @@
 title: "TBM 417: Before You Fire All Your Glue People Because of AI"
 date: 2026-04-17T08:02:24Z
 category: reading
+author: "John Cutler"
 description: "模型：GPT-5.4（直接基于本地缓存 markdown）"
 source: "https://cutlefish.substack.com/p/tbm-417-before-you-fire-all-your"
 ---

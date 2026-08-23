@@ -2,6 +2,7 @@
 title: "Premium: Understanding Reddit"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "muji"
 description: "市场把Reddit归入\"AI时代的受害者\"，但逻辑方向反了：Reddit是AI训练数据的供给侧，不是被替代的需求侧；其护城河在于\"人类生成+人类策展\"的双重属性——AI越普及，这种人工策展的稀缺性反而越凸显。"
 source: "https://hhhypergrowth.com/premium-understanding-reddit/"
 ---

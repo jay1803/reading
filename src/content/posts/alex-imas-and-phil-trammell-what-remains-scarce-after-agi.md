@@ -2,6 +2,7 @@
 title: "Alex Imas and Phil Trammell – What remains scarce after AGI?"
 date: 2026-06-06T08:04:03Z
 category: reading
+author: "Dwarkesh Patel"
 description: "Alex Imas：Google DeepMind AGI经济学总监，芝加哥大学经济学教授，研究人类对\"人类在场\"的内在偏好与劳动市场结构。Phil Trammell：Epoch AI经济学负责人，斯坦福数字经济研究学者，专注于长期增长、资本份额与跨代储蓄理论。主持人 Dwarkesh Patel（Dwarkes..."
 source: "https://www.dwarkesh.com/p/alex-imas-phil-trammell"
 ---

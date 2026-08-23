@@ -2,6 +2,7 @@
 title: "The Solitaire Shuffle"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Ernie Smith"
 description: "纸牌接龙之所以能穿越几个世纪，不是因为它容易赢，而是因为它把低门槛、可重复、轻度挑战和即时秩序感绑在了一起；Windows 时代只是把这种早已存在的心理吸引力，用鼠标和 GUI 放大成了大众习惯。"
 source: "https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history"
 ---

@@ -2,6 +2,7 @@
 title: "Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Cory Doctorow"
 description: "问题不是亿万富翁比普通人更坏——而是财富系统性地摧毁了纠错机制：越富越听不到反对声，错误被放大而非修正；伤害他人还往往是盈利路径，使得\"附带损害\"具有正向激励。"
 source: "https://pluralistic.net/2026/03/09/autocrats-of-trade-2/"
 ---

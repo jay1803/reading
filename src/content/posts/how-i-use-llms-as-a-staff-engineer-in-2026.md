@@ -2,6 +2,7 @@
 title: "How I use LLMs as a staff engineer in 2026"
 date: 2026-05-17T08:01:23Z
 category: reading
+author: "Sean Goedecke"
 description: "2026 年最重要的工程 AI 技能，不是会不会用 agent，而是能否把尽可能多的小型、低风险、可审查工作转移给 agent，同时保留人类判断在任务筛选、验收、沟通和复杂调试中的控制权。"
 source: "https://seangoedecke.com/how-i-use-llms-in-2026/"
 ---

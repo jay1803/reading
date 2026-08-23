@@ -2,6 +2,7 @@
 title: "💻 Microsoft: Workflow Wars"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Kevin Palmer"
 description: "Azure 38% 增速不是天花板，是微软主动降速的结果——Nadella 明确说，如果把 Q1/Q2 上线的 GPU 全给外部 Azure 客户，增速会超 40%；他们在用算力稀缺性做容量套利，把高 LTV 的 Copilot 内部产品优先于外部用户。"
 source: "https://www.appeconomyinsights.com/p/microsoft-workflow-wars"
 ---

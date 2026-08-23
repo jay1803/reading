@@ -2,6 +2,7 @@
 title: "AI is Creating Peak Software, Media is the Best Analogy"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Doug O'Laughlin"
 description: "软件 IP 本质上是一个历史偶然 —— 它只在\"创建软件有极高门槛\"这个窗口期才值钱；AI coding 工具正在关闭这个窗口，把软件打回硬件附属品的原始状态。"
 source: "https://www.fabricatedknowledge.com/p/ai-is-creating-peak-software-media"
 ---

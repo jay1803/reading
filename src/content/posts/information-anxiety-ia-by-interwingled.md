@@ -2,6 +2,7 @@
 title: "Information Anxiety (IA) - by Interwingled"
 date: 2025-06-17T12:30:44Z
 category: reading
+author: "Jeremy Keith"
 description: "Wurman 的核心诊断是：信息焦虑的对立面不是\"更多信息\"，而是\"找到入口的结构\"——但 Intertwingled 进一步颠覆：连 Wurman 赖以立论的 LATCH（五种组织范式）本身也是幻觉，因为分类由目标与演化偏置决定，\"fitness beats truth\"，没有任何组织方式在客观上正确。"
 source: "https://intertwingled.org/information-anxiety-ia/"
 ---

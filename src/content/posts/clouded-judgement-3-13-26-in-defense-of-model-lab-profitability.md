@@ -2,6 +2,7 @@
 title: "Clouded Judgement 3.13.26 - In Defense of Model Lab Profitability"
 date: 2026-03-14T01:00:31Z
 category: reading
+author: "Jamin Ball"
 description: "AI 大模型实验室的盈利路径，和 2010 年代云基础设施公司的早期亏损阶段几乎一模一样——毛利率从负值扩张到 60-70% 是完全可预期的；模型训练成本的回收周期比市场普遍认为的短得多，且随着收入增速持续超过训练成本增速，这个周期还在缩短。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-31326-in-defense"
 ---

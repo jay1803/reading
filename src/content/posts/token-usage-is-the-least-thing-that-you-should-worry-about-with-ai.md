@@ -2,6 +2,7 @@
 title: "\"Token usage\" is the least thing that you should worry about with AI"
 date: 2026-07-12T08:02:55Z
 category: reading
+author: "Leah Tharin"
 description: "真正的成本不是 token 消耗，也不是选择哪个模型，而是 LLM 在每个层级、每个职能里系统性地制造出一种难以测量的假性自信——且因为它削除了反馈回路，所以这种自信不会随时间自我修正。"
 source: "https://www.leahtharin.com/p/token-usage-is-the-least-thing-that"
 ---

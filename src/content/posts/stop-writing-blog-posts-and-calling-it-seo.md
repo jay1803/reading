@@ -2,6 +2,7 @@
 title: "Stop writing blog posts and calling it SEO"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Eli Schwartz"
 description: "博客文章驱动的\"SEO\"失败不在执行，在定义。作者 Eli Schwartz 的核心主张：SEO 唯一的职责是在用户准备采取行动的那一刻，把产品放到他面前。如果你做到了这件事，排在关键词前面的资产可能是文章，也可能不是；大多数情况下，不是。"
 source: "https://www.productledseo.com/p/stop-writing-blog-posts-and-calling"
 ---

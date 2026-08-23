@@ -2,6 +2,7 @@
 title: "Data Update 9 for 2025: Dividends and Buybacks - Inertia and Me-tooism!"
 date: 2025-03-14T17:45:31Z
 category: reading
+author: "Aswath Damodaran"
 description: "本文是 Aswath Damodaran 2025 年数据更新的第九篇（也是最后一篇）文章，探讨了全球企业返还现金的情况，包括返还的规模和形式。作者首先介绍了一个思考企业可以返还给所有者多少现金的框架，然后在现实世界中，由于惯性和“me-tooism”行为，这一决策往往存在偏差。特别是在美国，企业明显地从派发股息..."
 source: "https://aswathdamodaran.blogspot.com/2025/03/data-update-9-for-2025-dividends-and.html"
 ---

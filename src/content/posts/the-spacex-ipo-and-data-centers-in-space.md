@@ -2,6 +2,7 @@
 title: "The SpaceX IPO and Data Centers in Space"
 date: 2026-05-28T08:01:27Z
 category: reading
+author: "Ben Thompson"
 description: "SpaceX 这次 IPO 的财务数字荒唐，但真正值得判断的不是当前估值模型，而是“太空数据中心”是否可能成为 AI 时代的边际算力垄断：如果 Starship、星间激光、卫星级 GPU rack、能源/散热和 agentic inference 同时兑现，SpaceX 卖的就不只是火箭和宽带，而是绕开地面电力、..."
 source: "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/"
 ---

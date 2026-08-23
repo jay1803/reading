@@ -2,6 +2,7 @@
 title: "Clouded Judgement 5.30.25 - Moats in the Age of AI"
 date: 2025-06-18T22:06:01Z
 category: reading
+author: "Jamin Ball"
 description: "在 AI 时代，“护城河”更像一连串短期、可叠加的小护城河：窗口期从过去的 6–12 个月压缩到 2–3 周，真正能复利的是“速度”——更快的构建、发布、学习、决策与分发；估值端，SaaS 整体 EV/NTM Rev 中位约 5.6x、Top5 中位约 23.2x，10Y 约 4.4%。"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-53025-moats-in"
 ---

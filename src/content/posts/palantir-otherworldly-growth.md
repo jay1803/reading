@@ -2,6 +2,7 @@
 title: "🕵️ Palantir: 'Otherworldly' Growth"
 date: 2025-11-08T10:15:01Z
 category: reading
+author: "Kevin Palmer"
 description: "Palantir 这季真正值得重视的，不是营收同比增长 63% 这一个数字，而是美国商业业务已经呈现出可复制、可前置锁定、可持续扩张的合同机器特征：美国商业收入同比增长 121%，商业 TCV 同比暴增 342%，说明 AIP 正在把试点热度转成高确定性的长期收入。公司因此再次上调全年指引，Rule of 40..."
 source: "https://www.appeconomyinsights.com/p/palantir-otherworldly-growth"
 ---

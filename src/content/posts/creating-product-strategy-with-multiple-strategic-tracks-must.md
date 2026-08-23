@@ -2,6 +2,7 @@
 title: "Creating Product Strategy with Multiple Strategic Tracks (MuST)"
 date: 2022-04-12T14:39:34Z
 category: reading
+author: "Itamar Gilad"
 description: "Product Strategy is hard. For most tech companies their first big product success is also their last. Finding a second hit is very hard no matter how much we..."
 source: "https://itamargilad.com/product-strategy-must/"
 ---

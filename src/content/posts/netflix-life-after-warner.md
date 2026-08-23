@@ -2,6 +2,7 @@
 title: "🍿 Netflix: Life After Warner"
 date: 2026-04-18T08:02:51Z
 category: reading
+author: "Kevin Palmer"
 description: "Netflix 真正要证明的，不再是它还能不能继续长用户，而是它能不能把一份大致稳定的注意力份额，持续榨出更高 ARPU 和更高利润。Warner 交易流产后，市场不再给它“并购捷径”估值，而是盯着三件更硬的事：广告层能否放大、涨价能否不伤留存、内容投入能否继续跑出回报。文末 Amazon 收购 Globalst..."
 source: "https://www.appeconomyinsights.com/p/netflix-life-after-warner"
 ---

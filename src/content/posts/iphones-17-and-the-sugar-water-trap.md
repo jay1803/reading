@@ -2,6 +2,7 @@
 title: "iPhones 17 and the Sugar Water Trap"
 date: 2026-03-19T15:47:41Z
 category: reading
+author: "Ben Thompson"
 description: "Apple 的 AI 缺席不是偶然——是十年前选择收 Google 的钱、放弃建造能力的复利账单。被钱收买的代价不出现在损益表上，出现在你突然需要那块肌肉的那一天。"
 source: "https://stratechery.com/2025/iphones-17-and-the-sugar-water-trap/"
 ---

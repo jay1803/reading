@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Will the Trade War Pop the AI Bubble?"
 date: 2025-10-15T16:21:13Z
 category: reading
+author: "Matt Stoller"
 description: "AI 数据中心热潮的燃料不是技术回报的预期，而是大型科技垄断企业抽取的租金——它们把数百亿广告/平台税再投资于下一赌注，这次的赌注规模是全国性的。中国的稀土出口管制让这个结构性脆弱点从理论变成了现实威胁。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-will-the-trade"
 ---

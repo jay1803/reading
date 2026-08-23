@@ -2,6 +2,7 @@
 title: "The Life and Times of Maxis, Part 1: SimEverything"
 date: 2026-07-04T08:05:45Z
 category: reading
+author: "Jimmy Maher"
 description: "SimCity 1989 年的成功并非来自核心玩家，而是命中了完全不自认为\"玩家\"的人群——就像 Myst、Deer Hunter 一样。Time 杂志为之写了史上第一篇电子游戏评论，城市规划的成人题材让它得以进入中产媒体。但 Will Wright 和搭档 Jeff Braun 从中得出的结论相反：正因为不必遵..."
 source: "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/"
 ---

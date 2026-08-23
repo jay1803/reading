@@ -2,6 +2,7 @@
 title: "How to Build a Brand Subreddit: Full Setup Guide (+ Examples)"
 date: 2026-03-24T11:17:08Z
 category: reading
+author: "Brian Dean"
 description: "大多数品牌不该建 subreddit。少数值得建的，难点不是技术配置，而是传统品牌话术对 Reddit 文化天然有腐蚀性——整个价值来自每天出现的同时压制住这种本能。"
 source: "https://backlinko.com/brand-subreddit?utm_source=backlinko.com&utm_medium=email&utm_campaign=brand_subreddit"
 ---

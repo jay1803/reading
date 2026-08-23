@@ -2,6 +2,7 @@
 title: "There Is No AI Revolution"
 date: 2025-03-14T19:46:46Z
 category: reading
+author: "Ed Zitron"
 description: "这篇文章深入探讨了生成式人工智能（Generative AI）行业，特别是 OpenAI 公司的财务状况和商业模式。作者认为，生成式 AI 行业缺乏基本的单位经济效益、产品市场契合度和市场渗透率，OpenAI 持续亏损，并且没有明确的盈利途径。作者质疑整个行业的可持续性，并认为当前的热潮是由媒体炒作和风险投资驱动..."
 source: "https://www.wheresyoured.at/wheres-the-money/"
 ---

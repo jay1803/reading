@@ -2,6 +2,7 @@
 title: "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Cory Doctorow"
 description: "这篇文章的核心不是“文艺复兴很复杂”，而是：任何时代都不存在唯一正史，所谓“文艺复兴”本身就是后人不断发明、争夺、拆毁、再利用的历史叙事。Ada Palmer 的《Inventing the Renaissance》把文艺复兴当作一个关于历史如何被制造的案例：宏大力量确实存在，但具体的人仍在这些力量的边界内改变水..."
 source: "https://pluralistic.net/2026/04/25/machiavellian/"
 ---

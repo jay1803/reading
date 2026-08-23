@@ -2,6 +2,7 @@
 title: "11 hard truths about working in growth"
 date: 2025-10-10T00:41:44Z
 category: reading
+author: "Elena Verna"
 description: "留存与获客之间，相关性为零。Amplitude 对 2600+ 家公司的数据得出这一结论。同一份报告：中位产品到第 3 个月失去 96% 的新用户。增长团队依然优先优化获客，因为它更容易衡量、更容易展示、更容易被组织奖励。"
 source: "https://www.elenaverna.com/p/11-hard-truths-about-working-in-growth"
 ---

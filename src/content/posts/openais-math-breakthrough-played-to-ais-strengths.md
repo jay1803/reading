@@ -2,6 +2,7 @@
 title: "OpenAI’s math breakthrough played to AI’s strengths"
 date: 2026-05-29T08:01:14Z
 category: reading
+author: "Timothy B. Lee"
 description: "OpenAI 的结果重要在于它首次让 AI 自主推翻一个重要开放猜想，但更深的信号是：当前模型已经能把跨领域数学知识、低胜率搜索和大量失败尝试组合成可验证的新数学结果；数学劳动会先被重组为“人类提出问题与验证方向，AI 扫描候选证明空间”，然后再逐步挑战人类提出好问题的能力。"
 source: "https://www.understandingai.org/p/openais-milestone-math-breakthrough"
 ---

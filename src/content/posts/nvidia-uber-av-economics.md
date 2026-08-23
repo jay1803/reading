@@ -2,6 +2,7 @@
 title: "🚦 NVIDIA+Uber: AV Economics"
 date: 2025-11-19T08:33:54Z
 category: reading
+author: "Kevin Palmer"
 description: "需求聚合层（Uber）在自动驾驶时代的价值，不必然让位于垂直整合型制造商——Uber×NVIDIA 合作点出了一条不同的答案路径：Uber 手里的不只是司机网络，而是别人难以复制的城市级调度基础设施。"
 source: "https://www.appeconomyinsights.com/p/nvidiauber-av-economics"
 ---

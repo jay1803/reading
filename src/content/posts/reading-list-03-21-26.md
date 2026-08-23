@@ -2,6 +2,7 @@
 title: "Reading List 03/21/26"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Brian Potter"
 description: "伊朗导弹击中卡塔尔拉斯拉凡 LNG 设施（承担全球 20% LNG 供给 + 1/3 氦气产量），波斯湾局势已从\"地区冲突\"升格为直接威胁全球半导体供应链的系统性事件；而原本以\"绝缘于地缘政治\"为卖点的迪拜，第一次成了风险本身。"
 source: "https://www.construction-physics.com/p/reading-list-032126"
 ---

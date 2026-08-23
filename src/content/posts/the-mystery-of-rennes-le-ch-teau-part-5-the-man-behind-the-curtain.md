@@ -2,6 +2,7 @@
 title: "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain"
 date: 2026-05-02T08:02:52Z
 category: reading
+author: "Jimmy Maher"
 description: "Rennes-le-Château 这套后来喂养《圣血与圣杯》《达芬奇密码》和 Gabriel Knight 3 的神秘学工业，核心不是古老秘密，而是 Pierre Plantard 把个人自卑、反动政治、伪造文件和几个法国超现实主义者的恶作剧，包装成一个可以无限续玩的阴谋游戏。"
 source: "https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/"
 ---

@@ -2,6 +2,7 @@
 title: "AI Doesn't Have ROI"
 date: 2026-06-03T08:01:13Z
 category: reading
+author: "Ed Zitron"
 description: "AI 的 ROI 危机首先是成本可见性危机：过去的订阅制和额度制把 token 的真实边际成本藏起来，让企业和个人把 AI 当成近似免费资源；当 GitHub Copilot、OpenAI、Anthropic 等开始把真实用量账单推给客户，市场才发现很多“效率提升”无法被稳定计量，也无法覆盖推理、监督、返工、幻觉..."
 source: "https://www.wheresyoured.at/ai-doesnt-have-roi/"
 ---

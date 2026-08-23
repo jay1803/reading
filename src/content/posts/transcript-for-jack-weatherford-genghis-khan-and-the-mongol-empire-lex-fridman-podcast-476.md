@@ -2,6 +2,7 @@
 title: "Transcript for Jack Weatherford: Genghis Khan and the Mongol Empire | Lex Fridman Podcast #476"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Lex Fridman"
 description: "成吉思汗之所以能用十万人征服已知世界，根本原因不是军事天才，而是一个从未被权力腐蚀的人——他拒绝肖像、雕像、宫殿、陵墓，与士兵同吃同住，并在死前命令\"让我的身体消逝，让我的民族长存\"。"
 source: "https://lexfridman.com/jack-weatherford-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=jack-weatherford-transcript"
 ---

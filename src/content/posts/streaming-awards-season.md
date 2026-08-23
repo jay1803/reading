@@ -2,6 +2,7 @@
 title: "Streaming: Awards Season"
 date: 2025-03-14T19:10:44Z
 category: reading
+author: "Kevin Palmer"
 description: "流媒体直播奥斯卡颁奖典礼首次在 Hulu 上进行，但出现了登录和播放中断的问题，凸显了流媒体平台在直播大型活动时面临的挑战。尽管如此，流媒体在电视领域的份额持续增长，各大平台纷纷发力广告支持模式、打击密码共享，并追求盈利。Disney 的流媒体业务连续三个季度盈利，而 Comcast、Warner 和 Param..."
 source: "https://www.appeconomyinsights.com/p/streaming-awards-season"
 ---

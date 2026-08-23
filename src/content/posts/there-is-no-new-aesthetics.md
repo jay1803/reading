@@ -2,6 +2,7 @@
 title: "There Is No New Aesthetics"
 date: 2026-03-27T08:01:05Z
 category: reading
+author: "Fernando Borretti"
 description: "文化感到\"停滞\"不是缺乏想象力，而是数学事实：人类已穷举了所有审美的基向量，今日一切\"新\"运动都只是过去的线性组合。"
 source: "https://borretti.me/article/there-is-no-new-aesthetics"
 ---

@@ -2,6 +2,7 @@
 title: "Quality"
 date: 2026-03-26T08:01:39Z
 category: reading
+author: "Brad Feld"
 description: "皮尔西格的核心论点是认识论上的倒置：Quality 先被感知，后才能被定义。你无法从理论出发识别它，只能在实践中被它迎面撞上，然后再回头解释。这使\"客观标准\"和\"纯主观\"都成了伪命题。"
 source: "https://feld.com/archives/2026/03/quality/"
 ---

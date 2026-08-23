@@ -2,6 +2,7 @@
 title: "How the United States Gave Up Being a Science Superpower"
 date: 2025-05-19T16:24:49Z
 category: reading
+author: "Steve Blank"
 description: "美国之所以能成为科学超级大国，得益于二战后政府、大学和工业界之间富有远见的合作模式，特别是通过大学进行科研并促进商业化。然而，当前美国政府（特指特朗普政府）对科研经费（尤其是间接成本报销）的大幅削减，以及对特定研究领域的压制，正在瓦解这一成功的科研生态系统，可能导致美国失去其科学领导地位和人才优势，重蹈英国战后科..."
 source: "https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-how-quickly-it-could-crumble/"
 ---

@@ -2,6 +2,7 @@
 title: "REVIEW: BoyMom, by Ruth Whippman"
 date: 2026-03-11T01:01:07Z
 category: reading
+author: "John Psmith"
 description: "这篇书评的核心判断是：Ruth Whippman 想用自由派女性主义去“解放男孩”，结果既误读了男性，也误读了女性，最后给出的处方是把男性气质继续女性化，而不是理解男孩作为未来男人究竟需要什么。作者认为，真正的问题不在于男孩尚未摆脱性别角色，而在于现代文化一边拆掉男性角色的象征结构，一边又拿女性化的情感规范去衡量..."
 source: "https://www.thepsmiths.com/p/review-boymom-by-ruth-whippman"
 ---

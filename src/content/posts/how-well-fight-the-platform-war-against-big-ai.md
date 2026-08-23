@@ -2,6 +2,7 @@
 title: "How we’ll fight the platform war against Big AI"
 date: 2026-06-25T08:02:23Z
 category: reading
+author: "Anil Dash"
 description: "Big AI 现在极度脆弱，平台战争窗口正在关闭"
 source: "https://anildash.com/2026/06/23/fight-ai-platform-war/"
 ---

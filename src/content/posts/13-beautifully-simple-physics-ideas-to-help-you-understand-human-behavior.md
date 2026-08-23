@@ -2,6 +2,7 @@
 title: "13 beautifully simple physics ideas to help you understand human behavior"
 date: 2025-05-06T14:45:21Z
 category: reading
+author: "Ed Latimore"
 description: "这篇文章最有价值的地方，不是把物理学硬套到人身上，而是指出很多人际冲突、关系匹配和社会摆动，本质上都受同样的结构约束：视角取决于参考系，施压只有带来位移才算有效，关系质量取决于互补与共振，个体与群体都受惯性和反作用力支配。把人当作处在系统里的对象来理解，会比把一切都解释成道德失败更有预测力，也更省力。"
 source: "https://edlatimore.com/metaphors-from-physics/"
 ---

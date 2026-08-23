@@ -2,6 +2,7 @@
 title: "11 hard truths about working in growth"
 date: 2025-10-15T13:26:28Z
 category: reading
+author: "Elena Verna"
 description: "增长是一场永不停歇的“移动靶”博弈：组织结构往往比市场更阻碍结果；好产品决定增长上限，循环会衰减，留存胜于获客；增长团队以高周转的实验驱动、无法代替全员负责，归因只具方向性；在规模阶段，优化与运营将压倒发明。"
 source: "https://www.elenaverna.com/p/11-hard-truths-about-working-in-growth"
 ---

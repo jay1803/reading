@@ -2,6 +2,7 @@
 title: "No Goals, No Customer Success: Unlocking the Power of the Goal Discovery Framework"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "Customer Success 的本质不是流程、playbook 或 QBR，而是帮客户实现一个有明确时间框架的具体目标（Goal = Objective + Timeframe）。如果你连客户的目标是什么都不知道，那你做的一切都只是\"在做事\"，而不是做 Customer Success。"
 source: "https://sixteenventures.com/no-goals-no-customer-success"
 ---

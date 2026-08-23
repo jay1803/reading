@@ -2,6 +2,7 @@
 title: "💥 What Hantavirus, The Bond Crisis, And 3.8% Inflation Tells Us (And What's Next)"
 date: 2026-05-15T08:01:24Z
 category: reading
+author: "Andrew Lokenauth"
 description: "这篇文章的核心判断是：美股新高不是经济健康信号，而是 AI/半导体少数资产把指数“托举”到高位；真正的系统性风险在债券市场和消费者资产负债表，若 10 年期美债收益率继续逼近 5%，股市与现实经济之间的裂缝会被迫收敛。"
 source: "https://www.thefinancenewsletter.com/p/wwhat-hantavirus-means-for-investors"
 ---

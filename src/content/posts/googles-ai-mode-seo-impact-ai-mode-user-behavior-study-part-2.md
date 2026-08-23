@@ -2,6 +2,7 @@
 title: "Google’s AI Mode SEO Impact | AI Mode User Behavior Study Part 2"
 date: 2025-10-15T16:21:13Z
 category: reading
+author: "Kevin Indig"
 description: "这篇文章是在继续分析 Google AI Mode 的用户行为研究。核心结论有几条：用户的注意力首先落在 AI 生成的正文上；inline text links 比右侧 citation panel 更容易被点击；品牌熟悉度会明显影响选择；非交易型任务几乎不外跳，交易型任务则会外跳；AI Mode 里的可见性机会..."
 source: "https://www.growth-memo.com/p/googles-ai-mode-seo-impact-ai-mode"
 ---

@@ -2,6 +2,7 @@
 title: "What's changing with AI monetization"
 date: 2025-01-17T19:04:59Z
 category: reading
+author: "Kate Syuma"
 description: "本文讨论了人工智能货币化的变化趋势，特别是从基于功能的定价转向基于技能的定价，以及不同公司采取的不同定价策略。作者指出，目前人工智能货币化呈现出多样化的趋势。"
 source: "https://www.growthunhinged.com/p/whats-changing-with-ai-monetization"
 ---

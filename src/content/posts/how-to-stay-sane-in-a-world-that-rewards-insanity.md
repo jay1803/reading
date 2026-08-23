@@ -2,6 +2,7 @@
 title: "How to stay sane in a world that rewards insanity"
 date: 2025-11-30T20:19:43Z
 category: reading
+author: "Joan Westenberg"
 description: "这篇文章最准确的观察是：极端化之所以蔓延，不只是因为人变坏了，而是因为它在今天的注意力经济里真的更赚钱、更涨粉、更容易形成身份和社群。 换句话说，很多“疯狂”并不是失控，而是一种被平台和群体激励出来的理性策略。"
 source: "https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity"
 ---

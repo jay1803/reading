@@ -2,6 +2,7 @@
 title: "Things we learned about LLMs in 2024"
 date: 2025-01-02T11:08:28Z
 category: reading
+author: "Simon Willison"
 description: "在我 2023 年 12 月的评论中，我写了关于我们如何还不知道如何构建 GPT-4 ——OpenAI 的最佳模型当时已经发布了将近一年，但没有其他 AI 实验室生产出更好的模型。 OpenAI 知道哪些我们其他人不知道的事情？"
 source: "https://simonwillison.net/2024/Dec/31/llms-in-2024/"
 ---

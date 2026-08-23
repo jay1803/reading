@@ -2,6 +2,7 @@
 title: "Customer Success Scaling: Capacity Planning and Resource Allocation"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章的核心观点是：Customer Success 的 capacity planning 不能只按“多少客户 / 多少 CSM”这种粗糙人头比来算，而要从客户生命周期里真正要交付的 Appropriate Experience（AX）倒推。 Lincoln Murphy 的意思很明确：CS 不是销售编制的尾..."
 source: "https://sixteenventures.com/customer-success-capacity-planning"
 ---

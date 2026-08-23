@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Obamacare Is Cooked. What's Next?"
 date: 2025-10-30T14:52:02Z
 category: reading
+author: "Matt Stoller"
 description: "美国医疗费用暴涨的根本原因不是保险覆盖不足，而是过去五十年两党共同缔造的\"中间商共识\"——把医疗资源分配权从医生和患者手中转移给金融中间商。这套系统现在已经撑不住了。"
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-obamacare-is-cooked"
 ---

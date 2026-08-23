@@ -2,6 +2,7 @@
 title: "Six Popular Growth Tactics … That Don’t Actually Work"
 date: 2025-05-21T13:28:47Z
 category: reading
+author: "Elena Verna"
 description: "本文讨论了增长团队常采用但收效甚微的六种策略，分析了它们失败的原因并提出了替代方案，旨在帮助团队避免在这些“速效药”上浪费资源。"
 source: "https://www.elenaverna.com/p/six-popular-growth-tactics-that-dont"
 ---

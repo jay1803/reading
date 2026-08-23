@@ -2,6 +2,7 @@
 title: "Clouded Judgement 4.14.23"
 date: 2023-04-18T13:59:15Z
 category: reading
+author: "Jamin Ball"
 description: "Author: Clouded Judgement"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-41423"
 ---

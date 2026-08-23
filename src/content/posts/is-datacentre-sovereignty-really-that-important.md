@@ -2,6 +2,7 @@
 title: "Is datacentre sovereignty really that important?"
 date: 2026-06-04T08:02:07Z
 category: reading
+author: "Martin Alderson"
 description: "数据中心建在英国境内对AI主权的实际贡献接近零：延迟优势不成立（AI首token时延1.6-3.6秒，英国到美东网络往返仅80ms），税收贡献是\"四舍五入误差\"（即便将全球在建30GW数据中心全迁英国也只占政府支出0.2%），主权控制不成立（私营运营商不会因建筑在英国就优先服务英国用户）。英国真正的AI竞争力在于..."
 source: "https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

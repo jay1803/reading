@@ -2,6 +2,7 @@
 title: "An Interview with Netflix co-CEO Greg Peters About Engagement and Warner Bros."
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Ben Thompson"
 description: "这篇访谈的核心并不只是 Greg Peters 为 Netflix 收购 Warner Bros. 辩护，而是更完整地展示了 Netflix 现在如何理解自己的业务：它不再是一个“订阅数 × 月费”就能概括的简单流媒体公司，而是一个围绕 engagement、内容价值密度、广告变现、直播事件、内容供给与 bund..."
 source: "https://stratechery.com/2026/an-interview-with-netflix-ceo-greg-peters-about-engagement-and-warner-bros/"
 ---

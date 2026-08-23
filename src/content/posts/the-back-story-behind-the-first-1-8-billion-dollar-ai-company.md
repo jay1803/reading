@@ -2,6 +2,7 @@
 title: "The back story behind the first “$1.8 Billion” dollar “AI Company”"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Gary Marcus"
 description: "这篇文章最核心的判断，不是 Medvi 可疑本身，而是 AI 时代最先被极度压缩的，可能不是“从零到一做公司”的成本，而是把灰色增长、合规漏洞和投机叙事包装成未来故事的成本。Medvi 被吹成“单人两个月做出 18 亿美元公司”，更像一个反例。"
 source: "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18"
 ---

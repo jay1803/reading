@@ -2,6 +2,7 @@
 title: "SaaS Sales Funnel: Stop Optimizing for the Wrong Customers"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "转化率低的根源往往不是漏斗本身——而是你从一开始就在吸引错误的客户。精细化优化一条对着错误人群的漏斗，等于在加速浪费。"
 source: "http://sixteenventures.com/saas-sales-funnel?utm_source=rss&utm_medium=rss&utm_campaign=saas-sales-funnel"
 ---

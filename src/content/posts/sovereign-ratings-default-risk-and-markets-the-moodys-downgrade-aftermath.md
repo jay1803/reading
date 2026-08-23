@@ -2,6 +2,7 @@
 title: "Sovereign Ratings, Default Risk and Markets: The Moody's Downgrade Aftermath!"
 date: 2025-06-18T22:05:44Z
 category: reading
+author: "Aswath Damodaran"
 description: "这篇文章最重要的价值，不在于“美国被降级了”这条新闻本身，而在于它把三个常被混在一起的问题分开讲清楚了："
 source: "https://aswathdamodaran.blogspot.com/2025/06/sovereign-ratings-default-risk-and.html"
 ---

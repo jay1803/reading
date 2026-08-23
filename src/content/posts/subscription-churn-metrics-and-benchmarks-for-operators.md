@@ -2,6 +2,7 @@
 title: "Subscription churn metrics and benchmarks for operators."
 date: 2025-05-06T17:47:11Z
 category: reading
+author: "Elena Verna"
 description: "流失率是症状，根因是激活不足和持续参与薄弱；但绝大多数运营者盯着 NRR 这类\"好看不好用\"的指标，而真正能定位问题的是首期流失率（≤25% 为合格线）——因为绝大多数流失在第一个续订节点就已发生。"
 source: "https://www.elenaverna.com/p/subscription-churn-benchmarks-and"
 ---

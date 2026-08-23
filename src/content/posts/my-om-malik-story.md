@@ -2,6 +2,7 @@
 title: "My Om Malik Story"
 date: 2026-06-27T08:04:38Z
 category: reading
+author: "Jim Nielsen"
 description: "Om Malik 2026年6月24日去世。Jim Nielsen 写的这篇悼念文只有一件具体的事：2021年，他在默默写博客、自以为无人在读时，收到了Om的Twitter私信——\"我安静地享受着你的文章，我有个自私的请求，希望你坚持写下去，因为这会喂养我的大脑。\""
 source: "https://blog.jim-nielsen.com/2026/tribute-to-om/"
 ---

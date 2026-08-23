@@ -2,6 +2,7 @@
 title: "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs"
 date: 2026-04-30T08:02:48Z
 category: reading
+author: "Ben Thompson"
 description: "Sam Altman：OpenAI CEO；对话中代表 OpenAI 解释与 AWS 共建 Bedrock Managed Agents、Codex/agent runtime、模型供给与定价方向。"
 source: "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/"
 ---

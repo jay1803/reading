@@ -2,6 +2,7 @@
 title: "A Plethora of Tweezers"
 date: 2026-04-26T08:18:50Z
 category: reading
+author: "Ernie Smith"
 description: "镊子的价值在于人类如何处理“尺度过小但后果真实”的问题：从修表匠的镊子重磨、职业能力测验到激光操控微粒，所有案例都指向同一件事——许多关键能力并非宏大控制，而是在微小对象上建立稳定、可重复的精度。"
 source: "https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history"
 ---

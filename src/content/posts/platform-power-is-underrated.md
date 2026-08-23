@@ -2,6 +2,7 @@
 title: "Platform Power Is Underrated"
 date: 2025-05-06T16:09:28Z
 category: reading
+author: "Ben Thompson"
 description: "Thompson修正了自己多年的判断：苹果对 App Store 的高抽成、反引导和强控制，未必会伤害 iPhone 这个平台，反而长期都极其可持续，因为现代平台最核心的资产是已经攥在手里的用户需求。开发者会为触达用户而跨越几乎一切障碍，所以法院这次改变的重点落在平台租金的重新分配：苹果少赚，开发者和用户多得。监..."
 source: "https://stratechery.com/2025/platform-power-is-underrated/"
 ---

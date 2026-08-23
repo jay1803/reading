@@ -2,6 +2,7 @@
 title: "Moats in the Age of AI"
 date: 2026-03-06T08:53:42Z
 category: reading
+author: "Tanay Jaipuria"
 description: "过去二十年软件公司最依赖的护城河——切换成本——在 AI 时代面临根本性瓦解；可持续的防御力正在向三类资源集中：真正独占的数据、深度流动性网络、以及基于一方数据的复利流程。"
 source: "https://www.tanayj.com/p/moats-in-the-age-of-ai"
 ---

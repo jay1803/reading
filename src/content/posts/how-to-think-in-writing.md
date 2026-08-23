@@ -2,6 +2,7 @@
 title: "How to think in writing"
 date: 2024-07-30T13:25:10Z
 category: reading
+author: "Henrik Karlsson"
 description: "文章探讨了写作如何帮助思考的过程，特别强调了将流动的思维转化为刚性的文字如何暴露思维中的漏洞，从而推动更深层次的理解和思想进步。作者借鉴了数学哲学家Imre Lakatos的思想，分享了通过写作进行思维的具体技巧。"
 source: "https://www.henrikkarlsson.xyz/p/writing-to-think"
 ---

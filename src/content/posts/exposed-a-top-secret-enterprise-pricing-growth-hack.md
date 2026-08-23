@@ -2,6 +2,7 @@
 title: "Exposed! A Top-Secret “Enterprise Pricing” Growth Hack"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "\"Contact us for Enterprise Pricing\" 这个 CTA 不只是销售入口——它是价格锚定工具：在点击跳转前先标出\"起价 $XYZ/mo（约为零售最高档 10x）\"，让 Enterprise 客户在开口议价之前就已经被重新定价了。"
 source: "http://sixteenventures.com/enterprise-pricing"
 ---

@@ -2,6 +2,7 @@
 title: "US AI policy is a clumsy mess. Here’s what to do about it."
 date: 2026-05-16T08:02:54Z
 category: reading
+author: "Gary Marcus"
 description: "美国 AI 政策的核心缺口，是缺少一套先判断“是否需要新法律”、再判断“谁该被规制、成本由谁承担、能否执行”的共同测试；只围绕“监管太多还是太少”争吵，会让 1200 项州级 AI 法案和零散联邦动作把企业、消费者与国家安全一起推向没人设计、也没人能辩护的监管拼图。"
 source: "https://garymarcus.substack.com/p/us-ai-policy-is-a-clumsy-mess-heres"
 ---

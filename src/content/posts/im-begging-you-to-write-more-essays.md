@@ -2,6 +2,7 @@
 title: "I'm begging you to write more essays"
 date: 2026-04-09T08:01:35Z
 category: reading
+author: "Dan Koe"
 description: "这篇文章真正想捍卫的，不是“多写长文更容易涨粉”，而是：在短视频、热评、AI 摘要共同制造“伪思考”的环境里，essay 是少数还会逼迫作者和读者一起完成“意识排序”的媒介，所以它同时是认知训练、公共理性维护，以及未来“意义经济”里的稀缺生产方式。"
 source: "https://letters.thedankoe.com/p/im-begging-you-to-write-more-essays"
 ---

@@ -2,6 +2,7 @@
 title: "Why doesn't advice work?"
 date: 2024-09-02T16:58:44Z
 category: reading
+author: "dynomight"
 description: "这篇文章探讨了为什么人们经常忽视好的建议，以及建议在什么情况下更有效。作者通过个人经历和历史案例，分析了建议无效的多种原因，并提出了提高建议有效性的方法。核心观点是建议的有效性不仅取决于建议本身的质量，还受到接受者的心理状态、理解能力和执行意愿的影响,。"
 source: "https://dynomight.substack.com/p/advice"
 ---

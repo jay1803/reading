@@ -2,6 +2,7 @@
 title: "The war between fast and legitimate is here"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Joan Westenberg"
 description: "真正的冲突不是“慢机构太蠢、快机构太聪明”，而是速度与合法性正在分裂成两套制度逻辑：能快速响应现实的机构往往缺乏信任，能生产信任的机构又慢到追不上现实。未来的稳定解大概率不是让同一个机构同时做到两者，而是承认二者边界，分别为“速度是瓶颈”和“信任是瓶颈”的问题设计不同制度。"
 source: "https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/"
 ---

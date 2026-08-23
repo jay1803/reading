@@ -2,6 +2,7 @@
 title: "xAI is looking more like a datacentre REIT than a frontier lab"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Martin Alderson"
 description: "xAI 正在把 GPU 算力租给 Anthropic 和 Google，合同金额达 $12.5亿 + $9.2亿/月，这让它越来越像一个数据中心 REIT（房地产信托）而非前沿 AI 实验室。真正的竞争护城河不是 Grok，而是 SpaceX/xAI 以极快速度建造超大规模基础设施的能力。"
 source: "https://martinalderson.com/posts/xais-new-rental-business/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

@@ -2,6 +2,7 @@
 title: "The personalized Internet is here"
 date: 2026-05-08T08:01:45Z
 category: reading
+author: "Eli Schwartz"
 description: "Google 的个性化 AI 搜索会把搜索从“查询词 → 排名页面”改成“个人历史 → 定制答案”；SEO 最核心的失效点不是流量下降本身，而是关键词排名、展示、总点击这些代理指标将越来越无法解释真实收入。品牌要优化的对象不再是关键词位置，而是自己是否能被系统判断为某类具体用户在某个情境下的最佳匹配。"
 source: "https://www.productledseo.com/p/the-personalized-internet-is-here"
 ---

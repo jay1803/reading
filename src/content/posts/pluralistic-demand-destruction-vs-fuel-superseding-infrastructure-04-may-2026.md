@@ -2,6 +2,7 @@
 title: "Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)"
 date: 2026-05-05T08:02:39Z
 category: reading
+author: "Cory Doctorow"
 description: "特朗普把石油武器化，意外加速了全球“需求破坏”：当化石燃料同时变成价格风险、战争风险和供应链风险，廉价太阳能、储能、热泵、电动车、 induction stove 等替代品会从环保选择变成生存型基础设施；一旦家庭、企业和国家完成电气化投资，石油需求很难回到原点。"
 source: "https://pluralistic.net/2026/05/04/hope-in-the-dark/"
 ---

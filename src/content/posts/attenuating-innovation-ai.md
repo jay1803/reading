@@ -2,6 +2,7 @@
 title: "Attenuating Innovation (AI)"
 date: 2023-12-24T17:26:16Z
 category: reading
+author: "Ben Thompson"
 description: "In 2019, a very animated [Bill Gates explained to Andrew Ross Sorkin](https://www.youtube.com/watch?v=_15DReQKbt8) why Microsoft lost mobile:"
 source: "https://stratechery.com/2023/attenuating-innovation-ai/"
 ---

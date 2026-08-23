@@ -2,6 +2,7 @@
 title: "The (Uncertain) Payoff from Alternative Investments: Many a slip between the cup and the lip?"
 date: 2025-06-18T21:46:31Z
 category: reading
+author: "Aswath Damodaran"
 description: "另类投资（hedge funds、PE/VC、房地产、收藏品、加密等）被推销为“低相关+潜在 alpha”的组合增强器，但经验显示：相关性常被低估、alpha 易随规模与拥挤度消失，叠加高费用与低流动性，机构端净收益多为平庸甚至为负；面向个人投资者更应“买者自负”。"
 source: "https://aswathdamodaran.blogspot.com/2025/06/the-uncertain-payoff-from-alternative.html"
 ---

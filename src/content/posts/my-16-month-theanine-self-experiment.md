@@ -2,6 +2,7 @@
 title: "My 16-month theanine self-experiment"
 date: 2025-03-18T10:20:37Z
 category: reading
+author: "dynomight"
 description: "作者通过一个长达 16 个月的双盲自我实验，来测试 Theanine 是否真的如网络上所说的可以缓解焦虑。实验结果表明，Theanine 并没有比维生素 D 更好得缓解压力，作者对 Theanine 的有效性表示怀疑。"
 source: "https://dynomight.net/theanine/"
 ---

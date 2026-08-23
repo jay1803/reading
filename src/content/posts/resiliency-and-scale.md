@@ -2,6 +2,7 @@
 title: "Resiliency and Scale"
 date: 2025-10-23T09:17:36Z
 category: reading
+author: "Ben Thompson"
 description: "两件近事——2025-10-09 中国扩大稀土出口管制与 2025-10-20 AWS US-East-1 的 DNS 故障——共同揭示因规模与路径依赖导致的集中化如何侵蚀“应有”的韧性；恢复韧性需要为去中心化付出真实成本：在“比特”侧是多区域与多云投资，在“原子”侧是极其昂贵的供应链重构。"
 source: "https://stratechery.com/2025/resiliency-and-scale/"
 ---

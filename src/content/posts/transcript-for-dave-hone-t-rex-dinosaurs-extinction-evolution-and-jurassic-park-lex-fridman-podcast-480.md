@@ -2,6 +2,7 @@
 title: "Transcript for Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Lex Fridman"
 description: "围绕 T. rex 的体型、生态位、感觉与运动学、颅骨与咬合、演化脉络及 K–Pg 灭绝展开：T. rex 在其生态系统中“超常”庞大，强壮颅骨与融合鼻骨配合骨粉碎级咬合；以“强力步行”为主，速度上限估算约 40 km/h（~25 mph），但非空中腾跃式奔跑；捕食偏好显著小于自身质量（常见 5–20%），并非常..."
 source: "https://lexfridman.com/dave-hone-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=dave-hone-transcript"
 ---

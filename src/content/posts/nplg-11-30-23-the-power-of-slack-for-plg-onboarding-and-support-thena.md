@@ -2,6 +2,7 @@
 title: "NPLG 11.30.23: The Power of Slack for PLG, Onboarding, and Support (Thena)"
 date: 2023-12-24T18:10:48Z
 category: reading
+author: "Zachary DeWitt"
 description: "Linear、Common Room 和 Incident.io 等公司正在利用 Slack 社区来支持数千甚至数万用户并与之建立联系。"
 source: "https://notoriousplg.substack.com/p/nplg-113023-the-power-of-slack-for"
 ---

@@ -2,6 +2,7 @@
 title: "Buy the Dip: The Draw and Dangers of Contrarian Investing!"
 date: 2025-04-21T10:51:54Z
 category: reading
+author: "Aswath Damodaran"
 description: "逆向投资（Contrarian Investing），特别是“抄底”（Buy the Dip）策略，是指在市场或个股价格大幅下跌时买入。这种策略有多种形式，包括不加选择地买入下跌资产（膝跳反射式）、结合技术指标买入（技术性）、筛选高质量公司后买入（约束性），以及利用市场下跌机会买入一直想持有但此前价格过高的好公司..."
 source: "https://aswathdamodaran.blogspot.com/2025/04/buy-dip-draw-and-dangers-of-contrarian.html"
 ---

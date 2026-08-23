@@ -2,6 +2,7 @@
 title: "I Will Never Respect A Website"
 date: 2026-04-15T08:02:20Z
 category: reading
+author: "Ed Zitron"
 description: "作者真正攻击的不是 AI 能不能偶尔帮忙，而是整个行业把“一个会犯错、需要人兜底、成本失控的网站”包装成历史级智能革命，逼用户、媒体和企业用宗教口吻接受一款本该按普通软件标准被挑剔的产品。"
 source: "https://www.wheresyoured.at/i-will-never-respect-a-website/"
 ---

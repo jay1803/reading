@@ -2,6 +2,7 @@
 title: "Boomer Apple"
 date: 2024-09-15T14:32:43Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章是关于苹果公司的iPhone产品线及其商业模式的分析。作者探讨了iPhone定价策略的变化、硬件与服务业务之间的关系，以及苹果公司如何从一家产品公司转变为服务公司。作者的核心观点是，苹果已经跨越了产品公司的界限，更加依赖服务业务来驱动增长，而硬件则成为实现这一目标的必要但不充分条件。"
 source: "https://stratechery.com/2024/boomer-apple/"
 ---

@@ -2,6 +2,7 @@
 title: "Four Horsemen of the AIpocalypse"
 date: 2026-04-22T08:01:51Z
 category: reading
+author: "Ed Zitron"
 description: "AI 泡沫真正先撞上的不是“能力上限”，而是供给、成本和会计现实：当 Anthropic 连稳定服务都做不到、微软和 Anthropic 开始把补贴订阅往 token 计费切、而 NVIDIA 宣称的销售额远高于在建机房能容纳的 GPU 规模时，“需求爆炸”更像被 VC 补贴、超前采购和财务叙事放大的假繁荣。"
 source: "https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/"
 ---

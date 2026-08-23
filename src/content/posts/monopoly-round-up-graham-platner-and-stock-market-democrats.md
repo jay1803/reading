@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Graham Platner and Stock Market Democrats"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Matt Stoller"
 description: "Stoller把Graham Platner之争视为民主党内部的秩序冲突：表层议题是丑闻、品格和可选性，深层压力来自一个反垄断、反金融化、反既有美国-以色列安全架构的候选人正在获得基层选民授权。文章最尖锐的判断是：如果AI泡沫和金融市场叙事接近破裂，Platner这类候选人的意义会超出一场参议院选举，因为他们预示..."
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-graham-platner"
 ---

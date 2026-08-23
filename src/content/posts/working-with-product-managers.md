@@ -2,6 +2,7 @@
 title: "Working with product managers"
 date: 2026-06-09T08:00:56Z
 category: reading
+author: "Sean Goedecke"
 description: "工程师与 PM 的关系比其他岗位更难维持，根本原因是双方都必须在对方完全无法独立核验的领域做出承诺——信任天然脆弱，而一次背叛即可摧毁。维护好这段关系的收益是不对称的：一旦你成为 PM 信任的首席工程师，获得的组织影响力将远超你的正式权力。"
 source: "https://seangoedecke.com/working-with-product-managers/"
 ---

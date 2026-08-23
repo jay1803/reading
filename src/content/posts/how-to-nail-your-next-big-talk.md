@@ -2,6 +2,7 @@
 title: "How to nail your next big talk"
 date: 2025-10-10T00:35:38Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章的核心判断是：多数高管演讲表现差，首要问题通常不是怯场，而是结构失控；一旦知道每一段为什么存在、下一步要去哪里，紧张感会明显下降，可信度和节奏也会随之提升。作者给出的不是“如何更有魅力”的技巧包，而是一套把 30 分钟演讲压缩成可重复执行模板的结构设计：开场制造张力，中段建立信任并只讲三个点，结尾把理解推..."
 source: "https://www.growthunhinged.com/p/how-to-nail-your-next-big-talk"
 ---

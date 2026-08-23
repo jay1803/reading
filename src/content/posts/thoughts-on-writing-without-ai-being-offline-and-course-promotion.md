@@ -2,6 +2,7 @@
 title: "Thoughts on writing without AI, being offline, and course promotion."
 date: 2026-06-24T08:01:36Z
 category: reading
+author: "Jean Hsu"
 description: "Jean Hsu 在断网一周的家庭营地回来后得出的核心结论：AI 可以提速很多事情，但她想要写作的原因恰恰在于它的\"慢\"——从散乱思绪中拉出一根线，反复修改直到感觉对为止。这个过程是她处理自身状态的方式，不是工作任务。效率不是这里的指标。"
 source: "https://jeanhsu.substack.com/p/thoughts-on-writing-without-ai-being"
 ---

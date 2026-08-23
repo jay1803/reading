@@ -2,6 +2,7 @@
 title: "An Interview with Atlassian CEO Mike Cannon-Brookes About Atlassian and AI"
 date: 2025-12-08T16:53:57Z
 category: reading
+author: "Ben Thompson"
 description: "Mike Cannon-Brookes，Atlassian 联合创始人兼 CEO，与 Scott Farquhar 于 2002 年在悉尼共同创立 Atlassian。起初做咨询服务，六个月后转向软件，以 Jira 起家，现已扩展为拥有 25+ 产品、覆盖全球数十万企业的协作工具巨头。主持人 Ben Thomps..."
 source: "https://stratechery.com/2025/an-interview-with-atlassian-ceo-mike-cannon-brookes-about-atlassian-and-ai/"
 ---

@@ -2,6 +2,7 @@
 title: "从 Notion 到 Plotter：一个数字原住民的「退步」实验"
 date: 2026-05-19T08:01:42Z
 category: reading
+author: "Marvix"
 description: "这篇文章的核心不是“纸笔比数字工具更好”，而是纸笔迫使作者重新学习稀缺性：什么值得留下、什么值得随身携带、什么应该被归档或舍弃。Notion 仍然承担大规模摘录、OCR、整理和检索，Plotter 的价值在于用物理容量、书写阻力和可拆页结构，把“记录一切”的冲动压缩成更有判断力的选择。"
 source: "https://www.noesisapient.com/p/what-do-i-learn-from-scripting"
 ---

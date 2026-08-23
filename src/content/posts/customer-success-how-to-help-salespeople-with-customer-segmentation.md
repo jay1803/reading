@@ -2,6 +2,7 @@
 title: "Customer Success: How to help Salespeople with Customer Segmentation"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "销售、市场、CS 用三套不同的客户分层，核心问题不是效率低，而是逻辑矛盾：客户的\"合适体验\"（AX）从第一次接触品牌就开始，不会因为签约而重置。分层不一致，意味着不同部门在对同一个客户做出不兼容的承诺。流失的种子，就在这里种下。"
 source: "http://sixteenventures.com/customer-success-sales-segmentation"
 ---

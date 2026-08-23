@@ -2,6 +2,7 @@
 title: "★ Apple Should Eliminate the App Icon 'Squircle Jail'"
 date: 2026-07-07T08:02:47Z
 category: reading
+author: "John Gruber"
 description: "苹果的 squircle 强制令不是风格问题，是视觉功能退化。人类视觉系统优先靠形状快速识别物体，图标的形状曾经是其\"最具标志性\"的属性。现在形状被统一消除，与把所有交通标志改成同一形状没有区别——Yield（三角）和 Stop（八边形）有不同形状，不是为了好看，是为了让驾驶员在不需要读字的情况下瞬间分辨。老版..."
 source: "https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail"
 ---

@@ -2,6 +2,7 @@
 title: "AI Is Too Expensive"
 date: 2026-05-21T05:49:55Z
 category: reading
+author: "Ed Zitron"
 description: "这篇文章的核心判断不是“AI 成本偏高”，而是整条生成式 AI 经济链条仍靠资本补贴、云厂商循环交易和企业端 token 狂欢维持表面增长。一旦企业开始认真压缩 token 预算，OpenAI/Anthropic 的收入增长、hyperscaler 的 RPO 叙事、GPU/data center capex 的..."
 source: "https://www.wheresyoured.at/ai-is-too-expensive/"
 ---

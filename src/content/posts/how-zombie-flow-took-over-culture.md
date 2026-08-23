@@ -2,6 +2,7 @@
 title: "How ‘Zombie Flow’ Took Over Culture"
 date: 2026-04-11T08:03:39Z
 category: reading
+author: "Derek Thompson"
 description: "这篇文章最狠的一点是：今天最危险的文化产品不是无聊内容，而是那些让人感觉自己进入了 flow、实际上却把 challenge、purpose、volition 全部抽空的算法体验。它给你 optimal experience 的体感，却偷走了意义，所以作者把它叫作 zombie flow。"
 source: "https://www.derekthompson.org/p/how-zombie-flow-took-over-culture"
 ---

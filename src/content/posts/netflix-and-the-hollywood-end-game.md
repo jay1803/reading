@@ -2,6 +2,7 @@
 title: "Netflix and the Hollywood End Game"
 date: 2026-02-14T20:34:04Z
 category: reading
+author: "Ben Thompson"
 description: "Netflix 以 720 亿美元收购华纳兄弟，不是因为它需要更多内容，而是因为它已确认自己才是 IP 价值的真正来源——好内容只有在 Netflix 上才能被证明是好内容，所以与其为别人的 IP 增值，不如直接买断。"
 source: "https://stratechery.com/2025/netflix-and-the-hollywood-end-game/"
 ---

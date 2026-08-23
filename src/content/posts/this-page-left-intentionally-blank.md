@@ -2,6 +2,7 @@
 title: "This Page Left Intentionally Blank"
 date: 2026-07-03T08:02:22Z
 category: reading
+author: "Jim Nielsen"
 description: "在印刷时代，\"本页有意留白\"是排版的技术残留，无意义。有人曾发起 Web 版本，把空白页定义为数字世界的安静角落，超前于时代但没引起太多关注。"
 source: "https://blog.jim-nielsen.com/2026/intentionally-blank/"
 ---

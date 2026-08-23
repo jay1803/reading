@@ -2,6 +2,7 @@
 title: "Transcript for Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495"
 date: 2026-04-10T08:01:33Z
 category: reading
+author: "Lex Fridman"
 description: "Lars Brownworth，历史作家，著有《The Sea Wolves: A History of the Vikings》和《The Normans: From Raiders to Kings》，也是《12 Byzantine Rulers》与《Norman Centuries》播客主持；他擅长把维京人..."
 source: "https://lexfridman.com/lars-brownworth-transcript/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth-transcript"
 ---

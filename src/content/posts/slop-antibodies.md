@@ -2,6 +2,7 @@
 title: "Slop Antibodies"
 date: 2026-08-18T11:01:00Z
 category: reading
+author: "Kevin Indig"
 description: "AI 将内容生产成本压至接近零，但各平台的「抗体」机制（识别、限流、记忆）正在抵消这一优势——分发许可已成为真正稀缺的资产。"
 source: "https://www.growth-memo.com/p/slop-antibodies"
 ---

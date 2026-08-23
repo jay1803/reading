@@ -2,6 +2,7 @@
 title: "Growth Intelligence Brief #21"
 date: 2026-07-11T08:05:07Z
 category: reading
+author: "Kevin Indig"
 description: "连续两个季度 SEO 下滑、AI 上升的趋势，在6月最后4周同时逆转。Google 5月核心算法更新在6月2日完成，将有机流量重新集中到最大平台，而 AI Overviews 引用这些平台的次数同步下降。这是 SEO 可见度与 AI 引用首次系统性反向。"
 source: "https://www.growth-memo.com/p/growth-intelligence-brief-21"
 ---

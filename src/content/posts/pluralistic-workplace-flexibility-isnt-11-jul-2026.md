@@ -2,6 +2,7 @@
 title: "Pluralistic: Workplace \u201cflexibility\u201d isn't (11 Jul 2026)"
 date: 2026-08-20T01:46:13Z
 category: reading
+author: "Cory Doctorow"
 description: "Uber 的\u201c灵活性\u201d是风险转嫁：前劳工部长 Weil 用原始数据证明，零工平台通过信息垄断和算法将经营风险全部外包给司机，同时对乘客按支付能力定价。"
 source: "https://pluralistic.net/2026/07/11/your-risk/"
 ---

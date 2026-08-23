@@ -2,6 +2,7 @@
 title: "Clouded Judgement 6.6.25 - How to Spot ERR"
 date: 2025-06-18T21:51:57Z
 category: reading
+author: "Jamin Ball"
 description: "在当下 AI 与消费型计费推动的新模式中，大量名义上的 ARR 实际上是不稳定的 ERR（experimental run rate revenue）：来自试点项目、赶工交付、ROI 未明或高度可替代的用例，创始人和投资人必须准确区分 ARR 与 ERR，并据此调整招聘、开支和估值预期，否则极易在收入下滑时陷入倒..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-6625-how-to-spot"
 ---

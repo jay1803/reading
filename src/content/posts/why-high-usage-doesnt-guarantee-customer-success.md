@@ -2,6 +2,7 @@
 title: "Why High Usage Doesn’t Guarantee Customer Success"
 date: 2026-03-09T22:35:41Z
 category: reading
+author: "Lincoln Murphy"
 description: "高使用率不仅不能证明客户正在获得价值，反而会形成「误报平安」——让 CS 团队在客户实际上即将流失时，还沉浸在虚假的健康感中。"
 source: "https://sixteenventures.com/usage-customer-success"
 ---

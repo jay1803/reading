@@ -2,6 +2,7 @@
 title: "Bad Analogies"
 date: 2026-04-09T08:01:35Z
 category: reading
+author: "Packy McCormick"
 description: "作者反对的是偷懒类比。“Amazon 也亏过钱”这句话本身几乎没有判断力。判断一家亏损公司值不值得投，要看烧掉的资金有没有在累积未来现金流的控制权。"
 source: "https://www.notboring.co/p/bad-analogies"
 ---

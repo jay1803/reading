@@ -2,6 +2,7 @@
 title: "Managed agents are the new Lambda"
 date: 2026-05-15T08:01:24Z
 category: reading
+author: "Martin Alderson"
 description: "托管智能体的核心诱惑是“把 agent 从本机搬进云端”，但真正的战略风险是把 agent primitive、工作流状态、权限模型和计费路径一起交给前沿模型厂商；短期像 Lambda 一样省事，长期可能像 Lambda 一样难迁移。"
 source: "https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

@@ -2,6 +2,7 @@
 title: "The quiet and the kind"
 date: 2026-03-22T08:00:20Z
 category: reading
+author: "Rebecca Darley"
 description: "历史贸易文献中那些关于善意、热情与日常温情的细节并非点缀——它们是跨文化交往能够持续数百年的实际条件；而我们不断错过它们，是因为大脑天生更善于追踪那些威胁生存的负面信号。"
 source: "https://coffeewithclio.substack.com/p/the-quiet-and-the-kind"
 ---

@@ -2,6 +2,7 @@
 title: "OpenAI WebRTC Audio Session, now with document context"
 date: 2026-06-14T08:02:30Z
 category: reading
+author: "Simon Willison"
 description: "Simon Willison 更新了他的 OpenAI WebRTC 浏览器端音频工具，新增两项能力：切换到 GPT-Realtime-2（OpenAI 首个具备 GPT-5 级推理能力的实时语音模型），以及粘贴任意文档上下文，用语音对话方式探索自定义材料。"
 source: "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything"
 ---

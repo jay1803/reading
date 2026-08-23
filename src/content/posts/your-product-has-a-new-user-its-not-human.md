@@ -2,6 +2,7 @@
 title: "Your product has a new user. It’s not human."
 date: 2026-04-23T08:02:20Z
 category: reading
+author: "Elena Verna"
 description: "AI 改写的关键，不在搜索入口，而在产品的默认用户正在从人转向 agent：越来越多软件会先被 agent 评估、调用、甚至购买。B2B 竞争重心会随之转到“机器是否容易接入、验证、信任与复用”；凡是护城河建立在 UI、培训成本、流程摩擦和使用习惯上的公司，都会被这一层抽空。"
 source: "https://www.elenaverna.com/p/your-product-has-a-new-user-its-not"
 ---

@@ -2,6 +2,7 @@
 title: "In pursuit of desirable difficulties"
 date: 2026-06-08T08:01:29Z
 category: reading
+author: "Joan Westenberg"
 description: "让 AI 直接输出打磨好的段落，并非在提效——它切断了让判断力真正生长的那种挣扎。辨别\"有价值的困难\"与\"无意义的苦差\"，没有外部框架可用，唯一的办法是与自己的文字保持足够近的距离，靠感知来分辨。"
 source: "https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/"
 ---

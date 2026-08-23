@@ -2,6 +2,7 @@
 title: "I bet you are doing product activation all wrong."
 date: 2025-05-26T17:50:41Z
 category: reading
+author: "Elena Verna"
 description: "本文是关于 B2B 增长系列文章的第三部分，由增长顾问 Elena Verna 撰写。文章深入探讨了 B2B 增长的基石——用户激活 (Activation)。文章定义了激活是一个引导用户从注册到围绕产品核心价值建立习惯的过程，并将其分解为准备 (Setup)、顿悟 (Aha) 和习惯回路 (Habit Loop..."
 source: "https://www.elenaverna.com/p/hey-b2b-i-bet-you-are-measuring-activation"
 ---

@@ -2,6 +2,7 @@
 title: "Let the AI do the Onboarding"
 date: 2025-10-10T20:33:02Z
 category: reading
+author: "Luke Wroblewski"
 description: "这篇文章的核心判断是：AI 最有价值的 onboarding 方式，不是继续教用户怎么用产品，而是先替用户做出第一个可用结果。这样产品就能把最难的“从空白开始”变成“从现成结果继续修改”，把 onboarding 的重点从教学转到 refinement。"
 source: "https://www.lukew.com/ff/entry.asp?2130"
 ---

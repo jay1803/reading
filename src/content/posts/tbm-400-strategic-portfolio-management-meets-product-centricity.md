@@ -2,6 +2,7 @@
 title: "TBM 400: Strategic Portfolio Management Meets Product-Centricity"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "John Cutler"
 description: "软件公司做 Strategic Portfolio Management 总别扭，源头是比喻本身的错位：金融 portfolio 假设资产高度流动可替代，软件团队更像葡萄庄园——任何调仓都多年不可逆。产品型公司的 portfolio 决策早已存在，只是它嵌在产品领导层和组织设计里；独立 PMO 层是在一个本不需要..."
 source: "https://cutlefish.substack.com/p/tbm-400-strategic-portfolio-management"
 ---

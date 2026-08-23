@@ -2,6 +2,7 @@
 title: "AI is kicking off the next revolution of B2B PLG"
 date: 2025-05-26T17:48:38Z
 category: reading
+author: "Elena Verna"
 description: "软件的获取方式正在从产品驱动增长 (Product-Led Growth, PLG) 演变为一个新模式，即用户无需编码即可自行构建所需的定制化应用。这种转变使得用户不再需要在众多产品中试用和选择，而是可以直接根据自身痛点，通过简单的描述或提示 (prompt) 快速生成满足特定工作流的工具。"
 source: "https://www.elenaverna.com/p/ai-is-kicking-off-the-next-revolution"
 ---

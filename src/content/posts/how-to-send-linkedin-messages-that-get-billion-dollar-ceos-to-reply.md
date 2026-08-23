@@ -2,6 +2,7 @@
 title: "How to send LinkedIn messages that get billion-dollar CEOs to reply 💻"
 date: 2026-06-12T08:01:58Z
 category: reading
+author: "Tom Orbach"
 description: "LinkedIn 冷 DM 失败的根本原因不是产品不好，而是信息顺序错了：第一句话没让对方有理由继续读。高回复率 DM 的核心逻辑是\"让对方觉得自己是被特别选中的\"，而非接收了一条群发推销。"
 source: "https://www.marketingideas.com/p/how-to-send-linkedin-messages-that"
 ---

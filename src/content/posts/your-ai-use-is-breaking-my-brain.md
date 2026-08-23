@@ -2,6 +2,7 @@
 title: "Your AI Use Is Breaking My Brain"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Simon Willison"
 description: "AI 低质写作最深的伤害不是制造更多垃圾内容，而是把所有读者都拖进持续鉴别模式：每段文字、每张图、每次道歉、每个论坛回复都开始需要被审讯，互联网从交流空间变成了真伪检测场。"
 source: "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything"
 ---

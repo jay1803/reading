@@ -2,6 +2,7 @@
 title: "Pluralistic: The web is bearable with RSS (07 Mar 2026)"
 date: 2026-03-27T08:01:05Z
 category: reading
+author: "Cory Doctorow"
 description: "Google 2013 年关闭 Reader，不是因为 RSS 失去价值，而是因为 RSS 的核心功能——帮用户发现和分享新页面——直接威胁 Google 正用 G+ 取代 Facebook 的战略：他们宁可杀死一个好工具，也要为一个死产品清路，结果两手落空，把用户推给了 Facebook。"
 source: "https://pluralistic.net/2026/03/07/reader-mode/"
 ---

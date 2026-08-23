@@ -2,6 +2,7 @@
 title: "Your guide to reverse trials"
 date: 2025-02-26T11:42:42Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章探讨了逆向试用（reverse trials）作为产品引导增长（PLG）策略的一部分，与自由计划和免费试用策略相比的优势。从Airtable等公司的实践出发，展示了如何通过逆向试用提高用户获取和转化。"
 source: "https://www.growthunhinged.com/p/your-guide-to-reverse-trials"
 ---

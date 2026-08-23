@@ -2,6 +2,7 @@
 title: "SaaS Free Trial: Require a Credit Card to begin?"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "在免费试用入口要求信用卡，通常会减少试用人数，却没有可靠证据表明能带来更多真实付费客户。决定结果的是试用后的激活、引导、成交和早期留存；把注意力放在“先不先收卡”，往往是在用入口摩擦掩盖流程设计问题。"
 source: "http://sixteenventures.com/saas-free-trial-credit-card?utm_source=rss&utm_medium=rss&utm_campaign=saas-free-trial-credit-card"
 ---

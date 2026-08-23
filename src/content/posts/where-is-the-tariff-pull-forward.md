@@ -2,6 +2,7 @@
 title: "Where is the Tariff Pull Forward?"
 date: 2025-05-06T16:03:56Z
 category: reading
+author: "Doug O'Laughlin"
 description: "这篇文章的核心判断是：市场原本预期的“关税前大规模抢运、抢单、抢库存”并没有真正发生，至少在半导体及其相邻供应链里，只看得到很轻微的提前拉货。企业现在更像是被政策不确定性钉在原地，先小幅加一点库存、延后扩产决策，再等待关税税率和落地方式明朗；如果关税维持较高水平，这种集体观望只会把问题推到下半年，以价格上调、需求..."
 source: "https://www.fabricatedknowledge.com/p/where-is-the-tariff-pull-forward?hide_intro_popup=true"
 ---

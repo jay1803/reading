@@ -2,6 +2,7 @@
 title: "Enterprise Philosophy and The First Wave of AI"
 date: 2024-10-08T18:26:59Z
 category: reading
+author: "Ben Thompson"
 description: "这篇文章讨论了 AI 在企业中的应用，特别是与计算技术发展的历史进行类比。作者认为，AI 的发展类似于计算技术发展的第一个阶段，即大型机时代的企业后端办公数字化，而不是个人电脑时代。AI 的首要应用将是替代人类员工，而不是提高现有员工的效率。这种转变需要企业自上而下的推动，并进行长期的投入和数据整合。"
 source: "https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/"
 ---

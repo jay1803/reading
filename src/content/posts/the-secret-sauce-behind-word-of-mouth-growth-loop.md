@@ -2,6 +2,7 @@
 title: "The secret sauce behind Word of Mouth growth loop."
 date: 2025-05-26T17:49:57Z
 category: reading
+author: "Elena Verna"
 description: "口碑 (Word of mouth, WOM) 是一种强大的免费增长引擎。要规模化地利用口碑效应，产品需要超越纯粹的功能性设计，融入“情感印记 (love marks)”——即那些出乎意料、令人愉悦且富有人情味的体验。这些情感印记能够与用户的自我形象和身份认同产生共鸣，从而激发他们分享产品的意愿。"
 source: "https://www.elenaverna.com/p/how-to-grow-word-of-mouth"
 ---

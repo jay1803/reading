@@ -2,6 +2,7 @@
 title: "Company blogs are no longer worth the investment"
 date: 2025-03-18T10:06:19Z
 category: reading
+author: "Elena Verna"
 description: "公司博客的投资价值正在下降，B2B SaaS 领域的许多大公司博客流量停滞甚至下降。但内容本身并没有消亡，只是需要将资源转移到更有效的策略，如赞助创作者内容、拓展到 YouTube 等高参与度平台，以及专注于特定类型的公司内容。"
 source: "https://www.elenaverna.com/p/company-blogs-are-no-longer-worth"
 ---

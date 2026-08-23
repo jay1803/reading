@@ -2,6 +2,7 @@
 title: "Consistency, But in Excellence Not Appearance"
 date: 2026-06-23T08:02:03Z
 category: reading
+author: "Jim Nielsen"
 description: "系统设计把一致性当终点，结果是所有图标都\"典型\"而非\"标志性\"。macOS 旧图标形状各异、光影各异，但每一个单独拿出来都是经典符号；Creator Studio 的新版图标横向统一，但没有一个能独立成标志。"
 source: "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/"
 ---

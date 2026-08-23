@@ -2,6 +2,7 @@
 title: "Working on products people hate"
 date: 2026-03-29T17:23:59Z
 category: reading
+author: "Sean Goedecke"
 description: "一个工程师的技术水平无法预测他参与的产品是否受人喜爱——大公司里，产品口碑由激励机制和团队结构决定，而非个人代码质量。被憎恨的产品是几乎所有工程师终将面对的职业现实。"
 source: "https://seangoedecke.com/working-on-products-people-hate/"
 ---

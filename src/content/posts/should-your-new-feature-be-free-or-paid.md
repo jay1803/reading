@@ -2,6 +2,7 @@
 title: "Should your new feature be free or paid?"
 date: 2025-05-06T18:23:12Z
 category: reading
+author: "Elena Verna"
 description: "Elena Verna 的核心判断很明确：做了 freemium 以后，给新功能定价时不能默认“新东西一律收费”。这样会把免费层做空，削弱品牌第一印象、用户参与、后续转化和获客入口。更合理的办法，是把“这个功能到底该免费还是付费”拆成一组固定问题来判断：它是否提升留存、带来传播、增强付费场景、已经成为市场标配，以..."
 source: "https://www.elenaverna.com/p/should-your-new-feature-be-free-or"
 ---

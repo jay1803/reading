@@ -2,6 +2,7 @@
 title: "Shopify: Back On Track"
 date: 2024-09-15T14:22:16Z
 category: reading
+author: "Kevin Palmer"
 description: "这篇文章主要介绍了 Shopify 在 2024 年的业绩表现和业务发展策略。它探讨了 Shopify 的收入增长、市场策略、合作伙伴关系以及未来的发展前景。"
 source: "https://www.appeconomyinsights.com/p/shopify-back-on-track"
 ---

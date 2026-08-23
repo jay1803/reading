@@ -2,6 +2,7 @@
 title: "How To Become A Customer Acquisition Expert"
 date: 2022-07-31T01:14:17Z
 category: reading
+author: "Brian Balfour"
 description: "1. There is no one unicorn course/source that will teach you everything you need."
 source: "https://brianbalfour.com/essays/customer-acquisition"
 ---

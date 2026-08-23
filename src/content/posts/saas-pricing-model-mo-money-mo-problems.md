@@ -2,6 +2,7 @@
 title: "SaaS Pricing Model: Mo’ Money, Mo’ Problems"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "按用户数或交易量定价的 SaaS，实际是在对错误的东西定价——真正驱动支付意愿的是客户组织的复杂度，而非规模。复杂度高的小组织在用最多功能，却因用户数少而付最少钱；规模大但简单的组织则因座位多而被迫多付，但只用基础功能。两边都没有按价值付费，两边都不会主动升级。"
 source: "http://sixteenventures.com/saas-pricing-complexity?utm_source=rss&utm_medium=rss&utm_campaign=saas-pricing-complexity"
 ---

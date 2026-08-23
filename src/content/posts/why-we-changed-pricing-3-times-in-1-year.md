@@ -2,6 +2,7 @@
 title: "Why we changed pricing 3 times in 1 year"
 date: 2025-05-28T10:58:38Z
 category: reading
+author: "Ben McRedmond"
 description: "Equals 公司通过六个版本的迭代，探索并找到了适合其当前产品的定价市场契合点（pricing-market fit）。这个过程强调了主动实验的重要性，并揭示了关于使用限制、捆绑销售、实验幅度以及早期分销策略的关键经验。"
 source: "https://wrap-text.equals.com/p/why-we-changed-pricing-3-times-in-1-year"
 ---

@@ -2,6 +2,7 @@
 title: "Customer Growth: Upselling Hurts Trust (When You Do It Wrong)"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "扩张配额失败的真正原因不是 CSM 不擅长销售——而是把新客 logo sales 的配额逻辑照搬到老客户身上这件事本身就注定失败：客户先学会忽略你的所有消息，然后因为没人帮他们成功而流失。"
 source: "https://sixteenventures.com/upselling-trust"
 ---

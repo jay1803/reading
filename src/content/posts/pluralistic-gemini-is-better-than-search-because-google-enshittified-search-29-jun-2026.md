@@ -2,6 +2,7 @@
 title: "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)"
 date: 2026-06-30T08:04:46Z
 category: reading
+author: "Cory Doctorow"
 description: "AI摘要越来越受欢迎，不是因为它本身多好，而是因为Google把开放网络搞成了垃圾场。用户选择Gemini摘要，本质上是在绕开Google自己造成的问题。这是Doctorow的\"放火者当消防员\"论点：Google有能力提供高质量搜索结果（Kagi用Google自家索引加一个小团队就做到了），但主动选择不这样做——..."
 source: "https://pluralistic.net/2026/06/29/arsonist-firefighters/"
 ---

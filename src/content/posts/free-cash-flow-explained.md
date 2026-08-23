@@ -2,6 +2,7 @@
 title: "Free Cash Flow Explained"
 date: 2025-07-03T12:18:05Z
 category: reading
+author: "Kevin Palmer"
 description: "自由现金流 (Free Cash Flow, FCF) 是公司在支付了运营费用 (OpEx) 和资本支出 (CapEx) 后剩余的现金。与容易被会计准则操纵的利润不同，FCF 更能真实反映公司的财务健康状况和价值创造能力，是投资者评估公司再投资能力、股东回报和财务弹性的核心指标。"
 source: "https://www.appeconomyinsights.com/p/free-cash-flow-explained"
 ---

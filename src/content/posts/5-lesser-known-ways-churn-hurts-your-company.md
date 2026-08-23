@@ -2,6 +2,7 @@
 title: "5 Lesser-Known Ways Churn Hurts your Company"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "客户流失的核心危害不是\"少了那笔钱\"，而是它在估值折扣、可触达市场、竞争弹药、品牌商誉、员工士气五个维度上同步侵蚀公司——每一项都比流失率数字更难量化、更难修复。"
 source: "http://sixteenventures.com/churn-hurts"
 ---

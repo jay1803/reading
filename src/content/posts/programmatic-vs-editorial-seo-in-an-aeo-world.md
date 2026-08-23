@@ -2,6 +2,7 @@
 title: "Programmatic vs Editorial SEO in an AEO world"
 date: 2026-07-03T08:02:22Z
 category: reading
+author: "Eli Schwartz"
 description: "Programmatic 的优势从未变：边际成本接近零，可大规模覆盖长尾需求。但 AEO 时代新增了一道筛选：模型会不会愿意汇总这个页面？带潜在客户表单的页面会被跳过；提供即时有用数据的动态页面（如 Bankrate 的抵押贷款计算器）会被引用。NerdWallet 的长篇信用卡内容正在被 AI 直接回答替代。这..."
 source: "https://www.productledseo.com/p/programmatic-vs-editorial-seo-in"
 ---

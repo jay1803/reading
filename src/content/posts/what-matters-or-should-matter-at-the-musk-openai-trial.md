@@ -2,6 +2,7 @@
 title: "What matters (or should matter), at the Musk-OpenAI trial"
 date: 2026-05-06T08:03:08Z
 category: reading
+author: "Gary Marcus"
 description: "Musk 诉 OpenAI 的关键变量已经从“法律分析师普遍认为Musk案子弱”转向一个更具体的问题：陪审团会不会认定 OpenAI 的营利化与原始“AI safety for public benefit”使命发生了实质背离。Brockman 的日记和邮件把这个问题从道德争吵拉到了证据层面：OpenAI 内部似..."
 source: "https://garymarcus.substack.com/p/what-matters-or-should-matter-at"
 ---

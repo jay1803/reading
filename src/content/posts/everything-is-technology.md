@@ -2,6 +2,7 @@
 title: "Everything is Technology"
 date: 2025-05-19T17:53:27Z
 category: reading
+author: "Packy McCormick"
 description: "VC巨型基金不是贪婪的管理费机器——他们是最早押注\"一切皆技术\"的人：科技公司将系统性替代全行业传统巨头，而这次所有被创造/转移的价值都将落入VCAV，潜在规模至少是过去十年VC退出总量的10倍。"
 source: "https://www.notboring.co/p/everything-is-technology"
 ---

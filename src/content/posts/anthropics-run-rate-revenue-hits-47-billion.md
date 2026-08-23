@@ -2,6 +2,7 @@
 title: "Anthropic's run-rate revenue hits $47 billion"
 date: 2026-05-30T08:04:01Z
 category: reading
+author: "Simon Willison"
 description: "Anthropic 披露的 $47B run-rate revenue 最强信号不是绝对收入规模，而是增长斜率已经进入几乎无法用传统 SaaS 框架解释的区域：4 月外部报道还在讨论 $30B，5 月融资公告已写到 $47B，按月收入年化口径约等于当前单月收入接近 $3.9B。"
 source: "https://simonwillison.net/2026/May/29/anthropic/#atom-everything"
 ---

@@ -2,6 +2,7 @@
 title: "The Templafy Story: Can Growth Hacking Work in an Enterprise SaaS Business?"
 date: 2024-06-16T15:24:57Z
 category: podcast
+author: "Sean Ellis"
 description: "Background and Context: The podcast \"Breakout Growth,\" hosted by Sean Ellis, features discussions with leaders of the fastest-growing companies. This episode..."
 source: "https://seanellis.substack.com/p/the-templafy-story-can-growth-hacking-349"
 ---

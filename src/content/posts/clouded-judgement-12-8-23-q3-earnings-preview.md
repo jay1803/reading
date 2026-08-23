@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.8.23 - Q3 Earnings Preview"
 date: 2023-12-10T11:20:25Z
 category: reading
+author: "Jamin Ball"
 description: "Quarterly Growth rates: Still decelerating, but not as quickly"
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-12823"
 ---

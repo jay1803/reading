@@ -2,6 +2,7 @@
 title: "Position or Perish: The Narrative Blueprint"
 date: 2026-05-13T08:01:53Z
 category: reading
+author: "Joan Westenberg"
 description: "定位的核心价值是把公司压缩成市场能立刻复述的一句话；这句话先决定产品、定价、融资、招聘和叙事，再决定首页文案。创始人最贵的错误，是把定位当成上线后的营销包装，结果团队每个决策都在重写“我们是谁”。"
 source: "https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/"
 ---

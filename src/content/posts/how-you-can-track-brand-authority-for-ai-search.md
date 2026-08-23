@@ -2,6 +2,7 @@
 title: "How you can track Brand Authority for AI Search"
 date: 2025-10-10T00:34:38Z
 category: reading
+author: "Kevin Indig"
 description: "两个独立研究（7,000 条 AI 引用 + Ahrefs 75K 品牌数据）得出同一结论：品牌搜索量是 AI 聊天机器人提及量最强预测因子（相关性 0.334 / 0.392）。大多数「AIO 优化」团队在错误的杠杆上发力——内容深度的影响力远弱于有多少人主动搜索你的品牌名。"
 source: "https://www.growth-memo.com/p/how-you-can-track-brand-authority"
 ---

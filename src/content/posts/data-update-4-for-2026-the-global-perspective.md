@@ -2,6 +2,7 @@
 title: "Data Update 4 for 2026: The Global Perspective!"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Aswath Damodaran"
 description: "美国主权评级下调迫使 Damodaran 改变了沿用近三十年的估值方法：成熟市场股权风险溢价需要从 S&P 500 隐含溢价中先剔除美国自身的违约利差（0.23%），得到 4.23% 的\"纯净\"基准——\"美国 = 无风险基准\"假设在他的模型中正式终结。"
 source: "https://aswathdamodaran.blogspot.com/2026/02/data-update-4-for-2026-global.html"
 ---

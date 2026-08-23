@@ -2,6 +2,7 @@
 title: "Web App Sales Funnel: 2 Questions You MUST Answer"
 date: 2026-03-09T22:24:55Z
 category: reading
+author: "Lincoln Murphy"
 description: "定价页通常是 SaaS 网站访问量第二高的页面，但它同时也是最被忽视的页面——更关键的是，大量用户根本不走你精心设计的漏斗，而是直接从定价页首次进入你的产品，这意味着你的\"销售漏斗\"对这部分人来说根本不存在。"
 source: "http://sixteenventures.com/web-app-sales-funnel-metrics?utm_source=rss&utm_medium=rss&utm_campaign=web-app-sales-funnel-metrics"
 ---

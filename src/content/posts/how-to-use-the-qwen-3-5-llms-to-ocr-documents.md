@@ -2,6 +2,7 @@
 title: "How to use the Qwen 3.5 LLMs to OCR documents"
 date: 2026-03-27T08:01:53Z
 category: reading
+author: "Martin Alderson"
 description: "用 OpenRouter + Qwen3.5-9B 做批量 OCR，速度和成本都已经优于 OpenAI / Google 等前沿 API——不是\"差不多便宜\"，是实质性更快更便宜：1000页约12美分、约60秒。"
 source: "https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

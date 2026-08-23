@@ -2,6 +2,7 @@
 title: "The Price of Risk: An Equity Risk Premium Monologue!"
 date: 2026-03-18T08:02:09Z
 category: reading
+author: "Aswath Damodaran"
 description: "历史 ERP 在市场最需要高风险溢价时反而下降（危机期间历史回报更新拉低了均值）；隐含 ERP（从当前股价反推内含报酬率）能实时捕捉市场恐惧，且与时间段选择无关——两者的方向性差异本身就是传统方法失效的铁证。"
 source: "https://aswathdamodaran.blogspot.com/2026/03/the-price-of-risk-equity-risk-premium.html"
 ---

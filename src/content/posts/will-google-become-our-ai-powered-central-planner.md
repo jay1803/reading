@@ -2,6 +2,7 @@
 title: "Will Google Become Our AI-Powered Central Planner?"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Matt Stoller"
 description: "Google 正在把 Gemini 从聊天机器人推进成经济基础设施：一端接入 Gmail、Photos、Search 与 Apple 生态拿到更深的数据和分发，另一端接入零售、支付与广告体系去影响推荐、优惠和成交价格。文章的核心判断是，Gemini 真正的变现点未必是订阅费，而是把“知道你是谁”与“决定商家如何向..."
 source: "https://www.thebignewsletter.com/p/will-google-organize-the-worlds-prices"
 ---

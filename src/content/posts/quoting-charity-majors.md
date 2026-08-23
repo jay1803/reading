@@ -2,6 +2,7 @@
 title: "Quoting Charity Majors"
 date: 2026-06-18T08:02:39Z
 category: reading
+author: "Simon Willison"
 description: "Charity Majors 的核心观察：代码生产的成本结构在 2025 年发生了结构性逆转。过去，写代码昂贵、耗时，代码因此被当作稀缺资产——需要复用、维护、精心打磨。AI 之后，代码生成变得几乎免费且即时，代码从稀缺资产变成了可随时丢弃、随时重新生成的消耗品。"
 source: "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything"
 ---

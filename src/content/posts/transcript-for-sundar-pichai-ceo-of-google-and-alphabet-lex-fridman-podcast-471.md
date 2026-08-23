@@ -2,6 +2,7 @@
 title: "Transcript for Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471"
 date: 2025-06-17T12:24:19Z
 category: reading
+author: "Lex Fridman"
 description: "对话围绕“技术如何改变个人命运与人类生产力”的主线展开：成长于资源匮乏环境的早年经历让 Sundar Pichai 将技术视为切实的生活改写器；对 AI 长期持乐观且谨慎的态度——风险客观存在，但当“p(doom)”变高时人类会自发协同降险；在生成式与自我改进研究的推动下，AI 有望成为超过电力/互联网级别的生产..."
 source: "https://lexfridman.com/sundar-pichai-transcript"
 ---

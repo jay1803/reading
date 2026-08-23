@@ -2,6 +2,7 @@
 title: "Amazon: First Inning for AI"
 date: 2025-05-06T15:59:46Z
 category: reading
+author: "Kevin Palmer"
 description: "AWS 利润率同比提升 2pp 至 39%，背后主因是服务器使用寿命延长的会计调整，而非 AI 效率真实改善；Q2 运营利润指引中位数低于市场预期，Kuiper 卫星成本将直接压制近期利润。"
 source: "https://www.appeconomyinsights.com/p/amazon-first-inning-for-ai"
 ---

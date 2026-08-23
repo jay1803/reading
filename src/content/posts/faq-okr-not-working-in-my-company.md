@@ -2,6 +2,7 @@
 title: "FAQ: OKR Not Working in My Company"
 date: 2025-01-02T11:02:55Z
 category: reading
+author: "Itamar Gilad"
 description: "本文探讨了为什么OKR（目标与关键结果）在许多公司中难以实施，并提出了解决方案。作者指出，OKR的困境往往反映了公司文化、数据不足和 delivery 导向等更深层次的问题。"
 source: "https://itamargilad.com/okr-faq/"
 ---

@@ -2,6 +2,7 @@
 title: "The Pentagon is making a mistake by threatening Anthropic"
 date: 2026-03-04T00:22:27Z
 category: reading
+author: "Timothy B. Lee"
 description: "五角大楼威胁 Anthropic：要么去除 Claude 的安全护栏（禁止监控美国公民、禁止无人监督的自主杀伤武器），要么被列为\"供应链风险\"并终止合同。作者认为这是臭棋——Anthropic 有现实能力抗住压力，强制重训在技术层面可能根本无效，而反制手段的副作用可能让五角大楼自断 Silicon Valley..."
 source: "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake"
 ---

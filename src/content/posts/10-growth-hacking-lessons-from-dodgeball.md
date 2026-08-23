@@ -2,6 +2,7 @@
 title: "10 Growth Hacking Lessons from Dodgeball"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章把 growth hacking 拆成十条行为准则，核心不是奇技淫巧，而是围绕明确增长目标，用高实验密度、高观察力和足够进攻性持续试错，同时守住合法与伦理边界。作者真正强调的是：增长不是品牌式撒网，也不是被动防守，而是一套以目标、节奏、聚焦和组织容错为前提的进攻系统。"
 source: "http://sixteenventures.com/growth-hacking-dodgeball"
 ---

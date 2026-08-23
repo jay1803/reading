@@ -2,6 +2,7 @@
 title: "Clouded Judgement 1.3.25 - Domain Specific Models"
 date: 2025-01-17T18:54:52Z
 category: reading
+author: "Jamin Ball"
 description: "While 2024 celebrated the triumph of generalized models OpenAI, Anthropic, Meta and others trained on vast public datasets, this year’s breakthroughs are eme..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-1325-domain-specific"
 ---

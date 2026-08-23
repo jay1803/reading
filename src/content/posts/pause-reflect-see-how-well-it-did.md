@@ -2,6 +2,7 @@
 title: "Pause, Reflect, See How Well it Did"
 date: 2025-10-10T00:35:07Z
 category: reading
+author: "Naval Ravikant"
 description: "这篇短文的核心非常硬：成长不是“重复更多次”，而是“更快完成反馈闭环”。真正让人变强的不是时间堆积，而是做事之后停下来复盘、调整，再重新出手的能力。"
 source: "https://nav.al/reflect"
 ---

@@ -2,6 +2,7 @@
 title: "An Interview with Cloudflare Founder and CEO Matthew Prince About Internet History and Pay-per-crawl"
 date: 2025-10-10T00:35:28Z
 category: reading
+author: "Ben Thompson"
 description: "Matthew Prince，Cloudflare 联合创始人与 CEO。犹他州长大，6 岁获赠 Apple II 起步，本科主修英语文学（同时担任学生网络管理员），后取得法学学位（John Marshall 法学院兼职讲师），再入哈佛商学院，并在那里与 Michelle Zatlyn、Lee Holloway..."
 source: "https://stratechery.com/2025/an-interview-with-cloudflare-founder-and-ceo-matthew-prince-about-internet-history-and-pay-per-crawl/"
 ---

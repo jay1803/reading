@@ -2,6 +2,7 @@
 title: "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’"
 date: 2026-03-24T08:01:59Z
 category: reading
+author: "John Gruber"
 description: "移动广告因屏幕小、注意力更集中，理应比桌面广告更值钱——但市场定价完全相反，而发布商的应对是塞更多广告，从而把情况推向更坏。"
 source: "https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads"
 ---

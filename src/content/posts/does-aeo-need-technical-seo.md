@@ -2,6 +2,7 @@
 title: "Does AEO need technical SEO?"
 date: 2026-06-19T08:02:21Z
 category: reading
+author: "Eli Schwartz"
 description: "AI 爬虫普遍是轻量级系统，不运行完整浏览器栈、无法执行 JavaScript，意味着所有客户端渲染的内容对大部分 AI 爬虫实际不可见。这个问题比 Google 时代更难处理——面对的是能力各异的碎片化爬虫生态，而非一个可信赖的 Googlebot。LLM 的训练和索引依赖搜索索引，没有 SEO 就没有 AEO..."
 source: "https://www.productledseo.com/p/the-role-of-technical-seo-in-aeo"
 ---

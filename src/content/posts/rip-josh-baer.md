@@ -2,6 +2,7 @@
 title: "RIP Josh Baer"
 date: 2026-06-19T08:02:20Z
 category: reading
+author: "Brad Feld"
 description: "Josh Baer，Capital Factory 创始人兼 CEO，2026 年 6 月 17 日在德克萨斯拉雷多附近坠机身亡，年仅 50 岁。小型飞机从卡波飞往奥斯汀途中发生机械故障，同机五人生还，Baer 未能幸免。"
 source: "https://feld.com/archives/2026/06/rip-josh-baer/"
 ---

@@ -2,6 +2,7 @@
 title: "Understand, Classify, and Effectively Analyze Churn"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "解决\"Churn 分析瘫痪\"的关键，不是更多数据，而是先用 2×2 矩阵（可预见/不可预见 × 可避免/不可避免）把流失分类——分类之前，一切行动优先级都是假的。"
 source: "https://sixteenventures.com/classify-churn"
 ---

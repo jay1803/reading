@@ -2,6 +2,7 @@
 title: "Algorithms for Optimization (Explained Simply): Part 2 - Line Search and the Trust Region Method"
 date: 2025-11-04T10:50:02Z
 category: reading
+author: "Nick M"
 description: "Line search 与 Trust Region 处理步长的顺序相反：前者先选下降方向再优化步长，后者先划定「可信半径」再在其内同时确定方向和步长——这个顺序差异使后者在高度非线性函数中收敛更稳健。"
 source: "https://photonlines.substack.com/p/algorithms-for-optimization-explained-f26"
 ---

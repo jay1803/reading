@@ -2,6 +2,7 @@
 title: "Data Update 3 for 2026: The Trust Deficit - Bonds, Currencies, Gold and Bitcoin!"
 date: 2026-02-14T20:39:06Z
 category: reading
+author: "Aswath Damodaran"
 description: "2025年信任赤字的矛盾结局：股票和债券无动于衷，但黄金涨65%、白银涨148%、美元跌7.2%——市场内部对\"机构信任崩塌\"这个同一事件，给出了截然相反的定价。"
 source: "https://aswathdamodaran.blogspot.com/2026/01/data-update-3-for-2026-trust-deficit.html"
 ---

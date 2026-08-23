@@ -2,6 +2,7 @@
 title: "Design Futures Assembly"
 date: 2026-05-06T08:03:08Z
 category: reading
+author: "Luke Wroblewski"
 description: "设计师在 AI 时代的核心护城河不是“会做界面”或“会用某个工具”，而是当每个人都能快速造东西时，仍能让产品保持一致判断、克制取舍与人性化方向。"
 source: "https://www.lukew.com/ff/entry.asp?2151"
 ---

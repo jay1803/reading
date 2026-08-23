@@ -2,6 +2,7 @@
 title: "See the Forest from the Trees"
 date: 2023-12-28T16:01:10Z
 category: reading
+author: "muji"
 description: "这篇文章主要分析了 Forrester Wave 发布的 2020 年第一季度企业检测与响应（EDR）报告。报告指出，CrowdStrike 在 EDR 领域处于领先地位，其安全分析能力是关键的差异化因素。文章还讨论了 Elastic Security 的潜力与定价模式，并认为 Forrester 对其定价模式的..."
 source: "https://hhhypergrowth.com/see-the-forest-from-the-trees/"
 ---

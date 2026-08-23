@@ -2,6 +2,7 @@
 title: "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution"
 date: 2026-03-24T08:01:59Z
 category: reading
+author: "Lex Fridman"
 description: "Jensen Huang，NVIDIA 联合创始人兼 CEO，任职 34 年，全球在任最长的科技公司 CEO。NVIDIA 目前市值约 4 万亿美元，为全球 AI 算力提供核心基础设施。Lex Fridman 为播客主持人，MIT 研究科学家，以长对谈形式著称。"
 source: "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang"
 ---

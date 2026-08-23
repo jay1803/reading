@@ -2,6 +2,7 @@
 title: "Customer Success: Who handles Upsells?"
 date: 2026-03-09T22:24:54Z
 category: reading
+author: "Lincoln Murphy"
 description: "这篇文章最核心的观点是：“谁来做 upsell，Sales 还是 CS？”这个问题本身往往问错了。 Lincoln Murphy 的答案不是简单选边站，而是先纠正一个更深的误解：如果你把 upsell 理解成“追着客户要更多钱”，那不该由任何人来做；但如果你把 expansion 理解成客户随着自身成长、为了持续..."
 source: "http://sixteenventures.com/customer-success-who-handles-upsells"
 ---

@@ -2,6 +2,7 @@
 title: "The Latin of Linux"
 date: 2026-06-06T08:04:03Z
 category: reading
+author: "John D. Cook"
 description: "Linux/Unix 命令行里很多看似任意的符号和语法，其实是从 ed(1) 这类早期行编辑器继承下来的“制度化古典语法”；理解 ed(1) 的价值不在于今天要用它编辑文件，而在于它解释了后来工具链共同继承的默认约定。"
 source: "https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/"
 ---

@@ -2,6 +2,7 @@
 title: "Pluralistic: In praise of vultures (06 May 2026)"
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Cory Doctorow"
 description: "Doctorow 的核心判断是：许多资本拥有者并不真正拥护“市场竞争”，他们更想要一种免于竞争、免于诉讼、免于监管的准封建秩序；所谓“秃鹫律师”反而是清理企业腐败、让市场重新承担责任的生态角色。"
 source: "https://pluralistic.net/2026/05/06/champerty-loves-company/"
 ---

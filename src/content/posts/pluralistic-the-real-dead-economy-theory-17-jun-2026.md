@@ -2,6 +2,7 @@
 title: "Pluralistic: The (real) dead economy theory (17 Jun 2026)"
 date: 2026-06-18T08:02:39Z
 category: reading
+author: "Cory Doctorow"
 description: "真正的\"死亡经济\"风险不是AI抢走所有工作，而是金融市场已经放弃了对资产做真实估值——资本正在系统性地从癌症研究、实体生产转移进meme股、Spacex IPO和数据中心，而本应阻止这一切的机构早已停止尝试。"
 source: "https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/"
 ---

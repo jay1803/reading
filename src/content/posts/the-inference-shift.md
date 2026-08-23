@@ -2,6 +2,7 @@
 title: "The Inference Shift"
 date: 2026-05-12T08:01:38Z
 category: reading
+author: "Ben Thompson"
 description: "真正的推理算力拐点，核心不在“更快 GPU”继续线性胜出；agentic inference 会把约束从人类等待延迟转向长期状态、上下文、记忆层级和单位成本。这会让训练继续偏向 Nvidia，回答型推理偏向 Cerebras/Groq 这类速度专用架构，而最大市场可能逐步转向“足够快算力 + 大容量廉价内存 +..."
 source: "https://stratechery.com/2026/the-inference-shift/"
 ---

@@ -2,6 +2,7 @@
 title: "🔎 Google: AI Push Intensifies"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Kevin Palmer"
 description: "AI Overviews 被普遍预期会蚕食搜索广告，实测结果是展示该功能的查询量多了 10%+，商业意图更强、变现与传统广告持平——假设的威胁变成了顺风。"
 source: "https://www.appeconomyinsights.com/p/google-ai-push-intensifies"
 ---

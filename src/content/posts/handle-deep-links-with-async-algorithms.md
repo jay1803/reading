@@ -2,6 +2,7 @@
 title: "Handle Deep Links with Async Algorithms"
 date: 2025-05-12T13:44:17Z
 category: reading
+author: "Jacob Bartlett"
 description: "用 AsyncChannel 的 back pressure 特性做深链路由，每个路由独享一个 channel——看似绕路，实则直接暴露了 Async Algorithms 至今无法广播的根本缺陷；这个框架在深链场景上恰好够用，但设计天花板清晰可见。"
 source: "https://blog.jacobstechtavern.com/p/deep-links-with-async-algorithms"
 ---

@@ -2,6 +2,7 @@
 title: "Clouded Judgement 12.26.25 - Exuberance Returning"
 date: 2026-02-14T20:36:35Z
 category: reading
+author: "Jamin Ball"
 description: "作者判断 2026 年会成为 AI 驱动的新一轮风险偏好扩张期：宏观层面是增长走强、通胀回落、利率松动、AI 主题 IPO 与并购带来流动性回归，产业层面是 AI 从“讲 ROI 故事”进入“报表里兑现 ROI”的阶段。结果不是局部行情，而是从二级市场到成长投资再到 VC 的整条风险曲线一起上移，估值、融资频率和..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-122625-exuberance"
 ---

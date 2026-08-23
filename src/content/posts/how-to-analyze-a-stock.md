@@ -2,6 +2,7 @@
 title: "How to Analyze a Stock"
 date: 2025-01-17T18:55:08Z
 category: reading
+author: "Kevin Palmer"
 description: "Mission: the “why” behind what they do."
 source: "https://www.appeconomyinsights.com/p/how-to-analyze-a-stock"
 ---

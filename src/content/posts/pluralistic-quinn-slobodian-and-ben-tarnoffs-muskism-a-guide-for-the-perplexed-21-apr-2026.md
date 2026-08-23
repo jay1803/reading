@@ -2,6 +2,7 @@
 title: "Pluralistic: Quinn Slobodian and Ben Tarnoff's \"Muskism: A Guide for the Perplexed\" (21 Apr 2026)"
 date: 2026-04-22T08:01:51Z
 category: reading
+author: "Cory Doctorow"
 description: "这篇文章抓得最准的一点是：Muskism 不是“马斯克个人很疯”的心理画像，而是一套更危险的政治技术方案，核心不是逃离国家，而是夺取国家、拆掉公共约束，再把国家能力改造成少数技术寡头的私人外骨骼。"
 source: "https://pluralistic.net/2026/04/21/torment-nexusism/"
 ---

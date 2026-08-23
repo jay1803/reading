@@ -2,6 +2,7 @@
 title: "Sell the Truth"
 date: 2026-05-12T08:01:56Z
 category: reading
+author: "Naval Ravikant"
 description: "Naval 与长期共同主持人 Nivi 讨论“销售”这件事；内容来自 Naval Podcast。Naval 的身份在文中体现为创业者、投资人、公司创始人，以及多次融资、招募、谈判和组建小团队的人。"
 source: "https://nav.al/sell"
 ---

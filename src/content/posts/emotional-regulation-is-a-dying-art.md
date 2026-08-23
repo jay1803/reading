@@ -2,6 +2,7 @@
 title: "Emotional regulation is a dying art."
 date: 2026-05-07T08:02:46Z
 category: reading
+author: "Joan Westenberg"
 description: "情绪调节正在消失，核心不是现代人“更会表达情绪”，而是把第一反应误认为真实自我：一旦每种不适都被命名为伤害、边界侵犯或创伤，个体就失去了在刺激与回应之间加工经验、承担选择责任的那块内在空间。"
 source: "https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/"
 ---

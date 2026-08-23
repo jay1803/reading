@@ -2,6 +2,7 @@
 title: "AI GPUs probably live longer than three years"
 date: 2026-06-16T08:02:20Z
 category: reading
+author: "Sean Goedecke"
 description: "\"AI GPU 寿命仅三年\"的断言来自一条匿名推文引用的付费专家访谈，可信度存疑；多项公开数据表明物理寿命可达六年以上，泡沫论者用这个数据支撑\"推理成本将暴涨\"的逻辑链在起点处就站不住脚。"
 source: "https://seangoedecke.com/ai-gpus-live-longer-than-three-years/"
 ---

@@ -2,6 +2,7 @@
 title: "The Earnest Era Ends"
 date: 2026-08-21T05:14:00Z
 category: reading
+author: "Ernie Smith"
 description: "流行音乐制作美学自1998年起冻结，变的只是谁唱和唱什么。Glen Hansard 离世让这个观察有了具体的面孔。"
 source: "https://feed.tedium.co/link/15204/17404612/glen-hansard-passing-reflection"
 ---

@@ -2,6 +2,7 @@
 title: "Designing a Sales-to-CSM Handoff that Actually Works"
 date: 2026-03-09T22:34:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "销售到 CSM 的 handoff 不是行政交接，而是客户价值实现的真正起点；这里处理得好，客户更快进入 kickoff、目标不失真、内部责任也不会断线。作者的核心设计是把“成交”延后到 kickoff 完成为止，用时间窗口、预期管理、明确归属和补充 discovery 信息，把客户从“刚买完”直接推进到“开始实..."
 source: "https://sixteenventures.com/sales-to-csm-handoff"
 ---

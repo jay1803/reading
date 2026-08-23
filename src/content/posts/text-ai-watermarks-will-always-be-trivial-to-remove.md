@@ -2,6 +2,7 @@
 title: "Text AI watermarks will always be trivial to remove"
 date: 2026-07-03T08:02:22Z
 category: reading
+author: "Sean Goedecke"
 description: "EU AI Act Article 50 要求 LLM 输出携带可检测的 AI 水印，且水印必须\"难以从内容中分离\"（2026 年 8 月开始执行）。这两个要求在文字媒介上存在根本矛盾。"
 source: "https://seangoedecke.com/text-ai-watermarks/"
 ---

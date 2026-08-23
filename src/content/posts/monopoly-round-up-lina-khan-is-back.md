@@ -2,6 +2,7 @@
 title: "Monopoly Round-Up: Lina Khan Is Back"
 date: 2026-04-09T08:02:31Z
 category: reading
+author: "Matt Stoller"
 description: "这篇文章真正要说的，不是 Lina Khan 离开 FTC 后的个人去向，而是反垄断运动开始进入自己的“Bork 时刻”：它已经从一轮执法实验，转向更慢但更关键的机构建设，试图把反 corporate power 的法律与政治经济学，固化成学院、律所、智库、媒体、教材和新一代政治人才的长期基础设施。Khan 在哥..."
 source: "https://www.thebignewsletter.com/p/monopoly-round-up-the-next-chapter"
 ---

@@ -2,6 +2,7 @@
 title: "How to build more pipeline in 2024"
 date: 2024-09-15T14:35:58Z
 category: reading
+author: "Kate Syuma"
 description: "这篇文章总结了多位企业营收负责人和营销负责人的访谈，探讨了如何在 2024 年下半年构建更多的销售线索。文章的核心问题是如何在当前市场环境下实现销售增长，受访者的主要观点集中在四个方面：举办各种线上和线下活动、跨团队协调基于客户的营销活动、在客户拓展方面发挥更多创意、重新审视定价和包装策略以促进初步销售和后续扩张。"
 source: "https://www.growthunhinged.com/p/how-to-build-more-pipeline-in-2024"
 ---

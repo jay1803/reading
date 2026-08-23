@@ -2,6 +2,7 @@
 title: "How I think about reducing AI costs"
 date: 2026-08-19T00:04:29Z
 category: reading
+author: "Martin Alderson"
 description: "AI 成本不再边缘——企业用过时模型和低效工具导致账单失控。四层递进框架：审计→换模型→换供应商→workflow 级优化，节省主力往往在后两层。"
 source: "https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&utm_medium=rss&utm_campaign=feed"
 ---

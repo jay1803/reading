@@ -2,6 +2,7 @@
 title: "★ Software as the Product of Obsession Times Voice"
 date: 2026-05-06T08:03:08Z
 category: reading
+author: "John Gruber"
 description: "Gruber 的核心判断是：软件质量正在沿“工艺性痴迷”与“software brain”分叉。前者把赚钱视为继续打磨作品的条件，后者把软件视为控制数据库、扩大收益和跨平台统一的媒介；当软件脱离艺术、手感、平台惯例和人的使用细节，最有资源的大公司反而会生产最没有灵魂的 UI。"
 source: "https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice"
 ---

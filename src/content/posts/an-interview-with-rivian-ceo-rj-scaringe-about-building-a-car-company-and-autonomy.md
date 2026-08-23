@@ -2,6 +2,7 @@
 title: "An Interview with Rivian CEO RJ Scaringe About Building a Car Company and Autonomy"
 date: 2026-02-14T20:35:18Z
 category: reading
+author: "Ben Thompson"
 description: "RJ Scaringe，Rivian 创始人兼 CEO。10 岁立志造车，MIT 机械工程 PhD（研究方向：ICE 效率优化，与 Rivian 无关），博士毕业次日正式创立 Rivian（2009 年）。本期由 Ben Thompson（Stratechery 创始人）主持，采访契机是 Rivian 发布 Au..."
 source: "https://stratechery.com/2025/an-interview-with-rivian-ceo-rj-scaringe-about-building-a-car-company-and-autonomy/"
 ---

@@ -2,6 +2,7 @@
 title: "The Mom-and-Pop SaaS era has arrived"
 date: 2026-06-19T08:02:20Z
 category: reading
+author: "Elena Verna"
 description: "AI 降低软件创造成本，最重要的后果不是让开发者写得更快，而是让域专家（教师、地产经纪、招聘者、教练）第一次能把自己的专业知识直接变成产品。作者把这个趋势叫做\"Mom-and-Pop SaaS\"。"
 source: "https://www.elenaverna.com/p/the-mom-and-pop-saas-era-has-arrived"
 ---

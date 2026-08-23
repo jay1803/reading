@@ -2,6 +2,7 @@
 title: "The Trap of Tying Your Identity to Your Job Title."
 date: 2024-03-18T16:32:12Z
 category: reading
+author: "Elena Verna"
 description: "这篇文章讨论了将个人身份与职业头衔挂钩的陷阱。人们常常通过职位来评判他人，导致许多人追求更高的职位以获得认可和尊重。然而，这种做法可能导致人们优先追求表面成就而非实际学习，并陷入不符合自身技能和愿望的角色中。文章鼓励人们将自我价值与职业头衔脱钩，追求真正符合个人才能和激情的工作。"
 source: "https://elenaverna.substack.com/p/the-trap-of-tying-your-identity-to"
 ---

@@ -2,6 +2,7 @@
 title: "The Road to a $100M Company Doesn’t Start with Product"
 date: 2022-07-31T01:10:23Z
 category: reading
+author: "Brian Balfour"
 description: "Author: Brian Balfour"
 source: "https://brianbalfour.com/essays/market-product-fit"
 ---

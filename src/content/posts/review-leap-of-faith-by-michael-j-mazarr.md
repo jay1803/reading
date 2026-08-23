@@ -2,6 +2,7 @@
 title: "REVIEW: Leap of Faith, by Michael J. Mazarr"
 date: 2025-07-03T12:27:22Z
 category: reading
+author: "John Psmith"
 description: "这篇文章是对 Michael J. Mazarr 所著《Leap of Faith》一书的书评。该书深入探讨了美国入侵伊拉克的决策过程。文章认为，这场战争并非源于某个人的愚蠢或邪恶，而是一个系统性的悲剧。它是由长达十年的政策模糊、布什政府核心成员的个人特质、美国特有的“传教士冲动”式外交思想，以及 9/11 事件..."
 source: "https://www.thepsmiths.com/p/review-leap-of-faith-by-michael-j"
 ---

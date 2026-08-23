@@ -2,6 +2,7 @@
 title: "A Visual Introduction to Binary Search"
 date: 2025-11-04T10:47:18Z
 category: reading
+author: "Nick M"
 description: "对有序集合，每次折半比较能把搜索步骤从 n 压到 log₂(n)——100 万个元素只需 20 步，是线性搜索的五万分之一。"
 source: "https://photonlines.substack.com/p/a-visual-introduction-to-binary-search"
 ---

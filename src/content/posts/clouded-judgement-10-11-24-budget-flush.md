@@ -2,6 +2,7 @@
 title: "Clouded Judgement 10.11.24 - Budget Flush"
 date: 2024-10-12T14:55:11Z
 category: reading
+author: "Jamin Ball"
 description: "Something that has been on my mind recently - will we see a larger than normal budget flush at the end of this year? First - what is a budget flush? A budget..."
 source: "https://cloudedjudgement.substack.com/p/clouded-judgement-101124-budget-flush"
 ---

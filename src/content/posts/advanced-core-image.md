@@ -2,6 +2,7 @@
 title: "Advanced Core Image"
 date: 2025-05-12T13:49:20Z
 category: reading
+author: "Jacob Bartlett"
 description: "Core Image kernel 不是\"把滤镜叠在图上\"——Warp kernel 是反向查表：对每个目标像素，你告诉 GPU 去哪个源坐标取样；只有被实际渲染的像素才会触发计算，CPU 层面几乎零开销。一个 linker flag（~-framework CoreImage~）+ 一个 ~.metallib~..."
 source: "https://blog.jacobstechtavern.com/p/advanced-core-image"
 ---

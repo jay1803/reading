@@ -2,6 +2,7 @@
 title: "The Real Reason Your Company Invests in Customer Success"
 date: 2026-03-09T22:35:03Z
 category: reading
+author: "Lincoln Murphy"
 description: "Customer Success 的本质目标是提升 NRR（净收入留存率）从而拉高公司估值——不是让客户满意，不是\"服务客户\"，而是作为可重复的收入增长引擎。"
 source: "https://sixteenventures.com/customer-success-nrr"
 ---

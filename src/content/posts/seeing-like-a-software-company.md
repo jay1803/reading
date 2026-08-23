@@ -2,6 +2,7 @@
 title: "Seeing like a software company"
 date: 2025-10-09T16:22:32Z
 category: reading
+author: "Sean Goedecke"
 description: "可读性（legibility）对大型软件公司的核心价值，与提升工程效率无关——它是进入企业级客户市场的通行证。一家搞不清自己在做什么、无法承诺一年后交付什么的公司，大客户不会信任它。大公司明知流程在降低工程产出，仍会继续强化流程，因为那笔生意更值钱。"
 source: "https://www.seangoedecke.com/seeing-like-a-software-company/"
 ---

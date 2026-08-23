@@ -2,6 +2,7 @@
 title: "The 10 biggest mistakes I made bootstrapping to $1M ARR"
 date: 2024-11-25T18:05:05Z
 category: reading
+author: "Kate Syuma"
 description: "On our way there, we tried a bunch of go-to-market strategies that did not work. Here are the top 10."
 source: "https://www.growthunhinged.com/p/the-10-biggest-mistakes-i-made-bootstrapping"
 ---

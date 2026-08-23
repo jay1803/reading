@@ -2,6 +2,7 @@
 title: "Desired Outcome is a Transformative Concept"
 date: 2026-03-15T08:45:10Z
 category: reading
+author: "Lincoln Murphy"
 description: "帮客户达成了功能目标，客户仍然可能不认为自己\"成功了\"——这不是边缘情况，而是普遍现象。Desired Outcome = Required Outcome（客户需要达成什么）+ Appropriate Experience（客户需要以怎样的方式达成它）。两者缺一，客户都不会留下来。"
 source: "https://sixteenventures.com/desired-outcome?amp=1"
 ---

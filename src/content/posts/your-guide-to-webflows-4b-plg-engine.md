@@ -2,6 +2,7 @@
 title: "Your guide to Webflow’s $4B PLG engine"
 date: 2022-06-29T13:34:37Z
 category: growth
+author: "Kyle Poyar"
 description: "Webflow, the web design and hosting platform, recently hit milestones that most product-led growth (PLG) companies only dream of:"
 source: "https://kylepoyar.substack.com/p/your-guide-to-webflows-4b-plg-engine"
 ---

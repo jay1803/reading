@@ -2,6 +2,7 @@
 title: "Liberation Day and The New World Order"
 date: 2025-04-17T14:40:32Z
 category: reading
+author: "Doug O'Laughlin"
 description: "这篇文章探讨了新宣布的美国关税政策不仅可能对全球经济造成严重损害，更重要的是，它标志着自二战后建立的、以美国为中心的全球秩序正在发生根本性转变。关税被视为对盟友的背叛，可能促使各国重新评估对美关系，寻求替代方案（如与中国合作），并加速全球经济去美元化的进程，最终可能导致经济衰退和市场动荡，半导体等行业也无法幸免。"
 source: "https://www.fabricatedknowledge.com/p/liberation-day-and-the-new-world"
 ---

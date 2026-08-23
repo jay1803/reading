@@ -2,6 +2,7 @@
 title: "ICE Prioritization Done Right"
 date: 2022-04-14T19:16:28Z
 category: reading
+author: "Itamar Gilad"
 description: "With ICE we assign each idea three values:"
 source: "https://itamargilad.com/ice-ebook/"
 ---

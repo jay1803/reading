@@ -2,6 +2,7 @@
 title: "Direction Over Speed"
 date: 2026-04-27T08:01:39Z
 category: reading
+author: "Leah Tharin"
 description: "AI 没把产品组织的核心瓶颈从“做不出来”变成“做得更快”，而是把它赤裸裸地暴露为“方向判断失真”：当原型和交付都变便宜后，真正稀缺的是定义什么值得做、如何衡量好坏、以及让销售、市场、产品围绕同一故事行动的人。"
 source: "https://www.leahtharin.com/p/direction-over-speed"
 ---

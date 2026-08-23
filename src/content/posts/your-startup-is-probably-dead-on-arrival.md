@@ -2,6 +2,7 @@
 title: "Your Startup Is Probably Dead On Arrival"
 date: 2026-03-18T08:02:09Z
 category: reading
+author: "Steve Blank"
 description: "创业超过两年就要默认自己的商业计划已经过时——不是因为竞争加剧，而是因为软件开发成本、数据护城河的经济学基础已被 AI 整体颠覆。\"埋头执行\"这个传统上被视为美德的创始人行为，现在是一种风险。"
 source: "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/"
 ---

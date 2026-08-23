@@ -2,6 +2,7 @@
 title: "American Disruption"
 date: 2025-05-06T16:12:22Z
 category: reading
+author: "Ben Thompson"
 description: "美国制造业被掏空，核心机制是典型的 disruption：美国保留高利润设计与创新，把劳动密集、随后又因模块化和规模效应而更适合大规模网络化生产的环节持续外移到亚洲，最终让中国和 TSMC 成为电子时代的关键供给节点。特朗普关税触碰到国家安全与制造能力这个真问题，却用全面加税同时压缩美国需求、抬高补链成本、伤害科..."
 source: "https://stratechery.com/2025/american-disruption/"
 ---

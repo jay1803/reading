@@ -2,6 +2,7 @@
 title: "Three Books for the Next Phase"
 date: 2026-03-23T08:01:21Z
 category: reading
+author: "Brad Feld"
 description: "三本表面无关的书共指同一件事：如何对正在经历的事情完全在场，同时不执着于它必须朝某个方向走。Feld 意识到这正是他现阶段的状态——一条没有名字的路。"
 source: "https://feld.com/archives/2026/03/three-books-for-the-next-phase/"
 ---

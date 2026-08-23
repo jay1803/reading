@@ -2,6 +2,7 @@
 title: "When You Truly Work for Yourself"
 date: 2025-10-10T00:34:54Z
 category: reading
+author: "Naval Ravikant"
 description: "Naval Ravikant，AngelList 联合创始人，天使投资人。[补充：以系统化思考财富、自由与幸福著称，《The Almanack of Naval Ravikant》广泛流传。]"
 source: "https://nav.al/truly"
 ---

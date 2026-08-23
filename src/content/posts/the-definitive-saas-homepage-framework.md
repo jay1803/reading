@@ -2,6 +2,7 @@
 title: "The definitive SaaS homepage framework"
 date: 2023-10-11T17:08:22Z
 category: reading
+author: "Kate Syuma"
 description: "初创公司应将主页视为一个核心的产品营销资产，其首要任务是清晰地向特定目标受众传达产品的核心价值和功能，而非试图满足公司内部各部门的所有期望。本文提供了一个七步法来撰写 SaaS 公司主页，重点包括选择目标受众、确定产品拥护者、描绘用户情境与痛点，并利用 Fletch Value Proposition Messa..."
 source: "https://www.growthunhinged.com/p/how-to-write-a-saas-homepage"
 ---
