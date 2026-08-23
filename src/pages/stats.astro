@@ -48,87 +48,126 @@ const authors = [...authorCounts.entries()]
 const maxAuthorCount = authors.length ? authors[0][1] : 0;
 ---
 
-<BaseLayout title="Stats — Max Daily Reading" description="How many entries came from which domain.">
+<BaseLayout title="Stats — Max Daily Reading" description="How many entries came from which domain and which author.">
   <div class="hero">
     <p class="hero-eyebrow">
-      {posts.length.toLocaleString()} entries &nbsp;&middot;&nbsp; {domains.length.toLocaleString()} domains
+      {posts.length.toLocaleString()} entries &nbsp;&middot;&nbsp; {domains.length.toLocaleString()} domains &nbsp;&middot;&nbsp; {authors.length.toLocaleString()} authors
     </p>
     <h1 class="hero-title">Where it's all from</h1>
   </div>
 
-  <table class="stats-table">
-    <tbody>
-      {
-        domains.map(([domain, count]) => (
-          <tr>
-            <td class="stats-domain">
-              <a href={`${base}/domain/${domain}/`}>{domain}</a>
-            </td>
-            <td class="stats-bar-cell">
-              <span class="stats-bar" style={`width:${(count / maxCount) * 100}%`} />
-            </td>
-            <td class="stats-count">{count.toLocaleString()}</td>
-          </tr>
-        ))
-      }
-    </tbody>
-  </table>
+  <div class="tabs" role="tablist" data-stats-tabs>
+    <button type="button" role="tab" class="tab-btn" data-tab="domains" aria-selected="true">
+      Domains <span class="tab-count">{domains.length.toLocaleString()}</span>
+    </button>
+    <button type="button" role="tab" class="tab-btn" data-tab="authors" aria-selected="false">
+      Authors <span class="tab-count">{authors.length.toLocaleString()}</span>
+    </button>
+  </div>
 
-  {
-    withoutSource > 0 && (
-      <p class="stats-note">
-        {withoutSource.toLocaleString()} entries have no recorded source domain.
-      </p>
-    )
-  }
-
-  {
-    authors.length > 0 && (
-      <>
-        <div class="hero hero-sub">
-          <p class="hero-eyebrow">
-            {authors.length.toLocaleString()} authors identified
-          </p>
-          <h1 class="hero-title">Who we keep reading</h1>
-        </div>
-
-        <table class="stats-table">
-          <tbody>
-            {
-              authors.map(([name, count, slug]) => (
-                <tr>
-                  <td class="stats-domain">
-                    <a href={`${base}/author/${slug}/`}>{name}</a>
-                  </td>
-                  <td class="stats-bar-cell">
-                    <span class="stats-bar" style={`width:${(count / maxAuthorCount) * 100}%`} />
-                  </td>
-                  <td class="stats-count">{count.toLocaleString()}</td>
-                </tr>
-              ))
-            }
-          </tbody>
-        </table>
-
+  <section class="tab-panel" id="panel-domains" data-panel="domains">
+    <table class="stats-table">
+      <tbody>
         {
-          withoutAuthor > 0 && (
-            <p class="stats-note">
-              {withoutAuthor.toLocaleString()} entries have no recorded author.
-            </p>
-          )
+          domains.map(([domain, count]) => (
+            <tr>
+              <td class="stats-domain">
+                <a href={`${base}/domain/${domain}/`}>{domain}</a>
+              </td>
+              <td class="stats-bar-cell">
+                <span class="stats-bar" style={`width:${(count / maxCount) * 100}%`} />
+              </td>
+              <td class="stats-count">{count.toLocaleString()}</td>
+            </tr>
+          ))
         }
-      </>
-    )
-  }
+      </tbody>
+    </table>
+
+    {
+      withoutSource > 0 && (
+        <p class="stats-note">
+          {withoutSource.toLocaleString()} entries have no recorded source domain.
+        </p>
+      )
+    }
+  </section>
+
+  <section class="tab-panel" id="panel-authors" data-panel="authors" hidden>
+    {
+      authors.length > 0 ? (
+        <>
+          <table class="stats-table">
+            <tbody>
+              {
+                authors.map(([name, count, slug]) => (
+                  <tr>
+                    <td class="stats-domain">
+                      <a href={`${base}/author/${slug}/`}>{name}</a>
+                    </td>
+                    <td class="stats-bar-cell">
+                      <span class="stats-bar" style={`width:${(count / maxAuthorCount) * 100}%`} />
+                    </td>
+                    <td class="stats-count">{count.toLocaleString()}</td>
+                  </tr>
+                ))
+              }
+            </tbody>
+          </table>
+
+          {
+            withoutAuthor > 0 && (
+              <p class="stats-note">
+                {withoutAuthor.toLocaleString()} entries have no recorded author.
+              </p>
+            )
+          }
+        </>
+      ) : (
+        <p class="stats-note">No authors recorded yet.</p>
+      )
+    }
+  </section>
 </BaseLayout>
+
+<script>
+  (function () {
+    const tabs = document.querySelector<HTMLElement>('[data-stats-tabs]');
+    if (!tabs) return;
+    const buttons = Array.from(tabs.querySelectorAll<HTMLButtonElement>('.tab-btn'));
+    const panels = Array.from(document.querySelectorAll<HTMLElement>('.tab-panel'));
+
+    function activate(name: string, { updateHash = true } = {}) {
+      buttons.forEach((b) => b.setAttribute('aria-selected', String(b.dataset.tab === name)));
+      panels.forEach((p) => {
+        p.hidden = p.dataset.panel !== name;
+      });
+      if (updateHash) {
+        const url = new URL(window.location.href);
+        if (name === 'domains') {
+          url.hash = '';
+        } else {
+          url.hash = name;
+        }
+        history.replaceState(null, '', url.toString());
+      }
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => activate(btn.dataset.tab!));
+    });
+
+    const initial = window.location.hash.replace('#', '');
+    if (initial === 'authors') {
+      activate('authors', { updateHash: false });
+    }
+  })();
+</script>
 
 <style>
   .hero {
     max-width: var(--wide);
-    padding: 4.5rem 0 3rem;
-  }
-  .hero-sub {
-    padding-top: 1rem;
+    padding: 4.5rem 0 2.5rem;
   }
   .hero-eyebrow {
     font-family: var(--font-mono);
@@ -144,6 +183,48 @@ const maxAuthorCount = authors.length ? authors[0][1] : 0;
     font-weight: 400;
     letter-spacing: -0.02em;
     margin: 0;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 0.5rem;
+    max-width: var(--wide);
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 2rem;
+  }
+  .tab-btn {
+    appearance: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    padding: 0.7rem 0.2rem;
+    margin-bottom: -1px;
+    border-bottom: 2px solid transparent;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .tab-btn:hover {
+    color: var(--ink);
+  }
+  .tab-btn[aria-selected='true'] {
+    color: var(--ink);
+    border-bottom-color: var(--accent);
+  }
+  .tab-count {
+    font-size: 0.7rem;
+    color: var(--ink-faint);
+    background: var(--paper-raised);
+    border-radius: 999px;
+    padding: 0.1rem 0.5rem;
+  }
+  .tab-btn[aria-selected='true'] .tab-count {
+    color: var(--accent);
   }
 
   .stats-table {
