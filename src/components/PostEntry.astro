@@ -35,19 +35,15 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
 
   <footer class="entry-foot">
     <span class="entry-tags">
-      <a href={`${base}/category/${post.data.category}/`}>{post.data.category}</a>
       {
         domain && (
-          <>
-            <span aria-hidden="true">&middot;</span>
-            <a href={`${base}/domain/${domain}/`}>{domain}</a>
-          </>
+          <a href={`${base}/domain/${domain}/`}>{domain}</a>
         )
       }
       {
         post.data.author && (
           <>
-            <span aria-hidden="true">&middot;</span>
+            {domain && <span aria-hidden="true">&middot;</span>}
             <span>By {post.data.author}</span>
           </>
         )
