@@ -23,17 +23,16 @@ const allPosts = await getCollection('posts');
 const earliestYear = Math.min(...allPosts.map((p) => p.data.date.getUTCFullYear()));
 ---
 
-<BaseLayout title="Max Daily Reading" description="Everything I've read, in full, in order.">
+<BaseLayout title="Max Daily Reading" description="全部读过的内容，完整呈现，按时间排序。">
   {
     page.currentPage === 1 && (
       <div class="hero">
         <p class="hero-eyebrow">
           {page.total.toLocaleString()} entries &nbsp;&middot;&nbsp; since {earliestYear}
         </p>
-        <h1 class="hero-title">Everything, in full, in order.</h1>
+        <h1 class="hero-title">全部内容，完整呈现，按时间排序。</h1>
         <p class="hero-dek">
-          No summaries and no click-throughs. Each entry is printed here whole, newest first, and
-          the next one arrives as you reach the bottom.
+          没有摘要，也不用点进去看。每一篇都在这里完整展示，最新的在最前面，滚到底部会自动加载下一篇。
         </p>
       </div>
     )
