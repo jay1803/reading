@@ -15,6 +15,7 @@ from pathlib import Path
 
 FILENAME_RE = re.compile(r'^(\d{14})-(.+)\.org$')
 TITLE_RE = re.compile(r'^#\+title:\s*(.+)$', re.IGNORECASE)
+AUTHOR_RE = re.compile(r'^#\+author:\s*(.+)$', re.IGNORECASE)
 FILETAGS_RE = re.compile(r'^#\+filetags:\s*(.+)$', re.IGNORECASE)
 ROAM_REFS_RE = re.compile(r'^:ROAM_REFS:\s*(.+)$', re.IGNORECASE)
 DRAWER_RE = re.compile(r'^[ \t]*:[A-Za-z_]+:\n(?:.*\n)*?[ \t]*:END:\n?', re.MULTILINE | re.IGNORECASE)
@@ -55,6 +56,7 @@ def parse_file(path: Path):
     lines = text.split('\n')
 
     title = None
+    author = None
     filetags = None
     roam_refs_line = None
     body_start = 0
@@ -64,6 +66,11 @@ def parse_file(path: Path):
             tm = TITLE_RE.match(line)
             if tm:
                 title = tm.group(1).strip()
+                continue
+        if author is None:
+            am = AUTHOR_RE.match(line)
+            if am:
+                author = am.group(1).strip()
                 continue
         if filetags is None:
             fm = FILETAGS_RE.match(line)
@@ -84,6 +91,10 @@ def parse_file(path: Path):
 
     if title:
         title = clean_org_links(title)
+
+    if author:
+        author = clean_org_links(author).strip()
+        author = author or None
 
     source_url = None
     if roam_refs_line:
@@ -182,6 +193,7 @@ def parse_file(path: Path):
         'ts': ts,
         'iso_date': iso_date,
         'title': title or slug_raw,
+        'author': author,
         'category': extra_tags[0] if extra_tags else 'reading',
         'description': description,
         'source_url': source_url,
@@ -216,6 +228,8 @@ def write_post(entry, out_dir: Path, used_slugs: set):
     fm.append(f'title: "{yaml_escape(entry["title"])}"')
     fm.append(f'date: {entry["iso_date"]}')
     fm.append(f'category: {entry["category"]}')
+    if entry['author']:
+        fm.append(f'author: "{yaml_escape(entry["author"])}"')
     if entry['description']:
         fm.append(f'description: "{yaml_escape(entry["description"])}"')
     if entry['source_url']:

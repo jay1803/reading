@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { base } from '../lib/base';
 import { getDomain } from '../lib/domain';
+import { slugifyAuthor } from '../lib/author';
 
 const posts = await getCollection('posts');
 
@@ -23,6 +24,28 @@ for (const post of posts) {
 
 const domains = [...counts.entries()].sort((a, b) => b[1] - a[1]);
 const maxCount = domains.length ? domains[0][1] : 0;
+
+const authorCounts = new Map<string, number>();
+const authorNames = new Map<string, string>();
+let withoutAuthor = 0;
+for (const post of posts) {
+  if (!post.data.author) {
+    withoutAuthor++;
+    continue;
+  }
+  const slug = slugifyAuthor(post.data.author);
+  if (!slug) {
+    withoutAuthor++;
+    continue;
+  }
+  authorCounts.set(slug, (authorCounts.get(slug) ?? 0) + 1);
+  if (!authorNames.has(slug)) authorNames.set(slug, post.data.author);
+}
+
+const authors = [...authorCounts.entries()]
+  .map(([slug, count]) => [authorNames.get(slug)!, count, slug] as const)
+  .sort((a, b) => b[1] - a[1]);
+const maxAuthorCount = authors.length ? authors[0][1] : 0;
 ---
 
 <BaseLayout title="Stats — Max Daily Reading" description="How many entries came from which domain.">
@@ -58,12 +81,54 @@ const maxCount = domains.length ? domains[0][1] : 0;
       </p>
     )
   }
+
+  {
+    authors.length > 0 && (
+      <>
+        <div class="hero hero-sub">
+          <p class="hero-eyebrow">
+            {authors.length.toLocaleString()} authors identified
+          </p>
+          <h1 class="hero-title">Who we keep reading</h1>
+        </div>
+
+        <table class="stats-table">
+          <tbody>
+            {
+              authors.map(([name, count, slug]) => (
+                <tr>
+                  <td class="stats-domain">
+                    <a href={`${base}/author/${slug}/`}>{name}</a>
+                  </td>
+                  <td class="stats-bar-cell">
+                    <span class="stats-bar" style={`width:${(count / maxAuthorCount) * 100}%`} />
+                  </td>
+                  <td class="stats-count">{count.toLocaleString()}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+
+        {
+          withoutAuthor > 0 && (
+            <p class="stats-note">
+              {withoutAuthor.toLocaleString()} entries have no recorded author.
+            </p>
+          )
+        }
+      </>
+    )
+  }
 </BaseLayout>
 
 <style>
   .hero {
     max-width: var(--wide);
     padding: 4.5rem 0 3rem;
+  }
+  .hero-sub {
+    padding-top: 1rem;
   }
   .hero-eyebrow {
     font-family: var(--font-mono);

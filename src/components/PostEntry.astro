@@ -2,6 +2,7 @@
 import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
 import { getDomain } from '../lib/domain';
+import { slugifyAuthor } from '../lib/author';
 import { panguSpace } from '../lib/rehype-pangu.mjs';
 
 interface Props {
@@ -44,7 +45,7 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
         post.data.author && (
           <>
             {domain && <span aria-hidden="true">&middot;</span>}
-            <span>By {post.data.author}</span>
+            <a href={`${base}/author/${slugifyAuthor(post.data.author)}/`}>By {post.data.author}</a>
           </>
         )
       }

@@ -18,13 +18,16 @@ PROMPT="Read queue.md at the repo root. Take the FIRST line matching '- [ ] <url
 1. Fetch and read the article at that URL.
 2. Write a new post file to src/content/posts/<slug>.md. Look at a couple of
    existing files in that directory first to match their exact frontmatter
-   shape (title, date, category, description, source) and body style
+   shape (title, date, category, description, source, author) and body style
    (structured with a few markdown headings, written in the same language as
    the source article, a genuine summary — not placeholder text). date should
    be the current UTC time in the same ISO 8601 format other posts use.
    category should be a single reasonable lowercase word inferred from the
    content (fall back to \"reading\" if nothing fits). source must be the
-   exact URL processed. IMPORTANT: every frontmatter value is a
+   exact URL processed. author is the article's byline/writer's name if the
+   page clearly states one (e.g. a New Yorker byline) — omit the author field
+   entirely if no individual author is identifiable (aggregator posts,
+   unsigned pieces, etc). IMPORTANT: every frontmatter value is a
    double-quoted YAML string — if title or description need to quote a
    phrase, use curly quotes (“ ”) instead of straight \" characters,
    since a literal \" inside the value breaks YAML parsing and fails the
