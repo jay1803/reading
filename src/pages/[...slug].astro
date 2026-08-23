@@ -50,6 +50,14 @@ const showDek =
           )
         }
         {
+          post.data.author && (
+            <>
+              <span aria-hidden="true">&middot;</span>
+              <span>By {post.data.author}</span>
+            </>
+          )
+        }
+        {
           post.data.source && (
             <>
               <span aria-hidden="true">&middot;</span>

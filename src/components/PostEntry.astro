@@ -7,7 +7,7 @@ import { panguSpace } from '../lib/rehype-pangu.mjs';
 interface Props {
   post: {
     id: string;
-    data: { title: string; date: Date; category: string; description?: string; source?: string };
+    data: { title: string; date: Date; category: string; description?: string; source?: string; author?: string };
   };
   Content: any;
   num: number;
@@ -41,6 +41,14 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
           <>
             <span aria-hidden="true">&middot;</span>
             <a href={`${base}/domain/${domain}/`}>{domain}</a>
+          </>
+        )
+      }
+      {
+        post.data.author && (
+          <>
+            <span aria-hidden="true">&middot;</span>
+            <span>By {post.data.author}</span>
           </>
         )
       }

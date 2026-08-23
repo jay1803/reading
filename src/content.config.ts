@@ -9,6 +9,7 @@ const posts = defineCollection({
     category: z.string(),
     description: z.string().optional(),
     source: z.string().url().optional(),
+    author: z.string().optional(),
   }),
 });
 
