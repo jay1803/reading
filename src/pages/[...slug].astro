@@ -3,7 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
-import { getDomain } from '../lib/domain';
+import { getDomain, isPrivateSourceDomain } from '../lib/domain';
 import { slugifyAuthor } from '../lib/author';
 import { panguSpace } from '../lib/rehype-pangu.mjs';
 import { isDekRedundant } from '../lib/dedupeDek';
@@ -55,7 +55,7 @@ const showDek =
           )
         }
         {
-          post.data.source && (
+          domain && !isPrivateSourceDomain(domain) && (
             <>
               <span aria-hidden="true">&middot;</span>
               <a href={post.data.source} target="_blank" rel="noopener noreferrer">

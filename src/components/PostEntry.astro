@@ -1,7 +1,7 @@
 ---
 import { base } from '../lib/base';
 import { estimateReadingTime } from '../lib/readingTime';
-import { getDomain } from '../lib/domain';
+import { getDomain, isPrivateSourceDomain } from '../lib/domain';
 import { slugifyAuthor } from '../lib/author';
 import { panguSpace } from '../lib/rehype-pangu.mjs';
 
@@ -50,7 +50,7 @@ const domain = post.data.source ? getDomain(post.data.source) : null;
         )
       }
       {
-        post.data.source && (
+        domain && !isPrivateSourceDomain(domain) && (
           <>
             <span aria-hidden="true">&middot;</span>
             <a href={post.data.source} target="_blank" rel="noopener noreferrer">
