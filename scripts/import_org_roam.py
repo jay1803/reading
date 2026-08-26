@@ -11,6 +11,7 @@ after stripping drawers/citations/headings, contain no real prose are skipped
 import argparse
 import re
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 FILENAME_RE = re.compile(r'^(\d{14})-(.+)\.org$')
@@ -290,10 +291,21 @@ def main():
     if args.limit:
         entries = entries[:args.limit]
 
+    # `date` in the frontmatter drives site sort order and is meant to mean
+    # "when we published/processed this post", not the org-roam capture
+    # timestamp. Stamp every entry from this run with the actual run time,
+    # offsetting by 1s per entry (in original ts order) so a batch import
+    # stays uniquely orderable instead of colliding on one instant, and so
+    # later-processed entries sort as more recent — matching the semantics
+    # process_queue.sh already uses for one-at-a-time imports.
+    run_time = datetime.now(timezone.utc)
+    for i, e in enumerate(entries):
+        e['iso_date'] = (run_time + timedelta(seconds=i)).strftime('%Y-%m-%dT%H:%M:%SZ')
+
     used_slugs = set()
     for e in entries:
         out_path = write_post(e, out_dir, used_slugs)
-        print(f'{e["ts"]}  ->  {out_path.name}   [{e["category"]}]  {e["title"]}')
+        print(f'{e["ts"]}  ->  {out_path.name}   [{e["category"]}]  {e["title"]}  (date={e["iso_date"]})')
 
     print(f'\nwrote {len(entries)} posts to {out_dir}')
     print(f'skipped (no ref tag): {skipped_no_ref}, skipped (no real content): {skipped_no_content}, skipped (bad filename): {skipped_bad_name}')
