@@ -337,12 +337,16 @@ const { title, description } = Astro.props;
 
   .prose {
     color: var(--ink);
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
   .prose p {
     font-size: 1.15rem;
     line-height: 1.78;
     margin: 0 0 1.7rem;
     text-wrap: pretty;
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
   .prose h1,
   .prose h2,
@@ -403,6 +407,8 @@ const { title, description } = Astro.props;
   }
   .prose a {
     color: var(--accent);
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
 
   .colophon {
