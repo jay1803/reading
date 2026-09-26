@@ -40,8 +40,11 @@ const { title, description } = Astro.props;
           <a class="wordmark" href={`${base}/`}>Max Daily Reading</a>
         </div>
         <nav class="masthead-nav">
-          <a href={`${base}/stats`}>Stats</a>
-          <a href={`${base}/about`}>About</a>
+          <a href={`${base}/stats/`}>Stats</a>
+          <a href={`${base}/about/`}>About</a>
+          <button type="button" class="refresh-button" id="refresh-button" title="Check for new content" disabled>
+            Refresh
+          </button>
           <button
             type="button"
             class="theme-toggle"
@@ -58,6 +61,7 @@ const { title, description } = Astro.props;
           </button>
         </nav>
       </div>
+      <span class="refresh-status" id="refresh-status" role="status" aria-live="polite"></span>
     </header>
     <main>
       <slot />
@@ -97,6 +101,59 @@ const { title, description } = Astro.props;
         try {
           localStorage.setItem('theme', next);
         } catch {}
+      });
+
+      const refreshButton = document.querySelector<HTMLButtonElement>('#refresh-button');
+      const refreshStatus = document.querySelector<HTMLElement>('#refresh-status');
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          if (refreshStatus) refreshStatus.textContent = 'Saving recent entries…';
+          navigator.serviceWorker
+            .register(`${import.meta.env.BASE_URL}sw.js`)
+            .then(() => navigator.serviceWorker.ready)
+            .then(() => {
+              if (refreshStatus) refreshStatus.textContent = '50 entries saved offline';
+              if (refreshButton) refreshButton.disabled = false;
+            })
+            .catch(() => {
+              if (refreshStatus) refreshStatus.textContent = 'Offline saving unavailable';
+              if (refreshButton) refreshButton.disabled = true;
+            });
+        });
+      } else if (refreshStatus) {
+        refreshStatus.textContent = 'Offline saving unavailable';
+        if (refreshButton) refreshButton.disabled = true;
+      }
+
+      refreshButton?.addEventListener('click', async () => {
+        if (!refreshStatus || !refreshButton) return;
+        refreshButton.disabled = true;
+        refreshStatus.textContent = 'Refreshing…';
+        try {
+          const registration = await navigator.serviceWorker.ready;
+          const worker = navigator.serviceWorker.controller || registration.active;
+          if (!worker) throw new Error('Service worker unavailable');
+          const channel = new MessageChannel();
+          const refreshed = new Promise<void>((resolve, reject) => {
+            const timeout = window.setTimeout(() => reject(new Error('Refresh timed out')), 120000);
+            channel.port1.onmessage = (event) => {
+              if (event.data?.progress) {
+                refreshStatus.textContent = `Refreshing… ${event.data.progress}`;
+                return;
+              }
+              window.clearTimeout(timeout);
+              channel.port1.close();
+              event.data?.ok ? resolve() : reject(new Error('Refresh failed'));
+            };
+          });
+          worker.postMessage({ type: 'REFRESH', url: location.href }, [channel.port2]);
+          await refreshed;
+          refreshStatus.textContent = 'Updated';
+          location.reload();
+        } catch {
+          refreshStatus.textContent = 'Could not refresh. Check your connection.';
+          refreshButton.disabled = false;
+        }
       });
     </script>
   </body>
@@ -258,6 +315,38 @@ const { title, description } = Astro.props;
     color: var(--ink);
   }
 
+  .refresh-button {
+    appearance: none;
+    border: 0;
+    padding: 0;
+    background: transparent;
+    color: var(--ink-soft);
+    font: inherit;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    cursor: pointer;
+  }
+  .refresh-button:hover {
+    color: var(--ink);
+  }
+  .refresh-button:disabled {
+    cursor: wait;
+    opacity: 0.5;
+  }
+  .refresh-status {
+    display: block;
+    max-width: var(--wide);
+    min-height: 0;
+    margin: 0 auto;
+    padding: 0 2.5rem;
+    font-family: var(--font-mono);
+    font-size: 0.65rem;
+    color: var(--ink-soft);
+  }
+  .refresh-status:empty {
+    display: none;
+  }
+
   .theme-toggle {
     appearance: none;
     border: 1px solid var(--line);
@@ -309,6 +398,9 @@ const { title, description } = Astro.props;
     .masthead-nav {
       gap: 0.9rem;
       font-size: 0.62rem;
+    }
+    .refresh-status {
+      padding: 0 1.25rem;
     }
     .theme-toggle {
       width: 1.6rem;

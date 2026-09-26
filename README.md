@@ -27,6 +27,18 @@ npm install
 npm run dev
 ```
 
+## Offline reading
+
+The site saves the newest 50 posts and the archive pages containing them in your browser
+when you first open it online. After that, these pages load from local storage even without
+an internet connection. Older pages are also saved when you open them online. The **Refresh**
+button downloads the current newest 50 posts and archive pages, then reloads the page.
+
+Offline reading requires a browser with service worker support and an initial online visit.
+Browser storage can be cleared or evicted by the device, and links to external source sites
+still require a connection. To change the number of recent posts, update
+`OFFLINE_POST_COUNT` in `src/pages/offline-manifest.json.ts`.
+
 ## Deployment
 
 Deployment runs via [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) on every

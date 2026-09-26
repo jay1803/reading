@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { base } from '../lib/base';
+---
+
+<BaseLayout title="Offline — Max Daily Reading">
+  <section class="offline">
+    <h1>This page isn't saved yet</h1>
+    <p>Pages you open while connected are saved on this device for later reading. Connect to the internet to open this page, or return to the saved archive.</p>
+    <a href={`${base}/`}>Back to the archive</a>
+  </section>
+</BaseLayout>
+
+<style>
+  .offline {
+    max-width: var(--measure);
+    min-height: 60vh;
+    padding: 5rem 0;
+  }
+  .offline h1 {
+    font-size: clamp(2rem, 1.6rem + 1.8vw, 3rem);
+    font-weight: 400;
+    line-height: 1.12;
+  }
+  .offline p {
+    color: var(--ink-soft);
+  }
+</style>
