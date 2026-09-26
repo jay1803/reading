@@ -10,7 +10,7 @@ export async function GET(context) {
     .slice(0, FEED_LIMIT);
 
   return rss({
-    title: 'Max Daily Reading',
+    title: 'Readar',
     description: "Everything I've read, in full, in order.",
     site: context.site,
     items: posts.map((post) => ({

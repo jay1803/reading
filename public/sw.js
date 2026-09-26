@@ -1,10 +1,17 @@
 // Pages are read from local storage first. Refresh is an explicit network update.
 const PAGE_CACHE = 'reading-pages-v1';
-const SHELL_CACHE = 'reading-shell-v1';
+const SHELL_CACHE = 'reading-shell-v2';
 const scope = new URL(self.registration.scope);
 const home = scope.pathname;
 const offline = `${home}offline/`;
 const manifest = `${home}offline-manifest.json`;
+const appAssets = [
+  `${home}favicon.svg`,
+  `${home}apple-touch-icon.png`,
+  `${home}icons/icon-192.png`,
+  `${home}icons/icon-512.png`,
+  `${home}manifest.webmanifest`,
+];
 
 function inScope(url) {
   return url.origin === scope.origin && url.pathname.startsWith(home);
@@ -25,7 +32,7 @@ self.addEventListener('install', (event) => {
   event.waitUntil(
     (async () => {
       const shell = await caches.open(SHELL_CACHE);
-      await shell.addAll([offline, `${home}favicon.svg`]);
+      await shell.addAll([offline, ...appAssets]);
       await saveRecentPages();
     })()
   );
@@ -73,6 +80,11 @@ self.addEventListener('fetch', (event) => {
   const request = event.request;
   const url = new URL(request.url);
   if (request.method !== 'GET' || !inScope(url) || url.pathname.endsWith('/sw.js')) return;
+
+  if (appAssets.includes(url.pathname)) {
+    event.respondWith(caches.match(pageKey(url)).then((saved) => saved || fetch(request)));
+    return;
+  }
 
   const navigation = request.mode === 'navigate';
   const page = navigation || url.pathname.endsWith('/');

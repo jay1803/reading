@@ -15,10 +15,17 @@ const { title, description } = Astro.props;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="application-name" content="Readar" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Readar" />
+    <meta name="theme-color" content="#f7f4ed" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#17181a" media="(prefers-color-scheme: dark)" />
     <title>{panguSpace(title)}</title>
     {description && <meta name="description" content={panguSpace(description)} />}
     <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
-    <link rel="alternate" type="application/rss+xml" title="Max Daily Reading" href={`${base}/rss.xml`} />
+    <link rel="apple-touch-icon" href={`${base}/apple-touch-icon.png`} />
+    <link rel="manifest" href={`${base}/manifest.webmanifest`} />
+    <link rel="alternate" type="application/rss+xml" title="Readar" href={`${base}/rss.xml`} />
     <script is:inline>
       (function () {
         try {
@@ -37,7 +44,7 @@ const { title, description } = Astro.props;
     <header class="masthead">
       <div class="masthead-inner">
         <div class="masthead-title-group">
-          <a class="wordmark" href={`${base}/`}>Max Daily Reading</a>
+          <a class="wordmark" href={`${base}/`}>Readar</a>
         </div>
         <nav class="masthead-nav">
           <a href={`${base}/stats/`}>Stats</a>
@@ -68,7 +75,7 @@ const { title, description } = Astro.props;
     </main>
     <footer class="colophon">
       <div class="colophon-inner">
-        <span>Max Daily Reading &nbsp;&middot;&nbsp; every entry links back to its source</span>
+        <span>Readar &nbsp;&middot;&nbsp; every entry links back to its source</span>
         <span>
           Designed by Claude + <a href="https://maxoxo.me" target="_blank" rel="noopener noreferrer">Max</a>
         </span>

@@ -1,7 +1,7 @@
-# Reading
+# Readar
 
-A minimal blog built with [Astro](https://astro.build) and GitHub Pages. Posts are Markdown
-files with frontmatter; there's no database or CMS.
+An installable reading web app built with [Astro](https://astro.build) and GitHub Pages. Posts
+are Markdown files with frontmatter; there's no database or CMS.
 
 ## Writing a post
 
@@ -38,6 +38,11 @@ Offline reading requires a browser with service worker support and an initial on
 Browser storage can be cleared or evicted by the device, and links to external source sites
 still require a connection. To change the number of recent posts, update
 `OFFLINE_POST_COUNT` in `src/pages/offline-manifest.json.ts`.
+
+## Install as a web app
+
+Open Readar over HTTPS, then use your browser's **Install app** or **Add to Home Screen**
+action. It opens in a standalone window and keeps the same offline reading cache.
 
 ## Deployment
 

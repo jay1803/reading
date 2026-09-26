@@ -26,7 +26,7 @@ const showDek =
   post.data.description && !isDekRedundant(post.id, post.data.description);
 ---
 
-<BaseLayout title={post.data.title} description={post.data.description}>
+<BaseLayout title={`${post.data.title} — Readar`} description={post.data.description}>
   <a class="back-link" href={`${base}/`}>&larr; Back to the archive</a>
   <article class="single-entry">
     <div class="entry-eyebrow">
