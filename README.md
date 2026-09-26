@@ -31,8 +31,9 @@ npm run dev
 
 The site saves the newest 50 posts and the archive pages containing them in your browser
 when you first open it online. After that, these pages load from local storage even without
-an internet connection. Older pages are also saved when you open them online. The **Refresh**
-button downloads the current newest 50 posts and archive pages, then reloads the page.
+an internet connection. When you scroll to older entries online, their archive page and
+individual post pages are saved too. The **Refresh** button downloads the current newest 50
+posts and archive pages, then reloads the page.
 
 Offline reading requires a browser with service worker support and an initial online visit.
 Browser storage can be cleared or evicted by the device, and links to external source sites

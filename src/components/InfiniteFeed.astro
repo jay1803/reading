@@ -136,6 +136,21 @@ const { entries, nextUrl, total } = Astro.props;
 </style>
 
 <script>
+  function saveEntryPages(entries: Element[]) {
+    if (!('serviceWorker' in navigator)) return;
+    const urls = entries
+      .map((entry) => entry.querySelector<HTMLAnchorElement>('.entry-title a')?.href)
+      .filter((url): url is string => Boolean(url));
+    if (!urls.length) return;
+
+    navigator.serviceWorker.ready
+      .then((registration) => {
+        const worker = navigator.serviceWorker.controller || registration.active;
+        worker?.postMessage({ type: 'CACHE_POSTS', urls });
+      })
+      .catch(() => {});
+  }
+
   function initFeed(feed: HTMLElement) {
     const sentinel = feed.querySelector<HTMLElement>('[data-sentinel]');
     const skeleton = feed.querySelector<HTMLElement>('[data-skeleton]');
@@ -144,6 +159,7 @@ const { entries, nextUrl, total } = Astro.props;
 
     let nextUrl = feed.dataset.nextUrl || '';
     let loading = false;
+    saveEntryPages([...feed.querySelectorAll(':scope > .entry')]);
 
     async function loadNext() {
       if (loading || !nextUrl || !sentinel) return;
@@ -157,9 +173,11 @@ const { entries, nextUrl, total } = Astro.props;
         const nextFeed = doc.querySelector<HTMLElement>('[data-feed]');
         if (!nextFeed) throw new Error('no feed in response');
 
-        nextFeed.querySelectorAll(':scope > .entry').forEach((el) => {
+        const entries = [...nextFeed.querySelectorAll(':scope > .entry')];
+        entries.forEach((el) => {
           sentinel && feed.insertBefore(el, sentinel);
         });
+        saveEntryPages(entries);
 
         nextUrl = nextFeed.dataset.nextUrl || '';
         feed.dataset.nextUrl = nextUrl;

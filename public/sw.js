@@ -1,6 +1,6 @@
 // Pages are read from local storage first. Refresh is an explicit network update.
 const PAGE_CACHE = 'reading-pages-v1';
-const SHELL_CACHE = 'reading-shell-v2';
+const SHELL_CACHE = 'reading-shell-v3';
 const scope = new URL(self.registration.scope);
 const home = scope.pathname;
 const offline = `${home}offline/`;
@@ -119,6 +119,37 @@ self.addEventListener('fetch', (event) => {
 });
 
 self.addEventListener('message', (event) => {
+  if (event.data?.type === 'CACHE_POSTS') {
+    const paths = Array.isArray(event.data.urls) ? event.data.urls.slice(0, 24) : [];
+    event.waitUntil(
+      (async () => {
+        const urls = [...new Set(paths.map((path) => {
+          try {
+            const url = new URL(path, scope.origin);
+            return inScope(url) && url.pathname.endsWith('/') ? pageKey(url) : null;
+          } catch {
+            return null;
+          }
+        }).filter(Boolean))];
+        const cache = await caches.open(PAGE_CACHE);
+        for (let index = 0; index < urls.length; index += 4) {
+          await Promise.all(
+            urls.slice(index, index + 4).map(async (url) => {
+              if (await cache.match(url)) return;
+              try {
+                const response = await fetch(url);
+                if (isHtml(response)) await cache.put(url, response);
+              } catch {
+                // The archive page still contains the post if this download fails.
+              }
+            })
+          );
+        }
+      })()
+    );
+    return;
+  }
+
   if (event.data?.type !== 'REFRESH') return;
   let target;
   try {
