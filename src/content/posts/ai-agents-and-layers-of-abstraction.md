@@ -1,18 +1,18 @@
 ---
 title: "AI Agents and Layers of Abstraction"
-date: 2026-10-21T05:17:08Z
+date: 2026-10-27T03:38:15Z
 category: reading
-description: "AI 产品下一阶段将在用户与软件之间增加一层 agent 抽象，人们无需了解具体软件即可完成工作，Luke Wroblewski 以开源工具 Intent 为例说明管理大规模 agent 协作的新方式。"
-source: "https://www.lukew.com/ff/2159/ai-agents-and-layers-of-abstraction"
+description: "AI 产品的下一阶段，是让 Agent 成为人与软件之间的新抽象层，使用户无需了解或操作具体应用，就能完成工作；多 Agent 协作带来的管理负担正在推动产品继续演进。"
+source: "https://www.lukew.com/ff/entry.asp?2159"
 author: "info@lukew.com"
 ---
 
-AI 产品的下一阶段，是在用户与软件应用之间增加一层由 agents 构成的抽象，让人们无需了解或操作具体软件，也能完成工作。Luke Wroblewski 将这视为 AI 产品演化的延续：模型先在幕后提供能力，随后进入聊天界面，如今已经发展到多个模型相互协作、共同执行任务的 **agent orchestration** 阶段；当系统成熟、用户信任加深，应用本身的操作细节也将逐渐退到幕后。
+AI 产品的下一阶段，是让 Agent 成为人与软件之间的新抽象层，使用户无需了解或操作具体应用，就能完成工作。Luke Wroblewski 去年判断，AI 模型将从幕后提供能力，发展到相互协作、共同执行任务；如今，**Agent orchestration** 已经把这一判断变成现实，而多 Agent 协作带来的管理负担，正在推动产品继续演进。
 
-开发者的工作方式已经暴露出这一转变带来的管理难题。Luke 接触的前沿开发者，正在同时监督多个项目中的数百个、甚至更多 agents，让它们协调完成软件构建、测试与交付。为聊天时代设计的开发工具难以承载这种规模：人们需要掌握大量并行工作的进展，理解异常发生的原因，并在必要时纠偏。
+这种压力首先出现在开发者身上。Luke 接触的前沿开发者已经同时监督多个项目中的数百个、甚至更多 Agent，让它们协调完成软件构建、测试和发布。诞生于 AI 聊天时代的开发工具，难以承载这种规模的并行工作：用户需要管理大量任务及其执行过程，仅靠与 Agent 对话已经不够。
 
-为此，Luke 的团队重新设计、重建并开源了开发工具 Intent。它把任务放进独立的 workspaces，每个 workspace 都有隔离的文件副本，避免 agents 相互覆盖修改；工作围绕持续更新的 **living spec** 展开，由 coordinator 拆解任务、委派给专门的 sub-agents，并持续推进执行，减少人工盯守。更高一层的 agent 则跨多个 workspaces 和多台设备检查、管理工作。这些机制共同提供两种能力：通过 **observability** 看清正在发生什么，通过 **introspection** 追查为什么会这样。
+为此，Luke 的团队重新设计、重建并开源了开发工具 Intent。它把任务拆入独立的 workspace，每个 workspace 拥有隔离的文件副本，防止 Agent 相互干扰；内部通过持续更新的 **living spec** 和 coordinator 管理工作，由 coordinator 分解任务、委派专职 sub-agent，并推进执行，减少人工盯守。更高一层的 Agent 则跨 workspace、跨设备检查和管理进度。这些机制共同提供两种能力：**observability** 让人看见正在发生什么，**introspection** 让人追查为什么会这样。
 
-这仍是一个需要保留人工介入入口的过渡阶段。越来越多开发者已经愿意放弃逐项手动审查 agents 的代码修改，只与管理其他 agents 的 coordinator 交互；但他们仍需要足够的控制权，能够随时深入执行过程、查看状态并调整方向。随着系统可靠性提高、信任累积，用户需要直接接触的细节才会进一步减少。
+这种可见性与追查能力，是当前扩大委托范围的基础。越来越多开发者已经愿意停止逐项人工审查 Agent 的代码修改，转而只与管理其他 Agent 的 coordinator 交互，但仍需保留深入检查、理解状态和纠正方向的控制权。随着系统成熟、信任积累，用户才会进一步远离这些执行细节。
 
-这种变化延续了计算机已有的抽象路径：多数用户无需理解应用代码，也无需理解操作系统如何通过更底层的代码与硬件交互；同样，未来用户也将无需关心 agents 如何调用、操作电脑上的应用，甚至无需知道这些软件存在或掌握其用法。Luke 将这一方向与 Apple 的 Knowledge Navigator 愿景联系起来：那段受 John Sculley 与时任 Apple Fellow 的 Alan Kay 对话启发的视频，描绘了以人为中心的计算方式。沿着这一方向，软件可以继续承担执行工作，而人们与计算机交互时需要理解和操纵的层级，将从具体应用上移到任务与目标。
+Luke 预期，这一变化将重演计算机已有的抽象过程：多数人使用应用时，并不关心应用运行的代码，更不关心操作系统如何通过更底层的代码驱动硬件；未来，人们也将不再关心 Agent 怎样使用计算机上的应用，甚至无需知道任务涉及哪些软件、这些软件该如何操作。Apple 的 Knowledge Navigator 视频所呈现的人本计算愿景，正是这一方向的先声；它受到 John Sculley 与时任 Apple Fellow 的 Alan Kay 之间讨论的影响。沿着这条路径，今天用于监督 Agent 的工具，将成为通往更高抽象层的过渡：人保留目标与纠偏权，把调用软件、协调执行的知识逐步交给 Agent。
